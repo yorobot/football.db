@@ -3,37 +3,33 @@
 #
 #  use:
 #   $ rake   or
-#   $ rake build     - to build sport.db from scratch
+#   $ rake build     - to build football.db from scratch
 #
-#   $ rake update    - to update sport.db
+#   $ rake update    - to update football.db
 #
 #   $ rake -T        - show all tasks
 
 
 BUILD_DIR = "./build"
 
-
-####
-# fix: use FOOTBALL_DB_PATH or FT_DB_PATH
-
 # -- output db config
-SPORT_DB_PATH = "#{BUILD_DIR}/football.db"
+FOOTBALL_DB_PATH = "#{BUILD_DIR}/football.db"
+
 
 # -- input repo sources config
-#
-# use world_db_repo path or
-#    world_db_fx path or similar ??
-#  use world_include_path
+OPENMUNDI_ROOT = "../../openmundi"
+OPENFOOTBALL_ROOT = ".."
 
-WORLD_DB_INCLUDE_PATH = '../../openmundi/world.db'
+WORLD_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
-### rename to WORLD_CUP_INCLUDE_PATH
-SPORT_DB_INCLUDE_PATH = '../world-cup'   # todo: make it into an array
+
+WORLD_CUP_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/world-cup"
+
 
 
 DB_CONFIG = {
   adapter:    'sqlite3',
-  database:   SPORT_DB_PATH
+  database:   FOOTBALL_DB_PATH
 }
 
 
@@ -43,8 +39,9 @@ DB_CONFIG = {
 settings = <<EOS
 *****************
 settings:
-  WORLD_DB_INCLUDE_PATH: #{WORLD_DB_INCLUDE_PATH}
-  SPORT_DB_INCLUDE_PATH: #{SPORT_DB_INCLUDE_PATH}
+  WORLD_INCLUDE_PATH: #{WORLD_INCLUDE_PATH}
+
+  WORLD_CUP_INCLUDE_PATH: #{WORLD_CUP_INCLUDE_PATH}
 *****************
 EOS
 
@@ -59,7 +56,7 @@ directory BUILD_DIR
 
 
 task :clean do
-  rm SPORT_DB_PATH if File.exists?( SPORT_DB_PATH )
+  rm FOOTBALL_DB_PATH if File.exists?( FOOTBALL_DB_PATH )
 end
 
 
@@ -81,14 +78,18 @@ task :create => :env do
 end
   
 task :importworld => :env do
-  WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )  # populate world tables
+  # populate world tables
+  WorldDb.read_setup( 'setups/sport.db.admin', WORLD_INCLUDE_PATH, skip_tags: true )
   # WorldDb.stats
 end
 
 
 task :importsport => :env do
   SportDb.read_builtin
-  SportDb.read_setup( 'setups/all', SPORT_DB_INCLUDE_PATH )
+  
+  LogUtils::Logger.root.level = :debug
+
+  SportDb.read_setup( 'setups/all', WORLD_CUP_INCLUDE_PATH )
   # SportDb.stats
 end
 
@@ -97,17 +98,17 @@ task :deletesport => :env do
 end
 
 
-desc 'build sport.db from scratch (default)'
+desc 'build football.db from scratch (default)'
 task :build => [:clean, :create, :importworld, :importsport] do
   puts 'Done.'
 end
 
-desc 'update sport.db'
+desc 'update football.db'
 task :update => [:deletesport, :importsport] do
   puts 'Done.'
 end
 
-desc 'pull (auto-update) sport.db from upstream sources'
+desc 'pull (auto-update) football.db from upstream sources'
 task :pull => :env do
   SportDb.update!
   puts 'Done.'
