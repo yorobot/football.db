@@ -16,3 +16,13 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+
+##############
+# exclude sqlite dbs
+*.db
+
+###############
+# exclude build folder
+build
+build/
