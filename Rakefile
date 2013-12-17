@@ -23,8 +23,10 @@ OPENFOOTBALL_ROOT = ".."
 WORLD_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
 
-WORLD_CUP_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/world-cup"
-
+WORLD_CUP_INCLUDE_PATH   = "#{OPENFOOTBALL_ROOT}/world-cup"
+EURO_CUP_INCLUDE_PATH    = "#{OPENFOOTBALL_ROOT}/euro-cup"
+AFRICA_CUP_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/africa-cup"
+AMERICA_CUP_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/america-cup"
 
 
 DB_CONFIG = {
@@ -41,7 +43,10 @@ settings = <<EOS
 settings:
   WORLD_INCLUDE_PATH: #{WORLD_INCLUDE_PATH}
 
-  WORLD_CUP_INCLUDE_PATH: #{WORLD_CUP_INCLUDE_PATH}
+  WORLD_CUP_INCLUDE_PATH:    #{WORLD_CUP_INCLUDE_PATH}
+  EURO_CUP_INCLUDE_PATH:     #{EURO_CUP_INCLUDE_PATH}
+  AFRICA_CUP_INCLUDE_PATH:   #{AFRICA_CUP_INCLUDE_PATH}
+  AMERICA_CUP_INCLUDE_PATH:  #{AMERICA_CUP_INCLUDE_PATH}
 *****************
 EOS
 
@@ -76,7 +81,7 @@ task :create => :env do
   WorldDb.create
   SportDb.create
 end
-  
+
 task :importworld => :env do
   # populate world tables
   WorldDb.read_setup( 'setups/sport.db.admin', WORLD_INCLUDE_PATH, skip_tags: true )
@@ -89,7 +94,10 @@ task :importsport => :env do
   
   LogUtils::Logger.root.level = :debug
 
-  SportDb.read_setup( 'setups/all', WORLD_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', EURO_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', AFRICA_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', AMERICA_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
   # SportDb.stats
 end
 
