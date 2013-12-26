@@ -28,6 +28,8 @@ EURO_CUP_INCLUDE_PATH    = "#{OPENFOOTBALL_ROOT}/euro-cup"
 AFRICA_CUP_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/africa-cup"
 AMERICA_CUP_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/america-cup"
 
+ES_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/es-espana"
+
 
 DB_CONFIG = {
   adapter:    'sqlite3',
@@ -47,6 +49,8 @@ settings:
   EURO_CUP_INCLUDE_PATH:     #{EURO_CUP_INCLUDE_PATH}
   AFRICA_CUP_INCLUDE_PATH:   #{AFRICA_CUP_INCLUDE_PATH}
   AMERICA_CUP_INCLUDE_PATH:  #{AMERICA_CUP_INCLUDE_PATH}
+  
+  ES_INCLUDE_PATH:           #{ES_INCLUDE_PATH}
 *****************
 EOS
 
@@ -88,16 +92,28 @@ task :importworld => :env do
   # WorldDb.stats
 end
 
-
-task :importsport => :env do
+task :importbuiltin => :env do
   SportDb.read_builtin
-  
   LogUtils::Logger.root.level = :debug
+end
 
+
+task :worldcup => :importbuiltin do
   SportDb.read_setup( 'setups/teams', EURO_CUP_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', AFRICA_CUP_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', AMERICA_CUP_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
+end
+
+task :es => :importbuiltin do
+  SportDb.read_setup( 'setups/all',   ES_INCLUDE_PATH )
+end
+
+
+#########################################################
+# note: change deps to what you want to import for now
+
+task :importsport => [:es] do
   # SportDb.stats
 end
 
