@@ -20,7 +20,7 @@ FOOTBALL_DB_PATH = "#{BUILD_DIR}/football.db"
 OPENMUNDI_ROOT = "../../openmundi"
 OPENFOOTBALL_ROOT = ".."
 
-WORLD_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
+WORLD_DB_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
 
 WORLD_CUP_INCLUDE_PATH   = "#{OPENFOOTBALL_ROOT}/world-cup"
@@ -28,7 +28,13 @@ EURO_CUP_INCLUDE_PATH    = "#{OPENFOOTBALL_ROOT}/euro-cup"
 AFRICA_CUP_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/africa-cup"
 AMERICA_CUP_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/america-cup"
 
+WORLD_INCLUDE_PATH       = "#{OPENFOOTBALL_ROOT}/world"
+DE_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/de-deutschland"
+EN_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/en-england"
 ES_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/es-espana"
+MX_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/mx-mexico"
+BR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/br-brazil"
+
 
 
 DB_CONFIG = {
@@ -43,14 +49,19 @@ DB_CONFIG = {
 settings = <<EOS
 *****************
 settings:
-  WORLD_INCLUDE_PATH: #{WORLD_INCLUDE_PATH}
+  WORLD_DB_INCLUDE_PATH: #{WORLD_DB_INCLUDE_PATH}
 
   WORLD_CUP_INCLUDE_PATH:    #{WORLD_CUP_INCLUDE_PATH}
   EURO_CUP_INCLUDE_PATH:     #{EURO_CUP_INCLUDE_PATH}
   AFRICA_CUP_INCLUDE_PATH:   #{AFRICA_CUP_INCLUDE_PATH}
   AMERICA_CUP_INCLUDE_PATH:  #{AMERICA_CUP_INCLUDE_PATH}
-  
+
+  WORLD_INCLUDE_PATH:        #{WORLD_INCLUDE_PATH}
+  DE_INCLUDE_PATH:           #{DE_INCLUDE_PATH}
+  EN_INCLUDE_PATH:           #{EN_INCLUDE_PATH}
   ES_INCLUDE_PATH:           #{ES_INCLUDE_PATH}
+  MX_INCLUDE_PATH:           #{MX_INCLUDE_PATH}
+  BR_INCLUDE_PATH:           #{BR_INCLUDE_PATH}
 *****************
 EOS
 
@@ -88,7 +99,7 @@ end
 
 task :importworld => :env do
   # populate world tables
-  WorldDb.read_setup( 'setups/sport.db.admin', WORLD_INCLUDE_PATH, skip_tags: true )
+  WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )
   # WorldDb.stats
 end
 
@@ -109,11 +120,19 @@ task :es => :importbuiltin do
   SportDb.read_setup( 'setups/all',   ES_INCLUDE_PATH )
 end
 
+task :world => :importbuiltin do
+  SportDb.read_setup( 'setups/teams', EN_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', DE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   WORLD_INCLUDE_PATH )
+end
+
 
 #########################################################
 # note: change deps to what you want to import for now
 
-task :importsport => [:es] do
+task :importsport => [:world] do
   # SportDb.stats
 end
 
