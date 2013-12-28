@@ -29,12 +29,16 @@ AFRICA_CUP_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/africa-cup"
 AMERICA_CUP_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/america-cup"
 
 WORLD_INCLUDE_PATH       = "#{OPENFOOTBALL_ROOT}/world"
+AMERICA_INCLUDE_PATH     = "#{OPENFOOTBALL_ROOT}/america"
 DE_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/de-deutschland"
 EN_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/en-england"
 ES_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/es-espana"
 MX_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/mx-mexico"
 BR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/br-brazil"
 
+AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/america-champions-league"
+COPA_LIBERTADORES_INCLUDE_PATH        = "#{OPENFOOTBALL_ROOT}/copa-libertadores"
+COPA_SUDAMERICANA_INCLUDE_PATH        = "#{OPENFOOTBALL_ROOT}/copa-sudamericana"
 
 
 DB_CONFIG = {
@@ -57,11 +61,16 @@ settings:
   AMERICA_CUP_INCLUDE_PATH:  #{AMERICA_CUP_INCLUDE_PATH}
 
   WORLD_INCLUDE_PATH:        #{WORLD_INCLUDE_PATH}
+  AMERICA_INCLUDE_PATH:      #{AMERICA_INCLUDE_PATH}
   DE_INCLUDE_PATH:           #{DE_INCLUDE_PATH}
   EN_INCLUDE_PATH:           #{EN_INCLUDE_PATH}
   ES_INCLUDE_PATH:           #{ES_INCLUDE_PATH}
   MX_INCLUDE_PATH:           #{MX_INCLUDE_PATH}
   BR_INCLUDE_PATH:           #{BR_INCLUDE_PATH}
+
+  AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH: #{AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH}
+  COPA_LIBERTADORES_INCLUDE_PATH:        #{COPA_LIBERTADORES_INCLUDE_PATH}
+  COPA_SUDAMERICANA_INCLUDE_PATH:        #{COPA_SUDAMERICANA_INCLUDE_PATH}
 *****************
 EOS
 
@@ -116,6 +125,11 @@ task :worldcup => :importbuiltin do
   SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
 end
 
+task :americacup => :importbuiltin do
+  SportDb.read_setup( 'setups/teams', WORLD_CUP_INCLUDE_PATH )   # include for invitees e.g. JPN
+  SportDb.read_setup( 'setups/all',   AMERICA_CUP_INCLUDE_PATH )
+end
+
 task :es => :importbuiltin do
   SportDb.read_setup( 'setups/all',   ES_INCLUDE_PATH )
 end
@@ -128,13 +142,37 @@ task :world => :importbuiltin do
   SportDb.read_setup( 'setups/all',   WORLD_INCLUDE_PATH )
 end
 
+task :america => :importbuiltin do
+  SportDb.read_setup( 'setups/all',   AMERICA_INCLUDE_PATH )
+end
+
+task :americachampionsleague => :importbuiltin do
+  SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH )
+end
+
+task :copalibertadores => :importbuiltin do
+  SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )  # include invitees (mx teams)
+  SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   COPA_LIBERTADORES_INCLUDE_PATH )
+end
+
+task :copasudamericana => :importbuiltin do
+  SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )  # include invitees (mx teams) ???
+  SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   COPA_SUDAMERICANA_INCLUDE_PATH )
+end
 
 #########################################################
 # note: change deps to what you want to import for now
 
-task :importsport => [:world] do
+task :importsport => [:copasudamericana] do
   # SportDb.stats
 end
+
 
 task :deletesport => :env do
   SportDb.delete!
