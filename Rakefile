@@ -22,6 +22,7 @@ OPENFOOTBALL_ROOT = ".."
 
 WORLD_DB_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
+STADIUMS_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/stadiums"
 
 WORLD_CUP_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/world-cup"
 EURO_CUP_INCLUDE_PATH               = "#{OPENFOOTBALL_ROOT}/euro-cup"
@@ -64,6 +65,8 @@ settings = <<EOS
 *****************
 settings:
   WORLD_DB_INCLUDE_PATH: #{WORLD_DB_INCLUDE_PATH}
+
+  STADIUMS_INCLUDE_PATH: #{STADIUMS_INCLUDE_PATH}
 
   WORLD_CUP_INCLUDE_PATH:               #{WORLD_CUP_INCLUDE_PATH}
   EURO_CUP_INCLUDE_PATH:                #{EURO_CUP_INCLUDE_PATH}
@@ -126,6 +129,13 @@ end
 task :importbuiltin => :env do
   SportDb.read_builtin
   LogUtils::Logger.root.level = :debug
+end
+
+######################
+# grounds / stadiums
+
+task :grounds  => :importbuiltin do
+  SportDb.read_setup( 'setups/all',   STADIUMS_INCLUDE_PATH )
 end
 
 #####################
@@ -235,7 +245,7 @@ end
 #########################################################
 # note: change deps to what you want to import for now
 
-task :importsport => [:admin] do
+task :importsport => [:grounds] do
   # SportDb.stats
 end
 
