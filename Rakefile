@@ -245,8 +245,8 @@ end
 #########################################################
 # note: change deps to what you want to import for now
 
-task :importsport => [:grounds] do
-  # SportDb.stats
+task :importsport => [:grounds, :worldcup] do
+  # SportDb.tables
 end
 
 
