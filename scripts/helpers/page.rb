@@ -5,6 +5,9 @@
 
 
 def render_cover( opts={} )
+  
+  ### rename to render_page_template( 'cover' )  !!!!
+  
   tmpl = File.read_utf8( 'templates/cover.md' )
   render_erb_template( tmpl, binding )
 end

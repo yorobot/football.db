@@ -10,11 +10,6 @@ puts "[book]   Dir.pwd: #{Dir.pwd}"
 puts "[book]   PAGES_DIR: #{PAGES_DIR}"
 
 
-# -- ruby std libs
-require 'erb'
-require 'fileutils'
-
-
 # -- model shortcuts
 
 Continent = WorldDb::Model::Continent
@@ -41,28 +36,35 @@ require_relative 'helpers/team'
 require_relative 'helpers/page'
 
 
-require_relative 'filters'
 require_relative 'utils'
 require_relative 'pages'
 
 
-def open_page( name, mode, opts={} )
+######
+# fix/todo: add to textutils
+#  allow passing in of root folder - how? new arg?
+#    or use self.create_with_path or similiar ???
+#  or use PageV2   and alias w/ Page = TextUtils::PageV2  ??
 
-  path = "#{PAGES_DIR}/#{name}.md"
+class Page
+  def self.create( name, opts={} )
+    path = "#{PAGES_DIR}/#{name}.md"
+    puts "[book] create page #{name} (#{path})"
 
-  puts "[book] open page #{name}, #{mode}   (#{path})"
-
-  ## check if folders exists? if not create folder in path
-  FileUtils.mkdir_p( File.dirname(path) )
-
-  File.open( path, mode ) do |file|
-    ## add frontmatter if passed in
-    ## todo: assert check if mode = 'w' and NOT 'a' !!!
-    file.write render_frontmatter( opts[:frontmatter] )  if opts[:frontmatter]
-    
-    yield( file )
+    TextUtils::Page.create( path, opts ) do |page|
+      yield( page )
+    end
   end
-end
+
+  def self.update( name, opts={} )
+    path = "#{PAGES_DIR}/#{name}.md"
+    puts "[book] update page #{name} (#{path})"
+
+    TextUtils::Page.update( path, opts ) do |page|
+      yield( page )
+    end
+  end
+end # class Page
 
 
 
@@ -71,7 +73,7 @@ def build_book( opts={} )
   if opts[:inline].present?
     ## generate inline (all-in-one-page) version
 
-    open_page( 'book', 'w+',
+    Page.create( 'book',
                frontmatter: {
                  layout: 'book',
                  title: '{{ site.title }}',

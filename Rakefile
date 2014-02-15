@@ -366,9 +366,11 @@ task :about => :env do
   puts ''
   puts 'gem versions'
   puts '============'
-  puts "textutils #{TextUtils::VERSION}   (#{})"   ## fix: add root to TextUtils !!!
+  puts "textutils #{TextUtils::VERSION}     (#{TextUtils.root})"
   puts "worlddb   #{WorldDb::VERSION}     (#{WorldDb.root})"
   puts "sportdb   #{SportDb::VERSION}     (#{SportDb.root})"
+
+  ## todo - add LogUtils  LogDb ??  - check for .root too
 end
 
 
