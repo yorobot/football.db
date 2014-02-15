@@ -7,8 +7,31 @@
 
 puts '[book] Welcome'
 puts "[book]   Dir.pwd: #{Dir.pwd}"
+puts "[book]   PAGES_DIR: #{PAGES_DIR}"
+
+## check if PAGES_DIR exists
+unless Dir.exists?( PAGES_DIR )
+  puts "[book]      creating folder #{PAGES_DIR}..."
+  ## note: only will create last folder (not parents)
+  Dir.mkdir( PAGES_DIR )
+end
 
 
+# -- ruby std libs
+require 'erb'
+
+# -- model shortcuts
+
+Continent = WorldDb::Model::Continent
+Country   = WorldDb::Model::Country
+Region    = WorldDb::Model::Region
+City      = WorldDb::Model::City
+
+Team      = SportDb::Model::Team
+League    = SportDb::Model::League
+Event     = SportDb::Model::Event
+Game      = SportDb::Model::Game
+Ground    = SportDb::Model::Ground
 
 # -- custom code
 
@@ -28,28 +51,33 @@ require_relative 'utils'
 require_relative 'pages'
 
 
+def open_page( name, mode, opts={} )
+  File.open( "#{PAGES_DIR}/#{name}.md", mode ) do |file|
+    ## add frontmatter if passed in
+    ## todo: assert check if mode = 'w' and NOT 'a' !!!
+    file.write render_frontmatter( opts[:frontmatter] )  if opts[:frontmatter]
+    
+    yield( file )
+  end
+end
+
+
 
 def build_book( opts={} )
-
 
   if opts[:inline].present?
     ## generate inline (all-in-one-page) version
 
-    File.open( '_pages/book.md', 'w+' ) do |file|
-      file.write  <<EOS
----
-layout: book
-title: Contents
-permalink: /book.html
----
-
-EOS
+    open_page( 'book', 'w+',
+               frontmatter: {
+                 layout: 'book',
+                 title: '{{ site.title }}',
+                 permalink: '/book.html' } ) do |page|
     end
   end
 
 
   build_page_toc( opts )
-  
   
   # note: use same order as table of contents
   event_count = 0
