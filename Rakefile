@@ -7,6 +7,8 @@
 #
 #   $ rake update    - to update football.db
 #
+#   $ rake book    - build book
+#
 #   $ rake -T        - show all tasks
 
 
@@ -114,6 +116,7 @@ task :env => BUILD_DIR do
   ActiveRecord::Base.establish_connection( DB_CONFIG )
 end
 
+
 task :create => :env do
   LogDb.create
   WorldDb.create
@@ -123,7 +126,6 @@ end
 task :importworld => :env do
   # populate world tables
   WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )
-  # WorldDb.stats
 end
 
 task :importbuiltin => :env do
@@ -272,6 +274,55 @@ task :pull => :env do
 end
 
 
-task :about do
-  # todo: print versions of gems etc.
+desc 'build book - The Free Football World Almanac - from football.db'
+task :book => :env do
+  # ruby std libs
+  require 'erb'
+
+  ### model shortcuts
+
+  Continent = WorldDb::Model::Continent
+  Country   = WorldDb::Model::Country
+  Region    = WorldDb::Model::Region
+  City      = WorldDb::Model::City
+
+  Team      = SportDb::Model::Team
+  League    = SportDb::Model::League
+  Event     = SportDb::Model::Event
+  Game      = SportDb::Model::Game
+  Ground    = SportDb::Model::Ground
+
+  require './scripts/book'
+
+  # build_book()                # multi-page version
+  # build_book( inline: true )  # all-in-one-page version a.k.a. inline version
+
+  puts 'Done.'
 end
+
+desc 'print versions of gems'
+task :about => :env do
+  puts ''
+  puts 'gem versions'
+  puts '============'
+  puts "textutils #{TextUtils::VERSION}   (#{})"   ## fix: add root to TextUtils !!!
+  puts "worlddb   #{WorldDb::VERSION}     (#{WorldDb.root})"
+  puts "sportdb   #{SportDb::VERSION}     (#{SportDb.root})"
+end
+
+
+desc 'print stats for football.db tables/records'
+task :stats => :env do
+  puts ''
+  puts 'world.db'
+  puts '============'
+  WorldDb.tables
+
+  puts ''
+  puts 'football.db'
+  puts '==========='
+  SportDb.tables
+end
+
+
+

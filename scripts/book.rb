@@ -5,6 +5,29 @@
 # todo/fix: use constant to set  ./_pages   - output (root) folder for generated pages
 # todo/fix: use constant to set layout  e.g. book
 
+puts '[book] Welcome'
+puts "[book]   Dir.pwd: #{Dir.pwd}"
+
+
+
+# -- custom code
+
+require_relative 'helpers/link'
+require_relative 'helpers/markdown'
+require_relative 'helpers/navbar'
+require_relative 'helpers/part'
+require_relative 'helpers/misc'
+require_relative 'helpers/city'
+require_relative 'helpers/ground'
+require_relative 'helpers/team'
+require_relative 'helpers/page'
+
+
+require_relative 'filters'
+require_relative 'utils'
+require_relative 'pages'
+
+
 
 def build_book( opts={} )
 
