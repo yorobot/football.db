@@ -10,7 +10,7 @@ end
 
 
 
-def country_to_md_path( country )
+def country_to_path( country )
 
   ## guard for nil title; shouldn't happen (but it does) -- fix!!!
   ## country_title = country.title || "untitled-#{country.key}"
@@ -39,24 +39,25 @@ def country_to_md_path( country )
   ### quick hack: patch Asia & Australia to => Asia
   # fix: do NOT use sport.db.admin e.g. FIFA continents for beerdb
   if country.key == 'au'
-    path = "pacific/#{country_path}.md"
+    path = "pacific/#{country_path}"
   elsif country.key == 'de'
     # use deutschland NOT germany (same as domain country code)
-    path = "europe/de-deutschland.md"  # deutsch/german (de)
+    path = "europe/de-deutschland"  # deutsch/german (de)
   elsif country.key == 'es'
     # use espana NOT spain (same as domain country code)
-    path = "europe/es-espana.md"   # spanish/espanol (es)
+    path = "europe/es-espana"   # spanish/espanol (es)
   elsif country.key == 'ch'
     # use confoederatio helvetica NOT switzerland (same as domain country code)
-    path = "europe/ch-confoederatio-helvetica.md" # latin
+    path = "europe/ch-confoederatio-helvetica" # latin
   elsif country.continent_id.nil?
     puts "!!! warn: !!!! - country #{country.key}-#{country.title} w/o continent!!!!"
-    path = "others/#{country_path}.md"
+    path = "others/#{country_path}"
   elsif country.continent.title == 'Asia & Australia'
-    path = "asia/#{country_path}.md"
+    path = "asia/#{country_path}"
   else
-    path = "#{country.continent.title.downcase.gsub(' ', '-')}/#{country_path}.md"
+    path = "#{country.continent.title.downcase.gsub(' ', '-')}/#{country_path}"
   end
 
   path
 end
+

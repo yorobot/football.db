@@ -68,7 +68,7 @@ EOS
     page_mode  = 'a+'   ## Append; open or create file for update, writing at end-of-file.
     page_opts  = { header: header }
   else
-    path = country_to_md_path( country )
+    path = country_to_path( country )
     puts "    path=#{path}"
     page_name = "teams/#{path}"
     page_mode = 'w+'   ## Truncate to zero length or create file for update. 

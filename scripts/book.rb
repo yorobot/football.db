@@ -9,16 +9,11 @@ puts '[book] Welcome'
 puts "[book]   Dir.pwd: #{Dir.pwd}"
 puts "[book]   PAGES_DIR: #{PAGES_DIR}"
 
-## check if PAGES_DIR exists
-unless Dir.exists?( PAGES_DIR )
-  puts "[book]      creating folder #{PAGES_DIR}..."
-  ## note: only will create last folder (not parents)
-  Dir.mkdir( PAGES_DIR )
-end
-
 
 # -- ruby std libs
 require 'erb'
+require 'fileutils'
+
 
 # -- model shortcuts
 
@@ -52,7 +47,16 @@ require_relative 'pages'
 
 
 def open_page( name, mode, opts={} )
-  File.open( "#{PAGES_DIR}/#{name}.md", mode ) do |file|
+
+  path = "#{PAGES_DIR}/#{name}.md"
+
+  puts "[book] open page #{name}, #{mode}"
+  puts "[book]   path=#{path}"
+
+  ## check if folders exists? if not create folder in path
+  FileUtils.mkdir_p( File.dirname(path) )
+
+  File.open( path, mode ) do |file|
     ## add frontmatter if passed in
     ## todo: assert check if mode = 'w' and NOT 'a' !!!
     file.write render_frontmatter( opts[:frontmatter] )  if opts[:frontmatter]
