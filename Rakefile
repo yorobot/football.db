@@ -209,9 +209,57 @@ end
 #############
 # Misc
 
-# - test sport.db.admin setup
+task :all => [:importbuiltin, :grounds] do
+  ########
+  # national teams
 
-task :admin => :importbuiltin do
+  SportDb.read_setup( 'setups/teams',  EURO_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  AFRICA_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  COPA_AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  WORLD_CUP_INCLUDE_PATH )
+
+  ### fix!! -add setups/events  to setups; add all teams to setups/teams !!!!
+  SportDb.read_setup( 'setups/all',   EURO_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   AFRICA_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   COPA_AMERICA_INCLUDE_PATH )  # includes invitee from north_america (e.g. mexico,costa rica) & asia (e.g. japan)
+  SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
+
+  ################
+  # clubs
+
+  SportDb.read_setup( 'setups/teams',  WORLD_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  EUROPE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  AT_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  DE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  EN_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  ES_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  IT_INCLUDE_PATH )
+
+  SportDb.read_setup( 'setups/teams',  AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  MX_INCLUDE_PATH )  # include invitees (mx teams)
+  SportDb.read_setup( 'setups/teams',  BR_INCLUDE_PATH )
+
+  ### fix!! -add setups/events  to setups; add all teams to setups/teams !!!!
+  SportDb.read_setup( 'setups/all',  AT_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',  DE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',  EN_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',  ES_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',  IT_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',  EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
+
+  SportDb.read_setup( 'setups/all', MX_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    BR_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    COPA_LIBERTADORES_INCLUDE_PATH )
+
+  SportDb.read_setup( 'setups/all',   WORLD_INCLUDE_PATH )  # circular reference; requires other teams
+end
+
+
+# - test sport.db.admin setup
+task :admin => [:importbuiltin, :grounds] do
   ########
   # national teams
 
@@ -247,7 +295,8 @@ end
 #########################################################
 # note: change deps to what you want to import for now
 
-task :importsport => [:grounds, :worldcup] do
+
+task :importsport => [:all] do
   # nothing here
 end
 

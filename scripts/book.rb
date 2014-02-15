@@ -50,8 +50,7 @@ def open_page( name, mode, opts={} )
 
   path = "#{PAGES_DIR}/#{name}.md"
 
-  puts "[book] open page #{name}, #{mode}"
-  puts "[book]   path=#{path}"
+  puts "[book] open page #{name}, #{mode}   (#{path})"
 
   ## check if folders exists? if not create folder in path
   FileUtils.mkdir_p( File.dirname(path) )
