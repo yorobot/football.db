@@ -18,40 +18,7 @@ BUILD_DIR = "./build"
 FOOTBALL_DB_PATH = "#{BUILD_DIR}/football.db"
 
 
-# -- input repo sources config
-OPENMUNDI_ROOT = "../../openmundi"
-OPENFOOTBALL_ROOT = ".."
-
-WORLD_DB_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
-
-STADIUMS_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/stadiums"
-
-WORLD_CUP_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/world-cup"
-EURO_CUP_INCLUDE_PATH               = "#{OPENFOOTBALL_ROOT}/euro-cup"
-AFRICA_CUP_INCLUDE_PATH             = "#{OPENFOOTBALL_ROOT}/africa-cup"
-NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/north-america-gold-cup"
-COPA_AMERICA_INCLUDE_PATH           = "#{OPENFOOTBALL_ROOT}/copa-america"
-
-
-WORLD_INCLUDE_PATH       = "#{OPENFOOTBALL_ROOT}/world"
-
-EUROPE_INCLUDE_PATH      = "#{OPENFOOTBALL_ROOT}/europe"
-AT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/at-austria"
-DE_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/de-deutschland"
-EN_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/en-england"
-ES_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/es-espana"
-IT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/it-italy"
-
-EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/europe-champions-league"
-
-
-AMERICA_INCLUDE_PATH     = "#{OPENFOOTBALL_ROOT}/america"
-MX_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/mx-mexico"
-BR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/br-brazil"
-
-NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/north-america-champions-league"
-COPA_LIBERTADORES_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/copa-libertadores"
-COPA_SUDAMERICANA_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/copa-sudamericana"
+require './settings'
 
 
 DB_CONFIG = {
@@ -119,6 +86,8 @@ end
 
 task :create => :env do
   LogDb.create
+  ConfDb.create
+  TagDb.create
   WorldDb.create
   SportDb.create
 end
@@ -203,6 +172,16 @@ task :copasudamericana => :importbuiltin do
   SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', AMERICA_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   COPA_SUDAMERICANA_INCLUDE_PATH )
+end
+
+
+task :europe_clubs => :importbuiltin do
+  SportDb.read_setup( 'setups/teams',  EUROPE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    AT_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    DE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    EN_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    ES_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    IT_INCLUDE_PATH )
 end
 
 
@@ -305,7 +284,7 @@ end
 # note: change deps to what you want to import for now
 
 
-task :importsport => [:all] do
+task :importsport => [:europe_clubs] do
   # nothing here
 end
 
