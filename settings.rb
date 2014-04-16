@@ -14,7 +14,11 @@ OPENFOOTBALL_ROOT = ".."
 # stadiums
 STADIUMS_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/stadiums"
 
+# players
+PLAYERS_INCLUDE_PATH   = "#{OPENFOOTBALL_ROOT}/players"
+
 # national teams
+TEAMS_INCLUDE_PATH                  = "#{OPENFOOTBALL_ROOT}/teams"
 WORLD_CUP_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/world-cup"
 EURO_CUP_INCLUDE_PATH               = "#{OPENFOOTBALL_ROOT}/euro-cup"
 AFRICA_CUP_INCLUDE_PATH             = "#{OPENFOOTBALL_ROOT}/africa-cup"

@@ -37,6 +37,7 @@ settings:
 
   STADIUMS_INCLUDE_PATH: #{STADIUMS_INCLUDE_PATH}
 
+  TEAMS_INCLUDE_PATH:                   #{TEAMS_INCLUDE_PATH}
   WORLD_CUP_INCLUDE_PATH:               #{WORLD_CUP_INCLUDE_PATH}
   EURO_CUP_INCLUDE_PATH:                #{EURO_CUP_INCLUDE_PATH}
   AFRICA_CUP_INCLUDE_PATH:              #{AFRICA_CUP_INCLUDE_PATH}
@@ -113,24 +114,22 @@ end
 # national teams
 
 task :worldcup => :importbuiltin do
-  SportDb.read_setup( 'setups/teams', EURO_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', AFRICA_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', COPA_AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
 end
 
 task :copaamerica => :importbuiltin do
-  SportDb.read_setup( 'setups/teams', WORLD_CUP_INCLUDE_PATH )   # include for invitees e.g. JPN
-  SportDb.read_setup( 'setups/teams', NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )   # include for invitees e.g. MEX, CRC
+  SportDb.read_setup( 'setups/all',   TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   COPA_AMERICA_INCLUDE_PATH )
 end
 
 task :goldcup  => :importbuiltin do
+  SportDb.read_setup( 'setups/all', TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all', NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
 end
 
 task :eurocup  => :importbuiltin do
+  SportDb.read_setup( 'setups/all', TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all', EURO_CUP_INCLUDE_PATH )
 end
 
@@ -192,17 +191,12 @@ task :all => [:importbuiltin, :grounds] do
   ########
   # national teams
 
-  SportDb.read_setup( 'setups/teams',  EURO_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  AFRICA_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  COPA_AMERICA_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  WORLD_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', TEAMS_INCLUDE_PATH )
 
-  ### fix!! -add setups/events  to setups; add all teams to setups/teams !!!!
   SportDb.read_setup( 'setups/all',   EURO_CUP_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   AFRICA_CUP_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',   COPA_AMERICA_INCLUDE_PATH )  # includes invitee from north_america (e.g. mexico,costa rica) & asia (e.g. japan)
+  SportDb.read_setup( 'setups/all',   COPA_AMERICA_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
 
   ################
@@ -251,10 +245,9 @@ task :admin => [:importbuiltin, :grounds] do
   ########
   # national teams
 
+  SportDb.read_setup( 'setups/all',    TEAMS_INCLUDE_PATH )
+
   SportDb.read_setup( 'setups/2012',   EURO_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  AFRICA_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  COPA_AMERICA_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2014',   WORLD_CUP_INCLUDE_PATH )
 
   ################
@@ -284,7 +277,7 @@ end
 # note: change deps to what you want to import for now
 
 
-task :importsport => [:europe_clubs] do
+task :importsport => [:worldcup] do
   # nothing here
 end
 
@@ -345,11 +338,15 @@ task :about => :env do
   puts ''
   puts 'gem versions'
   puts '============'
-  puts "textutils #{TextUtils::VERSION}     (#{TextUtils.root})"
-  puts "worlddb   #{WorldDb::VERSION}     (#{WorldDb.root})"
-  puts "sportdb   #{SportDb::VERSION}     (#{SportDb.root})"
+  puts "textutils      #{TextUtils::VERSION}     (#{TextUtils.root})"
+  puts "worlddb        #{WorldDb::VERSION}     (#{WorldDb.root})"
+  puts "sportdb        #{SportDb::VERSION}     (#{SportDb.root})"
 
   ## todo - add LogUtils  LogDb ??  - check for .root too
+  ## add props and tagutils and activerecord_utils too
+
+  ## fix: add PRE too ?? how??
+  puts "activerecord  #{ActiveRecord::VERSION::MAJOR}.#{ActiveRecord::VERSION::MINOR}.#{ActiveRecord::VERSION::TINY}"
 end
 
 
