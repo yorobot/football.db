@@ -27,42 +27,6 @@ DB_CONFIG = {
 }
 
 
-#######################
-#  print settings
-
-settings = <<EOS
-*****************
-settings:
-  WORLD_DB_INCLUDE_PATH: #{WORLD_DB_INCLUDE_PATH}
-
-  STADIUMS_INCLUDE_PATH: #{STADIUMS_INCLUDE_PATH}
-
-  TEAMS_INCLUDE_PATH:                   #{TEAMS_INCLUDE_PATH}
-  WORLD_CUP_INCLUDE_PATH:               #{WORLD_CUP_INCLUDE_PATH}
-  EURO_CUP_INCLUDE_PATH:                #{EURO_CUP_INCLUDE_PATH}
-  AFRICA_CUP_INCLUDE_PATH:              #{AFRICA_CUP_INCLUDE_PATH}
-  NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH:  #{NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH}
-  COPA_AMERICA_INCLUDE_PATH:            #{COPA_AMERICA_INCLUDE_PATH}
-
-  WORLD_INCLUDE_PATH:        #{WORLD_INCLUDE_PATH}
-  AMERICA_INCLUDE_PATH:      #{AMERICA_INCLUDE_PATH}
-  DE_INCLUDE_PATH:           #{DE_INCLUDE_PATH}
-  EN_INCLUDE_PATH:           #{EN_INCLUDE_PATH}
-  ES_INCLUDE_PATH:           #{ES_INCLUDE_PATH}
-  MX_INCLUDE_PATH:           #{MX_INCLUDE_PATH}
-  BR_INCLUDE_PATH:           #{BR_INCLUDE_PATH}
-
-  NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH: #{NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH}
-  COPA_LIBERTADORES_INCLUDE_PATH:              #{COPA_LIBERTADORES_INCLUDE_PATH}
-  COPA_SUDAMERICANA_INCLUDE_PATH:              #{COPA_SUDAMERICANA_INCLUDE_PATH}
-*****************
-EOS
-
-puts settings
-
-
-
-
 task :default => :build
 
 directory BUILD_DIR
@@ -114,22 +78,22 @@ end
 # national teams
 
 task :worldcup => :importbuiltin do
-  SportDb.read_setup( 'setups/all',   TEAMS_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   NATIONAL_TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
 end
 
 task :copaamerica => :importbuiltin do
-  SportDb.read_setup( 'setups/all',   TEAMS_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   NATIONAL_TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   COPA_AMERICA_INCLUDE_PATH )
 end
 
 task :goldcup  => :importbuiltin do
-  SportDb.read_setup( 'setups/all', TEAMS_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', NATIONAL_TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all', NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
 end
 
 task :eurocup  => :importbuiltin do
-  SportDb.read_setup( 'setups/all', TEAMS_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', NATIONAL_TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all', EURO_CUP_INCLUDE_PATH )
 end
 
@@ -149,33 +113,30 @@ task :world => :importbuiltin do
   SportDb.read_setup( 'setups/all',   WORLD_INCLUDE_PATH )
 end
 
-task :america => :importbuiltin do
-  SportDb.read_setup( 'setups/all',   AMERICA_INCLUDE_PATH )
-end
-
+## fix: use official short codes/shortcuts e.g. america_cl?
 task :northamericachampionsleague => :importbuiltin do
   SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', WORLD_INCLUDE_PATH )   # use teams_north_america, central_america, caribbean ??
   SportDb.read_setup( 'setups/all',   NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH )
 end
 
 task :copalibertadores => :importbuiltin do
   SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )  # include invitees (mx teams)
   SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', WORLD_INCLUDE_PATH )  # use teams_south_america ??
   SportDb.read_setup( 'setups/all',   COPA_LIBERTADORES_INCLUDE_PATH )
 end
 
 task :copasudamericana => :importbuiltin do
   SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )  # include invitees (mx teams) ???
   SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams', WORLD_INCLUDE_PATH )  # use teams_south_america ??
   SportDb.read_setup( 'setups/all',   COPA_SUDAMERICANA_INCLUDE_PATH )
 end
 
 
 task :europe_clubs => :importbuiltin do
-  SportDb.read_setup( 'setups/teams',  EUROPE_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',  WORLD_INCLUDE_PATH )   ## use teams_europe ??
   SportDb.read_setup( 'setups/all',    AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',    DE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',    EN_INCLUDE_PATH )
@@ -191,7 +152,7 @@ task :all => [:importbuiltin, :grounds] do
   ########
   # national teams
 
-  SportDb.read_setup( 'setups/all', TEAMS_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', NATIONAL_TEAMS_INCLUDE_PATH )
 
   SportDb.read_setup( 'setups/all',   EURO_CUP_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   AFRICA_CUP_INCLUDE_PATH )
@@ -203,14 +164,12 @@ task :all => [:importbuiltin, :grounds] do
   # clubs
 
   SportDb.read_setup( 'setups/teams',  WORLD_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  EUROPE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',  AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',  DE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',  EN_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',  ES_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',  IT_INCLUDE_PATH )
 
-  SportDb.read_setup( 'setups/teams',  AMERICA_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',  MX_INCLUDE_PATH )  # include invitees (mx teams)
   SportDb.read_setup( 'setups/teams',  BR_INCLUDE_PATH )
 
@@ -233,10 +192,10 @@ task :all => [:importbuiltin, :grounds] do
   ## fix!! --
   ## SportDb.read_setup( 'setups/all', MX_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all', NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',    BR_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',    COPA_LIBERTADORES_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', BR_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', COPA_LIBERTADORES_INCLUDE_PATH )
 
-  SportDb.read_setup( 'setups/all',   WORLD_INCLUDE_PATH )  # circular reference; requires other teams
+  SportDb.read_setup( 'setups/all', WORLD_INCLUDE_PATH )  # circular reference; requires other teams
 end
 
 
@@ -245,7 +204,7 @@ task :admin => [:importbuiltin, :grounds] do
   ########
   # national teams
 
-  SportDb.read_setup( 'setups/all',    TEAMS_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',    NATIONAL_TEAMS_INCLUDE_PATH )
 
   SportDb.read_setup( 'setups/2012',   EURO_CUP_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2014',   WORLD_CUP_INCLUDE_PATH )
@@ -254,7 +213,6 @@ task :admin => [:importbuiltin, :grounds] do
   # clubs
 
   SportDb.read_setup( 'setups/teams',  WORLD_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams',  EUROPE_INCLUDE_PATH )
 
   SportDb.read_setup( 'setups/2013_14',  AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2013_14',  DE_INCLUDE_PATH )
@@ -263,7 +221,6 @@ task :admin => [:importbuiltin, :grounds] do
   SportDb.read_setup( 'setups/2013_14',  IT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2013_14',  EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
 
-  SportDb.read_setup( 'setups/teams',   AMERICA_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2013_14', MX_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2013_14', NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2013',    BR_INCLUDE_PATH )
@@ -330,6 +287,30 @@ task :publish => :env do
   build_book( inline: true )  # all-in-one-page version a.k.a. inline version
 
   puts 'Done.'
+end
+
+
+
+def check_repo_paths( ary )
+  puts "checking repo paths..."
+
+  ary.each do |entry|
+    name = entry[0]
+    path = entry[1]
+
+    if Dir.exists?( path )    ## note: same as File.directory?()
+      print '  OK               '
+    else
+      print '  -- NOT FOUND --  '
+    end
+    print " %-30s <%s>\n" % [name,path]
+  end
+end
+
+
+desc 'check repo paths'
+task :check => :env do
+  check_repo_paths( ALL_REPO_PATHS )
 end
 
 
