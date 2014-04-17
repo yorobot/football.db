@@ -105,12 +105,17 @@ task :es => :importbuiltin do
   SportDb.read_setup( 'setups/all',   ES_INCLUDE_PATH )
 end
 
-task :world => :importbuiltin do
+task :clubs => :importbuiltin do
+  ## todo/fix: add es,it,at too!!!
   SportDb.read_setup( 'setups/teams', EN_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', DE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',   WORLD_INCLUDE_PATH )
+end
+
+task :world => :importbuiltin do
+  SportDb.read_setup( 'setups/teams',   WORLD_INCLUDE_PATH )
 end
 
 ## fix: use official short codes/shortcuts e.g. america_cl?
@@ -154,11 +159,11 @@ task :all => [:importbuiltin, :grounds] do
 
   SportDb.read_setup( 'setups/all', NATIONAL_TEAMS_INCLUDE_PATH )
 
-  SportDb.read_setup( 'setups/all',   EURO_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',   AFRICA_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',   NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',   COPA_AMERICA_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',   WORLD_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', EURO_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', AFRICA_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', NORTH_AMERICA_GOLD_CUP_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', COPA_AMERICA_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', WORLD_CUP_INCLUDE_PATH )
 
   ################
   # clubs
@@ -233,8 +238,19 @@ end
 #########################################################
 # note: change deps to what you want to import for now
 
+##
+# default to worldcup (if no key given)
+#
+# e.g. use like
+#  $ rake update DATA=admin  or
+#  $ rake build  DATA=all
+#  etc.
 
-task :importsport => [:worldcup] do
+
+DATA_KEY = ENV['DATA'] || ENV['DATASET'] || ENV['FX'] || ENV['FIXTURES'] || 'worldcup'
+puts "  using DATA_KEY >#{DATA_KEY}<"
+
+task :importsport => DATA_KEY.to_sym do
   # nothing here
 end
 
