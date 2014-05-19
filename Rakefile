@@ -38,9 +38,12 @@ end
 
 
 task :env => BUILD_DIR do
-  require 'worlddb'   ### NB: for local testing use rake -I ./lib dev:test e.g. do NOT forget to add -I ./lib
-  require 'sportdb'
-  require 'logutils/db'
+  puts "before require 'worlddb'"
+  require 'worlddb'
+  puts "after require 'worlddb'"
+  puts "before require 'sportdb'"
+  require 'sportdb'  ### NB: for local testing use rake -I ./lib dev:test e.g. do NOT forget to add -I ./lib
+  puts "after require 'sportdb'"
 
   LogUtils::Logger.root.level = :info
 
@@ -54,6 +57,7 @@ task :create => :env do
   ConfDb.create
   TagDb.create
   WorldDb.create
+  PersonDb.create
   SportDb.create
 end
 
@@ -72,6 +76,13 @@ end
 
 task :grounds  => :importbuiltin do
   SportDb.read_setup( 'setups/all',   STADIUMS_INCLUDE_PATH )
+end
+
+#######################
+# players
+
+task :players  => :importbuiltin do
+  SportDb.read_setup( 'setups/all',   PLAYERS_INCLUDE_PATH )
 end
 
 #####################
