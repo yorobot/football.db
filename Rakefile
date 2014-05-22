@@ -85,6 +85,15 @@ task :players  => :importbuiltin do
   SportDb.read_setup( 'setups/all',   PLAYERS_INCLUDE_PATH )
 end
 
+task :squads => :players do
+  ## test/try squads for worldcup 2014
+  ## add importbuiltin dep too (or reuse from players) ?? why? why not??
+
+  SportDb.read_setup( 'setups/all',          NATIONAL_TEAMS_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/2014_squads',  WORLD_CUP_INCLUDE_PATH )
+end
+
+
 #####################
 # national teams
 
@@ -95,7 +104,6 @@ task :history => :importbuiltin do
   
   SportDb.read_setup( 'setups/history', WORLD_CUP_INCLUDE_PATH )
 end
-
 
 task :worldcup => :importbuiltin do
   SportDb.read_setup( 'setups/all',   NATIONAL_TEAMS_INCLUDE_PATH )
