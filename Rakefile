@@ -1,3 +1,13 @@
+
+puts "before require 'worlddb'"
+require 'worlddb'
+puts "after require 'worlddb'"
+puts "before require 'sportdb'"
+require 'sportdb'  ### NB: for local testing use rake -I ./lib dev:test e.g. do NOT forget to add -I ./lib
+puts "after require 'sportdb'"
+
+
+
 #######################################
 # build script (Ruby make)
 #
@@ -38,17 +48,13 @@ end
 
 
 task :env => BUILD_DIR do
-  puts "before require 'worlddb'"
-  require 'worlddb'
-  puts "after require 'worlddb'"
-  puts "before require 'sportdb'"
-  require 'sportdb'  ### NB: for local testing use rake -I ./lib dev:test e.g. do NOT forget to add -I ./lib
-  puts "after require 'sportdb'"
-
   LogUtils::Logger.root.level = :info
 
   pp DB_CONFIG
   ActiveRecord::Base.establish_connection( DB_CONFIG )
+  
+  LogDb.setup    # log all warnings/errors/fatals to db
+  LogDb.delete!  # first cleanout db log
 end
 
 
@@ -320,11 +326,12 @@ task :update => [:deletesport, :importsport] do
   puts 'Done.'
 end
 
-desc 'pull (auto-update) football.db from upstream sources'
-task :pull => :env do
-  SportDb.update!
-  puts 'Done.'
-end
+
+# desc 'pull (auto-update) football.db from upstream sources'
+# task :pull => :env do
+#  SportDb.update!
+#  puts 'Done.'
+# end
 
 
 desc 'build book (draft version) - The Free Football World Almanac - from football.db'
@@ -377,6 +384,17 @@ end
 desc 'check repo paths'
 task :check => :env do
   check_repo_paths( ALL_REPO_PATHS )
+end
+
+
+desc 'print logs (stored in db)'
+task :logs => :env do
+  
+  puts "db logs (#{LogDb::Models::Log.count})"
+  LogDb::Models::Log.order(:id).each do |log|
+     puts "  [#{log.level} ] #{log.ts}  - #{log.msg}"
+  end
+
 end
 
 
