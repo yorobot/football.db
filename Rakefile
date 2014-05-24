@@ -1,11 +1,7 @@
 
-puts "before require 'worlddb'"
-require 'worlddb'
-puts "after require 'worlddb'"
 puts "before require 'sportdb'"
-require 'sportdb'  ### NB: for local testing use rake -I ./lib dev:test e.g. do NOT forget to add -I ./lib
+require 'sportdb'  
 puts "after require 'sportdb'"
-
 
 
 #######################################
@@ -47,14 +43,17 @@ task :clean do
 end
 
 
+
 task :env => BUILD_DIR do
-  LogUtils::Logger.root.level = :info
+  logger = LogUtils::Logger.root
+  logger.level = :info
 
   pp DB_CONFIG
   ActiveRecord::Base.establish_connection( DB_CONFIG )
   
-  LogDb.setup    # log all warnings/errors/fatals to db
-  LogDb.delete!  # first cleanout db log
+  ## log all warns, errors, fatals to db
+  LogDb.setup
+  logger.warn "Rakefile - #{Time.now}"  # say hello; log to db (warn level min)  
 end
 
 
@@ -67,6 +66,7 @@ task :create => :env do
   SportDb.create
 end
 
+
 task :importworld => :env do
   # populate world tables
   WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )
@@ -74,7 +74,9 @@ end
 
 task :importbuiltin => :env do
   SportDb.read_builtin
-  LogUtils::Logger.root.level = :debug
+
+  logger = LogUtils::Logger.root
+  logger.level = :debug
 end
 
 ######################
