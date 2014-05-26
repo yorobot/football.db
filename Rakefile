@@ -1,3 +1,14 @@
+puts "before require 'active_record'"
+require 'active_record'
+puts "after require 'active_record'"
+
+puts "before require 'active_support/all'"
+require 'active_support/all'
+puts "after require 'active_support/all'"
+
+puts "before require 'worlddb'"
+require 'worlddb'  
+puts "after require 'worlddb'"
 
 puts "before require 'sportdb'"
 require 'sportdb'  
@@ -45,15 +56,28 @@ end
 
 
 task :env => BUILD_DIR do
+  pp DB_CONFIG
+  ActiveRecord::Base.establish_connection( DB_CONFIG )  
+end
+
+
+task :config  => :env  do
+  logger = LogUtils::Logger.root
+  # logger.level = :info
+
+  ## log all warns, errors, fatals to db
+  LogDb.setup   
+  logger.warn "Rakefile - #{Time.now}"  # say hello; log to db (warn level min)  
+end
+
+task :configworld => :config do
   logger = LogUtils::Logger.root
   logger.level = :info
+end
 
-  pp DB_CONFIG
-  ActiveRecord::Base.establish_connection( DB_CONFIG )
-  
-  ## log all warns, errors, fatals to db
-  LogDb.setup
-  logger.warn "Rakefile - #{Time.now}"  # say hello; log to db (warn level min)  
+task :configsport => :config do
+  logger = LogUtils::Logger.root
+  logger.level = :debug
 end
 
 
@@ -67,16 +91,14 @@ task :create => :env do
 end
 
 
-task :importworld => :env do
+task :importworld => :configworld do
   # populate world tables
   WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )
 end
 
+
 task :importbuiltin => :env do
   SportDb.read_builtin
-
-  logger = LogUtils::Logger.root
-  logger.level = :debug
 end
 
 ######################
@@ -308,7 +330,7 @@ end
 DATA_KEY = ENV['DATA'] || ENV['DATASET'] || ENV['FX'] || ENV['FIXTURES'] || 'worldcup'
 puts "  using DATA_KEY >#{DATA_KEY}<"
 
-task :importsport => DATA_KEY.to_sym do
+task :importsport => [:configsport, DATA_KEY.to_sym] do
   # nothing here
 end
 
