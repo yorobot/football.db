@@ -36,11 +36,12 @@ openfootball/            #  -> create folder
   world-cup              #     ..
 ~~~
 
-Note: Start you build (e.g. `rake build`) inside the `openfootball/build` folder.
-You can see (and change) all folder references in the [`settings.rb`](https://github.com/openfootball/build/blob/master/settings.rb) script.
+Start your build (e.g. `rake build`) inside the `openfootball/build` folder.
+
+Note: You can see (and change) all folder references in the [`settings.rb`](https://github.com/openfootball/build/blob/master/settings.rb) script.
 
 
-## Examples
+## More Examples
 
 Build the database for the World Cup in Brazil 2014 (from scratch):
 
