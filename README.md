@@ -24,6 +24,22 @@ rake update    # update football.db
 ~~~
 
 
+To get started use the following folder structure and
+clone some datasets with git. Example:
+
+~~~
+openmundi/               ##  -> create folder (e.g. `mkdir openmundi`)
+  world.db               ##  -> git clone (see `github.com/openmundi`)
+openfootball/            ##  -> create folder
+  build                  ##  -> git clone
+  national-teams         ##     ..
+  world-cup              ##     ..
+~~~~
+
+Note: Start you build (e.g. `rake build`) inside the `openfootball/build` folder.
+You can see (and change) all folder references in the [`settings.rb`](https://github.com/openfootball/build/blob/master/settings.rb) script.
+
+
 ## Examples
 
 Build the database for the World Cup in Brazil 2014 (from scratch):
@@ -51,6 +67,7 @@ rake update DATA=cl201314
 ~~~
 
 And so on and so forth.
+
 
 
 ## License
