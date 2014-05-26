@@ -28,13 +28,13 @@ To get started use the following folder structure and
 clone some datasets with git. Example:
 
 ~~~
-openmundi/               ##  -> create folder (e.g. `mkdir openmundi`)
-  world.db               ##  -> git clone (see `github.com/openmundi`)
-openfootball/            ##  -> create folder
-  build                  ##  -> git clone
-  national-teams         ##     ..
-  world-cup              ##     ..
-~~~~
+openmundi/               #  -> create folder (e.g. mkdir openmundi)
+  world.db               #  -> git clone (see github.com/openmundi)
+openfootball/            #  -> create folder
+  build                  #  -> git clone
+  national-teams         #     ..
+  world-cup              #     ..
+~~~
 
 Note: Start you build (e.g. `rake build`) inside the `openfootball/build` folder.
 You can see (and change) all folder references in the [`settings.rb`](https://github.com/openfootball/build/blob/master/settings.rb) script.
