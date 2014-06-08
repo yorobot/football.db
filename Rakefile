@@ -174,15 +174,22 @@ end
 task :history => :importbuiltin do
   SportDb.read_setup( 'setups/all',     NATIONAL_TEAMS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/history', NATIONAL_TEAMS_INCLUDE_PATH )
-  
+
+  ## note: will only include past world cups (not upcoming/future world cups e.g brazil 2014)
   SportDb.read_setup( 'setups/history', WORLD_CUP_INCLUDE_PATH )
-  
+
   ## calc alltime standings
   st = SportDb::Model::AlltimeStanding.where( key: 'world' ).first_or_create! do |rec|
     puts 'alltime standings record does NOT exist - create it'
     rec.title = 'All Time World Cup'
   end
-  st.recalc_for_league!( SportDb::Model::League.find_by_key!( 'world') )
+  st.recalc_for_league!( SportDb::Model::League.find_by_key!( 'world'),
+                           merge: { 'ger' => 'frg',
+                                    'rus' => 'urs',
+                                    'cze' => 'tch',
+                                    'srb' => 'yug',
+                                    'idn' => 'dei',
+                                    'cod' => 'zai' } )
 
   dump_alltime_standings()
 end
@@ -506,6 +513,48 @@ task :stats => :env do
 end
 
 
+desc 'print matches stats (for checksum mostly)'
+task :matches_stats => :env do
+
+  SportDb::Model::Event.joins(:season).order('seasons.title desc').each do |event|
+    buf = ''
+    buf << "#{event.season.title} #{event.league.title}  "
+    buf << "|  #{event.teams.count}  "
+    buf << "|  #{event.games.count}  "
+    
+    score1 = event.games.sum(:score1 )
+    score2 = event.games.sum(:score2 )
+    score1et = event.games.sum(:score1et )
+    score2et = event.games.sum(:score2et )
+
+    ## check/todo: add penalty (shootout) too? - skip for now
+
+    buf << "|  #{score1+score2+score1et+score2et} (+#{score1et+score2et} a.e.t.)"
+
+    puts buf
+  end
+end
+
+
+desc 'print alltime stats (for checksum mostly)'
+task :alltime_stats => :env do
+  ## calc alltime standings
+  st = SportDb::Model::AlltimeStanding.where( key: 'world' ).first_or_create! do |rec|
+    puts 'alltime standings record does NOT exist - create it'
+    rec.title = 'All Time World Cup'
+  end
+  st.recalc_for_league!( SportDb::Model::League.find_by_key!( 'world'),
+                                    merge: { 'ger' => 'frg',
+                                             'rus' => 'urs',
+                                             'cze' => 'tch',
+                                             'srb' => 'yug',
+                                             'idn' => 'dei',
+                                             'cod' => 'zai' } )
+
+  dump_alltime_standings()
+end
+
+
 desc 'print standings for football.db (test/debug)'
 task :standings => :env do
 
@@ -545,19 +594,24 @@ end
 def dump_alltime_standings
   SportDb::Model::AlltimeStanding.order(:id).each do |st|
     puts "=========="
-    puts "  #{st.title}"
+    puts "##  #{st.title}"
     dump_standing_entries( st.entries.order('pos') )
   end
 end
 
 def dump_standing_entries( entries )
   entries.each do |entry|
-    print "  #{entry.pos} "
-    print "  #{entry.team.title} (#{entry.team.code})"
-    print "  #{entry.played} #{entry.won} #{entry.drawn} #{entry.lost}"
-    print "  #{entry.goals_for}:#{entry.goals_against}  #{entry.pts}"
-    puts  "" # end w/ newline
+    buf = ''
+    buf << '%2d  ' %  entry.pos
+    buf << '%-26s  ' % "#{entry.team.title} (#{entry.team.code})"
+    buf << '%3d  ' % entry.played
+    buf << '%3d ' % entry.won
+    buf << '%3d ' % entry.drawn
+    buf << '%3d  ' % entry.lost
+    buf << '%3d:%-3d  ' % [entry.goals_for,entry.goals_against]
+    buf << '%3d  ' % entry.pts
+    buf << '%2d'  % entry.recs
+    puts buf # end w/ newline
   end
 end
-
 
