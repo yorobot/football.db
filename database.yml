@@ -1,0 +1,5 @@
+
+default:
+  adapter:   sqlite3
+  database:  <%= BUILD_DIR %>/football.db
+

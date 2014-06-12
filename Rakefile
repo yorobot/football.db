@@ -31,17 +31,16 @@ puts "after require 'sportdb'"
 
 BUILD_DIR = "./build"
 
-# -- output db config
-FOOTBALL_DB_PATH = "#{BUILD_DIR}/football.db"
-
 
 require './settings'
 require './scripts/stats'
 
-DB_CONFIG = {
-  adapter:    'sqlite3',
-  database:   FOOTBALL_DB_PATH
-}
+
+
+## load database config from external file (easier to configure/change)
+DB_HASH   = YAML.load( ERB.new( File.read( './database.yml' )).result ) 
+DB_CONFIG = DB_HASH[ 'default' ]    ## for now just always use default section/entry
+
 
 
 task :default => :build
@@ -50,14 +49,20 @@ directory BUILD_DIR
 
 
 task :clean do
-  rm FOOTBALL_DB_PATH if File.exists?( FOOTBALL_DB_PATH )
+  db_adapter = DB_CONFIG[ 'adapter' ]
+  ### for sqlite3 delete/remove single-file database
+  if db_adapter == 'sqlite3'
+     db_database =  DB_CONFIG[ 'database' ]
+     rm db_database if File.exists?( db_database )
+  else
+    puts "  clean: do nothing; no clean steps configured for db adapter >#{db_adapter}<"
+  end
 end
-
 
 
 task :env => BUILD_DIR do
   pp DB_CONFIG
-  ActiveRecord::Base.establish_connection( DB_CONFIG )  
+  ActiveRecord::Base.establish_connection( DB_CONFIG )
 end
 
 task :config  => :env  do
