@@ -19,7 +19,9 @@ def dump_standing_entries( entries )
     buf << '%3d  ' % entry.lost
     buf << '%3d:%-3d  ' % [entry.goals_for,entry.goals_against]
     buf << '%3d  ' % entry.pts
-    buf << '%2d'  % entry.recs
+
+    ## note: only alltime recs include recs field/attribute
+    buf << '%2d'  % entry.recs     if entry.respond_to?( :recs )
     puts buf # end w/ newline
   end
 end
