@@ -13,7 +13,8 @@ task :alltime_stats => :env do
                                              'cze' => 'tch',
                                              'srb' => 'yug',
                                              'idn' => 'dei',
-                                             'cod' => 'zai' } )
+                                             'cod' => 'zai' },
+                                    pts_exclude_scorep: true )
 
   dump_alltime_standings()
 end
