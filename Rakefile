@@ -139,16 +139,16 @@ task :clubs => :importbuiltin do
   SportDb.read_setup( 'setups/teams', DE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',   WORLD_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',   CLUBS_INCLUDE_PATH )
 end
 
 task :world => :importbuiltin do
-  SportDb.read_setup( 'setups/teams',   WORLD_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',   CLUBS_INCLUDE_PATH )
 end
 
 
 task :europe_clubs => :importbuiltin do
-  SportDb.read_setup( 'setups/teams',  WORLD_INCLUDE_PATH )   ## use teams_europe ??
+  SportDb.read_setup( 'setups/teams',  CLUBS_INCLUDE_PATH )   ## use teams_europe ??
   SportDb.read_setup( 'setups/all',    AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',    DE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/all',    EN_INCLUDE_PATH )

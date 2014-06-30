@@ -18,6 +18,7 @@ PLAYERS_INCLUDE_PATH   = "#{OPENFOOTBALL_ROOT}/players"  # players
 # national teams
 
 NATIONAL_TEAMS_INCLUDE_PATH         = "#{OPENFOOTBALL_ROOT}/national-teams"
+
 WORLD_CUP_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/world-cup"
 EURO_CUP_INCLUDE_PATH               = "#{OPENFOOTBALL_ROOT}/euro-cup"
 AFRICA_CUP_INCLUDE_PATH             = "#{OPENFOOTBALL_ROOT}/africa-cup"
@@ -27,7 +28,7 @@ COPA_AMERICA_INCLUDE_PATH           = "#{OPENFOOTBALL_ROOT}/copa-america"
 ################
 # clubs
 
-WORLD_INCLUDE_PATH       = "#{OPENFOOTBALL_ROOT}/world"
+CLUBS_INCLUDE_PATH       = "#{OPENFOOTBALL_ROOT}/clubs"
 
 AT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/at-austria"
 DE_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/de-deutschland"
@@ -37,6 +38,7 @@ IT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/it-italy"
 
 EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/europe-champions-league"
 
+MLS_INCLUDE_PATH         = "#{OPENFOOTBALL_ROOT}/major-league-soccer"   # us-united-states n ca-canada
 MX_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/mx-mexico"
 BR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/br-brazil"
 

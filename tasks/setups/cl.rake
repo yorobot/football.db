@@ -2,7 +2,7 @@
 # football clubs n leagues
 
 task :cl201314  => :importbuiltin do
-  SportDb.read_setup( 'setups/teams',    WORLD_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/teams',    CLUBS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',    AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',    DE_INCLUDE_PATH )
   SportDb.read_setup( 'setups/teams',    EN_INCLUDE_PATH )

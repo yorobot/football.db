@@ -12,7 +12,7 @@ task :admin => [:importbuiltin, :grounds] do
   ################
   # clubs
 
-  SportDb.read_setup( 'setups/all',  WORLD_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all',  CLUBS_INCLUDE_PATH )
 
   SportDb.read_setup( 'setups/2013_14',  AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/2013_14',  DE_INCLUDE_PATH )
@@ -38,5 +38,5 @@ task :admin => [:importbuiltin, :grounds] do
   SportDb.read_setup( 'setups/2013',    COPA_LIBERTADORES_INCLUDE_PATH )
 
   ## fix: include club-world-cup - moved to its own repo
-  ## SportDb.read_setup( 'setups/2013',   WORLD_INCLUDE_PATH )  # circular reference; requires other teams
+  ## SportDb.read_setup( 'setups/2013',   CLUBS_INCLUDE_PATH )  # circular reference; requires other teams
 end
