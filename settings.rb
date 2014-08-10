@@ -35,6 +35,8 @@ DE_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/de-deutschland"
 EN_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/en-england"
 ES_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/es-espana"
 IT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/it-italy"
+FR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/fr-france"
+
 
 EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/europe-champions-league"
 
