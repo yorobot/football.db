@@ -7,6 +7,6 @@ end
 
 
 task :en_2014_15 => :importbuiltin do
-  SportDb.read_setup( 'setups/2014_15',  EN_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/2014-15',  EN_INCLUDE_PATH )
 end
 
