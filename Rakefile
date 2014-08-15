@@ -70,7 +70,7 @@ task :config  => :env  do
   # logger.level = :info
 
   ## log all warns, errors, fatals to db
-  LogDb.setup   
+  LogDb.setup
   logger.warn "Rakefile - #{Time.now}"  # say hello; log to db (warn level min)  
 end
 
@@ -81,7 +81,25 @@ end
 
 task :configsport => :config do
   logger = LogUtils::Logger.root
-  logger.level = :debug
+
+  ## try first
+  ### use DEBUG=t or DEBUG=f
+  ### or alternative LOG|LOGLEVEL=debug|info|warn|error
+
+  debug_key = ENV['DEBUG']
+  if debug_key.nil?
+    ## try log_key as "fallback"
+    ##  - env variable that lets you configure log level
+    log_key = ENV['LOG'] || ENV['LOGLEVEL'] || 'debug'
+    puts "  using LOGLEVEL >#{log_key}<"
+    logger.level = log_key.to_sym
+  else
+    if ['true', 't', 'yes', 'y'].include?( debug_key.downcase )
+      logger.level = :debug
+    else
+      logger.level = :info
+    end
+  end
 end
 
 
