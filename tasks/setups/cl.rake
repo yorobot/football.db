@@ -1,7 +1,7 @@
 ################################
 # football clubs n leagues
 
-task :cl201314  => :importbuiltin do
+task :cl_2013_14  => :importbuiltin do
   SportDb.read_setup( 'setups/clubs',    CLUBS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/clubs',    AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/clubs',    DE_INCLUDE_PATH )
@@ -13,8 +13,7 @@ task :cl201314  => :importbuiltin do
   SportDb.read_setup( 'setups/2013-14',  EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
 end
 
-
-task :cl201415  => :importbuiltin do
+task :cl_2014_15  => :importbuiltin do
   SportDb.read_setup( 'setups/clubs',    CLUBS_INCLUDE_PATH )
   SportDb.read_setup( 'setups/clubs',    AT_INCLUDE_PATH )
   SportDb.read_setup( 'setups/clubs',    DE_INCLUDE_PATH )
