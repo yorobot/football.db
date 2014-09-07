@@ -34,6 +34,7 @@ BUILD_DIR = "./build"
 
 require './settings'
 require './scripts/stats'
+require './scripts/standings'
 
 
 

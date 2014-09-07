@@ -9,3 +9,21 @@ task :at_2014_15 => :importbuiltin do
   SportDb.read_setup( 'setups/2014-15',  AT_INCLUDE_PATH )
 end
 
+
+task :at_recalc => :at do
+  ['at.2012/13',
+   'at.2013/14',
+   'at.2014/15'].each do |event_key|
+     recalc_standings( event_key, out_root: '../at-austria' )
+  end
+end
+
+task :at_2014_15_recalc => :at_2014_15 do
+  recalc_standings( 'at.2014/15', out_root: '../at-austria' )
+end
+
+task :test_at_recalc => :env  do
+  recalc_standings( 'at.2014/15', out_root: '../at-austria' )
+end
+
+
