@@ -3,6 +3,11 @@
 
 def recalc_standings( event_key_or_keys, opts={} )
 
+  ### fix/todo:
+  ##    for Standings.update
+  ##   - allow no past games (include teams!! records nevertheless set to 0/0/0/0 )
+  #       do NOT produce empty standings table without teams!!! fix!!!
+
   if event_key_or_keys.is_a?( Array )
     event_keys = event_key_or_keys
   else  ## assume it's a single key; wrap into array
@@ -19,11 +24,23 @@ def recalc_standings( event_key_or_keys, opts={} )
     event = SportDb::Model::Event.find_by_key!( event_key )
     segment = event.season.title.tr('/', '-')  ## change 2014/15 to 2014-15
 
-    standings = SportDb::Standings.new
-    standings.update( event.games )
+    ### if event has groups - calc group; otherwise calc standings for all games
+    groups_count = event.groups.count
+    if groups_count > 0
+      event.groups.each do |group|
+        standings = SportDb::Standings.new
+        standings.update( group.games )
 
-    buf << build_standings( standings )
-    pp buf
+        buf << build_standings( standings )
+        pp buf
+      end
+    else
+      standings = SportDb::Standings.new
+      standings.update( event.games )
+
+      buf << build_standings( standings )
+      pp buf
+    end
   end
 
   out_path = "#{out_root}/#{segment}/README.md"

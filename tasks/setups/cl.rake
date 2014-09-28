@@ -25,3 +25,13 @@ task :cl_2014_15  => :importbuiltin do
   SportDb.read_setup( 'setups/2014-15',  EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
 end
 
+
+
+task :test_cl_recalc => :env  do
+
+  recalc_standings( ['cl.2014/15' ], out_root: EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
+
+  ## debug verison - write to ./build/at-austria 
+  ## recalc_standings( ['cl.2014/15'], out_root: './build/europe-champions-league' )
+end
+
