@@ -1,19 +1,31 @@
 # encoding: utf-8
 
 
-def recalc_standings( event_key, opts={} )
+def recalc_standings( event_key_or_keys, opts={} )
+
+  if event_key_or_keys.is_a?( Array )
+    event_keys = event_key_or_keys
+  else  ## assume it's a single key; wrap into array
+    event_keys = [event_key_or_keys]
+  end
 
   out_root = opts[:out_root] || './build'
 
-  event = SportDb::Model::Event.find_by_key!( event_key )
+  buf = ''
+  ## note: for now assume all events have the same seasons - last event's season will get used
+  segment = ''   ## season path segement e.g. 2014-15 etc.
 
-  standings = SportDb::Standings.new
-  standings.update( event.games )
+  event_keys.each do |event_key|
+    event = SportDb::Model::Event.find_by_key!( event_key )
+    segment = event.season.title.tr('/', '-')  ## change 2014/15 to 2014-15
 
-  buf = build_standings( standings )
-  pp buf
+    standings = SportDb::Standings.new
+    standings.update( event.games )
 
-  segment = event.season.title.tr('/', '-')  ## change 2014/15 to 2014-15
+    buf << build_standings( standings )
+    pp buf
+  end
+
   out_path = "#{out_root}/#{segment}/README.md"
   puts "out_path=>>#{out_path}<<, segment=>>#{segment}<<"
 
@@ -31,8 +43,8 @@ def recalc_standings( event_key, opts={} )
     out.puts "Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points\n"
     out.puts "\n"
   end
-
 end
+
 
 
 def build_standings( standings )
