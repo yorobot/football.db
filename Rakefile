@@ -116,7 +116,9 @@ end
 
 task :importworld => :configworld do
   # populate world tables
-  WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )
+  #  use countries only for now (faster)
+  WorldDb.read_setup( 'setups/countries', WORLD_DB_INCLUDE_PATH, skip_tags: true )
+  ### WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )
 end
 
 
