@@ -1,0 +1,91 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activemodel (4.2.0)
+      activesupport (= 4.2.0)
+      builder (~> 3.1)
+    activerecord (4.2.0)
+      activemodel (= 4.2.0)
+      activesupport (= 4.2.0)
+      arel (~> 6.0)
+    activerecord-utils (0.3.0)
+      logutils
+    activesupport (4.2.0)
+      i18n (~> 0.7)
+      json (~> 1.7, >= 1.7.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
+      tzinfo (~> 1.1)
+    arel (6.0.0)
+    builder (3.2.2)
+    datafile (0.1.2)
+      fetcher
+      logutils
+      textutils
+    fetcher (0.4.4)
+      logutils (>= 0.6)
+    gli (2.12.2)
+    i18n (0.7.0)
+    json (1.8.2)
+    logutils (0.6.1)
+    logutils-activerecord (0.2.0)
+      activerecord
+      logutils (>= 0.6.1)
+    minitest (5.5.1)
+    persondb-models (0.4.2)
+      worlddb-models
+    props (1.1.2)
+    props-activerecord (0.1.0)
+      activerecord
+      props (>= 1.1.2)
+    rubyzip (1.1.6)
+    sportdb (1.11.0)
+      datafile (>= 0.1.1)
+      fetcher (>= 0.4.4)
+      gli (>= 2.12.2)
+      sportdb-models (>= 1.10.1)
+      sportdb-service
+      sportdb-update
+      sqlite3
+    sportdb-models (1.11.0)
+      persondb-models (>= 0.4.2)
+      worlddb-models (>= 2.1.0)
+    sportdb-service (0.4.0)
+    sportdb-update (0.1.1)
+    sqlite3 (1.3.10)
+    tagutils (0.3.0)
+      activerecord
+      logutils (>= 0.6.1)
+      props (>= 1.1.2)
+      textutils (>= 0.10.0)
+    textutils (1.0.1)
+      activesupport
+      logutils (>= 0.6.1)
+      props (>= 1.1.2)
+      rubyzip
+    thread_safe (0.3.4)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
+    worlddb (2.2.1)
+      gli (>= 2.12.2)
+      sqlite3
+      worlddb-models (>= 2.1.0)
+    worlddb-models (2.2.0)
+      activerecord
+      activerecord-utils (>= 0.2.0)
+      logutils (>= 0.6.1)
+      logutils-activerecord (>= 0.2.0)
+      props (>= 1.1.2)
+      props-activerecord (>= 0.1.0)
+      rubyzip
+      tagutils (>= 0.3.0)
+      textutils (>= 0.10.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activerecord (~> 4.2.0)
+  activesupport (~> 4.2.0)
+  sportdb (~> 1.11.0)
+  worlddb (~> 2.2.1)
