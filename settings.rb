@@ -32,7 +32,7 @@ CLUBS_INCLUDE_PATH       = "#{OPENFOOTBALL_ROOT}/clubs"
 
 AT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/at-austria"
 DE_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/de-deutschland"
-EN_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/en-england"
+EN_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/eng-england"       ## fix: change to ENG_INCLUDE_...
 ES_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/es-espana"
 IT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/it-italy"
 FR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/fr-france"
