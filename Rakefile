@@ -1,20 +1,3 @@
-puts "before require 'active_record'"
-require 'active_record'
-puts "after require 'active_record'"
-
-puts "before require 'active_support/all'"
-require 'active_support/all'
-puts "after require 'active_support/all'"
-
-puts "before require 'worlddb'"
-require 'worlddb'  
-puts "after require 'worlddb'"
-
-puts "before require 'sportdb'"
-require 'sportdb'  
-puts "after require 'sportdb'"
-
-
 #######################################
 # build script (Ruby make)
 #
@@ -24,14 +7,21 @@ puts "after require 'sportdb'"
 #
 #   $ rake update    - to update football.db
 #
-#   $ rake book    - build book
-#
 #   $ rake -T        - show all tasks
+
+
+$RUBYLIBS_DEBUG = true
+
+# 3rd party libs/gems
+require 'worlddb'   ## todo/check: just require worlddb/models - why, why not??
+require 'sportdb'   ## todo/check: just require sportdb/models - why, why not??
+require 'logutils/activerecord' ## add db logging
 
 
 BUILD_DIR = "./build"
 
 
+# our own code
 require './settings'
 require './scripts/stats'
 require './scripts/standings'
@@ -64,7 +54,18 @@ end
 task :env => BUILD_DIR do
   pp DB_CONFIG
   ActiveRecord::Base.establish_connection( DB_CONFIG )
+
+  db_adapter = DB_CONFIG[ 'adapter' ]
+  if db_adapter == 'sqlite3'
+    ## try to speed up sqlite
+    ## see http://www.sqlite.org/pragma.html
+    c = ActiveRecord::Base.connection
+    c.execute( 'PRAGMA synchronous=OFF;' )
+    c.execute( 'PRAGMA journal_mode=OFF;' )
+    c.execute( 'PRAGMA temp_store=MEMORY;' )
+  end
 end
+
 
 task :config  => :env  do
   logger = LogUtils::Logger.root
@@ -105,12 +106,7 @@ end
 
 
 task :create => :env do
-  LogDb.create
-  ConfDb.create
-  TagDb.create
-  WorldDb.create
-  PersonDb.create
-  SportDb.create
+  SportDb.create_all
 end
 
 

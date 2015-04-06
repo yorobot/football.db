@@ -1,11 +1,10 @@
 # build
 
 
-Note: The recommend and easiest way to build yourself
+Note: The recommended and easiest way to build yourself
 your own database copies (e.g. football.db, worlcup.db, etc.)
 is using Datafiles.
 See the [`openfootball/datafile`](https://github.com/openfootball/datafile) repo for details.
-
 
 
 
@@ -21,17 +20,19 @@ Use `rake -T`  to list all available tasks. Example:
 $ rake -T
 ~~~
 
-will print something like:
+Will print something like:
 
 ~~~
-rake about     # print versions of gems
-rake book      # build book (draft version) - The Free Football World Almanac
-rake build     # build football.db from scratch (default)
-rake check     # check repo paths
-rake publish   # build book (release version) - The Free Football World Almanac
-rake pull      # pull (auto-update) football.db from upstream sources
-rake stats     # print stats for football.db tables/records
-rake update    # update football.db
+rake about          # print versions of gems
+rake alltime_stats  # print alltime stats (for checksum mostly)
+rake build          # build football.db from scratch (default)
+rake check          # check repo paths
+rake dump           # print all events w/ groups and matches
+rake logs           # print logs (stored in db)
+rake matches_stats  # print matches stats (for checksum mostly)
+rake standings      # print standings for football.db (test/debug)
+rake stats          # print stats for football.db tables/records
+rake update         # update football.db
 ~~~
 
 
