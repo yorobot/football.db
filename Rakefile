@@ -132,32 +132,7 @@ Dir.glob('./tasks/**/*.rake').each do |r|
 end
 
 
-############################
-# todo: squads - move to worldcup.rake ??
 
-task :squads => :players do
-  ## test/try squads for worldcup 2014
-  ## add importbuiltin dep too (or reuse from players) ?? why? why not??
-
-  SportDb.read_setup( 'setups/all',          NATIONAL_TEAMS_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/2014_squads',  WORLD_CUP_INCLUDE_PATH )
-end
-
-
-
-################################
-#  football clubs n leagues
-
-## fix: move to tasks/setups
-
-task :clubs => :importbuiltin do
-  ## todo/fix: add es,it,at too!!!
-  SportDb.read_setup( 'setups/teams', EN_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', DE_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', MX_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/teams', BR_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',   CLUBS_INCLUDE_PATH )
-end
 
 task :world => :importbuiltin do
   SportDb.read_setup( 'setups/teams',   CLUBS_INCLUDE_PATH )
