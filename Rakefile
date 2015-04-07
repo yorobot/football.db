@@ -133,22 +133,6 @@ end
 
 
 
-
-task :world => :importbuiltin do
-  SportDb.read_setup( 'setups/teams',   CLUBS_INCLUDE_PATH )
-end
-
-
-task :europe_clubs => :importbuiltin do
-  SportDb.read_setup( 'setups/teams',  CLUBS_INCLUDE_PATH )   ## use teams_europe ??
-  SportDb.read_setup( 'setups/all',    AT_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',    DE_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',    EN_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',    ES_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/all',    IT_INCLUDE_PATH )
-end
-
-
 #########################################################
 # note: change deps to what you want to import for now
 
