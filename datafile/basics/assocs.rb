@@ -2,18 +2,22 @@
 # assocs
 
 task :assocs => :importbuiltin do
-##  SportDb.read_setup( 'setups/all',     NATIONAL_TEAMS_INCLUDE_PATH )
-  SportDb.read_setup( 'setups/assocs',  NATIONAL_TEAMS_INCLUDE_PATH )
+  ##  football 'openfootball/national-teams'
+  football 'openfootball/national-teams', setup: 'assocs'
 
-  ## dump assocs stats for fifa plus all sub orgs/zones
-  fifa = SportDb::Model::Assoc.find_by_key!( 'fifa' )
-  dump_assoc( fifa, 1 )
+  calc do
+    ## dump assocs stats for fifa plus all sub orgs/zones
+    fifa = SportDb::Model::Assoc.find_by_key!( 'fifa' )
+    dump_assoc( fifa, 1 )
+  end
 end
 
 task :assocs_stats => :env do
-  ## dump assocs stats for fifa plus all sub orgs/zones
-  fifa = SportDb::Model::Assoc.find_by_key!( 'fifa' )
-  dump_assoc( fifa, 1 )
+  calc do
+    ## dump assocs stats for fifa plus all sub orgs/zones
+    fifa = SportDb::Model::Assoc.find_by_key!( 'fifa' )
+    dump_assoc( fifa, 1 )
+  end
 end
 
 
