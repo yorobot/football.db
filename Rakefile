@@ -27,7 +27,6 @@ require './scripts/stats'
 require './scripts/standings'
 
 
-
 ## load database config from external file (easier to configure/change)
 DB_HASH   = YAML.load( ERB.new( File.read( './database.yml' )).result ) 
 DB_CONFIG = DB_HASH[ 'default' ]    ## for now just always use default section/entry
@@ -174,3 +173,33 @@ end
 #  SportDb.update!
 #  puts 'Done.'
 # end
+
+#### auto-add tasks via datafiles
+require './scripts/builder'
+
+datafiles = collect_datafiles()
+datafiles.each do |datafile|
+  task_name = datafile.name.to_sym
+  task_deps = datafile.deps.each {|dep| dep.to_sym }
+
+  puts "adding task '#{datafile.name}' => #{datafile.deps.inspect}:"
+  puts "  #{datafile.datasets.size} datasets, #{datafile.scripts.size} scripts"
+
+  desc "datafile #{task_name} (auto-task: #{datafile.datasets.size} datasets, #{datafile.scripts.size} scripts)"
+  task task_name => task_deps do
+    datafile.dump
+    # skip for now  -- step 1: download
+    datafile.read   # step 2: read in all datasets
+    datafile.calc   # step 3: run all calc(ulations) scripts
+  end
+
+  task "debug_#{task_name}" do
+    puts ''
+    puts "=== debug: task #{task_name} depends on #{task_deps.inspect}:"
+    puts "  #{datafile.datasets.size} datasets, #{datafile.scripts.size} scripts"
+    puts ''
+    datafile.dump
+  end
+
+end
+
