@@ -1,10 +1,10 @@
 
 task :clubs => :importbuiltin do
   ## todo/fix: add es,it,at too!!!
-  football 'openfootball/eng-england',    setup: 'teams'
-  football 'openfootball/de-deutschland', setup: 'teams'
-  football 'openfootball/mx-mexico',      setup: 'teams'
-  football 'openfootball/br-brazil',      setup: 'teams'
-  football 'openfootball/clubs'
+  football 'eng-england',    setup: 'teams'
+  football 'de-deutschland', setup: 'teams'
+  football 'mx-mexico',      setup: 'teams'
+  football 'br-brazil',      setup: 'teams'
+  football 'clubs'
 end
 

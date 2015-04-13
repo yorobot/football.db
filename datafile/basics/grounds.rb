@@ -2,6 +2,6 @@
 # grounds / stadiums
 
 task :grounds  => :importbuiltin do
-  football 'openfootball/stadiums'
+  football 'stadiums'
 end
 

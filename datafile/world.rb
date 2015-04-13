@@ -1,5 +1,4 @@
 
 task :world => :importbuiltin do
-  football 'openfootball/clubs', setup: 'teams'
+  football 'clubs', setup: 'teams'
 end
-

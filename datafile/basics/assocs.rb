@@ -2,8 +2,8 @@
 # assocs
 
 task :assocs => :importbuiltin do
-  ##  football 'openfootball/national-teams'
-  football 'openfootball/national-teams', setup: 'assocs'
+  ##  football 'national-teams'
+  football 'national-teams', setup: 'assocs'
 
   calc do
     ## dump assocs stats for fifa plus all sub orgs/zones
