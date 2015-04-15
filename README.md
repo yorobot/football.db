@@ -1,14 +1,9 @@
-# build
-
-
 Note: The recommended and easiest way to build yourself
 your own database copies (e.g. football.db, worlcup.db, etc.)
 is using Datafiles.
 See the [`openfootball/datafile`](https://github.com/openfootball/datafile) repo for details.
 
-
-
-## Intro
+# Build
 
 Build scripts for football.db, worldcup.db, bundesliga.db, etc.
 
@@ -67,16 +62,16 @@ Build the database for all the World Cups:
 rake build DATA=worldcup
 ~~~
 
-Build the database for the European Champions League 2013/14:
+Build the database for the European Champions League 2014/15:
 
 ~~~
-rake build DATA=cl201314
+rake build DATA=cl201415
 ~~~
 
-Update the database for the European Champions League 2013/14 (after updating your data sets from git):
+Update the database for the European Champions League 2014/15 (after updating your data sets from git):
 
 ~~~
-rake update DATA=cl201314
+rake update DATA=cl201415
 ~~~
 
 And so on and so forth.
