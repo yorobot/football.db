@@ -11,7 +11,7 @@ def debug?
     true
   else
     false
-  end 
+  end
 end
 
 
@@ -22,4 +22,3 @@ def load_tasks
     # see blog.smartlogicsolutions.com/2009/05/26/including-external-rake-files-in-your-projects-rakefile-keep-your-rake-tasks-organized/
   end
 end
-

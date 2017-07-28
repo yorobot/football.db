@@ -89,9 +89,11 @@ directory BUILD_DIR
 
 
 task :clean do
-  db_adapter = DB_CONFIG[ 'adapter' ]
+  db_adapter  = DB_CONFIG[ 'adapter' ]   || DB_CONFIG[ :adapter ]
+  db_database = DB_CONFIG[ 'database' ]  || DB_CONFIG[ :database ]
+
   ### for sqlite3 delete/remove single-file database
-  if db_adapter == 'sqlite3'
+  if db_adapter == 'sqlite3' && db_database != ':memory:'
      db_database =  DB_CONFIG[ 'database' ]
      rm db_database if File.exists?( db_database )
   else
@@ -167,6 +169,7 @@ task :create => :env do
 end
 
 
+
 task :importworld => :configworld do
   # populate world tables
   #  use countries only for now (faster)
@@ -182,11 +185,9 @@ end
 ############################################
 # add more tasks (keep build script modular)
 
-Dir.glob('./tasks/**/*.rake').each do |r|
-  puts "  importing task >#{r}<..."
-  import r
-  # see blog.smartlogicsolutions.com/2009/05/26/including-external-rake-files-in-your-projects-rakefile-keep-your-rake-tasks-organized/
-end
+load_tasks()   ## e.g. see scripts/rake.rb -- (auto-)imports ./tasks/**/*.rake
+
+
 
 
 
@@ -199,10 +200,11 @@ end
 # e.g. use like
 #  $ rake update DATA=admin  or
 #  $ rake build  DATA=all
+#  $ rake build  DATA=en
 #  etc.
 
 
-DATA_KEY = ENV['DATA'] || ENV['DATASET'] || ENV['FX'] || ENV['FIXTURES'] || 'worldcup'
+DATA_KEY = ENV['DATA'] || ENV['DATASET'] || 'all'     ## note: was 'worldcup' default DATA_KEY
 puts "  using DATA_KEY >#{DATA_KEY}<"
 
 task :importsport => [:configsport, DATA_KEY.to_sym] do
@@ -210,15 +212,55 @@ task :importsport => [:configsport, DATA_KEY.to_sym] do
 end
 
 
+###
+## from "new" update build script
+
+## note: :ru not working for now (fix date e.g. [])
+task :all => [:at,:de,:en,:es,:it] do
+end
+
+
+task :recalc => ["recalc_#{DATA_KEY}".to_sym] do    ## e.g. recalc_at etc.
+  # nothing here
+end
+
+## note: :ru not working for now (fix date e.g. [])
+task :recalc_all => [:recalc_at,:recalc_de,:recalc_en,:recalc_es,:recalc_it] do
+end
+
+
+task :stats => :env  do
+  puts build_stats
+  puts 'Done.'
+end
+
+task :logs => :env do
+  out_root = debug? ? './build' : '../logs/football.db'   ## todo: use const for ../logs ???
+
+  save_logs( out_root: out_root )
+  puts 'Done.'
+end
+
+
+
+
+
+
 task :deletesport => :env do
   SportDb.delete!
 end
 
 
+
 desc 'build football.db from scratch (default)'
-task :build => [:clean, :create, :importworld, :importsport] do
+## task :build => [:clean, :create, :importworld, :importsport] do
+task :build => [:create, :importworld, :importsport] do    ## note: removed :clean target for now - add back!!
   puts 'Done.'
 end
+
+
+
+
 
 desc 'update football.db'
 task :update => [:deletesport, :importsport] do
@@ -226,11 +268,7 @@ task :update => [:deletesport, :importsport] do
 end
 
 
-# desc 'pull (auto-update) football.db from upstream sources'
-# task :pull => :env do
-#  SportDb.update!
-#  puts 'Done.'
-# end
+
 
 #### auto-add tasks via datafiles
 require './scripts/builder'
