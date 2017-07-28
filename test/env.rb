@@ -13,8 +13,10 @@ auto_dir = "/auto"
 auto_dir = File.expand_path( auto_dir )
 pp auto_dir
 
-
+pp File.expand_path( '/src' )
+pp File.expand_path( '/Sites' )
 pp File.expand_path( '..' )
+pp File.expand_path( '../..' )
 
 
 ##
