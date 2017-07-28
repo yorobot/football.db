@@ -7,12 +7,16 @@ OPENMUNDI_ROOT        = "../../openmundi"
 WORLD_DB_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
 
+
+
 # --- football.db ---
 
-OPENFOOTBALL_ROOT = ".."
+OPENFOOTBALL_ROOT = "../../openfootball"
 
 STADIUMS_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/stadiums" # stadiums
 PLAYERS_INCLUDE_PATH   = "#{OPENFOOTBALL_ROOT}/players"  # players
+
+
 
 #########################
 # national teams
@@ -32,11 +36,25 @@ CLUBS_INCLUDE_PATH       = "#{OPENFOOTBALL_ROOT}/clubs"
 
 AT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/at-austria"
 DE_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/de-deutschland"
-EN_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/eng-england"       ## fix: change to ENG_INCLUDE_...
+ENG_INCLUDE_PATH         = "#{OPENFOOTBALL_ROOT}/eng-england"       ## Note: changed to ENG_INCLUDE_... (from EN_)
 ES_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/es-espana"
 IT_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/it-italy"
 FR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/fr-france"
+RU_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/ru-russia"
 CH_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/ch-confoederatio-helvetica"
+
+
+### todo/fix: add more path - used by ???
+OPENFOOTBALL_PATHS = [
+  AT_INCLUDE_PATH,
+  DE_INCLUDE_PATH,
+  ENG_INCLUDE_PATH,
+  ES_INCLUDE_PATH,
+  IT_INCLUDE_PATH,
+###  RU_INCLUDE_PATH,
+]
+
+
 
 
 EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/europe-champions-league"
