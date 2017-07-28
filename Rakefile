@@ -1,5 +1,5 @@
-#######################################
-# build script (Ruby make)
+#############################################
+# build script (ruby make) for football.db
 #
 #  use:
 #   $ rake   or
@@ -10,12 +10,24 @@
 #   $ rake -T        - show all tasks
 
 
+
+
+
+
+
+
+
 $RUBYLIBS_DEBUG = true
 
+
+require 'json'
+
 # 3rd party libs/gems
-require 'worlddb'   ## todo/check: just require worlddb/models - why, why not??
-require 'sportdb'   ## todo/check: just require sportdb/models - why, why not??
+require 'worlddb/models'   ## todo/check: just require worlddb/models - why, why not??
+require 'sportdb/models'   ## todo/check: just require sportdb/models - why, why not??
 require 'logutils/activerecord' ## add db logging
+
+
 
 
 BUILD_DIR = "./build"
@@ -26,9 +38,47 @@ require './settings'
 require './scripts/stats'
 require './scripts/standings'
 
+# our own code
+require './scripts/up/rake'
+
+require './scripts/up/logs'
+require './scripts/up/standings'
+require './scripts/up/stats'
+require './scripts/up/team'
+
+require './scripts/up/sport'
+require './scripts/up/json'
+
+
+##  todo: move to settings - why? why not?
+JSON_REPO_PATH = "#{OPENFOOTBALL_ROOT}/football.json"   ## football.json repo path
+
+
+
+
+
+# note:
+#   uses (configured) for SQLite in-memory database
+#      e.g. there's no BUILD_DIR (and database on the file system)
+#
+
+# DB_CONFIG = {
+#   adapter:   'sqlite3',
+#   database:  ':memory:'
+# }
+
+###
+# for testing/debuggin change to file
+
+# DB_CONFIG = {
+#  adapter:   'sqlite3',
+#  database:  './build/sport.db'
+#}
+
+
 
 ## load database config from external file (easier to configure/change)
-DB_HASH   = YAML.load( ERB.new( File.read( './database.yml' )).result ) 
+DB_HASH   = YAML.load( ERB.new( File.read( './database.yml' )).result )
 DB_CONFIG = DB_HASH[ 'default' ]    ## for now just always use default section/entry
 
 
@@ -54,8 +104,11 @@ task :env => BUILD_DIR do
   pp DB_CONFIG
   ActiveRecord::Base.establish_connection( DB_CONFIG )
 
-  db_adapter = DB_CONFIG[ 'adapter' ]
-  if db_adapter == 'sqlite3'
+  db_adapter  = DB_CONFIG[ 'adapter' ]   || DB_CONFIG[ :adapter ]
+  db_database = DB_CONFIG[ 'database' ]  || DB_CONFIG[ :database ]
+
+  if db_adapter == 'sqlite3' && db_database != ':memory:'
+    puts "*** sqlite3 database on filesystem; try speedup..."
     ## try to speed up sqlite
     ## see http://www.sqlite.org/pragma.html
     c = ActiveRecord::Base.connection
@@ -66,19 +119,24 @@ task :env => BUILD_DIR do
 end
 
 
+
+
 task :config  => :env  do
   logger = LogUtils::Logger.root
   # logger.level = :info
 
   ## log all warns, errors, fatals to db
   LogDb.setup
-  logger.warn "Rakefile - #{Time.now}"  # say hello; log to db (warn level min)  
+  logger.warn "Rakefile - #{Time.now}"  # say hello; log to db (warn level min)
 end
 
 task :configworld => :config do
   logger = LogUtils::Logger.root
   logger.level = :info
 end
+
+
+
 
 task :configsport => :config do
   logger = LogUtils::Logger.root
@@ -202,4 +260,3 @@ datafiles.each do |datafile|
   end
 
 end
-

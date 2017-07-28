@@ -37,17 +37,20 @@ To get started use the following folder structure and
 clone some datasets with git. Example:
 
 ```
-openmundi/               #  -> create folder (e.g. mkdir openmundi)
+yorobot/                 #  -> create folder (e.g. mkdir yorobot)
+  football.db            #  -> git clone
+openmundi/               #  -> create folder
   world.db               #  -> git clone (see github.com/openmundi)
 openfootball/            #  -> create folder
-  build                  #  -> git clone
-  national-teams         #     ..
+  national-teams         #  -> git clone (see github.com/openfootball)
   world-cup              #     ..
 ```
 
-Start your build (e.g. `rake build`) inside the `openfootball/build` folder.
 
-Note: You can see (and change) all folder references in the [`settings.rb`](https://github.com/openfootball/build/blob/master/settings.rb) script.
+Start your build (e.g. `rake build`) inside the `yorobot/football.db` folder.
+
+
+Note: You can see (and change) all folder references in the [`settings.rb`](settings.rb) script.
 
 
 ## More Examples
