@@ -10,13 +10,6 @@
 #   $ rake -T        - show all tasks
 
 
-
-
-
-
-
-
-
 $RUBYLIBS_DEBUG = true
 
 
@@ -63,23 +56,24 @@ JSON_REPO_PATH = "#{OPENFOOTBALL_ROOT}/football.json"   ## football.json repo pa
 #
 
 # DB_CONFIG = {
-#   adapter:   'sqlite3',
-#   database:  ':memory:'
+#   'adapter'  => 'sqlite3',
+#   'database' => ':memory:'
 # }
 
 ###
 # for testing/debuggin change to file
+#   note: use string keys (not symbols!!! e.g. 'adapter' NOT adapter: etc.)
 
-# DB_CONFIG = {
-#  adapter:   'sqlite3',
-#  database:  './build/sport.db'
-#}
+DB_CONFIG = {
+  'adapter'  =>  'sqlite3',
+  'database' =>  './build/sport.db'
+}
 
 
 
 ## load database config from external file (easier to configure/change)
-DB_HASH   = YAML.load( ERB.new( File.read( './database.yml' )).result )
-DB_CONFIG = DB_HASH[ 'default' ]    ## for now just always use default section/entry
+## DB_HASH   = YAML.load( ERB.new( File.read( './database.yml' )).result )
+## DB_CONFIG = DB_HASH[ 'default' ]    ## for now just always use default section/entry
 
 
 
@@ -89,8 +83,8 @@ directory BUILD_DIR
 
 
 task :clean do
-  db_adapter  = DB_CONFIG[ 'adapter' ]   || DB_CONFIG[ :adapter ]
-  db_database = DB_CONFIG[ 'database' ]  || DB_CONFIG[ :database ]
+  db_adapter  = DB_CONFIG[ 'adapter' ]
+  db_database = DB_CONFIG[ 'database' ]
 
   ### for sqlite3 delete/remove single-file database
   if db_adapter == 'sqlite3' && db_database != ':memory:'
@@ -102,12 +96,13 @@ task :clean do
 end
 
 
+
 task :env => BUILD_DIR do
   pp DB_CONFIG
   ActiveRecord::Base.establish_connection( DB_CONFIG )
 
-  db_adapter  = DB_CONFIG[ 'adapter' ]   || DB_CONFIG[ :adapter ]
-  db_database = DB_CONFIG[ 'database' ]  || DB_CONFIG[ :database ]
+  db_adapter  = DB_CONFIG[ 'adapter' ]
+  db_database = DB_CONFIG[ 'database' ]
 
   if db_adapter == 'sqlite3' && db_database != ':memory:'
     puts "*** sqlite3 database on filesystem; try speedup..."
