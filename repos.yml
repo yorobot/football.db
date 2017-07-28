@@ -1,0 +1,24 @@
+####################
+#  checkout skripts (auto-update machinery)
+yorobot:
+- football.db      ## incl. self
+- logs
+
+
+####################
+# world.db - open mundi
+openmundi:
+- world.db
+
+#####################
+# football.db - open football
+openfootball:
+- at-austria
+- eng-england
+- de-deutschland
+- es-espana
+- it-italy
+- ru-russia
+
+opendatajson:
+- football.json

@@ -1,0 +1,37 @@
+####################
+#  checkout skripts (auto-update machinery)
+yorobot:
+- setup
+- backup
+- logs
+- football.db
+- football.db.rsssf
+- factbook.json
+
+
+####################
+# world.db - open mundi
+openmundi:
+- world.db
+
+#####################
+# football.db - open football
+openfootball:
+- at-austria
+- eng-england
+- de-deutschland
+- es-espana
+- it-italy
+- ru-russia
+- football.json
+
+
+####################################
+# rsssf - football data archives
+rsssf:
+- de-deutschland
+
+#############
+# factbook
+factbook:
+- factbook.json

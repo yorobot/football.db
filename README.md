@@ -8,6 +8,21 @@
 
 Build scripts for football.db, worldcup.db, bundesliga.db, etc.
 
+
+## Setup Skripts
+
+Use
+
+```
+$ ruby ./setup.rb
+```
+
+to setup (sync e.g. clone/pull) all repos to the `/src` folder.
+
+TODO: Change to `/Sites folder` - why? why not? or use `../..`
+
+
+
 ## Usage
 
 Use `rake -T`  to list all available tasks. Example:
