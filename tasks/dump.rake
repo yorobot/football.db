@@ -25,18 +25,19 @@ task :dump => :env do
 end
 
 
-task :recalc => :env do
-  recalc_groups!
-end
-
+#
+# task :recalc => :env do
+#   recalc_groups!
+# end
+#
 
 
 task :check_incomplete => :env do
   ## check for incomplete matches (e.g. incomplete scores)
   games = SportDb::Model::Game.order(:id)
-  
+
   count = 0
-  
+
   games.each do |game|
     if game.complete?
       print '.'
@@ -134,7 +135,7 @@ def dump_event( event )
     buf << "## #{event.season.title} #{event.league.title}  "
     buf << "|  #{event.teams.count} Teams"
     buf << ", #{event.games.count} Matches"
-    
+
     score1 = event.games.sum(:score1 )
     score2 = event.games.sum(:score2 )
     score1et = event.games.sum(:score1et )
@@ -207,7 +208,7 @@ def dump_game( game )
 
   buf << "%6s  " % "#{game.play_at.strftime("%b %d")}"
   # buf << "%12s " % "#{game.play_at.strftime("%b %d, %Y")}"
-  
+
   buf << "%-42s " % "#{game.team1.title} (#{game.team1.code}) - #{game.team2.title} (#{game.team2.code})"
 
   ## fix/change - print  4-4nV first

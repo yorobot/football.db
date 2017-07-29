@@ -43,11 +43,6 @@ require './scripts/up/sport'
 require './scripts/up/json'
 
 
-##  todo: move to settings - why? why not?
-JSON_REPO_PATH = "#{OPENFOOTBALL_ROOT}/football.json"   ## football.json repo path
-
-
-
 
 
 # note:
@@ -239,14 +234,6 @@ end
 
 
 
-
-
-task :deletesport => :env do
-  SportDb.delete!
-end
-
-
-
 desc 'build football.db from scratch (default)'
 ## task :build => [:clean, :create, :importworld, :importsport] do
 task :build => [:create, :importworld, :importsport] do    ## note: removed :clean target for now - add back!!
@@ -255,7 +242,9 @@ end
 
 
 
-
+task :deletesport => :env do
+  SportDb.delete!
+end
 
 desc 'update football.db'
 task :update => [:deletesport, :importsport] do
@@ -265,6 +254,7 @@ end
 
 
 
+=begin
 #### auto-add tasks via datafiles
 require './scripts/builder'
 
@@ -293,3 +283,4 @@ datafiles.each do |datafile|
   end
 
 end
+=end

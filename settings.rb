@@ -9,6 +9,13 @@ WORLD_DB_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
 
 
+# --- opendatajson ---
+##  used by json task
+JSON_REPO_PATH = "../../opendatajson/football.json"   ## football.json repo path
+
+
+
+
 # --- football.db ---
 
 OPENFOOTBALL_ROOT = "../../openfootball"
