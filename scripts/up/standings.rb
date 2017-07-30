@@ -43,6 +43,18 @@ def recalc_standings( event_key_or_keys, opts={} )
     end
   end
 
+
+  ## todo/fix:
+  ##    add flag matrix or results? to make adding matrices/results tables optional
+  buf_results = ""
+  event_keys.each do |event_key|
+    buf_results << "```\n"
+    buf_results << build_results_matrices( event_key )
+    buf_results << "```\n"
+    buf_results << "\n\n"
+  end
+
+
   out_path = "#{out_root}/#{segment}/README.md"
   puts "out_path=>>#{out_path}<<, segment=>>#{segment}<<"
 
@@ -59,6 +71,10 @@ def recalc_standings( event_key_or_keys, opts={} )
     out.puts "---\n"
     out.puts "Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points\n"
     out.puts "\n"
+
+    out.puts "### Results Tables\n"
+    out.puts "\n"
+    out.puts buf_results
   end
 end
 
@@ -67,8 +83,10 @@ end
 def build_standings( standings )
   buf = ""
 
+  ## todo/fix: move ``` to out build_standings / rename to pretty_print_standings-why? why not??
+
   buf << "\n"
-  buf << "~~~\n"
+  buf << "```\n"
   buf << "                                        - Home -          - Away -            - Total -\n"
   buf << "                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts\n"
 
@@ -102,7 +120,7 @@ def build_standings( standings )
     buf << "\n"
   end
 
-  buf << "~~~\n"
+  buf << "```\n"
   buf << "\n"
   ### buf << "(Source: `#{File.basename(in_path_csv)}`)\n"
   buf << "\n"

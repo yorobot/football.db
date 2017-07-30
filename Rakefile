@@ -35,6 +35,7 @@ require './scripts/standings'
 require './scripts/up/rake'
 
 require './scripts/up/logs'
+require './scripts/up/results'     ## results matrices / tables
 require './scripts/up/standings'
 require './scripts/up/stats'
 require './scripts/up/team'
