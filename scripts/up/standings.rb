@@ -1,6 +1,21 @@
 # encoding: utf-8
 
 
+## todo/fix: move to sportdb/lib/standings !!!!!!!!!!!!!!!
+module SportDb
+class Standings
+   ## rename to setup_teams - why? why not??
+  def setup( teams )   ## setup empty lines for all teams
+    teams.each do |team|
+      ## note: game.team1_name/team2_name is the same as team.name
+     @lines[ team.name ] ||= StandingsLine.new( team.name )
+    end
+  end
+end  # class Standings
+end  # module SportDb
+
+
+
 def recalc_standings( event_key_or_keys, opts={} )
 
   ### fix/todo:
@@ -36,6 +51,7 @@ def recalc_standings( event_key_or_keys, opts={} )
       end
     else
       standings = SportDb::Standings.new
+      standings.setup( event.teams )   ## setup empty (standings) lines for all teams
       standings.update( event.games )
 
       buf << build_standings( standings )
@@ -87,23 +103,17 @@ def build_standings( standings )
 
   buf << "\n"
   buf << "```\n"
-  buf << "                                        - Home -          - Away -            - Total -\n"
-  buf << "                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts\n"
+  buf << "                                        - Total -                  - Home -          - Away -     \n"
+  buf << "                                 Pld   W  D  L   F:A   +/-  Pts   W  D  L   F:A     W  D  L   F:A\n"
 
   standings.to_a.each do |l|
     buf << '%2d. '  % l.rank
     buf << '%-28s  ' % l.team_name
     buf << '%2d  '     % l.played
 
-    buf << '%2d '      % l.home_won
-    buf << '%2d '      % l.home_drawn
-    buf << '%2d '      % l.home_lost
-    buf << '%3d:%-3d  ' % [l.home_goals_for,l.home_goals_against]
-
-    buf << '%2d '       % l.away_won
-    buf << '%2d '       % l.away_drawn
-    buf << '%2d '       % l.away_lost
-    buf << '%3d:%-3d  ' % [l.away_goals_for,l.away_goals_against]
+    buf << '%2d ' % l.won
+    buf << '%2d ' % l.drawn
+    buf << '%2d ' % l.lost
 
     buf << '%3d:%-3d ' % [l.goals_for,l.goals_against]
 
@@ -116,7 +126,19 @@ def build_standings( standings )
       buf << '     '
     end
 
-    buf << '%3d'       % l.pts
+    buf << '%3d  '       % l.pts
+
+
+    buf << '%2d '      % l.home_won
+    buf << '%2d '      % l.home_drawn
+    buf << '%2d '      % l.home_lost
+    buf << '%3d:%-3d  ' % [l.home_goals_for,l.home_goals_against]
+
+    buf << '%2d '       % l.away_won
+    buf << '%2d '       % l.away_drawn
+    buf << '%2d '       % l.away_lost
+    buf << '%3d:%-3d' % [l.away_goals_for,l.away_goals_against]
+
     buf << "\n"
   end
 

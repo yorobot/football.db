@@ -12,7 +12,7 @@ task :en18 => :importbuiltin do
 
   out_root = debug? ? './build/eng-england' : ENG_INCLUDE_PATH
 
-  [['en.2017/18']].each do |event_key|
+  ['en.2017/18'].each do |event_key|
      recalc_standings( event_key, out_root: out_root  )
      ## recalc_stats( out_root: out_root )
   end

@@ -18,7 +18,7 @@ def pretty_print_results_matrix( team_idx, matrix )  # pretty print results matr
    buf = ""
 
    ### pretty print
-   line = "Home \\ Away        "
+   line = "Home \\ Away           "
    team_idx.values.each do |t|
      line << "%-#{w}.#{w}s" % t[2]   ## print code (min/max 3 letters - right padded)
    end
@@ -28,17 +28,19 @@ def pretty_print_results_matrix( team_idx, matrix )  # pretty print results matr
 
    matrix.each_with_index do |row,i|
      t = team_idx.values[i]
-     name =  "%.12s " % t[1]     ## print name (max 12 letters)
-     name << "(%.3s)" % t[2]     ## print code (max 3 letters)
+     name =  "%.15s" % t[1]     ## print name (max 15 letters)
+     name = name.strip  # remove possible trailing space
+     name << " (%.3s)" % t[2]     ## print code (max 3 letters)
 
-     line = "%-18.18s " % name    ## print min/max 18 letters - right padded
+     ## print min/max 21 = 15(name)+1(space)+3(code)+2(parens) letters - right padded
+     line = "%-21.21s " % name
 
      row.each_with_index do |score,j|
        if i == j
           line << "%-#{w}.#{w}s" % ' *'    # home == away team
        else
          if score.nil?
-           line << "%-#{w}.#{w}s" % '??'
+           line << "%-#{w}.#{w}s" % ' ?'
          else
            line << "%-#{w}.#{w}s" % score
          end
@@ -105,7 +107,12 @@ def build_results_matrices( event_key )
 
         home_idx = home[0]  ## first array entry is the zero-based index (0-n)
         away_idx = away[0]
-        score    = "#{game.score1}-#{game.score2}"
+
+        if game.score1.nil? && game.score2.nil?
+          score = game.over? ? nil : ''     # note: if game not yet over - return empty string (NOT nil)
+        else
+          score = "#{game.score1}-#{game.score2}"
+        end
 
         puts "    adding [#{home_idx}][#{away_idx}]  #{score}"
 
