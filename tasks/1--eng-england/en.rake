@@ -3,6 +3,23 @@ task :en => :importbuiltin do
   SportDb.read_setup( 'setups/all', ENG_INCLUDE_PATH )
 end
 
+
+## for testing (new) 2017/18 season
+##  use:
+##   rake clean create importworld en18
+task :en18 => :importbuiltin do
+  SportDb.read_setup( 'setups/2017-18', ENG_INCLUDE_PATH )
+
+  out_root = debug? ? './build/eng-england' : ENG_INCLUDE_PATH
+
+  [['en.2017/18']].each do |event_key|
+     recalc_standings( event_key, out_root: out_root  )
+     ## recalc_stats( out_root: out_root )
+  end
+end
+
+
+
 ## create a summary (README.md) page for all clubs
 task :en_index do       ### rename to en_index or en_clubs_index  or something ???
   clubs_dir = "#{ENG_INCLUDE_PATH}/clubs"
@@ -60,7 +77,6 @@ end
 
 
 
-
 task :recalc_en => :configsport do
   out_root = debug? ? './build/eng-england' : ENG_INCLUDE_PATH
 
@@ -68,7 +84,9 @@ task :recalc_en => :configsport do
    'en.2013/14',
    'en.2014/15',
    'en.2015/16',
-   'en.2016/17',].each do |event_key|
+   'en.2016/17',
+   'en.2017/18',
+  ].each do |event_key|
      recalc_standings( event_key, out_root: out_root )
      ## recalc_stats( out_root: out_root )
   end

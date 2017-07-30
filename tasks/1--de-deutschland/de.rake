@@ -4,6 +4,22 @@ task :de => :importbuiltin do
 end
 
 
+## for testing (new) 2017/18 season
+##  use:
+##   rake clean create importworld de18
+task :de18 => :importbuiltin do
+  SportDb.read_setup( 'setups/2017-18', DE_INCLUDE_PATH )
+
+  out_root = debug? ? './build/de-deutschland' : DE_INCLUDE_PATH
+
+  [['de.2017/18', 'de.2.2017/18', 'de.3.2017/18']].each do |event_key|
+     recalc_standings( event_key, out_root: out_root  )
+     ## recalc_stats( out_root: out_root )
+  end
+end
+
+
+
 ## create a summary (README.md) page for all clubs
 task :de_index do   ### rename to de_index or de_clubs_index  or something ???
   clubs_dir = "#{DE_INCLUDE_PATH}/clubs"
@@ -68,7 +84,8 @@ task :recalc_de => :configsport do
    ['de.2013/14', 'de.2.2013/14'],
    ['de.2014/15', 'de.2.2014/15'],
    ['de.2015/16', 'de.2.2015/16', 'de.3.2015/16'],
-   ['de.2016/17', 'de.2.2016/17', 'de.3.2016/17']].each do |event_key|
+   ['de.2016/17', 'de.2.2016/17', 'de.3.2016/17'],
+   ['de.2017/18', 'de.2.2017/18', 'de.3.2017/18']].each do |event_key|
      recalc_standings( event_key, out_root: out_root )
      ## recalc_stats( out_root: out_root )
   end
