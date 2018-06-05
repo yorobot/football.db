@@ -8,3 +8,10 @@ end
 
 task :recalc_worldcup2018 => :configsport do
 end
+
+
+task :json_worldcup2018 => :configsport  do       ## for in-memory depends on all for now - ok??
+  out_root = debug? ? './build' : WORLD_CUP_JSON_REPO_PATH
+
+  gen_json_worldcup( 'world',   out_root: out_root )
+end

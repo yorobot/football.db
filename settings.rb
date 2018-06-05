@@ -63,8 +63,9 @@ COPA_SUDAMERICANA_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/copa-sudamer
 # --- (generated) json datasets ---
 
 ##  used by json task
-JSON_REPO_PATH = "#{OPENFOOTBALL_ROOT}/football.json"   ## football.json repo path
-
+FOOTBALL_JSON_REPO_PATH = "#{OPENFOOTBALL_ROOT}/football.json"   ## football.json repo path
+JSON_REPO_PATH = FOOTBALL_JSON_REPO_PATH        ## todo/fix: remove "old" shortcut
+WORLD_CUP_JSON_REPO_PATH = "#{OPENFOOTBALL_ROOT}/world-cup.json"
 
 
 
