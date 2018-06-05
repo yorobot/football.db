@@ -9,12 +9,6 @@ WORLD_DB_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
 
 
-# --- opendatajson ---
-##  used by json task
-JSON_REPO_PATH = "../../opendatajson/football.json"   ## football.json repo path
-
-
-
 
 # --- football.db ---
 
@@ -62,6 +56,14 @@ BR_INCLUDE_PATH          = "#{OPENFOOTBALL_ROOT}/br-brazil"
 NORTH_AMERICA_CHAMPIONS_LEAGUE_INCLUDE_PATH = "#{OPENFOOTBALL_ROOT}/north-america-champions-league"
 COPA_LIBERTADORES_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/copa-libertadores"
 COPA_SUDAMERICANA_INCLUDE_PATH              = "#{OPENFOOTBALL_ROOT}/copa-sudamericana"
+
+
+
+#################################
+# --- (generated) json datasets ---
+
+##  used by json task
+JSON_REPO_PATH = "#{OPENFOOTBALL_ROOT}/football.json"   ## football.json repo path
 
 
 

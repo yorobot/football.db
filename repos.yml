@@ -13,12 +13,15 @@ openmundi:
 #####################
 # football.db - open football
 openfootball:
+## add clubs
 - at-austria
 - eng-england
 - de-deutschland
 - es-espana
 - it-italy
 - ru-russia
-
-opendatajson:
+## add (national teams) world cup
+- national-teams
+- world-cup
+## add (auto-generated) json datasets
 - football.json
