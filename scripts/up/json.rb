@@ -26,7 +26,6 @@ def gen_json( league_key, opts={} )
      puts "teams.count: #{event.teams.count}"
      puts "rounds.count: #{event.rounds.count}"
 
-
      clubs = []
      event.teams.each do |team|
        clubs << { key:  team.key, name: team.title, code: team.code }
@@ -113,6 +112,23 @@ def gen_json_worldcup( league_key, opts={} )
      puts "teams.count: #{event.teams.count}"
      puts "rounds.count: #{event.rounds.count}"
      puts "groups.count: #{event.groups.count}"
+     puts "grounds.count: #{event.grounds.count}"
+
+
+     grounds = []
+     event.grounds.each do |ground|
+        grounds << { key:      ground.key,
+                     name:     ground.title,
+                     capacity: ground.capacity,
+                     city:     ground.city.name }
+     end
+
+     hash_grounds = {
+      name:     event.title,
+      stadiums: grounds
+     }
+
+     pp hash_grounds
 
 
      teams = []
@@ -126,6 +142,34 @@ def gen_json_worldcup( league_key, opts={} )
      }
 
      pp hash_teams
+
+
+     standings = []
+     event.groups.each do |group|
+       entries = []
+       group_standing = SportDb::Model::GroupStanding.find_by!( group_id: group.id )
+       group_standing.entries.each do |entry|
+          entries << { team: { key: entry.team.key, name: entry.team.name, code: entry.team.code },
+                       rank:          entry.pos,
+                       played:        entry.played,
+                       won:           entry.won,
+                       drawn:         entry.drawn,
+                       lost:          entry.lost,
+                       goals_for:     entry.goals_for,
+                       goals_against: entry.goals_against,
+                       pts:           entry.pts
+                     }
+        end
+        standings << { name: group.title, standings: entries }
+     end
+
+     hash_standings = {
+      name:   event.title,
+      groups: standings
+     }
+
+     pp hash_standings
+
 
 
      groups = []
@@ -177,7 +221,7 @@ def gen_json_worldcup( league_key, opts={} )
                       score2p:   game.score2p,   # penalty  - team 2 (opt) elfmeter (opt)
                       knockout:  game.knockout,
                       group:     game.group  ? game.group.title : nil,
-                      ground:    game.ground ? ({ name: game.ground, city: game.ground.city.name }) : nil }
+                      stadium:    game.ground ? ({ key: game.ground.key, name: game.ground.title, city: game.ground.city.name }) : nil }
        end
 
        rounds << { name: round.title, matches: matches }
@@ -205,12 +249,20 @@ def gen_json_worldcup( league_key, opts={} )
      ## make sure folders exist
      FileUtils.mkdir_p( out_dir ) unless Dir.exists?( out_dir )
 
+     File.open( "#{out_dir}/#{league_basename}.stadiums.json", 'w' ) do |f|
+       f.write JSON.pretty_generate( hash_grounds )
+     end
+
      File.open( "#{out_dir}/#{league_basename}.teams.json", 'w' ) do |f|
        f.write JSON.pretty_generate( hash_teams )
      end
 
      File.open( "#{out_dir}/#{league_basename}.groups.json", 'w' ) do |f|
        f.write JSON.pretty_generate( hash_groups )
+     end
+
+     File.open( "#{out_dir}/#{league_basename}.standings.json", 'w' ) do |f|
+       f.write JSON.pretty_generate( hash_standings )
      end
 
      File.open( "#{out_dir}/#{league_basename}.json", 'w' ) do |f|

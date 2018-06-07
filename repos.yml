@@ -23,6 +23,8 @@ openfootball:
 ## add (national teams) world cup
 - national-teams
 - world-cup
+## add more (stadiums, etc.)
+- stadiums
 ## add (auto-generated) json datasets
 - football.json
 - world-cup.json
