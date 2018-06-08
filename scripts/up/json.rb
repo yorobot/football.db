@@ -133,7 +133,23 @@ def gen_json_worldcup( league_key, opts={} )
 
      teams = []
      event.teams.each do |team|
-       teams << { key:  team.key, name: team.title, code: team.code }
+       if team.country.assoc
+         parents = []
+         team.country.assoc.parent_assocs do |parent|
+           parents << { key: parent.key, name: parent.title }
+         end
+         assoc = { key:     team.country.assoc.key,
+                   name:    team.country.assoc.title,
+                   parents: parents
+                 }
+       else
+         assoc = {}
+       end
+       teams << { key:       team.key,
+                  name:      team.title,
+                  code:      team.code,
+                  continent: team.country.continent.name,
+                  assoc:     assoc }
      end
 
      hash_teams = {
@@ -144,6 +160,7 @@ def gen_json_worldcup( league_key, opts={} )
      pp hash_teams
 
 
+=begin
      standings = []
      event.groups.each do |group|
        entries = []
@@ -169,7 +186,7 @@ def gen_json_worldcup( league_key, opts={} )
      }
 
      pp hash_standings
-
+=end
 
 
      groups = []
@@ -261,9 +278,9 @@ def gen_json_worldcup( league_key, opts={} )
        f.write JSON.pretty_generate( hash_groups )
      end
 
-     File.open( "#{out_dir}/#{league_basename}.standings.json", 'w' ) do |f|
-       f.write JSON.pretty_generate( hash_standings )
-     end
+#     File.open( "#{out_dir}/#{league_basename}.standings.json", 'w' ) do |f|
+#       f.write JSON.pretty_generate( hash_standings )
+#     end
 
      File.open( "#{out_dir}/#{league_basename}.json", 'w' ) do |f|
        f.write JSON.pretty_generate( hash_matches )

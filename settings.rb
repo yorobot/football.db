@@ -9,13 +9,13 @@ WORLD_DB_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
 
 
-
 # --- football.db ---
 
 OPENFOOTBALL_ROOT = "../../openfootball"
 
 STADIUMS_INCLUDE_PATH  = "#{OPENFOOTBALL_ROOT}/stadiums" # stadiums
 PLAYERS_INCLUDE_PATH   = "#{OPENFOOTBALL_ROOT}/players"  # players
+ASSOCS_INCLUDE_PATH    = "#{OPENFOOTBALL_ROOT}/assocs"   # assocs
 
 
 
