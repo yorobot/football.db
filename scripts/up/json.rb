@@ -120,7 +120,8 @@ def gen_json_worldcup( league_key, opts={} )
         grounds << { key:      ground.key,
                      name:     ground.title,
                      capacity: ground.capacity,
-                     city:     ground.city.name }
+                     city:     ground.city.name,
+                     timezone: '?' }
      end
 
      hash_grounds = {
@@ -145,8 +146,7 @@ def gen_json_worldcup( league_key, opts={} )
        else
          assoc = {}
        end
-       teams << { key:       team.key,
-                  name:      team.title,
+       teams << { name:      team.title,
                   code:      team.code,
                   continent: team.country.continent.name,
                   assoc:     assoc }
@@ -160,22 +160,23 @@ def gen_json_worldcup( league_key, opts={} )
      pp hash_teams
 
 
-=begin
      standings = []
      event.groups.each do |group|
        entries = []
-       group_standing = SportDb::Model::GroupStanding.find_by!( group_id: group.id )
-       group_standing.entries.each do |entry|
-          entries << { team: { key: entry.team.key, name: entry.team.name, code: entry.team.code },
-                       rank:          entry.pos,
-                       played:        entry.played,
-                       won:           entry.won,
-                       drawn:         entry.drawn,
-                       lost:          entry.lost,
-                       goals_for:     entry.goals_for,
-                       goals_against: entry.goals_against,
-                       pts:           entry.pts
-                     }
+       group_standing = SportDb::Model::GroupStanding.find_by( group_id: group.id )
+       if group_standing
+         group_standing.entries.each do |entry|
+            entries << { team: { name: entry.team.name, code: entry.team.code },
+                         pos:           entry.pos,
+                         played:        entry.played,
+                         won:           entry.won,
+                         drawn:         entry.drawn,
+                         lost:          entry.lost,
+                         goals_for:     entry.goals_for,
+                         goals_against: entry.goals_against,
+                         pts:           entry.pts
+                       }
+          end
         end
         standings << { name: group.title, standings: entries }
      end
@@ -186,15 +187,13 @@ def gen_json_worldcup( league_key, opts={} )
      }
 
      pp hash_standings
-=end
 
 
      groups = []
      event.groups.each do |group|
        teams  = []
        group.teams.each do |team|
-         teams << { key:  team.key,
-                    name: team.title,
+         teams << { name: team.title,
                     code: team.code
                   }
        end
@@ -219,12 +218,10 @@ def gen_json_worldcup( league_key, opts={} )
                       date: game.play_at.strftime( '%Y-%m-%d'),
                       time: game.play_at.strftime( '%H:%M'),
                       team1: {
-                        key:  game.team1.key,
                         name: game.team1.title,
                         code: game.team1.code
                       },
                       team2: {
-                        key:  game.team2.key,
                         name: game.team2.title,
                         code: game.team2.code
                       },
@@ -238,7 +235,10 @@ def gen_json_worldcup( league_key, opts={} )
                       score2p:   game.score2p,   # penalty  - team 2 (opt) elfmeter (opt)
                       knockout:  game.knockout,
                       group:     game.group  ? game.group.title : nil,
-                      stadium:    game.ground ? ({ key: game.ground.key, name: game.ground.title, city: game.ground.city.name }) : nil }
+                      stadium:   game.ground ? ({ key: game.ground.key, name: game.ground.title}) : nil,
+                      city:      game.ground ? game.ground.city.name : nil,
+                      timezone:  '?'
+                    }
        end
 
        rounds << { name: round.title, matches: matches }
@@ -278,9 +278,9 @@ def gen_json_worldcup( league_key, opts={} )
        f.write JSON.pretty_generate( hash_groups )
      end
 
-#     File.open( "#{out_dir}/#{league_basename}.standings.json", 'w' ) do |f|
-#       f.write JSON.pretty_generate( hash_standings )
-#     end
+     File.open( "#{out_dir}/#{league_basename}.standings.json", 'w' ) do |f|
+       f.write JSON.pretty_generate( hash_standings )
+     end
 
      File.open( "#{out_dir}/#{league_basename}.json", 'w' ) do |f|
        f.write JSON.pretty_generate( hash_matches )
