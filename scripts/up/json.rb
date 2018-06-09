@@ -98,6 +98,43 @@ end
 ####
 # todo/fix: move to its own file????
 
+
+## hack: for timezone (add timezone to city - fix/fix/fix)
+
+CITY_TO_TIMEZONE = {
+  ## brazil 2014
+  'Rio de Janeiro'   => 'UTC-3',
+  'Brasília'         => 'UTC-3',
+  'São Paulo'        => 'UTC-3',
+  'Fortaleza'        => 'UTC-3',
+  'Belo Horizonte'   => 'UTC-3',
+  'Salvador'         => 'UTC-3',
+  'Natal'            => 'UTC-3',
+  'Porto Alegre'     => 'UTC-3',
+  'Recife'           => 'UTC-3',
+  'Curitiba'         => 'UTC-3',
+  'Cuiabá'           => 'UTC-4',
+  'Manaus'           => 'UTC-4',
+  ## russia 2018
+  'Kaliningrad'      => 'UTC+2',
+  'Nizhny Novgorod'  => 'UTC+3',
+  'Volgograd'        => 'UTC+3',
+  'Saransk'          => 'UTC+3',
+  'Rostov-on-Don'    => 'UTC+3',
+  'Kazan'            => 'UTC+3',
+  'Sochi'            => 'UTC+3',
+  'Saint Petersburg' => 'UTC+3',
+  'Moscow'           => 'UTC+3',
+  'Samara'           => 'UTC+4',
+  'Ekaterinburg'     => 'UTC+5',
+}
+
+def city_to_timezone( city )
+  CITY_TO_TIMEZONE[ city ] || '?'
+end
+
+
+
 def gen_json_worldcup( league_key, opts={} )
 
   out_root = opts[:out_root] || './build'
@@ -121,7 +158,7 @@ def gen_json_worldcup( league_key, opts={} )
                      name:     ground.title,
                      capacity: ground.capacity,
                      city:     ground.city.name,
-                     timezone: '?' }
+                     timezone: city_to_timezone( ground.city.name ) }
      end
 
      hash_grounds = {
@@ -208,13 +245,11 @@ def gen_json_worldcup( league_key, opts={} )
      pp hash_groups
 
 
-
-
      rounds = []
      event.rounds.each do |round|
        matches = []
        round.games.each do |game|
-         matches << { num:  game.pos,
+         m = {        num:  game.pos,    ## use id - why? why not?
                       date: game.play_at.strftime( '%Y-%m-%d'),
                       time: game.play_at.strftime( '%H:%M'),
                       team1: {
@@ -229,16 +264,45 @@ def gen_json_worldcup( league_key, opts={} )
                       score2:    game.score2,
                       score1i:   game.score1i,   # half time / first third (opt)
                       score2i:   game.score2i,   # half time - team 2
-                      score1et:  game.score1et,  # extratime - team 1 (opt)
-                      score2et:  game.score2et,  # extratime - team 2 (opt)
-                      score1p:   game.score1p,   # penalty  - team 1 (opt)
-                      score2p:   game.score2p,   # penalty  - team 2 (opt) elfmeter (opt)
-                      knockout:  game.knockout,
-                      group:     game.group  ? game.group.title : nil,
-                      stadium:   game.ground ? ({ key: game.ground.key, name: game.ground.title}) : nil,
-                      city:      game.ground ? game.ground.city.name : nil,
-                      timezone:  '?'
-                    }
+                }
+
+                if game.knockout
+                  m[ :score1et ] = game.score1et  # extratime - team 1 (opt)
+                  m[ :score2et ] = game.score2et  # extratime - team 2 (opt)
+                  m[ :score1p  ] = game.score1p   # penalty  - team 1 (opt)
+                  m[ :score2p  ] = game.score2p   # penalty  - team 2 (opt) elfmeter (opt)
+                  m[ :knockout ] = game.knockout
+                end
+
+                unless game.goals.empty?
+                  goals = []
+                  game.goals.each do |goal|
+                    team = SportDb::Model::Team.find( goal.team_id )   ## fix: add activerecord assoc to model!!!!
+                    g = { name:   goal.person.name,
+                          team:   { name: team.title, code: team.code },
+                          minute: goal.minute,
+                        }
+                    g[:offset]  = goal.offset     if goal.offset != 0
+                    g[:score1]  = goal.score1
+                    g[:score2]  = goal.score2
+                    g[:penalty] = goal.penalty    if goal.penalty
+                    g[:owngoal] = goal.owngoal    if goal.owngoal
+                    goals << g
+                  end
+                  m[ :goals ] = goals
+                end
+
+                if game.group
+                  m[ :group ]    =  game.group.title
+                end
+
+                if game.ground
+                  m[ :stadium  ] = { key: game.ground.key, name: game.ground.title }
+                  m[ :city     ] = game.ground.city.name
+                  m[ :timezone ] = city_to_timezone( game.ground.city.name )
+                end
+
+          matches << m
        end
 
        rounds << { name: round.title, matches: matches }
