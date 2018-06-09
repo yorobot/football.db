@@ -54,6 +54,37 @@ task :recalc_worldcup => :configsport do
 end
 
 
+def dump_assoc( assoc )
+  puts "parent assocs: #{assoc.parent_assocs.count}"
+  puts "all (member) assocs: #{assoc.all_assocs.count}"
+  puts "sub (member) assocs: #{assoc.sub_assocs.count}"
+  puts "national assocs: #{assoc.national_assocs.count}"
+
+  assoc.parent_assocs.each do |parent|
+    puts "  parent: #{parent.title} intercont/#{parent.intercontinental}, cont/#{parent.continental}, nat/#{parent.national}"
+  end
+end
+
+task :testassoc => :configsport  do
+  puts "testing assocs"
+  fifa = SportDb::Model::Assoc.find( 1 )
+  pp fifa
+  dump_assoc( fifa )
+
+  de = WorldDb::Model::Country.find_by!( key: 'de' )
+  dfb = de.assoc
+  pp dfb
+  dump_assoc( dfb )
+
+  eg = WorldDb::Model::Country.find_by!( key: 'eg' )
+  egg = eg.assoc
+  pp egg
+  dump_assoc( egg )
+
+end
+
+
+
 task :json_worldcup => :configsport  do       ## for in-memory depends on all for now - ok??
   out_root = debug? ? './build' : WORLD_CUP_JSON_REPO_PATH
 

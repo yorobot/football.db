@@ -172,21 +172,28 @@ def gen_json_worldcup( league_key, opts={} )
      teams = []
      event.teams.each do |team|
        if team.country.assoc
-         parents = []
-         team.country.assoc.parent_assocs do |parent|
-           parents << { key: parent.key, name: parent.title }
+         continental = {}
+         team.country.assoc.parent_assocs.each do |parent|
+           ## next if parent.key == 'fifa'  ## skip fifa
+           ##  todo/fix: only include / use (single) continental (parent) org/assoc
+           ##  find/use continental parent only for now
+           if ['caf', 'afc', 'concacaf', 'uefa', 'conmebol', 'ofc'].include? parent.key
+             continental = { name: parent.title,
+                             code: parent.key.upcase }
+           end
          end
-         assoc = { key:     team.country.assoc.key,
-                   name:    team.country.assoc.title,
-                   parents: parents
+         assoc = { key:          team.country.assoc.key,
+                   name:         team.country.assoc.title,
                  }
+         assoc[ :continental ] = continental   unless continental.empty?
        else
          assoc = {}
        end
-       teams << { name:      team.title,
-                  code:      team.code,
-                  continent: team.country.continent.name,
-                  assoc:     assoc }
+       t = { name:      team.title,
+             code:      team.code,
+             continent: team.country.continent.name }
+       t[ :assoc ] = assoc   unless assoc.empty?
+       teams << t
      end
 
      hash_teams = {
