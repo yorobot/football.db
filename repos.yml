@@ -14,12 +14,17 @@ openmundi:
 # football.db - open football
 openfootball:
 ## add clubs
+- clubs
 - at-austria
 - eng-england
 - de-deutschland
 - es-espana
 - it-italy
 - ru-russia
+- fr-france
+- ch-confoederatio-helvetica
+## add club cups
+- europe-champions-league
 ## add (national teams) world cup
 - national-teams
 - world-cup

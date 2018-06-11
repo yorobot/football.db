@@ -8,6 +8,7 @@ LEAGUE_TO_BASENAME = {
   'es'    => 'es.1',
   'it'    => 'it.1',
   'world' => 'worldcup',
+  'cl'    => 'cl',    ## keep cl as is :-)
 }
 
 
@@ -351,6 +352,131 @@ def gen_json_worldcup( league_key, opts={} )
 
      File.open( "#{out_dir}/#{league_basename}.standings.json", 'w' ) do |f|
        f.write JSON.pretty_generate( hash_standings )
+     end
+
+     File.open( "#{out_dir}/#{league_basename}.json", 'w' ) do |f|
+       f.write JSON.pretty_generate( hash_matches )
+     end
+  end
+
+end
+
+
+
+###
+##  fix/todo: move to its own file e.g. json_clubs_intl - why? why not?
+
+def gen_json_clubs_intl( league_key, opts={} )
+
+  out_root = opts[:out_root] || './build'
+
+  league = SportDb::Model::League.find_by_key!( league_key )
+
+  league.events.each do |event|
+     puts "** event:"
+     pp event.title
+     pp event.season
+     pp event.league
+     puts "teams.count: #{event.teams.count}"
+     puts "rounds.count: #{event.rounds.count}"
+     puts "groups.count: #{event.groups.count}"
+
+
+     clubs = []
+     event.teams.each do |team|
+       clubs << { key:  team.key,
+                  name: team.title,
+                  code: team.code,
+                  country: { key: team.country.key, name: team.country.name }
+                }
+     end
+
+     hash_clubs = {
+      name: event.title,
+      clubs: clubs
+     }
+
+     pp hash_clubs
+
+
+
+     groups = []
+     event.groups.each do |group|
+       teams  = []
+       group.teams.each do |team|
+         teams << { key:  team.key,
+                    name: team.title,
+                    code: team.code,
+                    country: { key: team.country.key, name: team.country.name }
+                  }
+       end
+       groups << { name: group.title, teams: teams }
+     end
+
+     hash_groups = {
+      name: event.title,
+      groups: groups
+     }
+
+     pp hash_groups
+
+
+
+     rounds = []
+     event.rounds.each do |round|
+       matches = []
+       round.games.each do |game|
+         m = { date: game.play_at.strftime( '%Y-%m-%d'),
+                      team1: {
+                        key:  game.team1.key,
+                        name: game.team1.title,
+                        code: game.team1.code
+                      },
+                      team2: {
+                        key:  game.team2.key,
+                        name: game.team2.title,
+                        code: game.team2.code
+                      },
+                      score1: game.score1,
+                      score2: game.score2  }
+
+          if game.group
+            m[ :group ]  =  game.group.title
+          end
+
+          matches << m
+       end
+
+       rounds << { name: round.title, matches: matches }
+     end
+
+     hash_matches =  {
+       name: event.title,
+       rounds: rounds
+     }
+
+     pp hash_matches
+
+
+     ## build path e.g.
+     ##  2014-15/at.1.clubs.json
+
+     ##  -- check for remapping (e.g. add .1); if not found use league key as is
+     league_basename = LEAGUE_TO_BASENAME[ event.league.key ] || event.league.key
+
+     season_basename = event.season.title.sub('/', '-')  ## e.g. change 2014/15 to 2014-15
+
+
+     out_dir   = "#{out_root}/#{season_basename}"
+     ## make sure folders exist
+     FileUtils.mkdir_p( out_dir ) unless Dir.exists?( out_dir )
+
+     File.open( "#{out_dir}/#{league_basename}.clubs.json", 'w' ) do |f|
+       f.write JSON.pretty_generate( hash_clubs )
+     end
+
+     File.open( "#{out_dir}/#{league_basename}.groups.json", 'w' ) do |f|
+       f.write JSON.pretty_generate( hash_groups )
      end
 
      File.open( "#{out_dir}/#{league_basename}.json", 'w' ) do |f|
