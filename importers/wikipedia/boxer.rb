@@ -94,7 +94,12 @@ FLAGICON_PATTERN = %q{
     \}\}
   }
 
-
+GOAL_PATTERN = %q{
+    \{\{
+      goal\|
+      (?<params>[^\}]+)     # everything but curly bracket
+    \}\}
+  }
 
 START_DATE_PATTERN = %q{
     \{\{
@@ -125,6 +130,40 @@ def convert_start_date( str )
   end
   str
 end
+
+def convert_goal_params( params )
+  values = params.split('|')
+  buf = ""
+  values.each_slice(2).with_index do |a,i|
+    pp i
+    pp a
+    minutes = a[0]
+    extra   = a[1]
+
+    if i > 0
+       buf << ", "
+    end
+
+    buf << "#{minutes}'"
+    if extra && extra.length > 0
+      buf << " (#{extra})"
+    end
+  end
+  buf
+end
+
+def convert_goals( str )
+  str = str.gsub( /^\*/, '' )   ## remove leading *
+  str = str.gsub( /\n/, ' ' )   ## replace newline with space
+  str = str.gsub( /#{GOAL_PATTERN}/x ) do |_|
+    puts "goal"
+    m = Regexp.last_match
+    pp m
+    convert_goal_params( m[:params] )
+  end
+  str.strip
+end
+
 
 def rm_flagicons( str )
   str = str.gsub( /#{FLAGICON_PATTERN}/x ) do |_|
@@ -170,6 +209,13 @@ def convert_box( box )
 
   score = box['score']
 
+  goals1 = unfold_links( box['goals1'] )
+  goals1 = convert_goals( goals1 )
+
+  goals2 = unfold_links( box['goals2'] )
+  goals2 = convert_goals( goals2 )
+
+
   box_new = {
     'team1'   => team1,
     'team2'   => team2,
@@ -177,6 +223,8 @@ def convert_box( box )
     'score'   => score,
     'time'    => box['time'].gsub( ":", "."),   ## change 20:45 to 20.45
     'date'    => convert_start_date( box['date'] ),
+    'goals1'  => goals1,
+    'goals2'  => goals2,
   }
   pp box_new
 

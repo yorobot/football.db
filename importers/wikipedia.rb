@@ -35,6 +35,20 @@ def format_matches( matches )
      buf << "  @ #{match['stadium']}"
      buf << "\n"
 
+     if match['goals1'].length > 0 || match['goals2'].length > 0
+       buf << "           ["
+       if match['goals1'].length > 0
+         buf << "#{match['goals1']}"
+       else
+         buf << "-"
+       end
+       if match['goals2'].length > 0
+         buf << "; "
+         buf << "#{match['goals2']}"
+       end
+       buf << "]\n"
+     end
+
      last_date = date
   end
   buf
