@@ -1,0 +1,1928 @@
+The '''2017–18 UEFA Champions League group stage''' began on 12 September and ended on 6 December 2017.<ref name="calendar">{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2435148.html|title=2017/18 Champions League match and draw calendar|publisher=UEFA.com|date=11 January 2017}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2017–18 UEFA Champions League knockout phase|knockout phase]] of the [[2017–18 UEFA Champions League]].<ref name="regulations">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/46/71/38/2467138_DOWNLOAD.pdf|title=Regulations of the UEFA Champions League 2017/18 Season|publisher=UEFA.com|date=4 April 2017}}</ref>
+
+==Draw==
+The draw for the group stage was held on 24 August 2017, 18:00 [[Central European Summer Time|CEST]], at the [[Grimaldi Forum]] in [[Monaco]].<ref name="drawGS">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2018/draws/round=2000881/index.html|title=Group stage draw|publisher=UEFA.com}}</ref>
+
+The 32 teams were drawn into eight groups of four, with the restriction that teams from the same association could not be drawn against each other. For the draw, the teams were seeded into four pots based on the following principles:
+*Pot 1 contained the title holders and the champions of the top seven associations based on their 2016 [[UEFA coefficient#Country coefficient|UEFA country coefficients]].<ref name="country coefficients">{{cite web |title=Country coefficients 2014/15 |url=http://www.uefa.com/memberassociations/uefarankings/country/season=2016/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=18 June 2017 }}</ref> If the title holders were one of the champions of the top seven associations, the champions of the association ranked eighth were also seeded into Pot 1.
+*Pot 2, 3 and 4 contained the remaining teams, seeded based on their 2017 [[UEFA coefficient#Club coefficient|UEFA club coefficients]].<ref name="club coefficients">{{cite web |title=Club coefficients 2016/17 |url=http://www.uefa.com/memberassociations/uefarankings/club/season=2017/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=18 June 2017 }}</ref>
+
+On 17 July 2014, the UEFA emergency panel ruled that Ukrainian and Russian clubs would not be drawn against each other "until further notice" due to the [[2014 pro-Russian unrest in Ukraine|political unrest]] between the countries.<ref>{{cite web|url=http://www.uefa.org/about-uefa/news/newsid=2124836.html|title=Emergency Panel decisions|publisher=UEFA.org|date=17 July 2014}}</ref>
+
+Moreover, the draw was controlled for teams from the same association in order to split the teams evenly into the two sets of four groups (A–D, E–H) for maximum television coverage. On each matchday, one set of four groups played their matches on Tuesday, while the other set of four groups played their matches on Wednesday, with the two sets of groups alternating between each matchday.
+
+The fixtures were decided after the draw, using a computer draw not shown to public, with the following match sequence (Regulations Article 16.02):<ref name="regulations"/>
+
+''Note: Positions for scheduling did not use the seeding pots, e.g., Team 1 was not necessarily the team from Pot 1 in the draw.''
+{|
+|-valign=top
+|
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Matches
+|-
+|Matchday 1
+|2 v 3, 4 v 1
+|-
+|Matchday 2
+|1 v 2, 3 v 4
+|-
+|Matchday 3
+|3 v 1, 2 v 4
+|}
+|
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Matches
+|-
+|Matchday 4
+|1 v 3, 4 v 2
+|-
+|Matchday 5
+|3 v 2, 1 v 4
+|-
+|Matchday 6
+|2 v 1, 4 v 3
+|}
+|}
+
+There were certain scheduling restrictions: for example, teams from the same city (e.g., [[Real Madrid C.F.|Real Madrid]] and [[Atlético Madrid]]) in general were not scheduled to play at home on the same matchday (to avoid teams from the same city playing at home on the same day or on consecutive days, due to logistics and crowd control), and teams in certain countries (e.g., Russia and Azerbaijan) were not scheduled to play at home on the last matchday (due to cold weather and simultaneous kick-off times).
+
+==Teams==
+Below were the participating teams (with their 2017 [[UEFA coefficient#Club coefficient|UEFA club coefficients]]),<ref name="club coefficients"/> grouped by their seeding pot. They included 22 teams which enter in this stage, and the 10 winners of the [[2017–18 UEFA Champions League qualifying phase and play-off round#Play-off round|play-off round]] (5 in [[2017–18 UEFA Champions League qualifying phase and play-off round#Champions Route|Champions Route]], 5 in [[2017–18 UEFA Champions League qualifying phase and play-off round#League Route|League Route]]).
+
+{| class="wikitable"
+|-
+!Key to colours
+|-bgcolor=#BBF3BB
+|Group winners and runners-up '''advance to the [[2017–18 UEFA Champions League knockout phase|round of 16]]'''
+|-bgcolor=#BBF3FF
+|Third-placed teams '''enter the [[2017–18 UEFA Europa League knockout phase|Europa League round of 32]]'''
+|}
+
+{|
+|-valign=top
+|
+{| class="wikitable"
+|-
+|+Pot 1 (by association rank)<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2470845.html|title=Real Madrid lead 2017/18 Champions League seeds|publisher=UEFA.com|date=4 June 2017|accessdate=9 June 2017}}</ref>
+|-
+!width=200|Team
+!width=50|{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|-bgcolor=#BBF3BB
+|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]{{Cref2|TH}}
+|align=right|176.999
+|-bgcolor=#BBF3BB
+|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|align=right|154.899
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|align=right|106.192
+|-bgcolor=#BBF3BB
+|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|align=right|140.666
+|-
+|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|align=right|111.866
+|-
+|{{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|align=right|62.333
+|-bgcolor=#BBF3FF
+|{{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|align=right|18.606
+|-bgcolor=#BBF3BB
+|{{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|align=right|87.526
+|}
+|
+|
+{| class="wikitable"
+|-
+|+Pot 2
+|-
+!width=200|Team
+!width=50|{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|-bgcolor=#BBF3BB
+|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=right|151.999
+|-bgcolor=#BBF3FF
+||{{flagicon|ESP}} [[Atlético Madrid]]
+|align=right|142.999
+|-bgcolor=#BBF3BB
+|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|align=right|126.333
+|-bgcolor=#BBF3FF
+|{{flagicon|GER}} [[Borussia Dortmund]]
+|align=right|124.899
+|-bgcolor=#BBF3BB
+|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]{{Cref2|LR}}
+|align=right|112.999
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|align=right|100.192
+|-bgcolor=#BBF3BB
+|{{flagicon|POR}} [[FC Porto|Porto]]
+|align=right|98.866
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|align=right|95.192
+|}
+|
+{| class="wikitable"
+|-
+|+Pot 3
+|-
+!width=200|Team
+!width=50|{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|-bgcolor=#BBF3FF
+|{{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]{{Cref2|LR}}
+|align=right|88.666
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|align=right|77.192
+|-bgcolor=#BBF3BB
+|{{flagicon|SUI}} [[FC Basel|Basel]]
+|align=right|74.415
+|-
+|{{flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]]{{Cref2|CR}}
+|align=right|64.580
+|-
+|{{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|align=right|58.480
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]{{Cref2|LR}}
+|align=right|56.192
+|-bgcolor=#BBF3BB
+|{{flagicon|ITA}} [[A.S. Roma|Roma]]
+|align=right|53.666
+|-bgcolor=#BBF3BB
+|{{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|align=right|45.840
+|}
+|
+{| class="wikitable"
+|-
+|+Pot 4
+|-
+!width=200|Team
+!width=50|{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|-bgcolor=#BBF3FF
+|{{flagicon|SCO}} [[Celtic F.C.|Celtic]]{{Cref2|CR}}
+|align=right|42.785
+|-bgcolor=#BBF3FF
+|{{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]{{Cref2|LR}}
+|align=right|39.606
+|-bgcolor=#BBF3FF
+|{{flagicon|POR}} [[Sporting CP]]{{Cref2|LR}}
+|align=right|36.866
+|-
+|{{flagicon|CYP}} [[APOEL FC|APOEL]]{{Cref2|CR}}
+|align=right|26.210
+|-
+|{{flagicon|NED}} [[Feyenoord]]
+|align=right|23.212
+|-
+|{{flagicon|SVN}} [[NK Maribor|Maribor]]{{Cref2|CR}}
+|align=right|21.125
+|-
+|{{flagicon|AZE}} [[Qarabağ FK|Qarabağ]]{{Cref2|CR}}
+|align=right|18.050
+|-bgcolor=#BBF3FF
+|{{flagicon|GER}} [[RB Leipzig]]
+|align=right|15.899
+|-
+|}
+|}
+
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|TH|n=0|<sup>TH</sup> [[2016–17 UEFA Champions League|Title holders]], automatically placed at the top position of seeding list.}}
+{{Cnote2|CR|n=0|<sup>CR</sup> Winners of the [[2017–18 UEFA Champions League qualifying phase and play-off round#Play-off round|play-off round]] ([[2017–18 UEFA Champions League qualifying phase and play-off round#Champions Route|Champions Route]]).}}
+{{Cnote2|LR|n=0|<sup>LR</sup> Winners of the [[2017–18 UEFA Champions League qualifying phase and play-off round#Play-off round|play-off round]] ([[2017–18 UEFA Champions League qualifying phase and play-off round#League Route|League Route]]).}}
+{{Cnote2 End}}
+
+==Format==
+In each group, teams played against each other home-and-away in a [[round-robin tournament|round-robin format]]. The group winners and runners-up advanced to the [[2017–18 UEFA Champions League knockout phase|round of 16]], while the third-placed teams entered the [[2017–18 UEFA Europa League knockout phase|Europa League round of 32]].
+
+===Tiebreakers===
+<section begin=Tiebreakers />
+Teams were ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, 0 points for a loss), and if tied on points, the following tiebreaking criteria were applied, in the order given, to determine the rankings (Regulations Articles 17.01):<ref name="regulations"/>
+#Points in head-to-head matches among tied teams;
+#[[Goal difference]] in head-to-head matches among tied teams;
+#Goals scored in head-to-head matches among tied teams;
+#[[Away goals rule|Away goals]] scored in head-to-head matches among tied teams;
+#If more than two teams are tied, and after applying all head-to-head criteria above, a subset of teams are still tied, all head-to-head criteria above are reapplied exclusively to this subset of teams;
+#Goal difference in all group matches;
+#Goals scored in all group matches;
+#Away goals scored in all group matches;
+#Wins in all group matches;
+#Away wins in all group matches;
+#Disciplinary points (red card = 3 points, yellow card = 1 point, expulsion for two yellow cards in one match = 3 points);
+#[[UEFA club coefficient]].<section end=Tiebreakers />
+
+==Groups==
+The matchdays were 12–13 September, 26–27 September, 17–18 October, 31 October – 1 November, 21–22 November, and 5–6 December 2017.<ref name="calendar"/> The match kickoff times were 20:45 CEST/CET in general, except for certain matches for geographical reasons.<ref>{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/competitions/Draws/02/49/56/25/2495625_DOWNLOAD.pdf|title=Result of the Draw|publisher=UEFA.com|date=24 August 2017}}</ref>
+
+Times up to 28 October 2017 (matchdays 1–3) were [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), thereafter (matchdays 4–6) times were [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]).
+
+===Group A===
+{{2017–18 UEFA Champions League Group A table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = Benfica v CSKA Moscow
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score      = 1–2
+|team2      = {{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1     =
+*[[Haris Seferović|Seferović]] {{goal|50}}
+|goals2     =
+*[[Vitinho]] {{goal|63|pen.}}
+*[[Timur Zhamaletdinov|Zhamaletdinov]] {{goal|71}}
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 38,323<ref name="md01_1">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md01_1_fs.pdf |title=Full Time Summary Matchday 1 – Tuesday 12 September 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=12 September 2017 |accessdate=12 September 2017}}</ref>
+|referee    = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021587/index.html
+}}
+{{Football box
+|id         = Manchester United v Basel
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[Manchester United F.C.|Manchester United]] {{flagicon|ENG}}
+|score      = 3–0
+|team2      = {{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1     =
+*[[Marouane Fellaini|Fellaini]] {{goal|35}}
+*[[Romelu Lukaku|Lukaku]] {{goal|53}}
+*[[Marcus Rashford|Rashford]] {{goal|84}}
+|goals2     =
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 73,854<ref name="md01_1" />
+|referee    = [[Ruddy Buquet]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021588/index.html
+}}
+----
+{{Football box
+|id         = Basel v Benfica
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 20:45
+|team1      = [[FC Basel|Basel]] {{flagicon|SUI}}
+|score      = 5–0
+|team2      = {{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1     =
+*[[Michael Lang (footballer)|Lang]] {{goal|2}}
+*[[Dimitri Oberlin|Oberlin]] {{goal|20||69}}
+*[[Ricky van Wolfswinkel|Van Wolfswinkel]] {{goal|60|pen.}}
+*[[Blás Riveros|Riveros]] {{goal|76}}
+|goals2     =
+|stadium    = [[St. Jakob-Park]], [[Basel]]
+|attendance = 34,111<ref name="md02_2">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md02_2_fs.pdf |title=Full Time Summary Matchday 2 – Wednesday 27 September 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=27 September 2017 |accessdate=27 September 2017}}</ref>
+|referee    = [[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021611/index.html
+}}
+{{Football box
+|id         = CSKA Moscow v Manchester United
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 20:45
+|team1      = [[PFC CSKA Moscow|CSKA Moscow]] {{flagicon|RUS}}
+|score      = 1–4
+|team2      = {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Konstantin Kuchayev|Kuchayev]] {{goal|90}}
+|goals2     =
+*[[Romelu Lukaku|Lukaku]] {{goal|4||27}}
+*[[Anthony Martial|Martial]] {{goal|19|pen.}}
+*[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|57}}
+|stadium    = [[VEB Arena]], [[Moscow]]
+|attendance = 29,073<ref name="md02_2" />
+|referee    = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021612/index.html
+}}
+----
+{{Football box
+|id         = CSKA Moscow v Basel
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 20:45
+|team1      = [[PFC CSKA Moscow|CSKA Moscow]] {{flagicon|RUS}}
+|score      = 0–2
+|team2      = {{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1     =
+|goals2     =
+*[[Taulant Xhaka|Xhaka]] {{goal|29}}
+*[[Dimitri Oberlin|Oberlin]] {{goal|90}}
+|stadium    = [[VEB Arena]], [[Moscow]]
+|attendance = 27,996<ref name="md03_2">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md03_2_fs.pdf |title=Full Time Summary Matchday 3 – Wednesday 18 October 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=18 October 2017 |accessdate=18 October 2017}}</ref>
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021627/index.html
+}}
+{{Football box
+|id         = Benfica v Manchester United
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 20:45
+|team1      = [[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score      = 0–1
+|team2      = {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[Marcus Rashford|Rashford]] {{goal|64}}
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 57,684<ref name="md03_2" />
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021628/index.html
+}}
+----
+{{Football box
+|id         = Basel v CSKA Moscow
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[FC Basel|Basel]] {{flagicon|SUI}}
+|score      = 1–2
+|team2      = {{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1     =
+*[[Luca Zuffi|Zuffi]] {{goal|32}}
+|goals2     =
+*[[Alan Dzagoev|Dzagoev]] {{goal|65}}
+*[[Pontus Wernbloom|Wernbloom]] {{goal|79}}
+|stadium    = [[St. Jakob-Park]], [[Basel]]
+|attendance = 33,303<ref name="md04_1">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md04_1_fs.pdf |title=Full Time Summary Matchday 4 – Tuesday 31 October 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=31 October 2017 |accessdate=31 October 2017}}</ref>
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021635/index.html
+}}
+{{Football box
+|id         = Manchester United v Benfica
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[Manchester United F.C.|Manchester United]] {{flagicon|ENG}}
+|score      = 2–0
+|team2      = {{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1     =
+*[[Mile Svilar|Svilar]] {{goal|45|o.g.}}
+*[[Daley Blind|Blind]] {{goal|78|pen.}}
+|goals2     =
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 74,437<ref name="md04_1" />
+|referee    = [[Gediminas Mažeika]] ([[Lithuanian Football Federation|Lithuania]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021636/index.html
+}}
+----
+{{Football box
+|id         = CSKA Moscow v Benfica
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 18:00
+|team1      = [[PFC CSKA Moscow|CSKA Moscow]] {{flagicon|RUS}}
+|score      = 2–0
+|team2      = {{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1     =
+*[[Georgi Shchennikov|Shchennikov]] {{goal|13}}
+*[[Jardel (footballer, born 1986)|Jardel]] {{goal|56|o.g.}}
+|goals2     =
+|stadium    = [[VEB Arena]], [[Moscow]]
+|attendance = 27,709<ref name="md05_2">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md05_2_fs.pdf |title=Full Time Summary Matchday 5 – Wednesday 22 November 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=22 November 2017 |accessdate=22 November 2017}}</ref>
+|referee    = [[Deniz Aytekin]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021659/index.html
+}}
+{{Football box
+|id         = Basel v Manchester United
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 20:45
+|team1      = [[FC Basel|Basel]] {{flagicon|SUI}}
+|score      = 1–0
+|team2      = {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Michael Lang (footballer)|Lang]] {{goal|89}}
+|goals2     =
+|stadium    = [[St. Jakob-Park]], [[Basel]]
+|attendance = 36,000<ref name="md05_2" />
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021660/index.html
+}}
+----
+{{Football box
+|id         = Benfica v Basel
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score      = 0–2
+|team2      = {{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1     =
+|goals2     =
+*[[Mohamed Elyounoussi|Elyounoussi]] {{goal|5}}
+*[[Dimitri Oberlin|Oberlin]] {{goal|65}}
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 22,470<ref name="md06_1">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md06_1_fs.pdf |title=Full Time Summary Matchday 6 – Tuesday 5 December 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=5 December 2017 |accessdate=5 December 2017}}</ref>
+|referee    = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021667/index.html
+}}
+{{Football box
+|id         = Manchester United v CSKA Moscow
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[Manchester United F.C.|Manchester United]] {{flagicon|ENG}}
+|score      = 2–1
+|team2      = {{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1     =
+*[[Romelu Lukaku|Lukaku]] {{goal|64}}
+*[[Marcus Rashford|Rashford]] {{goal|66}}
+|goals2     =
+*[[Vitinho]] {{goal|45}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 74,669<ref name="md06_1" />
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021668/index.html
+}}
+
+===Group B===
+{{2017–18 UEFA Champions League Group B table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = Bayern Munich v Anderlecht
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score      = 3–0
+|team2      = {{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|goals1     =
+*[[Robert Lewandowski|Lewandowski]] {{goal|12|pen.}}
+*[[Thiago Alcântara|Thiago]] {{goal|65}}
+*[[Joshua Kimmich|Kimmich]] {{goal|90}}
+|goals2     =
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 70,000<ref name="md01_1" />
+|referee    = [[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021589/index.html
+}}
+{{Football box
+|id         = Celtic v Paris Saint-Germain
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score      = 0–5
+|team2      = {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1     =
+|goals2     =
+*[[Neymar]] {{goal|19}}
+*[[Kylian Mbappé|Mbappé]] {{goal|34}}
+*[[Edinson Cavani|Cavani]] {{goal|40|pen.|85}}
+*[[Mikael Lustig|Lustig]] {{goal|83|o.g.}}
+|stadium    = [[Celtic Park]], [[Glasgow]]
+|attendance = 57,562<ref name="md01_1" />
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021590/index.html
+}}
+----
+{{Football box
+|id         = Paris Saint-Germain v Bayern Munich
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 20:45
+|team1      = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score      = 3–0
+|team2      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Dani Alves]] {{goal|2}}
+*[[Edinson Cavani|Cavani]] {{goal|31}}
+*[[Neymar]] {{goal|63}}
+|goals2     =
+|stadium    = [[Parc des Princes]], [[Paris]]
+|attendance = 46,252<ref name="md02_2" />
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021613/index.html
+}}
+{{Football box
+|id         = Anderlecht v Celtic
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 20:45
+|team1      = [[R.S.C. Anderlecht|Anderlecht]] {{flagicon|BEL}}
+|score      = 0–3
+|team2      = {{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|goals1     =
+|goals2     =
+*[[Leigh Griffiths|Griffiths]] {{goal|38}}
+*[[Patrick Roberts|Roberts]] {{goal|50}}
+*[[Scott Sinclair|Sinclair]] {{goal|90+3}}
+|stadium    = [[Constant Vanden Stock Stadium]], [[Anderlecht]]
+|attendance = 19,898<ref name="md02_2" />
+|referee    = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021614/index.html
+}}
+----
+{{Football box
+|id         = Anderlecht v Paris Saint-Germain
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 20:45
+|team1      = [[R.S.C. Anderlecht|Anderlecht]] {{flagicon|BEL}}
+|score      = 0–4
+|team2      = {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1     =
+|goals2     =
+*[[Kylian Mbappé|Mbappé]] {{goal|3}}
+*[[Edinson Cavani|Cavani]] {{goal|44}}
+*[[Neymar]] {{goal|66}}
+*[[Ángel Di María|Di María]] {{goal|88}}
+|stadium    = [[Constant Vanden Stock Stadium]], [[Anderlecht]]
+|attendance = 19,108<ref name="md03_2" />
+|referee    = [[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021629/index.html
+}}
+{{Football box
+|id         = Bayern Munich v Celtic
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score      = 3–0
+|team2      = {{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|goals1     =
+*[[Thomas Müller|Müller]] {{goal|17}}
+*[[Joshua Kimmich|Kimmich]] {{goal|29}}
+*[[Mats Hummels|Hummels]] {{goal|51}}
+|goals2     =
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 70,000<ref name="md03_2" />
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021630/index.html
+}}
+----
+{{Football box
+|id         = Paris Saint-Germain v Anderlecht
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score      = 5–0
+|team2      = {{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|goals1     =
+*[[Marco Verratti|Verratti]] {{goal|30}}
+*[[Neymar]] {{goal|45+4}}
+*[[Layvin Kurzawa|Kurzawa]] {{goal|52||72||78}}
+|goals2     =
+|stadium    = [[Parc des Princes]], [[Paris]]
+|attendance = 46,403<ref name="md04_1" />
+|referee    = [[David Fernández Borbalán]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021637/index.html
+}}
+{{Football box
+|id         = Celtic v Bayern Munich
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score      = 1–2
+|team2      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Callum McGregor|McGregor]] {{goal|74}}
+|goals2     =
+*[[Kingsley Coman|Coman]] {{goal|22}}
+*[[Javi Martínez|Martínez]] {{goal|77}}
+|stadium    = [[Celtic Park]], [[Glasgow]]
+|attendance = 58,269<ref name="md04_1" />
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021638/index.html
+}}
+----
+{{Football box
+|id         = Anderlecht v Bayern Munich
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 20:45
+|team1      = [[R.S.C. Anderlecht|Anderlecht]] {{flagicon|BEL}}
+|score      = 1–2
+|team2      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Sofiane Hanni|Hanni]] {{goal|63}}
+|goals2     =
+*[[Robert Lewandowski|Lewandowski]] {{goal|51}}
+*[[Corentin Tolisso|Tolisso]] {{goal|77}}
+|stadium    = [[Constant Vanden Stock Stadium]], [[Anderlecht]]
+|attendance = 19,753<ref name="md05_2" />
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021661/index.html
+}}
+{{Football box
+|id         = Paris Saint-Germain v Celtic
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 20:45
+|team1      = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score      = 7–1
+|team2      = {{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|goals1     =
+*[[Neymar]] {{goal|9||22}}
+*[[Edinson Cavani|Cavani]] {{goal|28||79}}
+*[[Kylian Mbappé|Mbappé]] {{goal|35}}
+*[[Marco Verratti|Verratti]] {{goal|75}}
+*[[Dani Alves]] {{goal|80}}
+|goals2     =
+*[[Moussa Dembélé (French footballer)|Dembélé]] {{goal|1}}
+|stadium    = [[Parc des Princes]], [[Paris]]
+|attendance = 46,288<ref name="md05_2" />
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021662/index.html
+}}
+----
+{{Football box
+|id         = Bayern Munich v Paris Saint-Germain
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score      = 3–1
+|team2      = {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1     =
+*[[Robert Lewandowski|Lewandowski]] {{goal|8}}
+*[[Corentin Tolisso|Tolisso]] {{goal|37||69}}
+|goals2     =
+*[[Kylian Mbappé|Mbappé]] {{goal|50}}
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 70,000<ref name="md06_1" />
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021669/index.html
+}}
+{{Football box
+|id         = Celtic v Anderlecht
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score      = 0–1
+|team2      = {{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|goals1     =
+|goals2     =
+*[[Jozo Šimunović|Šimunović]] {{goal|62|o.g.}}
+|stadium    = [[Celtic Park]], [[Glasgow]]
+|attendance = 57,931<ref name="md06_1" />
+|referee    = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021670/index.html
+}}
+
+===Group C===
+{{2017–18 UEFA Champions League Group C table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = Chelsea v Qarabağ
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 6–0
+|team2      = {{flagicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|goals1     =
+*[[Pedro (footballer, born July 1987)|Pedro]] {{goal|5}}
+*[[Davide Zappacosta|Zappacosta]] {{goal|30}}
+*[[César Azpilicueta|Azpilicueta]] {{goal|55}}
+*[[Tiémoué Bakayoko|Bakayoko]] {{goal|71}}
+*[[Michy Batshuayi|Batshuayi]] {{goal|76}}
+*[[Maksim Medvedev|Medvedev]] {{goal|82|o.g.}}
+|goals2     =
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 41,150<ref name="md01_1" />
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021591/index.html
+}}
+{{Football box
+|id         = Roma v Atlético Madrid
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[A.S. Roma|Roma]] {{flagicon|ITA}}
+|score      = 0–0
+|team2      = {{flagicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+|goals2     =
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 36,064<ref name="md01_1" />
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021592/index.html
+}}
+----
+{{Football box
+|id         = Qarabağ v Roma
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 18:00
+|team1      = [[Qarabağ FK|Qarabağ]] {{flagicon|AZE}}
+|score      = 1–2
+|team2      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1     =
+*[[Pedro Henrique Konzen|Pedro Henrique]] {{goal|28}}
+|goals2     =
+*[[Kostas Manolas|Manolas]] {{goal|7}}
+*[[Edin Džeko|Džeko]] {{goal|15}}
+|stadium    = [[Baku Olympic Stadium|Olympic Stadium]], [[Baku]]{{refn|group=note|name=Qarabağ|[[Qarabağ FK|Qarabağ]] played their home matches at [[Baku Olympic Stadium|Olympic Stadium]], [[Baku]], instead of their regular stadium [[Azersun Arena]], [[Baku]].}}
+|attendance = 67,200<ref name="md02_2" />
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021616/index.html
+}}
+{{Football box
+|id         = Atlético Madrid v Chelsea
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 20:45
+|team1      = [[Atlético Madrid]] {{flagicon|ESP}}
+|score      = 1–2
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Antoine Griezmann|Griezmann]] {{goal|40|pen.}}
+|goals2     =
+*[[Álvaro Morata|Morata]] {{goal|60}}
+*[[Michy Batshuayi|Batshuayi]] {{goal|90+3}}
+|stadium    = [[Wanda Metropolitano]], [[Madrid]]
+|attendance = 60,643<ref name="md02_2" />
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021615/index.html
+}}
+----
+{{Football box
+|id         = Qarabağ v Atlético Madrid
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 18:00
+|team1      = [[Qarabağ FK|Qarabağ]] {{flagicon|AZE}}
+|score      = 0–0
+|team2      = {{flagicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+|goals2     =
+|stadium    = [[Baku Olympic Stadium|Olympic Stadium]], [[Baku]]{{refn|group=note|name=Qarabağ}}
+|attendance = 47,923<ref name="md03_2" />
+|referee    = [[Ruddy Buquet]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021631/index.html
+}}
+{{Football box
+|id         = Chelsea v Roma
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 20:45
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 3–3
+|team2      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1     =
+*[[David Luiz]] {{goal|11}}
+*[[Eden Hazard|Hazard]] {{goal|37||75}}
+|goals2     =
+*[[Aleksandar Kolarov|Kolarov]] {{goal|40}}
+*[[Edin Džeko|Džeko]] {{goal|64||70}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 41,105<ref name="md03_2" />
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021632/index.html
+}}
+----
+{{Football box
+|id         = Atlético Madrid v Qarabağ
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[Atlético Madrid]] {{flagicon|ESP}}
+|score      = 1–1
+|team2      = {{flagicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|goals1     =
+*[[Thomas Partey|Partey]] {{goal|56}}
+|goals2     =
+*[[Míchel (footballer, born 1985)|Míchel]] {{goal|40}}
+|stadium    = [[Wanda Metropolitano]], [[Madrid]]
+|attendance = 55,893<ref name="md04_1" />
+|referee    = [[Deniz Aytekin]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021639/index.html
+}}
+{{Football box
+|id         = Roma v Chelsea
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[A.S. Roma|Roma]] {{flagicon|ITA}}
+|score      = 3–0
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Stephan El Shaarawy|El Shaarawy]] {{goal|1||36}}
+*[[Diego Perotti|Perotti]] {{goal|63}}
+|goals2     =
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 55,036<ref name="md04_1" />
+|referee    = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021640/index.html
+}}
+----
+{{Football box
+|id         = Qarabağ v Chelsea
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 18:00
+|team1      = [[Qarabağ FK|Qarabağ]] {{flagicon|AZE}}
+|score      = 0–4
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+|goals2     =
+*[[Eden Hazard|Hazard]] {{goal|21|pen.}}
+*[[Willian (footballer, born 1988)|Willian]] {{goal|36||85}}
+*[[Cesc Fàbregas|Fàbregas]] {{goal|73|pen.}}
+|stadium    = [[Baku Olympic Stadium|Olympic Stadium]], [[Baku]]{{refn|group=note|name=Qarabağ}}
+|attendance = 67,100<ref name="md05_2" />
+|referee    = [[Jorge Sousa]] ([[Portuguese Football Federation|Portugal]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021663/index.html
+}}
+{{Football box
+|id         = Atlético Madrid v Roma
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 20:45
+|team1      = [[Atlético Madrid]] {{flagicon|ESP}}
+|score      = 2–0
+|team2      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1     =
+*[[Antoine Griezmann|Griezmann]] {{goal|69}}
+*[[Kevin Gameiro|Gameiro]] {{goal|85}}
+|goals2     =
+|stadium    = [[Wanda Metropolitano]], [[Madrid]]
+|attendance = 56,253<ref name="md05_2" />
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021664/index.html
+}}
+----
+{{Football box
+|id         = Chelsea v Atlético Madrid
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 1–1
+|team2      = {{flagicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+*[[Stefan Savić|Savić]] {{goal|75|o.g.}}
+|goals2     =
+*[[Saúl Ñíguez|Saúl]] {{goal|56}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 40,875<ref name="md06_1" />
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021671/index.html
+}}
+{{Football box
+|id         = Roma v Qarabağ
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[A.S. Roma|Roma]] {{flagicon|ITA}}
+|score      = 1–0
+|team2      = {{flagicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|goals1     =
+*[[Diego Perotti|Perotti]] {{goal|53}}
+|goals2     =
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 34,258<ref name="md06_1" />
+|referee    = [[Tobias Stieler]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021672/index.html
+}}
+
+===Group D===
+{{2017–18 UEFA Champions League Group D table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = Barcelona v Juventus
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score      = 3–0
+|team2      = {{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|45||69}}
+*[[Ivan Rakitić|Rakitić]] {{goal|56}}
+|goals2     =
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 78,656<ref name="md01_1" />
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021593/index.html
+}}
+{{Football box
+|id         = Olympiacos v Sporting CP
+|date       = {{Start date|2017|9|12|df=y}}
+|time       = 20:45
+|team1      = [[Olympiacos F.C.|Olympiacos]] {{flagicon|GRE}}
+|score      = 2–3
+|team2      = {{flagicon|POR}} [[Sporting CP]]
+|goals1     =
+*[[Felipe Pardo|Pardo]] {{goal|89||90+3}}
+|goals2     =
+*[[Seydou Doumbia|Doumbia]] {{goal|2}}
+*[[Gelson Martins|Gelson M.]] {{goal|13}}
+*[[Bruno Fernandes (footballer, born 1994)|Fernandes]] {{goal|43}}
+|stadium    = [[Karaiskakis Stadium]], [[Piraeus]]
+|attendance = 30,168<ref name="md01_1" />
+|referee    = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021594/index.html
+}}
+----
+{{Football box
+|id         = Sporting CP v Barcelona
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 20:45
+|team1      = [[Sporting CP]] {{flagicon|POR}}
+|score      = 0–1
+|team2      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Sebastián Coates|Coates]] {{goal|49|o.g.}}
+|stadium    = [[Estádio José Alvalade]], [[Lisbon]]
+|attendance = 48,575<ref name="md02_2" />
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021617/index.html
+}}
+{{Football box
+|id         = Juventus v Olympiacos
+|date       = {{Start date|2017|9|27|df=y}}
+|time       = 20:45
+|team1      = [[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score      = 2–0
+|team2      = {{flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|goals1     =
+*[[Gonzalo Higuaín|Higuaín]] {{goal|69}}
+*[[Mario Mandžukić|Mandžukić]] {{goal|80}}
+|goals2     =
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 33,460<ref name="md02_2" />
+|referee    = [[Tobias Stieler]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021618/index.html
+}}
+----
+{{Football box
+|id         = Juventus v Sporting CP
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 20:45
+|team1      = [[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score      = 2–1
+|team2      = {{flagicon|POR}} [[Sporting CP]]
+|goals1     =
+*[[Miralem Pjanić|Pjanić]] {{goal|29}}
+*[[Mario Mandžukić|Mandžukić]] {{goal|84}}
+|goals2     =
+*[[Alex Sandro]] {{goal|12|o.g.}}
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 36,288<ref name="md03_2" />
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021633/index.html
+}}
+{{Football box
+|id         = Barcelona v Olympiacos
+|date       = {{Start date|2017|10|18|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score      = 3–1
+|team2      = {{flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|goals1     =
+*[[Dimitris Nikolaou|Nikolaou]] {{goal|18|o.g.}}
+*[[Lionel Messi|Messi]] {{goal|61}}
+*[[Lucas Digne|Digne]] {{goal|64}}
+|goals2     =
+*[[Dimitris Nikolaou|Nikolaou]] {{goal|90}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 55,026<ref name="md03_2" />
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021634/index.html
+}}
+----
+{{Football box
+|id         = Sporting CP v Juventus
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[Sporting CP]] {{flagicon|POR}}
+|score      = 1–1
+|team2      = {{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1     =
+*[[Bruno César]] {{goal|20}}
+|goals2     =
+*[[Gonzalo Higuaín|Higuaín]] {{goal|79}}
+|stadium    = [[Estádio José Alvalade]], [[Lisbon]]
+|attendance = 48,442<ref name="md04_1" />
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021641/index.html
+}}
+{{Football box
+|id         = Olympiacos v Barcelona
+|date       = {{Start date|2017|10|31|df=y}}
+|time       = 20:45
+|team1      = [[Olympiacos F.C.|Olympiacos]] {{flagicon|GRE}}
+|score      = 0–0
+|team2      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+|goals2     =
+|stadium    = [[Karaiskakis Stadium]], [[Piraeus]]
+|attendance = 31,600<ref name="md04_1" />
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021642/index.html
+}}
+----
+{{Football box
+|id         = Juventus v Barcelona
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 20:45
+|team1      = [[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score      = 0–0
+|team2      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+|goals2     =
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 40,876<ref name="md05_2" />
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021665/index.html
+}}
+{{Football box
+|id         = Sporting CP v Olympiacos
+|date       = {{Start date|2017|11|22|df=y}}
+|time       = 20:45
+|team1      = [[Sporting CP]] {{flagicon|POR}}
+|score      = 3–1
+|team2      = {{flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|goals1     =
+*[[Bas Dost|Dost]] {{goal|40||66}}
+*[[Bruno César]] {{goal|43}}
+|goals2     =
+*[[Vadis Odjidja-Ofoe|Odjidja-Ofoe]] {{goal|86}}
+|stadium    = [[Estádio José Alvalade]], [[Lisbon]]
+|attendance = 42,528<ref name="md05_2" />
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021666/index.html
+}}
+----
+{{Football box
+|id         = Barcelona v Sporting CP
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score      = 2–0
+|team2      = {{flagicon|POR}} [[Sporting CP]]
+|goals1     =
+*[[Paco Alcácer|Alcácer]] {{goal|59}}
+*[[Jérémy Mathieu|Mathieu]] {{goal|90+1|o.g.}}
+|goals2     =
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 48,336<ref name="md06_1" />
+|referee    = [[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021673/index.html
+}}
+{{Football box
+|id         = Olympiacos v Juventus
+|date       = {{Start date|2017|12|5|df=y}}
+|time       = 20:45
+|team1      = [[Olympiacos F.C.|Olympiacos]] {{flagicon|GRE}}
+|score      = 0–2
+|team2      = {{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1     =
+|goals2     =
+*[[Juan Cuadrado|Cuadrado]] {{goal|15}}
+*[[Federico Bernardeschi|Bernardeschi]] {{goal|90}}
+|stadium    = [[Karaiskakis Stadium]], [[Piraeus]]
+|attendance = 29,567<ref name="md06_1" />
+|referee    = [[David Fernández Borbalán]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021674/index.html
+}}
+
+===Group E===
+{{2017–18 UEFA Champions League Group E table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = Maribor v Spartak Moscow
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[NK Maribor|Maribor]] {{flagicon|SVN}}
+|score      = 1–1
+|team2      = {{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|goals1     =
+*[[Damjan Bohar|Bohar]] {{goal|85}}
+|goals2     =
+*[[Aleksandr Samedov|Samedov]] {{goal|59}}
+|stadium    = [[Ljudski vrt]], [[Maribor]]
+|attendance = 12,566<ref name="md01_2">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md01_2_fs.pdf |title=Full Time Summary Matchday 1 – Wednesday 13 September 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=13 September 2017 |accessdate=13 September 2017}}</ref>
+|referee    = [[Deniz Aytekin]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021595/index.html
+}}
+{{Football box
+|id         = Liverpool v Sevilla
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score      = 2–2
+|team2      = {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Roberto Firmino|Firmino]] {{goal|21}}
+*[[Mohamed Salah|Salah]] {{goal|37}}
+|goals2     =
+*[[Wissam Ben Yedder|Ben Yedder]] {{goal|5}}
+*[[Joaquín Correa|Correa]] {{goal|72}}
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 52,332<ref name="md01_2" />
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021596/index.html
+}}
+----
+{{Football box
+|id         = Sevilla v Maribor
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score      = 3–0
+|team2      = {{flagicon|SVN}} [[NK Maribor|Maribor]]
+|goals1     =
+*[[Wissam Ben Yedder|Ben Yedder]] {{goal|27||38||83|pen.}}
+|goals2     =
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 34,705<ref name="md02_1">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md02_1_fs.pdf |title=Full Time Summary Matchday 2 – Tuesday 26 September 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=26 September 2017 |accessdate=26 September 2017}}</ref>
+|referee    = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021603/index.html
+}}
+{{Football box
+|id         = Spartak Moscow v Liverpool
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[FC Spartak Moscow|Spartak Moscow]] {{flagicon|RUS}}
+|score      = 1–1
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Fernando (Brazilian footballer, born 1992)|Fernando]] {{goal|23}}
+|goals2     =
+*[[Philippe Coutinho|Coutinho]] {{goal|31}}
+|stadium    = [[Otkritie Arena]], [[Moscow]]
+|attendance = 43,376<ref name="md02_1" />
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021604/index.html
+}}
+----
+{{Football box
+|id         = Spartak Moscow v Sevilla
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[FC Spartak Moscow|Spartak Moscow]] {{flagicon|RUS}}
+|score      = 5–1
+|team2      = {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Quincy Promes|Promes]] {{goal|18||90}}
+*[[Lorenzo Melgarejo|Melgarejo]] {{goal|58}}
+*[[Denis Glushakov|Glushakov]] {{goal|67}}
+*[[Luiz Adriano]] {{goal|74}}
+|goals2     =
+*[[Simon Kjær|Kjær]] {{goal|30}}
+|stadium    = [[Otkritie Arena]], [[Moscow]]
+|attendance = 44,307<ref name="md03_1">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md03_1_fs.pdf |title=Full Time Summary Matchday 3 – Tuesday 17 October 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=17 October 2017 |accessdate=17 October 2017}}</ref>
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021619/index.html
+}}
+{{Football box
+|id         = Maribor v Liverpool
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[NK Maribor|Maribor]] {{flagicon|SVN}}
+|score      = 0–7
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+|goals2     =
+*[[Roberto Firmino|Firmino]] {{goal|4||54}}
+*[[Philippe Coutinho|Coutinho]] {{goal|13}}
+*[[Mohamed Salah|Salah]] {{goal|19||40}}
+*[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|86}}
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{goal|90}}
+|stadium    = [[Ljudski vrt]], [[Maribor]]
+|attendance = 12,506<ref name="md03_1" />
+|referee    = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021620/index.html
+}}
+----
+{{Football box
+|id         = Sevilla v Spartak Moscow
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 20:45
+|team1      = [[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score      = 2–1
+|team2      = {{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|goals1     =
+*[[Clément Lenglet|Lenglet]] {{goal|30}}
+*[[Éver Banega|Banega]] {{goal|59}}
+|goals2     =
+*[[Zé Luís]] {{goal|78}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 38,002<ref name="md04_2">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md04_2_fs.pdf |title=Full Time Summary Matchday 4 – Wednesday 1 November 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=1 November 2017 |accessdate=1 November 2017}}</ref>
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021643/index.html
+}}
+{{Football box
+|id         = Liverpool v Maribor
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 20:45
+|team1      = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score      = 3–0
+|team2      = {{flagicon|SVN}} [[NK Maribor|Maribor]]
+|goals1     =
+*[[Mohamed Salah|Salah]] {{goal|49}}
+*[[Emre Can|Can]] {{goal|64}}
+*[[Daniel Sturridge|Sturridge]] {{goal|90}}
+|goals2     =
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 47,957<ref name="md04_2" />
+|referee    = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021644/index.html
+}}
+----
+{{Football box
+|id         = Spartak Moscow v Maribor
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 18:00
+|team1      = [[FC Spartak Moscow|Spartak Moscow]] {{flagicon|RUS}}
+|score      = 1–1
+|team2      = {{flagicon|SVN}} [[NK Maribor|Maribor]]
+|goals1     =
+*[[Zé Luís]] {{goal|82}}
+|goals2     =
+*[[Jasmin Mešanović|Mešanović]] {{goal|90+2}}
+|stadium    = [[Otkritie Arena]], [[Moscow]]
+|attendance = 42,920<ref name="md05_1">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md05_1_fs.pdf |title=Full Time Summary Matchday 5 – Tuesday 21 November 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=21 November 2017 |accessdate=21 November 2017}}</ref>
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021651/index.html
+}}
+{{Football box
+|id         = Sevilla v Liverpool
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 20:45
+|team1      = [[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score      = 3–3
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Wissam Ben Yedder|Ben Yedder]] {{goal|51||60|pen.}}
+*[[Guido Pizarro|Pizarro]] {{goal|90+3}}
+|goals2     =
+*[[Roberto Firmino|Firmino]] {{goal|2||30}}
+*[[Sadio Mané|Mané]] {{goal|22}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 39,495<ref name="md05_1" />
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021652/index.html
+}}
+----
+{{Football box
+|id         = Maribor v Sevilla
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[NK Maribor|Maribor]] {{flagicon|SVN}}
+|score      = 1–1
+|team2      = {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Marcos Tavares|Tavares]] {{goal|10}}
+|goals2     =
+*[[Paulo Henrique Ganso|Ganso]] {{goal|75}}
+|stadium    = [[Ljudski vrt]], [[Maribor]]
+|attendance = 11,976<ref name="md06_2">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/md06_2_fs.pdf |title=Full Time Summary Matchday 6 – Wednesday 6 December 2017 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=6 December 2017 |accessdate=6 December 2017}}</ref>
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021675/index.html
+}}
+{{Football box
+|id         = Liverpool v Spartak Moscow
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score      = 7–0
+|team2      = {{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|goals1     =
+*[[Philippe Coutinho|Coutinho]] {{goal|4|pen.|15||50}}
+*[[Roberto Firmino|Firmino]] {{goal|19}}
+*[[Sadio Mané|Mané]] {{goal|47||76}}
+*[[Mohamed Salah|Salah]] {{goal|86}}
+|goals2     =
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 48,779<ref name="md06_2" />
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021676/index.html
+}}
+
+===Group F===
+{{2017–18 UEFA Champions League Group F table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = Feyenoord v Manchester City
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[Feyenoord]] {{flagicon|NED}}
+|score      = 0–4
+|team2      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+|goals2     =
+*[[John Stones|Stones]] {{goal|2||63}}
+*[[Sergio Agüero|Agüero]] {{goal|10}}
+*[[Gabriel Jesus]] {{goal|25}}
+|stadium    = [[De Kuip]], [[Rotterdam]]
+|attendance = 43,500<ref name="md01_2" />
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021597/index.html
+}}
+{{Football box
+|id         = Shakhtar Donetsk v Napoli
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{flagicon|UKR}}
+|score      = 2–1
+|team2      = {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1     =
+*[[Taison]] {{goal|15}}
+*[[Facundo Ferreyra|Ferreyra]] {{goal|58}}
+|goals2     =
+*[[Arkadiusz Milik|Milik]] {{goal|72|pen.}}
+|stadium    = [[Metalist Oblast Sports Complex|Metalist Stadium]], [[Kharkiv]]{{refn|group=note|name=Shakhtar Donetsk|[[FC Shakhtar Donetsk|Shakhtar Donetsk]] played their home matches at [[Metalist Oblast Sports Complex|Metalist Stadium]], [[Kharkiv]], instead of their regular stadium [[Donbass Arena]], [[Donetsk]], due to the [[War in Donbass|war conditions in Eastern Ukraine]].}}
+|attendance = 32,679<ref name="md01_2" />
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021598/index.html
+}}
+----
+{{Football box
+|id         = Napoli v Feyenoord
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score      = 3–1
+|team2      = {{flagicon|NED}} [[Feyenoord]]
+|goals1     =
+*[[Lorenzo Insigne|Insigne]] {{goal|7}}
+*[[Dries Mertens|Mertens]] {{goal|49}}
+*[[José Callejón|Callejón]] {{goal|70}}
+|goals2     =
+*[[Sofyan Amrabat|Amrabat]] {{goal|90+3}}
+|stadium    = [[Stadio San Paolo]], [[Naples]]
+|attendance = 22,577<ref name="md02_1" />
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021605/index.html
+}}
+{{Football box
+|id         = Manchester City v Shakhtar Donetsk
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score      = 2–0
+|team2      = {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Kevin De Bruyne|De Bruyne]] {{goal|48}}
+*[[Raheem Sterling|Sterling]] {{goal|90}}
+|goals2     =
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 45,310<ref name="md02_1" />
+|referee    = [[Jorge Sousa]] ([[Portuguese Football Federation|Portugal]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021606/index.html
+}}
+----
+{{Football box
+|id         = Manchester City v Napoli
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score      = 2–1
+|team2      = {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1     =
+*[[Raheem Sterling|Sterling]] {{goal|9}}
+*[[Gabriel Jesus]] {{goal|13}}
+|goals2     =
+*[[Amadou Diawara|Diawara]] {{goal|73|pen.}}
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 48,520<ref name="md03_1" />
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021621/index.html
+}}
+{{Football box
+|id         = Feyenoord v Shakhtar Donetsk
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[Feyenoord]] {{flagicon|NED}}
+|score      = 1–2
+|team2      = {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Steven Berghuis|Berghuis]] {{goal|8}}
+|goals2     =
+*[[Bernard (footballer)|Bernard]] {{goal|24||54}}
+|stadium    = [[De Kuip]], [[Rotterdam]]
+|attendance = 43,500<ref name="md03_1" />
+|referee    = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021622/index.html
+}}
+----
+{{Football box
+|id         = Napoli v Manchester City
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 20:45
+|team1      = [[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score      = 2–4
+|team2      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Lorenzo Insigne|Insigne]] {{goal|21}}
+*[[Jorginho (footballer, born 1991)|Jorginho]] {{goal|62|pen.}}
+|goals2     =
+*[[Nicolás Otamendi|Otamendi]] {{goal|34}}
+*[[John Stones|Stones]] {{goal|48}}
+*[[Sergio Agüero|Agüero]] {{goal|69}}
+*[[Raheem Sterling|Sterling]] {{goal|90+2}}
+|stadium    = [[Stadio San Paolo]], [[Naples]]
+|attendance = 44,483<ref name="md04_2" />
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021645/index.html
+}}
+{{Football box
+|id         = Shakhtar Donetsk v Feyenoord
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 20:45
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{flagicon|UKR}}
+|score      = 3–1
+|team2      = {{flagicon|NED}} [[Feyenoord]]
+|goals1     =
+*[[Facundo Ferreyra|Ferreyra]] {{goal|14}}
+*[[Marlos]] {{goal|17||68}}
+|goals2     =
+*[[Nicolai Jørgensen|Jørgensen]] {{goal|12}}
+|stadium    = [[Metalist Oblast Sports Complex|Metalist Stadium]], [[Kharkiv]]{{refn|group=note|name=Shakhtar Donetsk}}
+|attendance = 24,570<ref name="md04_2" />
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021646/index.html
+}}
+----
+{{Football box
+|id         = Manchester City v Feyenoord
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 20:45
+|team1      = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score      = 1–0
+|team2      = {{flagicon|NED}} [[Feyenoord]]
+|goals1     =
+*[[Raheem Sterling|Sterling]] {{goal|88}}
+|goals2     =
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 43,548<ref name="md05_1" />
+|referee    = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021653/index.html
+}}
+{{Football box
+|id         = Napoli v Shakhtar Donetsk
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 20:45
+|team1      = [[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score      = 3–0
+|team2      = {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Lorenzo Insigne|Insigne]] {{goal|56}}
+*[[Piotr Zieliński|Zieliński]] {{goal|81}}
+*[[Dries Mertens|Mertens]] {{goal|83}}
+|goals2     =
+|stadium    = [[Stadio San Paolo]], [[Naples]]
+|attendance = 10,573<ref name="md05_1" />
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021654/index.html
+}}
+----
+{{Football box
+|id         = Feyenoord v Napoli
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[Feyenoord]] {{flagicon|NED}}
+|score      = 2–1
+|team2      = {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1     =
+*[[Nicolai Jørgensen|Jørgensen]] {{goal|33}}
+*[[Jerry St. Juste|St. Juste]] {{goal|90+1}}
+|goals2     =
+*[[Piotr Zieliński|Zieliński]] {{goal|2}}
+|stadium    = [[De Kuip]], [[Rotterdam]]
+|attendance = 36,500<ref name="md06_2" />
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021677/index.html
+}}
+{{Football box
+|id         = Shakhtar Donetsk v Manchester City
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{flagicon|UKR}}
+|score      = 2–1
+|team2      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Bernard (footballer)|Bernard]] {{goal|26}}
+*[[Ismaily Gonçalves dos Santos|Ismaily]] {{goal|32}}
+|goals2     =
+*[[Sergio Agüero|Agüero]] {{goal|90+2|pen.}}
+|stadium    = [[Metalist Oblast Sports Complex|Metalist Stadium]], [[Kharkiv]]{{refn|group=note|name=Shakhtar Donetsk}}
+|attendance = 33,154<ref name="md06_2" />
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021678/index.html
+}}
+
+===Group G===
+{{2017–18 UEFA Champions League Group G table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = RB Leipzig v Monaco
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[RB Leipzig]] {{flagicon|GER}}
+|score      = 1–1
+|team2      = {{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1     =
+*[[Emil Forsberg|Forsberg]] {{goal|33}}
+|goals2     =
+*[[Youri Tielemans|Tielemans]] {{goal|34}}
+|stadium    = [[Red Bull Arena (Leipzig)|Red Bull Arena]], [[Leipzig]]
+|attendance = 40,068<ref name="md01_2" />
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021599/index.html
+}}
+{{Football box
+|id         = Porto v Beşiktaş
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[FC Porto|Porto]] {{flagicon|POR}}
+|score      = 1–3
+|team2      = {{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1     =
+*[[Duško Tošić|Tošić]] {{goal|21|o.g.}}
+|goals2     =
+*[[Talisca]] {{goal|13}}
+*[[Cenk Tosun|Tosun]] {{goal|28}}
+*[[Ryan Babel|Babel]] {{goal|86}}
+|stadium    = [[Estádio do Dragão]], [[Porto]]
+|attendance = 42,429<ref name="md01_2" />
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021600/index.html
+}}
+----
+{{Football box
+|id         = Beşiktaş v RB Leipzig
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[Beşiktaş J.K.|Beşiktaş]] {{flagicon|TUR}}
+|score      = 2–0
+|team2      = {{flagicon|GER}} [[RB Leipzig]]
+|goals1     =
+*[[Ryan Babel|Babel]] {{goal|11}}
+*[[Talisca]] {{goal|43}}
+|goals2     =
+|stadium    = [[Vodafone Park]], [[Istanbul]]
+|attendance = 36,641<ref name="md02_1" />
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021607/index.html
+}}
+{{Football box
+|id         = Monaco v Porto
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score      = 0–3
+|team2      = {{flagicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+|goals2     =
+*[[Vincent Aboubakar|Aboubakar]] {{goal|31||69}}
+*[[Miguel Layún|Layún]] {{goal|89}}
+|stadium    = [[Stade Louis II]], [[Monaco]]
+|attendance = 11,703<ref name="md02_1" />
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021608/index.html
+}}
+----
+{{Football box
+|id         = Monaco v Beşiktaş
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score      = 1–2
+|team2      = {{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1     =
+*[[Radamel Falcao|Falcao]] {{goal|30}}
+|goals2     =
+*[[Cenk Tosun|Tosun]] {{goal|34||54}}
+|stadium    = [[Stade Louis II]], [[Monaco]]
+|attendance = 7,403<ref name="md03_1" />
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021623/index.html
+}}
+{{Football box
+|id         = RB Leipzig v Porto
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[RB Leipzig]] {{flagicon|GER}}
+|score      = 3–2
+|team2      = {{flagicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+*[[Willi Orban|Orban]] {{goal|8}}
+*[[Emil Forsberg|Forsberg]] {{goal|38}}
+*[[Jean-Kévin Augustin|Augustin]] {{goal|41}}
+|goals2     =
+*[[Vincent Aboubakar|Aboubakar]] {{goal|18}}
+*[[Iván Marcano|Marcano]] {{goal|44}}
+|stadium    = [[Red Bull Arena (Leipzig)|Red Bull Arena]], [[Leipzig]]
+|attendance = 41,496<ref name="md03_1" />
+|referee    = [[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021624/index.html
+}}
+----
+{{Football box
+|id         = Beşiktaş v Monaco
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 18:00
+|team1      = [[Beşiktaş J.K.|Beşiktaş]] {{flagicon|TUR}}
+|score      = 1–1
+|team2      = {{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1     =
+*[[Cenk Tosun|Tosun]] {{goal|54|pen.}}
+|goals2     =
+*[[Rony Lopes|Lopes]] {{goal|45+1}}
+|stadium    = [[Vodafone Park]], [[Istanbul]]
+|attendance = 39,346<ref name="md04_2" />
+|referee    = [[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021647/index.html
+}}
+{{Football box
+|id         = Porto v RB Leipzig
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 20:45
+|team1      = [[FC Porto|Porto]] {{flagicon|POR}}
+|score      = 3–1
+|team2      = {{flagicon|GER}} [[RB Leipzig]]
+|goals1     =
+*[[Héctor Herrera|Herrera]] {{goal|13}}
+*[[Danilo Pereira (Portuguese footballer)|Danilo]] {{goal|61}}
+*[[Maxi Pereira|Pereira]] {{goal|90+3}}
+|goals2     =
+*[[Timo Werner|Werner]] {{goal|48}}
+|stadium    = [[Estádio do Dragão]], [[Porto]]
+|attendance = 41,616<ref name="md04_2" />
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021648/index.html
+}}
+----
+{{Football box
+|id         = Beşiktaş v Porto
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 18:00
+|team1      = [[Beşiktaş J.K.|Beşiktaş]] {{flagicon|TUR}}
+|score      = 1–1
+|team2      = {{flagicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+*[[Talisca]] {{goal|41}}
+|goals2     =
+*[[Felipe Augusto de Almeida Monteiro|Felipe]] {{goal|29}}
+|stadium    = [[Vodafone Park]], [[Istanbul]]
+|attendance = 36,919<ref name="md05_1" />
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021656/index.html
+}}
+{{Football box
+|id         = Monaco v RB Leipzig
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 20:45
+|team1      = [[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score      = 1–4
+|team2      = {{flagicon|GER}} [[RB Leipzig]]
+|goals1     =
+*[[Radamel Falcao|Falcao]] {{goal|43}}
+|goals2     =
+*[[Jemerson]] {{goal|6|o.g.}}
+*[[Timo Werner|Werner]] {{goal|9||31|pen.}}
+*[[Naby Keïta|Keïta]] {{goal|45}}
+|stadium    = [[Stade Louis II]], [[Monaco]]
+|attendance = 9,029<ref name="md05_1" />
+|referee    = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021655/index.html
+}}
+----
+{{Football box
+|id         = RB Leipzig v Beşiktaş
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[RB Leipzig]] {{flagicon|GER}}
+|score      = 1–2
+|team2      = {{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1     =
+*[[Naby Keïta|Keïta]] {{goal|87}}
+|goals2     =
+*[[Álvaro Negredo|Negredo]] {{goal|10|pen.}}
+*[[Talisca]] {{goal|90}}
+|stadium    = [[Red Bull Arena (Leipzig)|Red Bull Arena]], [[Leipzig]]
+|attendance = 42,558<ref name="md06_2" />
+|referee    = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021679/index.html
+}}
+{{Football box
+|id         = Porto v Monaco
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[FC Porto|Porto]] {{flagicon|POR}}
+|score      = 5–2
+|team2      = {{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1     =
+*[[Vincent Aboubakar|Aboubakar]] {{goal|9||33}}
+*[[Yacine Brahimi|Brahimi]] {{goal|45}}
+*[[Alex Telles]] {{goal|65}}
+*[[Tiquinho Soares|Soares]] {{goal|88}}
+|goals2     =
+*[[Kamil Glik|Glik]] {{goal|61|pen.}}
+*[[Radamel Falcao|Falcao]] {{goal|78}}
+|stadium    = [[Estádio do Dragão]], [[Porto]]
+|attendance = 42,509<ref name="md06_2" />
+|referee    = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021680/index.html
+}}
+
+===Group H===
+{{2017–18 UEFA Champions League Group H table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id         = Real Madrid v APOEL
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score      = 3–0
+|team2      = {{flagicon|CYP}} [[APOEL FC|APOEL]]
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|12||51|pen.}}
+*[[Sergio Ramos|Ramos]] {{goal|61}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 71,060<ref name="md01_2" />
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021601/index.html
+}}
+{{Football box
+|id         = Tottenham Hotspur v Borussia Dortmund
+|date       = {{Start date|2017|9|13|df=y}}
+|time       = 20:45
+|team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score      = 3–1
+|team2      = {{flagicon|GER}} [[Borussia Dortmund]]
+|goals1     =
+*[[Son Heung-min]] {{goal|4}}
+*[[Harry Kane|Kane]] {{goal|15||60}}
+|goals2     =
+*[[Andriy Yarmolenko|Yarmolenko]] {{goal|11}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 67,343<ref name="md01_2" />
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021602/index.html
+}}
+----
+{{Football box
+|id         = Borussia Dortmund v Real Madrid
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[Borussia Dortmund]] {{flagicon|GER}}
+|score      = 1–3
+|team2      = {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1     =
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|54}}
+|goals2     =
+*[[Gareth Bale|Bale]] {{goal|18}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|50||79}}
+|stadium    = [[Westfalenstadion]], [[Dortmund]]
+|attendance = 65,849<ref name="md02_1" />
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021609/index.html
+}}
+{{Football box
+|id         = APOEL v Tottenham Hotspur
+|date       = {{Start date|2017|9|26|df=y}}
+|time       = 20:45
+|team1      = [[APOEL FC|APOEL]] {{flagicon|CYP}}
+|score      = 0–3
+|team2      = {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     =
+|goals2     =
+*[[Harry Kane|Kane]] {{goal|39||62||67}}
+|stadium    = [[GSP Stadium]], [[Nicosia]]
+|attendance = 16,324<ref name="md02_1" />
+|referee    = [[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021610/index.html
+}}
+----
+{{Football box
+|id         = APOEL v Borussia Dortmund
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[APOEL FC|APOEL]] {{flagicon|CYP}}
+|score      = 1–1
+|team2      = {{flagicon|GER}} [[Borussia Dortmund]]
+|goals1     =
+*[[Mickaël Poté|Poté]] {{goal|62}}
+|goals2     =
+*[[Sokratis Papastathopoulos|Papastathopoulos]] {{goal|67}}
+|stadium    = [[GSP Stadium]], [[Nicosia]]
+|attendance = 15,604<ref name="md03_1" />
+|referee    = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021625/index.html
+}}
+{{Football box
+|id         = Real Madrid v Tottenham Hotspur
+|date       = {{Start date|2017|10|17|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score      = 1–1
+|team2      = {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|43|pen.}}
+|goals2     =
+*[[Raphaël Varane|Varane]] {{goal|28|o.g.}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 76,589<ref name="md03_1" />
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021626/index.html
+}}
+----
+{{Football box
+|id         = Borussia Dortmund v APOEL
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 20:45
+|team1      = [[Borussia Dortmund]] {{flagicon|GER}}
+|score      = 1–1
+|team2      = {{flagicon|CYP}} [[APOEL FC|APOEL]]
+|goals1     =
+*[[Raphaël Guerreiro|Guerreiro]] {{goal|29}}
+|goals2     =
+*[[Mickaël Poté|Poté]] {{goal|51}}
+|stadium    = [[Westfalenstadion]], [[Dortmund]]
+|attendance = 64,500<ref name="md04_2" />
+|referee    = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021649/index.html
+}}
+{{Football box
+|id         = Tottenham Hotspur v Real Madrid
+|date       = {{Start date|2017|11|1|df=y}}
+|time       = 20:45
+|team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score      = 3–1
+|team2      = {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1     =
+*[[Dele Alli|Alli]] {{goal|27||56}}
+*[[Christian Eriksen|Eriksen]] {{goal|65}}
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|80}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 83,782<ref name="md04_2" />
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021650/index.html
+}}
+----
+{{Football box
+|id         = APOEL v Real Madrid
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 20:45
+|team1      = [[APOEL FC|APOEL]] {{flagicon|CYP}}
+|score      = 0–6
+|team2      = {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[Luka Modrić|Modrić]] {{goal|23}}
+*[[Karim Benzema|Benzema]] {{goal|39||45+1}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|41}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|49||54}}
+|stadium    = [[GSP Stadium]], [[Nicosia]]
+|attendance = 19,705<ref name="md05_1" />
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021657/index.html
+}}
+{{Football box
+|id         = Borussia Dortmund v Tottenham Hotspur
+|date       = {{Start date|2017|11|21|df=y}}
+|time       = 20:45
+|team1      = [[Borussia Dortmund]] {{flagicon|GER}}
+|score      = 1–2
+|team2      = {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     =
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|31}}
+|goals2     =
+*[[Harry Kane|Kane]] {{goal|49}}
+*[[Son Heung-min]] {{goal|76}}
+|stadium    = [[Westfalenstadion]], [[Dortmund]]
+|attendance = 65,849<ref name="md05_1" />
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021658/index.html
+}}
+----
+{{Football box
+|id         = Real Madrid v Borussia Dortmund
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score      = 3–2
+|team2      = {{flagicon|GER}} [[Borussia Dortmund]]
+|goals1     =
+*[[Borja Mayoral|Mayoral]] {{goal|8}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|12}}
+*[[Lucas Vázquez|Vázquez]] {{goal|81}}
+|goals2     =
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|43||49}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 73,323<ref name="md06_2" />
+|referee    = [[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021681/index.html
+}}
+{{Football box
+|id         = Tottenham Hotspur v APOEL
+|date       = {{Start date|2017|12|6|df=y}}
+|time       = 20:45
+|team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score      = 3–0
+|team2      = {{flagicon|CYP}} [[APOEL FC|APOEL]]
+|goals1     =
+*[[Fernando Llorente|Llorente]] {{goal|20}}
+*[[Son Heung-min]] {{goal|37}}
+*[[Georges-Kévin N'Koudou|N'Koudou]] {{goal|80}}
+|goals2     =
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 42,679<ref name="md06_2" />
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021682/index.html
+}}
+
+==Notes==
+{{reflist|group="note"}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/index.html UEFA Champions League] (official website)
+
+{{2017–18 in European football (UEFA)}}
+
+{{DEFAULTSORT:Uefa Champions League Group Stage 2017-18}}
+[[Category:2017–18 UEFA Champions League|*2]]
+[[Category:UEFA Champions League group stages|2017-18]]
+[[Category:September 2017 sports events in Europe]]
+[[Category:October 2017 sports events in Europe]]
+[[Category:November 2017 sports events in Europe]]
+[[Category:December 2017 sports events in Europe]]
