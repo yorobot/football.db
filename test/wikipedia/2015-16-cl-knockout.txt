@@ -1,0 +1,681 @@
+The '''2015–16 UEFA Champions League knockout phase''' began on 16 February and concluded on 28 May 2016 with the [[2016 UEFA Champions League Final|final]] at [[San Siro]] in [[Milan]], Italy, to decide the champions of the [[2015–16 UEFA Champions League]]. A total of 16 teams competed in the knockout phase.<ref name="regulations">{{cite web|url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/23/57/51/2235751_DOWNLOAD.pdf|title=Regulations of the UEFA Champions League 2015/16 Season|website=UEFA.com|publisher=Union of European Football Associations|date=1 May 2015}}</ref>
+
+Times up to 26 March 2016 (round of 16) were [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]), thereafter (quarter-finals and beyond) times were [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]).
+
+==Round and draw dates==
+All draws were held at UEFA headquarters in [[Nyon]], [[Switzerland]].<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2016/competitionformat/index.html|title=Competition format|publisher=UEFA.com}}</ref><ref>{{cite web|url=http://www.uefa.com/news/newsid=2255385.html|title=2015/16 Champions League: teams, draws, matches|publisher=UEFA.com}}</ref><ref>{{cite web|url=http://kassiesa.home.xs4all.nl/bert/uefa/calendar2015.html |title=UEFA European Football Calendar 2015/2016 |publisher=Bert Kassies |deadurl=yes |archiveurl=https://web.archive.org/web/20141221150453/http://kassiesa.home.xs4all.nl/bert/uefa/calendar2015.html |archivedate=2014-12-21 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Round
+!Draw date and time
+!First leg
+!Second leg
+|-
+|Round of 16
+|14 December 2015, 12:00<ref name="drawR16_1">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2016/draws/round=2000635/index.html |title=Draws — Round of 16 |publisher=UEFA.com |accessdate=14 December 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20151216172430/http://www.uefa.com/uefachampionsleague/season%3D2016/draws/round%3D2000635/index.html |archivedate=16 December 2015 }}</ref>
+|16–17 & 23–24 February 2016
+|8–9 & 15–16 March 2016
+|-
+|Quarter-finals
+|18 March 2016, 12:00<ref name="drawQF_1">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2016/draws/round=2000636/index.html |title=Draws — Quarter-finals |publisher=UEFA.com |accessdate=18 March 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160318234142/http://www.uefa.com/uefachampionsleague/season%3D2016/draws/round%3D2000636/index.html |archivedate=18 March 2016 }}</ref>
+|5–6 April 2016
+|12–13 April 2016
+|-
+|Semi-finals
+|rowspan=2|15 April 2016, 11:30<ref name="drawSF_1">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2016/draws/round=2000637/index.html |title=Draws — Semi-finals |publisher=UEFA.com |accessdate=15 April 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160510145703/http://www.uefa.com/uefachampionsleague/season%3D2016/draws/round%3D2000637/index.html |archivedate=10 May 2016 }}</ref>
+|26–27 April 2016
+|3–4 May 2016
+|-
+|Final
+|colspan=2|28 May 2016 at [[San Siro]], [[Milan]]
+|}
+
+==Format==
+The knockout phase involved the 16 teams which qualified as winners and runners-up of each of the eight groups in the [[2015–16 UEFA Champions League group stage|group stage]].<ref name="regulations"/>
+
+Each tie in the [[single-elimination tournament|knockout phase]], apart from the final, was played over [[two-legged tie|two legs]], with each team playing one leg at home. The team that scored more goals on aggregate over the two legs advanced to the next round. If the aggregate score was level, the [[away goals rule]] would be applied, i.e. the team that scored more goals away from home over the two legs advanced. If away goals were also equal, then thirty minutes of [[extra time (association football)|extra time]] would be played. The away goals rule would be again applied after extra time, i.e. if there were goals scored during extra time and the aggregate score was still level, the visiting team would advance by virtue of more away goals scored. If no goals were scored during extra time, the tie would be decided by [[penalty shoot-out (association football)|penalty shoot-out]]. In the final, which was played as a single match, if scores were level at the end of normal time, extra time would be played, followed by penalty shoot-out if scores remained tied.
+
+The mechanism of the draws for each round was as follows:
+*In the draw for the round of 16, the eight group winners were seeded, and the eight group runners-up were unseeded. The seeded teams were drawn against the unseeded teams, with the seeded teams hosting the second leg. Teams from the same group or the same association could not be drawn against each other.
+*In the draws for the quarter-finals onwards, there were no seedings, and teams from the same group or the same association could be drawn against each other.
+
+On 17 July 2014, the UEFA emergency panel ruled that Ukrainian and Russian clubs would not be drawn against each other "until further notice" due to the [[2014 pro-Russian unrest in Ukraine|political unrest]] between the countries.<ref>{{cite web|url=http://www.uefa.org/about-uefa/news/newsid=2124836.html|title=Emergency Panel decisions|publisher=UEFA.org|date=17 July 2014}}</ref>
+
+==Qualified teams==
+
+{| class="wikitable"
+|-
+!Group
+!width=220|Winners<br />(Seeded in round of 16 draw)
+!width=220|Runners-up<br />(Unseeded in round of 16 draw)
+|-
+![[2015–16 UEFA Champions League group stage#Group A|A]]
+|bgcolor=#BBF3BB|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|bgcolor=#BBF3FF|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|-
+![[2015–16 UEFA Champions League group stage#Group B|B]]
+|bgcolor=#BBF3BB|{{flagicon|GER}} [[VfL Wolfsburg|Wolfsburg]]
+|bgcolor=#BBF3FF|{{flagicon|NED}} [[PSV Eindhoven]]
+|-
+![[2015–16 UEFA Champions League group stage#Group C|C]]
+|bgcolor=#BBF3BB|{{flagicon|ESP}} [[Atlético Madrid]]
+|bgcolor=#BBF3FF|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|-
+![[2015–16 UEFA Champions League group stage#Group D|D]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|bgcolor=#BBF3FF|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|-
+![[2015–16 UEFA Champions League group stage#Group E|E]]
+|bgcolor=#BBF3BB|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|bgcolor=#BBF3FF|{{flagicon|ITA}} [[A.S. Roma|Roma]]
+|-
+![[2015–16 UEFA Champions League group stage#Group F|F]]
+|bgcolor=#BBF3BB|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|bgcolor=#BBF3FF|{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|-
+![[2015–16 UEFA Champions League group stage#Group G|G]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|bgcolor=#BBF3FF|{{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|-
+![[2015–16 UEFA Champions League group stage#Group H|H]]
+|bgcolor=#BBF3BB|{{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|bgcolor=#BBF3FF|{{flagicon|BEL}} [[K.A.A. Gent|Gent]]
+|}
+
+==Bracket==
+<section begin=bracket />{{16TeamBracket-2legs-except final
+| team-width      = 180
+| nowrap          = yes
+
+| RD1             = [[#Round of 16|Round of 16]]
+| RD2             = [[#Quarter-finals|Quarter-finals]]
+| RD3             = [[#Semi-finals|Semi-finals]]
+| RD4             = [[2016 UEFA Champions League Final|Final]]
+
+| RD1-team01      = {{flagicon|FRA}} '''[[Paris Saint-Germain F.C.|Paris Saint-Germain]]'''
+| RD1-score01-1   = 2
+| RD1-score01-2   = 2
+| RD1-score01-agg = 4
+| RD1-team02      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| RD1-score02-1   = 1
+| RD1-score02-2   = 1
+| RD1-score02-agg = 2
+
+| RD1-team03      = {{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+| RD1-score03-1   = 1
+| RD1-score03-2   = 0
+| RD1-score03-agg = 1
+| RD1-team04      = {{flagicon|ENG}} '''[[Manchester City F.C.|Manchester City]]'''
+| RD1-score04-1   = 3
+| RD1-score04-2   = 0
+| RD1-score04-agg = 3
+
+| RD1-team05      = {{flagicon|BEL}} [[K.A.A. Gent|Gent]]
+| RD1-score05-1   = 2
+| RD1-score05-2   = 0
+| RD1-score05-agg = 2
+| RD1-team06      = {{flagicon|GER}} '''[[VfL Wolfsburg|Wolfsburg]]'''
+| RD1-score06-1   = 3
+| RD1-score06-2   = 1
+| RD1-score06-agg = 4
+
+| RD1-team07      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
+| RD1-score07-1   = 0
+| RD1-score07-2   = 0
+| RD1-score07-agg = 0
+| RD1-team08      = {{flagicon|ESP}} '''[[Real Madrid C.F.|Real Madrid]]'''
+| RD1-score08-1   = 2
+| RD1-score08-2   = 2
+| RD1-score08-agg = 4
+
+| RD1-team09      = {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| RD1-score09-1   = 0
+| RD1-score09-2   = 1
+| RD1-score09-agg = 1
+| RD1-team10      = {{flagicon|ESP}} '''[[FC Barcelona|Barcelona]]'''
+| RD1-score10-1   = 2
+| RD1-score10-2   = 3
+| RD1-score10-agg = 5
+
+| RD1-team11      = {{flagicon|NED}} [[PSV Eindhoven]]
+| RD1-score11-1   = 0
+| RD1-score11-2   = 0
+| RD1-score11-agg = 0 {{Small|(7)}}
+| RD1-team12      = {{flagicon|ESP}} '''[[Atlético Madrid]]''' ([[Penalty shoot-out (association football)|pen.]])
+| RD1-score12-1   = 0
+| RD1-score12-2   = 0
+| RD1-score12-agg = 0 {{Small|(8)}}
+
+| RD1-team13      = {{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+| RD1-score13-1   = 2
+| RD1-score13-2   = 2
+| RD1-score13-agg = 4
+| RD1-team14      = {{flagicon|GER}} '''[[FC Bayern Munich|Bayern Munich]]''' ([[Overtime (sports)#Association football|aet]])
+| RD1-score14-1   = 2
+| RD1-score14-2   = 4
+| RD1-score14-agg = 6
+
+| RD1-team15      = {{flagicon|POR}} '''[[S.L. Benfica|Benfica]]'''
+| RD1-score15-1   = 1
+| RD1-score15-2   = 2
+| RD1-score15-agg = 3
+| RD1-team16      = {{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+| RD1-score16-1   = 0
+| RD1-score16-2   = 1
+| RD1-score16-agg = 1
+
+| RD2-team01      = {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| RD2-score01-1   = 2
+| RD2-score01-2   = 0
+| RD2-score01-agg = 2
+| RD2-team02      = {{flagicon|ENG}} '''[[Manchester City F.C.|Manchester City]]'''
+| RD2-score02-1   = 2
+| RD2-score02-2   = 1
+| RD2-score02-agg = 3
+
+| RD2-team03      = {{flagicon|GER}} [[VfL Wolfsburg|Wolfsburg]]
+| RD2-score03-1   = 2
+| RD2-score03-2   = 0
+| RD2-score03-agg = 2
+| RD2-team04      = {{flagicon|ESP}} '''[[Real Madrid C.F.|Real Madrid]]'''
+| RD2-score04-1   = 0
+| RD2-score04-2   = 3
+| RD2-score04-agg = 3
+
+| RD2-team05      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+| RD2-score05-1   = 2
+| RD2-score05-2   = 0
+| RD2-score05-agg = 2
+| RD2-team06      = {{flagicon|ESP}} '''[[Atlético Madrid]]'''
+| RD2-score06-1   = 1
+| RD2-score06-2   = 2
+| RD2-score06-agg = 3
+
+| RD2-team07      = {{flagicon|GER}} '''[[FC Bayern Munich|Bayern Munich]]'''
+| RD2-score07-1   = 1
+| RD2-score07-2   = 2
+| RD2-score07-agg = 3
+| RD2-team08      = {{flagicon|POR}} [[S.L. Benfica|Benfica]]
+| RD2-score08-1   = 0
+| RD2-score08-2   = 2
+| RD2-score08-agg = 2
+
+| RD3-team01      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| RD3-score01-1   = 0
+| RD3-score01-2   = 0
+| RD3-score01-agg = 0
+| RD3-team02      = {{flagicon|ESP}} '''[[Real Madrid C.F.|Real Madrid]]'''
+| RD3-score02-1   = 0
+| RD3-score02-2   = 1
+| RD3-score02-agg = 1
+
+| RD3-team03      = {{flagicon|ESP}} '''[[Atlético Madrid]]''' ([[Away goals rule|a]])
+| RD3-score03-1   = 1
+| RD3-score03-2   = 1
+| RD3-score03-agg = 2
+| RD3-team04      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| RD3-score04-1   = 0
+| RD3-score04-2   = 2
+| RD3-score04-agg = 2
+
+| RD4-team01      = {{flagicon|ESP}} '''[[Real Madrid C.F.|Real Madrid]]''' ([[Penalty shoot-out (association football)|pen.]])
+| RD4-score01     = 1 {{Small|(5)}}
+| RD4-team02      = {{flagicon|ESP}} [[Atlético Madrid]]
+| RD4-score02     = 1 {{Small|(3)}}
+}}<section end=bracket />
+
+==Round of 16==
+The draw was held on 14 December 2015. The first legs were played on 16, 17, 23 and 24 February, and the second legs were played on 8, 9, 15 and 16 March 2016.
+
+===Summary===
+<section begin=Rof16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[K.A.A. Gent|Gent]]|BEL|2–4|'''[[VfL Wolfsburg|Wolfsburg]]'''|GER|[[2015–16 UEFA Champions League knockout phase#Gent v Wolfsburg|2–3]]|[[2015–16 UEFA Champions League knockout phase#Wolfsburg v Gent|0–1]]}}
+{{TwoLegResult|[[A.S. Roma|Roma]]|ITA|0–4|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[2015–16 UEFA Champions League knockout phase#Roma v Real Madrid|0–2]]|[[2015–16 UEFA Champions League knockout phase#Real Madrid v Roma|0–2]]}}
+{{TwoLegResult|'''[[Paris Saint-Germain F.C.|Paris Saint-Germain]]'''|FRA|4–2|[[Chelsea F.C.|Chelsea]]|ENG|[[2015–16 UEFA Champions League knockout phase#Paris Saint-Germain v Chelsea|2–1]]|[[2015–16 UEFA Champions League knockout phase#Chelsea v Paris Saint-Germain|2–1]]}}
+{{TwoLegResult|[[Arsenal F.C.|Arsenal]]|ENG|1–5|'''[[FC Barcelona|Barcelona]]'''|ESP|[[2015–16 UEFA Champions League knockout phase#Arsenal v Barcelona|0–2]]|[[2015–16 UEFA Champions League knockout phase#Barcelona v Arsenal|1–3]]}}
+{{TwoLegResult|[[Juventus F.C.|Juventus]]|ITA|4–6|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|[[2015–16 UEFA Champions League knockout phase#Juventus v Bayern Munich|2–2]]|[[2015–16 UEFA Champions League knockout phase#Bayern Munich v Juventus|2–4]] {{aet}}}}
+{{TwoLegResult|[[PSV Eindhoven]]|NED|0–0 (7–8 [[Penalty shoot-out (association football)|p]])|'''[[Atlético Madrid]]'''|ESP|[[2015–16 UEFA Champions League knockout phase#PSV Eindhoven v Atlético Madrid|0–0]]|[[2015–16 UEFA Champions League knockout phase#Atlético Madrid v PSV Eindhoven|0–0]] {{aet}}}}
+{{TwoLegResult|'''[[S.L. Benfica|Benfica]]'''|POR|3–1|[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|RUS|[[2015–16 UEFA Champions League knockout phase#Benfica v Zenit Saint Petersburg|1–0]]|[[2015–16 UEFA Champions League knockout phase#Zenit Saint Petersburg v Benfica|2–1]]}}
+{{TwoLegResult|[[FC Dynamo Kyiv|Dynamo Kyiv]]|UKR|1–3|'''[[Manchester City F.C.|Manchester City]]'''|ENG|[[2015–16 UEFA Champions League knockout phase#Dynamo Kyiv v Manchester City|1–3]]|[[2015–16 UEFA Champions League knockout phase#Manchester City v Dynamo Kyiv|0–0]]}}
+|}<section end=Rof16 />
+
+===Matches===
+{{Football box |id="Gent v Wolfsburg"
+|date={{Start date|2016|2|17|df=y}}
+|time=20:45
+|team1=[[K.A.A. Gent|Gent]] {{flagicon|BEL}}
+|score=2–3
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015761/index.html
+|team2={{flagicon|GER}} [[VfL Wolfsburg|Wolfsburg]]
+|goals1=[[Sven Kums|Kums]] {{goal|80}}<br />[[Kalifa Coulibaly|Coulibaly]] {{goal|89}}
+|goals2=[[Julian Draxler|Draxler]] {{goal|44||54}}<br />[[Max Kruse|Kruse]] {{goal|60}}
+|stadium=[[Ghelamco Arena]], [[Ghent]]
+|attendance=19,978<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015761_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Gent v Wolfsburg |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=17 February 2016 |accessdate=17 February 2016}}</ref>
+|referee=[[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+}}
+{{Football box |id="Wolfsburg v Gent"
+|date={{Start date|2016|3|8|df=y}}
+|time=20:45
+|team1=[[VfL Wolfsburg|Wolfsburg]] {{flagicon|GER}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015771/index.html
+|team2={{flagicon|BEL}} [[K.A.A. Gent|Gent]]
+|goals1=[[André Schürrle|Schürrle]] {{goal|74}}
+|goals2=
+|stadium=[[Volkswagen Arena]], [[Wolfsburg]]
+|attendance=23,457<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015771_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Wolfsburg v Gent |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=8 March 2016 |accessdate=8 March 2016}}</ref>
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}
+''Wolfsburg won 4–2 on aggregate.''
+----
+{{Football box |id="Roma v Real Madrid"
+|date={{Start date|2016|2|17|df=y}}
+|time=20:45
+|team1=[[A.S. Roma|Roma]] {{flagicon|ITA}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015762/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|57}}<br />[[Jesé]] {{goal|86}}
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=55,612<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015762_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Roma v Real Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=17 February 2016 |accessdate=17 February 2016}}</ref>
+|referee=[[Pavel Královec]] ([[Football Association of the Czech Republic|Czech Republic]])
+}}
+{{Football box |id="Real Madrid v Roma"
+|date={{Start date|2016|3|8|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015772/index.html
+|team2={{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|64}}<br />[[James Rodríguez|Rodríguez]] {{goal|68}}
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=76,654<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015772_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Real Madrid v Roma |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=8 March 2016 |accessdate=8 March 2016}}</ref>
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+''Real Madrid won 4–0 on aggregate.''
+----
+{{Football box |id="Paris Saint-Germain v Chelsea"
+|date={{Start date|2016|2|16|df=y}}
+|time=20:45
+|team1=[[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015765/index.html
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Zlatan Ibrahimović|Ibrahimović]] {{goal|39}}<br />[[Edinson Cavani|Cavani]] {{goal|78}}
+|goals2=[[John Obi Mikel|Mikel]] {{goal|45+1}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=46,505<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015765_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Paris Saint-Germain v Chelsea |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=16 February 2016 |accessdate=16 February 2016}}</ref>
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box |id="Chelsea v Paris Saint-Germain"
+|date={{Start date|2016|3|9|df=y}}
+|time=20:45
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015775/index.html
+|team2={{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1=[[Diego Costa|Costa]] {{goal|27}}
+|goals2=[[Adrien Rabiot|Rabiot]] {{goal|16}}<br />[[Zlatan Ibrahimović|Ibrahimović]] {{goal|67}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=37,591<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015775_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Chelsea v Paris Saint-Germain |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=9 March 2016 |accessdate=9 March 2016}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}
+''Paris Saint-Germain won 4–2 on aggregate.''
+----
+{{Football box |id="Arsenal v Barcelona"
+|date={{Start date|2016|2|23|df=y}}
+|time=20:45
+|team1=[[Arsenal F.C.|Arsenal]] {{flagicon|ENG}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015766/index.html
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+|goals2=[[Lionel Messi|Messi]] {{goal|71||83|pen.}}
+|stadium=[[Emirates Stadium]], [[London]]
+|attendance=59,889<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015766_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Arsenal v Barcelona |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=23 February 2016 |accessdate=23 February 2016}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+{{Football box |id="Barcelona v Arsenal"
+|date={{Start date|2016|3|16|df=y}}
+|time=20:45
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score=3–1
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015776/index.html
+|team2={{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1=[[Neymar]] {{goal|18}}<br />[[Luis Suárez|Suárez]] {{goal|65}}<br />[[Lionel Messi|Messi]] {{goal|88}}
+|goals2=[[Mohamed Elneny|Elneny]] {{goal|51}}
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=76,092<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015776_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Barcelona v Arsenal |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=16 March 2016 |accessdate=16 March 2016}}</ref>
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+}}
+''Barcelona won 5–1 on aggregate.''
+----
+{{Football box |id="Juventus v Bayern Munich"
+|date={{Start date|2016|2|23|df=y}}
+|time=20:45
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015767/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=[[Paulo Dybala|Dybala]] {{goal|63}}<br />[[Stefano Sturaro|Sturaro]] {{goal|76}}
+|goals2=[[Thomas Müller|Müller]] {{goal|43}}<br />[[Arjen Robben|Robben]] {{goal|55}}
+|stadium=[[Juventus Stadium]], [[Turin]]
+|attendance=41,332<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015767_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Juventus v Bayern Munich |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=23 February 2016 |accessdate=23 February 2016}}</ref>
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+}}
+{{Football box |id="Bayern Munich v Juventus"
+|date={{Start date|2016|3|16|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=4–2
+|aet=yes
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015773/index.html
+|team2={{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1=[[Robert Lewandowski|Lewandowski]] {{goal|73}}<br />[[Thomas Müller|Müller]] {{goal|90+1}}<br />[[Thiago Alcântara|Thiago]] {{goal|108}}<br />[[Kingsley Coman|Coman]] {{goal|110}}
+|goals2=[[Paul Pogba|Pogba]] {{goal|5}}<br />[[Juan Cuadrado|Cuadrado]] {{goal|28}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015773_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Bayern Munich v Juventus |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=16 March 2016 |accessdate=16 March 2016}}</ref>
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}
+''Bayern Munich won 6–4 on aggregate.''
+----
+{{Football box |id="PSV Eindhoven v Atlético Madrid"
+|date={{Start date|2016|2|24|df=y}}
+|time=20:45
+|team1=[[PSV Eindhoven]] {{flagicon|NED}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015768/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=
+|goals2=
+|stadium=[[Philips Stadion]], [[Eindhoven]]
+|attendance=34,948<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015768_fr.pdf |title=Full Time Summary Round of 16 1st Leg – PSV Eindhoven v Atlético Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=24 February 2016 |accessdate=24 February 2016}}</ref>
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box |id="Atlético Madrid v PSV Eindhoven"
+|date={{Start date|2016|3|15|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=0–0
+|aet=yes
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015774/index.html
+|team2={{flagicon|NED}} [[PSV Eindhoven]]
+|goals1=
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=50,135<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015774_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Atlético Madrid v PSV Eindhoven |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=15 March 2016 |accessdate=15 March 2016}}</ref>
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+|penalties1=[[Antoine Griezmann|Griezmann]] {{pengoal}}<br />[[Gabi (footballer)|Gabi]] {{pengoal}}<br />[[Koke (footballer, born 1992)|Koke]] {{pengoal}}<br />[[Saúl Ñíguez|Saúl]] {{pengoal}}<br />[[Fernando Torres|F. Torres]] {{pengoal}}<br />[[José Giménez|Giménez]] {{pengoal}}<br />[[Filipe Luís]] {{pengoal}}<br />[[Juanfran (footballer, born 1985)|Juanfran]] {{pengoal}}
+|penaltyscore=8–7
+|penalties2={{pengoal}} [[Marco van Ginkel|Van Ginkel]]<br />{{pengoal}} [[Andrés Guardado|Guardado]]<br />{{pengoal}} [[Davy Pröpper|Pröpper]]<br />{{pengoal}} [[Jeffrey Bruma|Bruma]]<br />{{pengoal}} [[Héctor Moreno (footballer)|Moreno]]<br />{{pengoal}} [[Maxime Lestienne|Lestienne]]<br />{{pengoal}} [[Santiago Arias|Arias]]<br />{{penmiss}} [[Luciano Narsingh|Narsingh]]
+}}
+''0–0 on aggregate. Atlético Madrid won 8–7 on penalties.''
+----
+{{Football box |id="Benfica v Zenit Saint Petersburg"
+|date={{Start date|2016|2|16|df=y}}
+|time=20:45
+|team1=[[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015763/index.html
+|team2={{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|goals1=[[Jonas Gonçalves Oliveira|Jonas]] {{goal|90+1}}
+|goals2=
+|stadium=[[Estádio da Luz]], [[Lisbon]]
+|attendance=48,615<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015763_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Benfica v Zenit Saint Petersburg |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=16 February 2016 |accessdate=16 February 2016}}</ref>
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box |id="Zenit Saint Petersburg v Benfica"
+|date={{Start date|2016|3|9|df=y}}
+|time=18:00
+|team1=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] {{flagicon|RUS}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015769/index.html
+|team2={{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1=[[Hulk (footballer)|Hulk]] {{goal|69}}
+|goals2=[[Nicolás Gaitán|Gaitán]] {{goal|85}}<br />[[Talisca]] {{goal|90+6}}
+|stadium=[[Petrovsky Stadium]], [[Saint Petersburg]]
+|attendance=17,688<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015769_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Zenit Saint Petersburg v Benfica |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=9 March 2016 |accessdate=9 March 2016}}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}
+''Benfica won 3–1 on aggregate.''
+----
+{{Football box |id="Dynamo Kyiv v Manchester City"
+|date={{Start date|2016|2|24|df=y}}
+|time=20:45
+|team1=[[FC Dynamo Kyiv|Dynamo Kyiv]] {{flagicon|UKR}}
+|score=1–3
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015764/index.html
+|team2={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1=[[Vitaliy Buyalskyi|Buyalskyi]] {{goal|59}}
+|goals2=[[Sergio Agüero|Agüero]] {{goal|15}}<br />[[David Silva|Silva]] {{goal|40}}<br />[[Yaya Touré|Touré]] {{goal|90}}
+|stadium=[[Olimpiyskiy National Sports Complex|Olympic Stadium]], [[Kiev]]
+|attendance=53,691<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015764_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Dynamo Kyiv v Manchester City |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=24 February 2016 |accessdate=24 February 2016}}</ref>
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box |id="Manchester City v Dynamo Kyiv"
+|date={{Start date|2016|3|15|df=y}}
+|time=20:45
+|team1=[[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000635/match=2015770/index.html
+|team2={{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1=
+|goals2=
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=43,630<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015770_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Manchester City v Dynamo Kyiv |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=15 March 2016 |accessdate=15 March 2016}}</ref>
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+}}
+''Manchester City won 3–1 on aggregate.''
+
+==Quarter-finals==
+The draw was held on 18 March 2016. The first legs were played on 5 and 6 April, and the second legs were played on 12 and 13 April 2016.
+
+===Summary===
+<section begin=QF />
+{{TwoLegStart}}
+{{TwoLegResult|[[VfL Wolfsburg|Wolfsburg]]|GER|2–3|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[2015–16 UEFA Champions League knockout phase#Wolfsburg v Real Madrid|2–0]]|[[2015–16 UEFA Champions League knockout phase#Real Madrid v Wolfsburg|0–3]]}}
+{{TwoLegResult|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|3–2|[[S.L. Benfica|Benfica]]|POR|[[2015–16 UEFA Champions League knockout phase#Bayern Munich v Benfica|1–0]]|[[2015–16 UEFA Champions League knockout phase#Benfica v Bayern Munich|2–2]]}}
+{{TwoLegResult|[[FC Barcelona|Barcelona]]|ESP|2–3|'''[[Atlético Madrid]]'''|ESP|[[2015–16 UEFA Champions League knockout phase#Barcelona v Atlético Madrid|2–1]]|[[2015–16 UEFA Champions League knockout phase#Atlético Madrid v Barcelona|0–2]]}}
+{{TwoLegResult|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|FRA|2–3|'''[[Manchester City F.C.|Manchester City]]'''|ENG|[[2015–16 UEFA Champions League knockout phase#Paris Saint-Germain v Manchester City|2–2]]|[[2015–16 UEFA Champions League knockout phase#Manchester City v Paris Saint-Germain|0–1]]}}
+|}<section end=QF />
+
+===Matches===
+{{Football box |id="Wolfsburg v Real Madrid"
+|date={{Start date|2016|4|6|df=y}}
+|time=20:45
+|team1=[[VfL Wolfsburg|Wolfsburg]] {{flagicon|GER}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015777/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Ricardo Rodríguez (footballer)|Rodríguez]] {{goal|18|pen.}}<br />[[Maximilian Arnold|Arnold]] {{goal|25}}
+|goals2=
+|stadium=[[Volkswagen Arena]], [[Wolfsburg]]
+|attendance=26,400<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015777_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Wolfsburg v Real Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=6 April 2016 |accessdate=6 April 2016}}</ref>
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box |id="Real Madrid v Wolfsburg"
+|date={{Start date|2016|4|12|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=3–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015783/index.html
+|team2={{flagicon|GER}} [[VfL Wolfsburg|Wolfsburg]]
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|15||17||77}}
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=76,684<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015783_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Real Madrid v Wolfsburg |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=12 April 2016 |accessdate=12 April 2016}}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}
+''Real Madrid won 3–2 on aggregate.''
+----
+{{Football box |id="Bayern Munich v Benfica"
+|date={{Start date|2016|4|5|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015778/index.html
+|team2={{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1=[[Arturo Vidal|Vidal]] {{goal|2}}
+|goals2=
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015778_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Bayern Munich v Benfica |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=5 April 2016 |accessdate=5 April 2016}}</ref>
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+{{Football box |id="Benfica v Bayern Munich"
+|date={{Start date|2016|4|13|df=y}}
+|time=20:45
+|team1=[[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015784/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=[[Raúl Jiménez|Jiménez]] {{goal|27}}<br />[[Talisca]] {{goal|76}}
+|goals2=[[Arturo Vidal|Vidal]] {{goal|38}}<br />[[Thomas Müller|Müller]] {{goal|52}}
+|stadium=[[Estádio da Luz]], [[Lisbon]]
+|attendance=63,235<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015784_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Benfica v Bayern Munich |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=13 April 2016 |accessdate=13 April 2016}}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+''Bayern Munich won 3–2 on aggregate.''
+----
+{{Football box |id="Barcelona v Atlético Madrid"
+|date={{Start date|2016|4|5|df=y}}
+|time=20:45
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015779/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=[[Luis Suárez|Suárez]] {{goal|63||74}}
+|goals2=[[Fernando Torres|Torres]] {{goal|25}}
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=88,534<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015779_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Barcelona v Atlético Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=5 April 2016 |accessdate=5 April 2016}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}
+{{Football box |id="Atlético Madrid v Barcelona"
+|date={{Start date|2016|4|13|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015781/index.html
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=[[Antoine Griezmann|Griezmann]] {{goal|36||88|pen.}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=52,851<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015781_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Atlético Madrid v Barcelona |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=13 April 2016 |accessdate=13 April 2016}}</ref>
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}
+''Atlético Madrid won 3–2 on aggregate.''
+----
+{{Football box |id="Paris Saint-Germain v Manchester City"
+|date={{Start date|2016|4|6|df=y}}
+|time=20:45
+|team1=[[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015780/index.html
+|team2={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1=[[Zlatan Ibrahimović|Ibrahimović]] {{goal|41}}<br />[[Adrien Rabiot|Rabiot]] {{goal|59}}
+|goals2=[[Kevin De Bruyne|De Bruyne]] {{goal|38}}<br />[[Fernandinho (footballer)|Fernandinho]] {{goal|72}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=47,228<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015780_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Paris Saint-Germain v Manchester City |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=6 April 2016 |accessdate=6 April 2016}}</ref>
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+}}
+{{Football box |id="Manchester City v Paris Saint-Germain"
+|date={{Start date|2016|4|12|df=y}}
+|time=20:45
+|team1=[[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000636/match=2015782/index.html
+|team2={{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1=[[Kevin De Bruyne|De Bruyne]] {{goal|76}}
+|goals2=
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=53,039<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015782_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Manchester City v Paris Saint-Germain |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=12 April 2016 |accessdate=12 April 2016}}</ref>
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+}}
+''Manchester City won 3–2 on aggregate.''
+
+==Semi-finals==
+The draw was held on 15 April 2016. The first legs were played on 26 and 27 April, and the second legs were played on 3 and 4 May 2016.
+
+===Summary===
+<section begin=SF />
+{{TwoLegStart}}
+{{TwoLegResult|[[Manchester City F.C.|Manchester City]]|ENG|0–1|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[2015–16 UEFA Champions League knockout phase#Manchester City v Real Madrid|0–0]]|[[2015–16 UEFA Champions League knockout phase#Real Madrid v Manchester City|0–1]]}}
+{{TwoLegResult|'''[[Atlético Madrid]]'''|ESP|2–2 ([[Away goals rule|a]])|[[FC Bayern Munich|Bayern Munich]]|GER|[[2015–16 UEFA Champions League knockout phase#Atlético Madrid v Bayern Munich|1–0]]|[[2015–16 UEFA Champions League knockout phase#Bayern Munich v Atlético Madrid|1–2]]}}
+|}<section end=SF />
+
+===Matches===
+{{Football box |id="Manchester City v Real Madrid"
+|date={{Start date|2016|4|26|df=y}}
+|time=20:45
+|team1=[[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000637/match=2015785/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=
+|goals2=
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=52,221<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015785_fr.pdf |title=Full Time Summary Semi-finals 1st Leg – Manchester City v Real Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=26 April 2016 |accessdate=26 April 2016}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+{{Football box |id="Real Madrid v Manchester City"
+|date={{Start date|2016|5|4|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000637/match=2015788/index.html
+|team2={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1=[[Fernando (Brazilian footballer, born 1987)|Fernando]] {{goal|20|o.g.}}
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=78,300<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015788_fr.pdf |title=Full Time Summary Semi-finals 2nd Leg – Real Madrid v Manchester City |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=4 May 2016 |accessdate=4 May 2016}}</ref>
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}
+''Real Madrid won 1–0 on aggregate.''
+----
+{{Football box |id="Atlético Madrid v Bayern Munich"
+|date={{Start date|2016|4|27|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000637/match=2015786/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=[[Saúl Ñíguez|Saúl]] {{goal|11}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=52,127<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015786_fr.pdf |title=Full Time Summary Semi-finals 1st Leg – Atlético Madrid v Bayern Munich |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=27 April 2016 |accessdate=27 April 2016}}</ref>
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+}}
+{{Football box |id="Bayern Munich v Atlético Madrid"
+|date={{Start date|2016|5|3|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000637/match=2015787/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=[[Xabi Alonso|Alonso]] {{goal|31}}<br />[[Robert Lewandowski|Lewandowski]] {{goal|74}}
+|goals2=[[Antoine Griezmann|Griezmann]] {{goal|54}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015787_fr.pdf |title=Full Time Summary Semi-finals 2nd Leg – Bayern Munich v Atlético Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=3 May 2016 |accessdate=3 May 2016}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+''2–2 on aggregate. Atlético Madrid won on away goals.''
+
+==Final==
+{{main|2016 UEFA Champions League Final}}
+
+The final was played on 28 May 2016 at [[San Siro]] in [[Milan]], Italy.
+{{:2016 UEFA Champions League Final}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/season=2016/index.html 2015–16 UEFA Champions League]
+
+{{2015–16 in European football (UEFA)}}
+
+{{DEFAULTSORT:2015-16 Uefa Champions League Knockout Phase}}
+[[Category:2015–16 UEFA Champions League|*3]]

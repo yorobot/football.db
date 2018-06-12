@@ -1,0 +1,654 @@
+The '''2016–17 UEFA Champions League knockout phase''' began on 14 February and ended on 3 June 2017 with the [[2017 UEFA Champions League Final|final]] at [[Millennium Stadium]] in [[Cardiff]], Wales, to decide the champions of the [[2016–17 UEFA Champions League]]. A total of 16 teams competed in the knockout phase.<ref name="regulations">{{cite web |title=Regulations of the UEFA Champions League 2016/17 Season |url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/35/87/89/2358789_DOWNLOAD.pdf |website=UEFA.com |publisher=Union of European Football Associations |accessdate=29 June 2016 }}</ref>
+
+Times up to 25 March 2017 (round of 16) were [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]), thereafter (quarter-finals and beyond) times were [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]).
+
+==Round and draw dates==
+The schedule of the competition was as follows (all draws were held at the UEFA headquarters in [[Nyon]], [[Switzerland]], unless stated otherwise).<ref name="regulations" /><ref name="road to cardiff">{{cite web |title=Road to Cardiff: the 2016/17 season calendar |url=http://www.uefa.com/uefachampionsleague/news/newsid=2369896.html |website=UEFA.com |publisher=Union of European Football Associations |date=30 May 2016 |accessdate=26 June 2016 }}</ref><ref>{{cite web |title=2016/17 Champions League match calendar |url=http://www.uefa.com/uefachampionsleague/season=2017/competitionformat/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=26 June 2016 }}</ref><ref>{{cite web|url=http://kassiesa.home.xs4all.nl/bert/uefa/calendar2016.html|title=UEFA European Football Calendar 2016/2017|publisher=Bert Kassies |accessdate=26 June 2016}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Round
+!Draw date and time
+!First leg
+!Second leg
+|-
+|Round of 16
+|12 December 2016, 12:00<ref name="drawR16">{{cite web |title=UEFA Champions League round of 16 draw |url=http://www.uefa.com/uefachampionsleague/season=2017/draws/round=2000784/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=26 June 2016 }}</ref>
+|14–15 & 21–22 February 2017
+|7–8 & 14–15 March 2017
+|-
+|Quarter-finals
+|17 March 2017, 12:00<ref name="drawQF">{{cite web |title=UEFA Champions League quarter-final draw |url=http://www.uefa.com/uefachampionsleague/season=2017/draws/round=2000785/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=26 June 2016 }}</ref>
+|11–12 April 2017
+|18–19 April 2017
+|-
+|Semi-finals
+|rowspan=2|21 April 2017, 12:00<ref name="drawSF">{{cite web |title=UEFA Champions League semi-final draw |url=http://www.uefa.com/uefachampionsleague/season=2017/draws/round=2000786/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=26 June 2016 }}</ref>
+|2–3 May 2017
+|9–10 May 2017
+|-
+|Final
+|colspan=2|3 June 2017 at [[Millennium Stadium]], [[Cardiff]]
+|}
+
+==Format==
+The knockout phase involves the 16 teams which qualified as winners and runners-up of each of the eight groups in the [[2016–17 UEFA Champions League group stage|group stage]].<ref name="regulations"/>
+
+Each tie in the [[single-elimination tournament|knockout phase]], apart from the final, is played over [[two-legged tie|two legs]], with each team playing one leg at home. The team that scores more goals on aggregate over the two legs advance to the next round. If the aggregate score is level, the [[away goals rule]] is applied, i.e. the team that scored more goals away from home over the two legs advances. If away goals are also equal, then thirty minutes of [[extra time (association football)|extra time]] is played. The away goals rule is again applied after extra time, i.e. if there are goals scored during extra time and the aggregate score is still level, the visiting team advances by virtue of more away goals scored. If no goals are scored during extra time, the tie is decided by [[penalty shoot-out (association football)|penalty shoot-out]]. In the final, which is played as a single match, if scores are level at the end of normal time, extra time is played, followed by penalty shoot-out if scores remain tied.
+
+The mechanism of the draws for each round is as follows:
+*In the draw for the round of 16, the eight group winners are seeded, and the eight group runners-up are unseeded. The seeded teams are drawn against the unseeded teams, with the seeded teams hosting the second leg. Teams from the same group or the same association cannot be drawn against each other.
+*In the draws for the quarter-finals onwards, there are no seedings, and teams from the same group or the same association can be drawn against each other.
+
+==Qualified teams==
+{| class="wikitable"
+|-
+!Group
+!width=220|Winners<br />(Seeded in round of 16 draw)
+!width=220|Runners-up<br />(Unseeded in round of 16 draw)
+|-
+![[2016–17 UEFA Champions League group stage#Group A|A]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|bgcolor=#BBF3FF|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|-
+![[2016–17 UEFA Champions League group stage#Group B|B]]
+|bgcolor=#BBF3BB|{{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|bgcolor=#BBF3FF|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|-
+![[2016–17 UEFA Champions League group stage#Group C|C]]
+|bgcolor=#BBF3BB|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|bgcolor=#BBF3FF|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|-
+![[2016–17 UEFA Champions League group stage#Group D|D]]
+|bgcolor=#BBF3BB|{{flagicon|ESP}} [[Atlético Madrid]]
+|bgcolor=#BBF3FF|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+![[2016–17 UEFA Champions League group stage#Group E|E]]
+|bgcolor=#BBF3BB|{{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|bgcolor=#BBF3FF|{{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|-
+![[2016–17 UEFA Champions League group stage#Group F|F]]
+|bgcolor=#BBF3BB|{{flagicon|GER}} [[Borussia Dortmund]]
+|bgcolor=#BBF3FF|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|-
+![[2016–17 UEFA Champions League group stage#Group G|G]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|bgcolor=#BBF3FF|{{flagicon|POR}} [[FC Porto|Porto]]
+|-
+![[2016–17 UEFA Champions League group stage#Group H|H]]
+|bgcolor=#BBF3BB|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|bgcolor=#BBF3FF|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|}
+
+==Bracket==
+<section begin=bracket />
+{{16TeamBracket-2legs-except final
+|team-width = 180
+|nowrap     = yes
+|RD1        = [[#Round of 16|Round of 16]]
+|RD2        = [[#Quarter-finals|Quarter-finals]]
+|RD3        = [[#Semi-finals|Semi-finals]]
+|RD4        = [[#Final|Final]]
+<!--Round of 16-->
+|POR|[[S.L. Benfica|Benfica]]|1|0|1|GER|'''[[Borussia Dortmund]]'''|0|4|4
+|ENG|[[Manchester City F.C.|Manchester City]]|5|1|6|FRA|'''[[AS Monaco FC|Monaco]]''' {{agr}}|3|3|6
+|POR|[[FC Porto|Porto]]|0|0|0|ITA|'''[[Juventus F.C.|Juventus]]'''|2|1|3
+|FRA|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|4|1|5|ESP|'''[[FC Barcelona|Barcelona]]'''|0|6|6
+|GER|'''[[FC Bayern Munich|Bayern Munich]]'''|5|5|10|ENG|[[Arsenal F.C.|Arsenal]]|1|1|2
+|ESP|'''[[Real Madrid C.F.|Real Madrid]]'''|3|3|6|ITA|[[S.S.C. Napoli|Napoli]]|1|1|2
+|GER|[[Bayer 04 Leverkusen|Bayer Leverkusen]]|2|0|2|ESP|'''[[Atlético Madrid]]'''|4|0|4
+|ESP|[[Sevilla FC|Sevilla]]|2|0|2|ENG|'''[[Leicester City F.C.|Leicester City]]'''|1|2|3
+<!--Quarter-finals-->
+|GER|[[Borussia Dortmund]]|2|1|3|FRA|'''[[AS Monaco FC|Monaco]]'''|3|3|6
+|ITA|'''[[Juventus F.C.|Juventus]]'''|3|0|3|ESP|[[FC Barcelona|Barcelona]]|0|0|0
+|GER|[[FC Bayern Munich|Bayern Munich]]|1|2|3|ESP|'''[[Real Madrid C.F.|Real Madrid]]''' {{aet}}|2|4|6
+|ESP|'''[[Atlético Madrid]]'''|1|1|2|ENG|[[Leicester City F.C.|Leicester City]]|0|1|1
+<!--Semi-finals-->
+|FRA|[[AS Monaco FC|Monaco]]|0|1|1|ITA|'''[[Juventus F.C.|Juventus]]'''|2|2|4
+|ESP|'''[[Real Madrid C.F.|Real Madrid]]'''|3|1|4|ESP|[[Atlético Madrid]]|0|2|2
+<!--Final-->
+|ITA|[[Juventus F.C.|Juventus]]|1|ESP|'''[[Real Madrid C.F.|Real Madrid]]'''|4}}<section end=bracket/>
+
+==Round of 16==
+The draw was held on 12 December 2016.<ref name="drawR16"/> The first legs were played on 14, 15, 21 and 22 February, and the second legs were played on 7, 8, 14 and 15 March 2017.
+
+===Summary===
+<section begin=Rof16 />
+{{TwoLegStart}}
+{{TwoLegResult|[[Manchester City F.C.|Manchester City]]|ENG|6–6 {{agr}}|'''[[AS Monaco FC|Monaco]]'''|FRA|[[2016–17 UEFA Champions League knockout phase#Manchester City v Monaco|5–3]]|[[2016–17 UEFA Champions League knockout phase#Monaco v Manchester City|1–3]]}}
+{{TwoLegResult|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|6–2|[[S.S.C. Napoli|Napoli]]|ITA|[[2016–17 UEFA Champions League knockout phase#Real Madrid v Napoli|3–1]]|[[2016–17 UEFA Champions League knockout phase#Napoli v Real Madrid|3–1]]}}
+{{TwoLegResult|[[S.L. Benfica|Benfica]]|POR|1–4|'''[[Borussia Dortmund]]'''|GER|[[2016–17 UEFA Champions League knockout phase#Benfica v Borussia Dortmund|1–0]]|[[2016–17 UEFA Champions League knockout phase#Borussia Dortmund v Benfica|0–4]]}}
+{{TwoLegResult|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|10–2|[[Arsenal F.C.|Arsenal]]|ENG|[[2016–17 UEFA Champions League knockout phase#Bayern Munich v Arsenal|5–1]]|[[2016–17 UEFA Champions League knockout phase#Arsenal v Bayern Munich|5–1]]}}
+{{TwoLegResult|[[FC Porto|Porto]]|POR|0–3|'''[[Juventus F.C.|Juventus]]'''|ITA|[[2016–17 UEFA Champions League knockout phase#Porto v Juventus|0–2]]|[[2016–17 UEFA Champions League knockout phase#Juventus v Porto|0–1]]}}
+{{TwoLegResult|[[Bayer 04 Leverkusen|Bayer Leverkusen]]|GER|2–4|'''[[Atlético Madrid]]'''|ESP|[[2016–17 UEFA Champions League knockout phase#Bayer Leverkusen v Atlético Madrid|2–4]]|[[2016–17 UEFA Champions League knockout phase#Atlético Madrid v Bayer Leverkusen|0–0]]}}
+{{TwoLegResult|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|FRA|5–6|'''[[FC Barcelona|Barcelona]]'''|ESP|[[2016–17 UEFA Champions League knockout phase#Paris Saint-Germain v Barcelona|4–0]]|[[2016–17 UEFA Champions League knockout phase#Barcelona v Paris Saint-Germain|1–6]]}}
+{{TwoLegResult|[[Sevilla FC|Sevilla]]|ESP|2–3|'''[[Leicester City F.C.|Leicester City]]'''|ENG|[[2016–17 UEFA Champions League knockout phase#Sevilla v Leicester City|2–1]]|[[2016–17 UEFA Champions League knockout phase#Leicester City v Sevilla|0–2]]}}
+|}<section end=Rof16 />
+
+===Matches===
+{{Football box
+|id=Manchester City v Monaco
+|date={{Start date|2017|2|21|df=y}}
+|time=20:45
+|team1=[[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score=5–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019613/index.html
+|team2={{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1=
+* [[Raheem Sterling|Sterling]] {{goal|26}}
+* [[Sergio Agüero|Agüero]] {{goal|58||71}}
+* [[John Stones|Stones]] {{goal|77}}
+* [[Leroy Sané|Sané]] {{goal|82}}
+|goals2=
+* [[Radamel Falcao|Falcao]] {{goal|32||61}}
+* [[Kylian Mbappé|Mbappé]] {{goal|40}}
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=53,351<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019613_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Manchester City v Monaco |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=21 February 2017 |accessdate=21 February 2017}}</ref>
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=Monaco v Manchester City
+|date={{Start date|2017|3|15|df=y}}
+|time=20:45
+|team1=[[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score=3–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019623/index.html
+|team2={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1=
+* [[Kylian Mbappé|Mbappé]] {{goal|8}}
+* [[Fabinho (footballer, born 1993)|Fabinho]] {{goal|29}}
+* [[Tiémoué Bakayoko|Bakayoko]] {{goal|77}}
+|goals2=[[Leroy Sané|Sané]] {{goal|71}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=15,700<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019623_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Monaco v Manchester City |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=15 March 2017 |accessdate=15 March 2017}}</ref>
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+}}
+''6–6 on aggregate. Monaco won on away goals.''
+----
+{{Football box
+|id=Real Madrid v Napoli
+|date={{Start date|2017|2|15|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=3–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019614/index.html
+|team2={{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1=
+* [[Karim Benzema|Benzema]] {{goal|18}}
+* [[Toni Kroos|Kroos]] {{goal|49}}
+* [[Casemiro]] {{goal|54}}
+|goals2=[[Lorenzo Insigne|Insigne]] {{goal|8}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=78,000<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019614_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Real Madrid v Napoli |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=15 February 2017 |accessdate=15 February 2017}}</ref>
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=Napoli v Real Madrid
+|date={{Start date|2017|3|7|df=y}}
+|time=20:45
+|team1=[[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score=1–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019624/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Dries Mertens|Mertens]] {{goal|24}}
+|goals2=
+* [[Sergio Ramos|Ramos]] {{goal|52}}
+* [[Dries Mertens|Mertens]] {{goal|57|o.g.}}
+* [[Álvaro Morata|Morata]] {{goal|90+1}}
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=56,695<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019624_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Napoli v Real Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=7 March 2017 |accessdate=7 March 2017}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+''Real Madrid won 6–2 on aggregate.''
+----
+{{Football box
+|id=Benfica v Borussia Dortmund
+|date={{Start date|2017|2|14|df=y}}
+|time=20:45
+|team1=[[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019617/index.html
+|team2={{flagicon|GER}} [[Borussia Dortmund]]
+|goals1=[[Konstantinos Mitroglou|Mitroglou]] {{goal|48}}
+|goals2=
+|stadium=[[Estádio da Luz]], [[Lisbon]]
+|attendance=55,124<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019617_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Benfica v Borussia Dortmund |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=14 February 2017 |accessdate=14 February 2017}}</ref>
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Borussia Dortmund v Benfica
+|date={{Start date|2017|3|8|df=y}}
+|time=20:45
+|team1=[[Borussia Dortmund]] {{flagicon|GER}}
+|score=4–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019627/index.html
+|team2={{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1=
+* [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|4||61||85}}
+* [[Christian Pulisic|Pulisic]] {{goal|59}}
+|goals2=
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=65,849<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019627_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Borussia Dortmund v Benfica |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=8 March 2017 |accessdate=8 March 2017}}</ref>
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+}}
+''Borussia Dortmund won 4–1 on aggregate.''
+----
+{{Football box
+|id=Bayern Munich v Arsenal
+|date={{Start date|2017|2|15|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=5–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019618/index.html
+|team2={{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1=
+* [[Arjen Robben|Robben]] {{goal|11}}
+* [[Robert Lewandowski|Lewandowski]] {{goal|53}}
+* [[Thiago Alcântara|Thiago]] {{goal|56||63}}
+* [[Thomas Müller|Müller]] {{goal|88}}
+|goals2=[[Alexis Sánchez|Sánchez]] {{goal|30}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019618_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Bayern Munich v Arsenal |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=15 February 2017 |accessdate=15 February 2017}}</ref>
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+}}
+{{Football box
+|id=Arsenal v Bayern Munich
+|date={{Start date|2017|3|7|df=y}}
+|time=20:45
+|team1=[[Arsenal F.C.|Arsenal]] {{flagicon|ENG}}
+|score=1–5
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019628/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=[[Theo Walcott|Walcott]] {{goal|20}}
+|goals2=
+* [[Robert Lewandowski|Lewandowski]] {{goal|55|pen.}}
+* [[Arjen Robben|Robben]] {{goal|68}}
+* [[Douglas Costa]] {{goal|78}}
+* [[Arturo Vidal|Vidal]] {{goal|80||85}}
+|stadium=[[Emirates Stadium]], [[London]]
+|attendance=59,911<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019628_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Arsenal v Bayern Munich |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=7 March 2017 |accessdate=7 March 2017}}</ref>
+|referee=[[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+}}
+''Bayern Munich won 10–2 on aggregate.''
+----
+{{Football box
+|id=Porto v Juventus
+|date={{Start date|2017|2|22|df=y}}
+|time=20:45
+|team1=[[FC Porto|Porto]] {{flagicon|POR}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019619/index.html
+|team2={{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1=
+|goals2=
+* [[Marko Pjaca|Pjaca]] {{goal|72}}
+* [[Dani Alves]] {{goal|74}}
+|stadium=[[Estádio do Dragão]], [[Porto]]
+|attendance=49,229<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019619_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Porto v Juventus |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=22 February 2017 |accessdate=22 February 2017}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Juventus v Porto
+|date={{Start date|2017|3|14|df=y}}
+|time=20:45
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019625/index.html
+|team2={{flagicon|POR}} [[FC Porto|Porto]]
+|goals1=[[Paulo Dybala|Dybala]] {{goal|42|pen.}}
+|goals2=
+|stadium=[[Juventus Stadium]], [[Turin]]
+|attendance=41,161<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019625_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Juventus v Porto |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=14 March 2017 |accessdate=14 March 2017}}</ref>
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+}}
+''Juventus won 3–0 on aggregate.''
+----
+{{Football box
+|id=Bayer Leverkusen v Atlético Madrid
+|date={{Start date|2017|2|21|df=y}}
+|time=20:45
+|team1=[[Bayer 04 Leverkusen|Bayer Leverkusen]] {{flagicon|GER}}
+|score=2–4
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019620/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=
+* [[Karim Bellarabi|Bellarabi]] {{goal|48}}
+* [[Stefan Savić|Savić]] {{goal|68|o.g.}}
+|goals2=
+* [[Saúl Ñíguez|Saúl]] {{goal|17}}
+* [[Antoine Griezmann|Griezmann]] {{goal|25}}
+* [[Kévin Gameiro|Gameiro]] {{goal|59|pen.}}
+* [[Fernando Torres|Torres]] {{goal|86}}
+|stadium=[[BayArena]], [[Leverkusen]]
+|attendance=29,300<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019620_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Bayer Leverkusen v Atlético Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=21 February 2017 |accessdate=21 February 2017}}</ref>
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=Atlético Madrid v Bayer Leverkusen
+|date={{Start date|2017|3|15|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019626/index.html
+|team2={{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1=
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=49,133<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019626_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Atlético Madrid v Bayer Leverkusen |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=15 March 2017 |accessdate=15 March 2017}}</ref>
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+}}
+''Atlético Madrid won 4–2 on aggregate.''
+----
+{{Football box
+|id=Paris Saint-Germain v Barcelona
+|date={{Start date|2017|2|14|df=y}}
+|time=20:45
+|team1=[[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score=4–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019615/index.html
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+* [[Ángel Di María|Di María]] {{goal|18||55}}
+* [[Julian Draxler|Draxler]] {{goal|40}}
+* [[Edinson Cavani|Cavani]] {{goal|72}}
+|goals2=
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=46,484<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019615_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Paris Saint-Germain v Barcelona |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=14 February 2017 |accessdate=14 February 2017}}</ref>
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+{{Football box
+|id=Barcelona v Paris Saint-Germain
+|date={{Start date|2017|3|8|df=y}}
+|time=20:45
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score=[[Barcelona 6–1 Paris Saint-Germain|6–1]]
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019621/index.html
+|team2={{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1=
+* [[Luis Suárez|L. Suárez]] {{goal|3}}
+* [[Layvin Kurzawa|Kurzawa]] {{goal|40|o.g.}}
+* [[Lionel Messi|Messi]] {{goal|50|pen.}}
+* [[Neymar]] {{goal|88||90+1|pen.}}
+* [[Sergi Roberto|Roberto]] {{goal|90+5}}
+|goals2=[[Edinson Cavani|Cavani]] {{goal|62}}
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=96,290<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019621_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Barcelona v Paris Saint-Germain |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=8 March 2017 |accessdate=8 March 2017}}</ref>
+|referee=[[Deniz Aytekin]] ([[German Football Association|Germany]])
+}}
+''Barcelona won 6–5 on aggregate.''
+----
+{{Football box
+|id=Sevilla v Leicester City
+|date={{Start date|2017|2|22|df=y}}
+|time=20:45
+|team1=[[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019616/index.html
+|team2={{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|goals1=
+* [[Pablo Sarabia|Sarabia]] {{goal|25}}
+* [[Joaquín Correa|Correa]] {{goal|62}}
+|goals2=[[Jamie Vardy|Vardy]] {{goal|73}}
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance=38,834<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019616_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Sevilla v Leicester City |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=22 February 2017 |accessdate=22 February 2017}}</ref>
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=Leicester City v Sevilla
+|date={{Start date|2017|3|14|df=y}}
+|time=20:45
+|team1=[[Leicester City F.C.|Leicester City]] {{flagicon|ENG}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000784/match=2019622/index.html
+|team2={{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1=
+* [[Wes Morgan|Morgan]] {{goal|27}}
+* [[Marc Albrighton|Albrighton]] {{goal|54}}
+|goals2=
+|stadium=[[King Power Stadium]], [[Leicester]]
+|attendance=31,520<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019622_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Leicester City v Sevilla |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=14 March 2017 |accessdate=14 March 2017}}</ref>
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+''Leicester City won 3–2 on aggregate.''
+
+==Quarter-finals==
+The draw was held on 17 March 2017.<ref name="drawQF"/> The first legs were played on 11 and 12 April, and the second legs were played on 18 and 19 April 2017.
+
+===Summary===
+<section begin=QF />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Atlético Madrid]]'''|ESP|2–1|[[Leicester City F.C.|Leicester City]]|ENG|[[2016–17 UEFA Champions League knockout phase#Atlético Madrid v Leicester City|1–0]]|[[2016–17 UEFA Champions League knockout phase#Leicester City v Atlético Madrid|1–1]]}}
+{{TwoLegResult|[[Borussia Dortmund]]|GER|3–6|'''[[AS Monaco FC|Monaco]]'''|FRA|[[2016–17 UEFA Champions League knockout phase#Borussia Dortmund v Monaco|2–3]]|[[2016–17 UEFA Champions League knockout phase#Monaco v Borussia Dortmund|1–3]]}}
+{{TwoLegResult|[[FC Bayern Munich|Bayern Munich]]|GER|3–6|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[2016–17 UEFA Champions League knockout phase#Bayern Munich v Real Madrid|1–2]]|[[2016–17 UEFA Champions League knockout phase#Real Madrid v Bayern Munich|2–4]] {{aet}}}}
+{{TwoLegResult|'''[[Juventus F.C.|Juventus]]'''|ITA|3–0|[[FC Barcelona|Barcelona]]|ESP|[[2016–17 UEFA Champions League knockout phase#Juventus v Barcelona|3–0]]|[[2016–17 UEFA Champions League knockout phase#Barcelona v Juventus|0–0]]}}
+|}<section end=QF />
+
+===Matches===
+{{Football box
+|id=Atlético Madrid v Leicester City
+|date={{Start date|2017|4|12|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019629/index.html
+|team2={{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|goals1=[[Antoine Griezmann|Griezmann]] {{goal|28|pen.}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=51,423<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019629_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Atlético Madrid v Leicester City |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=12 April 2017 |accessdate=12 April 2017}}</ref>
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}
+{{Football box
+|id=Leicester City v Atlético Madrid
+|date={{Start date|2017|4|18|df=y}}
+|time=20:45
+|team1=[[Leicester City F.C.|Leicester City]] {{flagicon|ENG}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019635/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=[[Jamie Vardy|Vardy]] {{goal|61}}
+|goals2=[[Saúl Ñíguez|Saúl]] {{goal|26}}
+|stadium=[[King Power Stadium]], [[Leicester]]
+|attendance=31,548<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019635_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Leicester City v Atlético Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=18 April 2017 |accessdate=18 April 2017}}</ref>
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+}}
+''Atlético Madrid won 2–1 on aggregate.''
+----
+{{Football box
+|id=Borussia Dortmund v Monaco
+|date={{Start date|2017|4|12|df=y}}{{refn|group=note|name=DORvMON abandoned|The Borussia Dortmund v Monaco match, originally scheduled on 11 April 2017, 20:45 CEST, was postponed to the following day due to [[Borussia Dortmund team bus bombing|explosions close to the Borussia Dortmund team bus]].<ref>{{cite web |url=http://www.bbc.com/news/world-europe-39571776 |title=Borussia Dortmund football team bus hit by explosions |website=[[BBC Sport]] |publisher=[[BBC|British Broadcasting Corporation]] |date=11 April 2017 |access-date=11 April 2017}}</ref><ref>{{cite web |url=http://www.uefa.com/uefachampionsleague/news/newsid=2457177.html |title=UEFA statement on Dortmund incident |website=UEFA.com |publisher=Union of European Football Associations |date=11 April 2017 |access-date=11 April 2017}}</ref>}}
+|time=18:45
+|team1=[[Borussia Dortmund]] {{flagicon|GER}}
+|score=2–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019630/index.html
+|team2={{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1=
+* [[Ousmane Dembélé|Dembélé]] {{goal|57}}
+* [[Shinji Kagawa|Kagawa]] {{goal|84}}
+|goals2=
+* [[Kylian Mbappé|Mbappé]] {{goal|19||79}}
+* [[Sven Bender|Bender]] {{goal|35|o.g.}}
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=65,849<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019630_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Borussia Dortmund v Monaco |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=12 April 2017 |accessdate=12 April 2017}}</ref>
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Monaco v Borussia Dortmund
+|date={{Start date|2017|4|19|df=y}}
+|time=20:50{{refn|group=note|name=MONvDOR delayed|The Monaco v Borussia Dortmund match, originally scheduled for 20:45 CEST, was delayed to 20:50 CEST due to late team arrival caused by heavy traffic.<ref>{{cite web |url=http://www.express.co.uk/sport/football/793929/Monaco-Borussia-Dortmund-bus-delay |title=Monaco v Borussia Dortmund delayed: German side's bus stopped by police again |website=express.co.uk |publisher=[[Daily Express]] |date=19 April 2017 |access-date=19 April 2017}}</ref>}}
+|team1=[[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score=3–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019636/index.html
+|team2={{flagicon|GER}} [[Borussia Dortmund]]
+|goals1=
+* [[Kylian Mbappé|Mbappé]] {{goal|3}}
+* [[Radamel Falcao|Falcao]] {{goal|17}}
+* [[Valère Germain|Germain]] {{goal|81}}
+|goals2=[[Marco Reus|Reus]] {{goal|48}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=17,135<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019636_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Monaco v Borussia Dortmund |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=19 April 2017 |accessdate=19 April 2017}}</ref>
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}
+''Monaco won 6–3 on aggregate.''
+----
+{{Football box
+|id=Bayern Munich v Real Madrid
+|date={{Start date|2017|4|12|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019631/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Arturo Vidal|Vidal]] {{goal|25}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|47||77}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019631_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Bayern Munich v Real Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=12 April 2017 |accessdate=12 April 2017}}</ref>
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Real Madrid v Bayern Munich
+|date={{Start date|2017|4|18|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=4–2
+|aet=yes
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019633/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=
+* [[Cristiano Ronaldo|Ronaldo]] {{goal|76||105||110}}
+* [[Marco Asensio|Asensio]] {{goal|112}}
+|goals2=
+* [[Robert Lewandowski|Lewandowski]] {{goal|53|pen.}}
+* [[Sergio Ramos|Ramos]] {{goal|78|o.g.}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=78,346<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019633_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Real Madrid v Bayern Munich |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=18 April 2017 |accessdate=18 April 2017}}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}
+''Real Madrid won 6–3 on aggregate.''
+----
+{{Football box
+|id=Juventus v Barcelona
+|date={{Start date|2017|4|11|df=y}}
+|time=20:45
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=3–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019632/index.html
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+* [[Paulo Dybala|Dybala]] {{goal|7||22}}
+* [[Giorgio Chiellini|Chiellini]] {{goal|55}}
+|goals2=
+|stadium=[[Juventus Stadium]], [[Turin]]
+|attendance=41,092<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019632_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Juventus v Barcelona |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=11 April 2017 |accessdate=11 April 2017}}</ref>
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+{{Football box
+|id=Barcelona v Juventus
+|date={{Start date|2017|4|19|df=y}}
+|time=20:45
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000785/match=2019634/index.html
+|team2={{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1=
+|goals2=
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=96,290<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019634_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Barcelona v Juventus |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=19 April 2017 |accessdate=19 April 2017}}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+''Juventus won 3–0 on aggregate.''
+
+==Semi-finals==
+The draw was held on 21 April 2017. The first legs were played on 2 and 3 May, and the second legs were played on 9 and 10 May 2017.
+
+===Summary===
+<section begin=SF />
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|4–2|[[Atlético Madrid]]|ESP|[[2016–17 UEFA Champions League knockout phase#Real Madrid v Atlético Madrid|3–0]]|[[2016–17 UEFA Champions League knockout phase#Atlético Madrid v Real Madrid|1–2]]}}
+{{TwoLegResult|[[AS Monaco FC|Monaco]]|FRA|1–4|'''[[Juventus F.C.|Juventus]]'''|ITA|[[2016–17 UEFA Champions League knockout phase#Monaco v Juventus|0–2]]|[[2016–17 UEFA Champions League knockout phase#Juventus v Monaco|1–2]]}}
+|}<section end=SF/>
+
+===Matches===
+{{Football box
+|id=Real Madrid v Atlético Madrid
+|date={{Start date|2017|5|2|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=3–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000786/match=2019638/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|10||73||86}}
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=77,609<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019638_fr.pdf |title=Full Time Summary Semi-finals 1st Leg – Real Madrid v Atlético Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=2 May 2017 |accessdate=2 May 2017}}</ref>
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Atlético Madrid v Real Madrid
+|date={{Start date|2017|5|10|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000786/match=2019639/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=
+* [[Saúl Ñíguez|Saúl]] {{goal|12}}
+* [[Antoine Griezmann|Griezmann]] {{goal|16|pen.}}
+|goals2=[[Isco]] {{goal|42}}
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=53,422<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019639_fr.pdf |title=Full Time Summary Semi-finals 2nd Leg – Atlético Madrid v Real Madrid |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=10 May 2017 |accessdate=10 May 2017}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+''Real Madrid won 4–2 on aggregate.''
+----
+{{Football box
+|id=Monaco v Juventus
+|date={{Start date|2017|5|3|df=y}}
+|time=20:45
+|team1=[[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000786/match=2019637/index.html
+|team2={{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1=
+|goals2=[[Gonzalo Higuaín|Higuaín]] {{goal|29||59}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=16,762<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019637_fr.pdf |title=Full Time Summary Semi-finals 1st Leg – Monaco v Juventus |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=3 May 2017 |accessdate=3 May 2017}}</ref>
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=Juventus v Monaco
+|date={{Start date|2017|5|9|df=y}}
+|time=20:45
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000786/match=2019640/index.html
+|team2={{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1=
+* [[Mario Mandžukić|Mandžukić]] {{goal|33}}
+* [[Dani Alves]] {{goal|44}}
+|goals2=[[Kylian Mbappé|Mbappé]] {{goal|69}}
+|stadium=[[Juventus Stadium]], [[Turin]]
+|attendance=40,244<ref>{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/2019640_fr.pdf |title=Full Time Summary Semi-finals 2nd Leg – Juventus v Monaco |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=9 May 2017 |accessdate=9 May 2017}}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+''Juventus won 4–1 on aggregate.''
+
+==Final==
+{{main|2017 UEFA Champions League Final}}
+
+The final was played on 3 June 2017 at [[Millennium Stadium]] in [[Cardiff]], Wales.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2017/final/index.html|title=2017 UEFA Champions League final: Cardiff|publisher=UEFA.com}}</ref> The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw.
+{{:2017 UEFA Champions League Final}}
+
+==Notes==
+{{reflist|group="note"}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/season=2017/index.html 2016–17 UEFA Champions League]
+
+{{2016–17 in European football (UEFA)}}
+
+{{DEFAULTSORT:2016-17 Uefa Champions League Knockout Phase}}
+[[Category:2016–17 UEFA Champions League|*3]]

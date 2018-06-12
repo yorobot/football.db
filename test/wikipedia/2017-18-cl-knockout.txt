@@ -158,7 +158,7 @@ The first legs were played on 13, 14, 20 and 21 February, and the second legs we
 ----
 {{Football box
 |id         = Basel v Manchester City
-|date       = {{Start date|2018|2|13|df=y}}
+|date       = {{Start date|2018|2|13|df=y}} 
 |time       = 20:45
 |team1      = [[FC Basel|Basel]] {{flagicon|SUI}}
 |score      = 0–4
@@ -175,7 +175,7 @@ The first legs were played on 13, 14, 20 and 21 February, and the second legs we
 }}
 {{Football box
 |id         = Manchester City v Basel
-|date       = {{Start date|2018|3|7|df=y}}
+|date       = {{Start date|2018|3|7|df=y}} 
 |time       = 20:45
 |team1      = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
 |score      = 1–2
@@ -418,7 +418,7 @@ The first legs were played on 3 and 4 April, and the second legs were played on 
 |id         = Barcelona v Roma
 |date       = {{Start date|2018|4|4|df=y}}
 |time       = 20:45
-|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}} 
 |score      = 4–1
 |team2      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
 |goals1     =

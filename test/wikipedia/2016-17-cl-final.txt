@@ -1,0 +1,559 @@
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title              = 2017 UEFA Champions League Final
+| image              = 2017 UEFA Champions League Final programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = [[2016–17 UEFA Champions League]]
+| team1              = [[Juventus F.C.|Juventus]]
+| team1association   = {{flagicon|ITA|size=30px}}
+| team1score         = 1
+| team2              = [[Real Madrid C.F.|Real Madrid]]
+| team2association   = {{flagicon|ESP|size=30px}}
+| team2score         = 4
+| details            =
+| date               = {{Start date|2017|6|3|df=y}}
+| stadium            = [[Millennium Stadium]]
+| city               = [[Cardiff]]
+| man_of_the_match1a = [[Cristiano Ronaldo]] {{nowrap|(Real Madrid)}}<ref name="motm">{{cite news |title=Majestic Real Madrid win Champions League in Cardiff |url=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000787/match=2019641/postmatch/report/index.html |website=UEFA.com |publisher=Union of European Football Associations |date=3 June 2017 |accessdate=3 June 2017}}</ref>
+| referee            = [[Felix Brych]] ([[German Football Association|Germany]])<ref name="referee"/>
+| attendance         = 65,842<ref name="full_time"/>
+| weather            = Partly cloudy<br />{{convert|16|°C|°F|abbr=on}}<br />56% [[humidity]]<ref name="lineups">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2017/2019641_lu.pdf |title=Tactical Line-ups – Final – Saturday 3 June 2017 |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=3 June 2017 |access-date=3 June 2017}}</ref>
+| previous           = [[2016 UEFA Champions League Final|2016]]
+| next               = [[2018 UEFA Champions League Final|2018]]
+}}
+The '''2017 UEFA Champions League Final''' was the final match of the [[2016–17 UEFA Champions League]], the 62nd season of Europe's premier club football tournament organised by [[UEFA]], and the 25th season since it was renamed from the [[European Champion Clubs' Cup]] to the [[UEFA Champions League]]. It was played at the [[Millennium Stadium]] in [[Cardiff]], Wales on 3 June 2017,<ref name="host">{{cite news |title=Cardiff to host 2017 Champions League final |url=http://www.uefa.com/uefachampionsleague/news/newsid=2262032.html |website=UEFA.com |publisher=Union of European Football Associations |date=30 June 2015 |accessdate=13 May 2017 }}</ref> between [[Italian Football Federation|Italian]] side [[Juventus F.C.|Juventus]] and [[Royal Spanish Football Federation|Spanish]] side and title holders [[Real Madrid C.F.|Real Madrid]], in a repeat of the [[1998 UEFA Champions League Final|1998 final]]. Real Madrid won the match 4–1 to secure their 12th title in this competition. With this victory, as the defending champions, Real Madrid became the first ever team to successfully defend their title in the Champions League era, and the first to do so since [[A.C. Milan|Milan]] in [[1990 European Cup Final|1990]]. On the other hand, Juventus lost a fifth final in a row and a seventh in nine finals reached.
+
+Real Madrid qualified as the UEFA representative at the [[2017 FIFA Club World Cup]] in the United Arab Emirates, and also earned the right to play against the winners of the [[2016–17 UEFA Europa League]], [[Manchester United F.C.|Manchester United]], in the [[2017 UEFA Super Cup]].
+
+==Teams==
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|8 ([[1973 European Cup Final|1973]], [[1983 European Cup Final|1983]], '''[[1985 European Cup Final|1985]]''', '''[[1996 UEFA Champions League Final|1996]]''', [[1997 UEFA Champions League Final|1997]], [[1998 UEFA Champions League Final|1998]], [[2003 UEFA Champions League Final|2003]], [[2015 UEFA Champions League Final|2015]])
+|-
+|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|14 ('''[[1956 European Cup Final|1956]]''', '''[[1957 European Cup Final|1957]]''', '''[[1958 European Cup Final|1958]]''', '''[[1959 European Cup Final|1959]]''', '''[[1960 European Cup Final|1960]]''', [[1962 European Cup Final|1962]], [[1964 European Cup Final|1964]], '''[[1966 European Cup Final|1966]]''', [[1981 European Cup Final|1981]], '''[[1998 UEFA Champions League Final|1998]]''', '''[[2000 UEFA Champions League Final|2000]]''', '''[[2002 UEFA Champions League Final|2002]]''', '''[[2014 UEFA Champions League Final|2014]]''', '''[[2016 UEFA Champions League Final|2016]]''')
+|}
+
+==Venue==
+[[File:Millennium Stadium, 4 August 2012.jpg|thumb|left|The [[Millennium Stadium]] in [[Cardiff]] hosted the final]]
+The Millennium Stadium was announced as the final venue on 30 June 2015, following the decision of the UEFA Executive Committee meeting in [[Prague]], Czech Republic.<ref name="host"/> The stadium entered into a naming rights deal with the [[Principality Building Society]] in 2016 that saw it renamed as the "Principality Stadium"; however, due to UEFA regulations regarding the use of names of non-tournament sponsors, they continue to use the name "Millennium Stadium" in official literature,<ref>{{cite web |title=2016/17 Champions League: all you need to know |url=http://www.uefa.com/uefachampionsleague/news/newsid=2389908.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=5 June 2016 }}</ref> while the name "National Stadium of Wales" was used for the final itself.<ref>{{cite news |title=One Year Countdown to 2017 Champions League Final |url=http://www.faw.cymru/en/news/one-year-countdown-2017-mens-uefa-champions-league-final-year-countdown-2017-mens-uefa-champions-league-final/ |website=faw.cymru |publisher=Football Association of Wales |date=3 June 2016 |accessdate=5 June 2016 }}</ref><ref>{{cite news |first=Paul |last=Abbandonato |title=The Principality Stadium will have to change its name for the Champions League final next year |url=http://www.walesonline.co.uk/sport/principality-stadium-change-name-champions-11424085 |work=WalesOnline |publisher=Media Wales |date=3 June 2016 |accessdate=5 June 2016 }}</ref>
+
+==Background==
+The match was a repeat of the [[1998 UEFA Champions League Final|1998 final]], making it the eighth repeated final pairing.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2360402.html|title=Second time round: European Cup final rematches|publisher=UEFA.com|date=16 May 2017}}</ref> Real Madrid won the 1998 final 1–0.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2465618.html|title=Juventus and Real Madrid's previous final appearances|website=UEFA.com |publisher=Union of European Football Associations |date=10 May 2017}}</ref> The 2017 final was the first time since the two teams met in 1998 that both finalists had won either their domestic league or the Champions League the previous season.
+
+[[Juventus F.C.|Juventus]] reached their ninth final after a 4–1 aggregate win against [[AS Monaco FC|Monaco]] to maintain their undefeated record in this season's competition. Juventus also entered the final with the best defensive record in the 2016–17 Champions League, having conceded only thrice.<ref>{{cite web |title=2017 UEFA Champions League Final Press Kit |url=http://www.uefa.com/printoutfiles/competitions/uefachampionsleague/2017/e/e_2019641_pk.pdf |website=UEFA.com |publisher=Union of European Football Associations |date=May 2017 |accessdate=3 June 2017}}</ref> Previously Juventus won finals in [[1985 European Cup Final|1985]] and [[1996 UEFA Champions League Final|1996]], and lost a record six in [[1973 European Cup Final|1973]], [[1983 European Cup Final|1983]], [[1997 UEFA Champions League Final|1997]], [[1998 UEFA Champions League Final|1998]], [[2003 UEFA Champions League Final|2003]] and [[2015 UEFA Champions League Final|2015]]. This was also their 14th final in all seasonal UEFA competitions, having also played in one [[UEFA Cup Winners' Cup|Cup Winners' Cup]] final (winning in [[1984 European Cup Winners' Cup Final|1984]]) and four [[UEFA Europa League|UEFA Cup]] finals (winning in [[1977 UEFA Cup Final|1977]], [[1990 UEFA Cup Final|1990]] and [[1993 UEFA Cup Final|1993]], and losing in [[1995 UEFA Cup Final|1995]]). If they were to lose, Juventus would tie [[S.L. Benfica|Benfica]]'s record of five consecutive finals lost.
+
+Title holders [[Real Madrid C.F.|Real Madrid]] reached a record 15th final after a 4–2 aggregate win against [[Madrid Derby|city rivals]] [[Atlético Madrid]], knocking them out of the competition for the fourth consecutive season.<ref>{{cite web|last1=Murray|first1=Scott|title=Atlético Madrid 2-1 Real Madrid (agg 2-4): Champions League semi-final – as it happened|url=https://www.theguardian.com/football/live/2017/may/10/atletico-madrid-v-real-madrid-champions-league-semi-final-live|website=The Guardian|accessdate=10 May 2017|date=10 May 2017}}</ref> Real Madrid went into the final as top scorers of the 2016–17 Champions League, having scored 32 goals. This final is their third since 2014, and gives Real a chance to win a [[European Cup and UEFA Champions League records and statistics|record 12th title]]. Previously they won finals in [[1956 European Cup Final|1956]], [[1957 European Cup Final|1957]], [[1958 European Cup Final|1958]], [[1959 European Cup Final|1959]], [[1960 European Cup Final|1960]], [[1966 European Cup Final|1966]], [[1998 UEFA Champions League Final|1998]], [[2000 UEFA Champions League Final|2000]], [[2002 UEFA Champions League Final|2002]], [[2014 UEFA Champions League Final|2014]] and [[2016 UEFA Champions League Final|2016]], and lost in [[1962 European Cup Final|1962]], [[1964 European Cup Final|1964]] and [[1981 European Cup Final|1981]]. This was also their 19th final in all seasonal UEFA competitions, having also played in two [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals (losing in [[1971 European Cup Winners' Cup Final|1971]] and [[1983 European Cup Winners' Cup Final|1983]]) and two [[UEFA Europa League|UEFA Cup]] finals (winning in [[1985 UEFA Cup Final|1985]] and [[1986 UEFA Cup Final|1986]]). Real Madrid are looking to be the first team in the Champions League era (since 1993) to win two consecutive finals. Four times prior the previous champions have advanced to the final ([[A.C. Milan|Milan]] in [[1995 UEFA Champions League Final|1995]], [[AFC Ajax|Ajax]] in [[1996 UEFA Champions League Final|1996]], Juventus in [[1997 UEFA Champions League Final|1997]], and [[Manchester United F.C.|Manchester United]] in [[2009 UEFA Champions League Final|2009]]), but on all occasions the title holders lost.<ref>{{cite news |title=Will Madrid end Champions League holders' curse? |url=http://www.uefa.com/uefachampionsleague/news/newsid=2459756.html |website=UEFA.com |publisher=Union of European Football Associations |date=10 May 2017|accessdate=13 May 2017 }}</ref>
+
+The two sides had previously met eighteen times in European competitions, all in the European Cup/UEFA Champions League, with a record of eight wins each and two draws. The first meeting between the two sides took place in the [[1961–62 European Cup]] quarter-finals, where Real Madrid beat Juventus 3–1 in a play-off after the two sides exchanged 1–0 away wins. The most recent meeting between the clubs had taken place in the [[2014–15 UEFA Champions League]] semi-finals, where Juventus won 3–2 on aggregate to advance to the 2015 final.<ref>{{cite web |title=Juventus v Real Madrid: past meetings |url=http://www.uefa.com/uefachampionsleague/news/newsid=2465944.html |website=UEFA.com |publisher=Union of European Football Associations |date=11 May 2017 |accessdate=13 May 2017 }}</ref>
+
+Juventus entered the final chasing their first [[Treble (association football)|treble]] of domestic league, domestic cup, and Champions League titles, bidding to become the ninth team to win it.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2468197.html|title=Can Juventus become ninth team to complete treble?|publisher=UEFA.com|date=31 May 2017}}</ref> They won the [[2016–17 Coppa Italia]] after defeating [[S.S. Lazio|Lazio]] in the [[2017 Coppa Italia Final|final]] on 17 May,<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2470394.html|title=Juventus win Coppa Italia, Madrid on brink of Liga title|publisher=UEFA.com|date=17 May 2017}}</ref> and clinched the [[2016–17 Serie A]] title on 21 May.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2468479.html|title=Juventus first to win six Serie A titles in a row|publisher=UEFA.com|date=21 May 2017}}</ref> Real Madrid were chasing the [[Double (association football)|double]] of domestic league and Champions League titles, having won the [[2016–17 La Liga]] on 21 May, the final day of the season.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2471205.html|title=Real Madrid end five-year wait for Liga title|publisher=UEFA.com|date=21 May 2017}}</ref>
+
+==Road to the final==
+{{Details|2016–17 UEFA Champions League}}
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+!Round
+!colspan=4|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan=3|Result
+|[[2016–17 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Juventus v Sevilla|0–0]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|align=left|{{flagicon|POR}} [[Sporting Clube de Portugal|Sporting CP]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Real Madrid v Sporting CP|2–1]] (H)
+|-
+|align=left|{{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Dinamo Zagreb v Juventus|4–0]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|align=left|{{flagicon|GER}} [[Borussia Dortmund]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Borussia Dortmund v Real Madrid|2–2]] (A)
+|-
+|align=left|{{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Lyon v Juventus|1–0]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|align=left|{{flagicon|POL}} [[Legia Warsaw]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Real Madrid v Legia Warsaw|5–1]] (H)
+|-
+|align=left|{{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Juventus v Lyon|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|align=left|{{flagicon|POL}} [[Legia Warsaw]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Legia Warsaw v Real Madrid|3–3]] (A)
+|-
+|align=left|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Sevilla v Juventus|3–1]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|align=left|{{flagicon|POR}} [[Sporting Clube de Portugal|Sporting CP]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Sporting CP v Real Madrid|2–1]] (A)
+|-
+|align=left|{{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Juventus v Dinamo Zagreb|2–0]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|align=left|{{flagicon|GER}} [[Borussia Dortmund]]
+|colspan=3|[[2016–17 UEFA Champions League group stage#Real Madrid v Borussia Dortmund|2–2]] (H)
+|-
+|colspan=4 valign=top|'''[[2016–17 UEFA Champions League group stage#Group H|Group H]] winners'''
+{{2016–17 UEFA Champions League Group H table|only_pld_pts=yes|show_matches=no|showteam=JUV}}
+|style="background:#C1E0FF"|Final standings
+|colspan=4 valign=top|'''[[2016–17 UEFA Champions League group stage#Group F|Group F]] runners-up'''
+{{2016–17 UEFA Champions League Group F table|only_pld_pts=yes|show_matches=no|showteam=RM}}
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2016–17 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{flagicon|POR}} [[FC Porto|Porto]]
+|3–0
+|[[2016–17 UEFA Champions League knockout phase#Porto v Juventus|2–0]] (A)
+|[[2016–17 UEFA Champions League knockout phase#Juventus v Porto|1–0]] (H)
+|style="background:#C1E0FF"|Round of 16
+|align=left|{{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|6–2
+|[[2016–17 UEFA Champions League knockout phase#Napoli v Real Madrid|3–1]] (H)
+|[[2016–17 UEFA Champions League knockout phase#Real Madrid v Napoli|3–1]] (A)
+|-
+|align=left|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|3–0
+|[[2016–17 UEFA Champions League knockout phase#Juventus v Barcelona|3–0]] (H)
+|[[2016–17 UEFA Champions League knockout phase#Barcelona v Juventus|0–0]] (A)
+|style="background:#C1E0FF"|Quarter-finals
+|align=left|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|6–3
+|[[2016–17 UEFA Champions League knockout phase#Bayern Munich v Real Madrid|2–1]] (A)
+|[[2016–17 UEFA Champions League knockout phase#Real Madrid v Bayern Munich|4–2]] {{aet}} (H)
+|-
+|align=left|{{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|4–1
+|[[2016–17 UEFA Champions League knockout phase#Monaco v Juventus|2–0]] (A)
+|[[2016–17 UEFA Champions League knockout phase#Juventus v Monaco|2–1]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|align=left|{{flagicon|ESP}} [[Atlético Madrid]]
+|4–2
+|[[2016–17 UEFA Champions League knockout phase#Real Madrid v Atlético Madrid|3–0]] (H)
+|[[2016–17 UEFA Champions League knockout phase#Atlético Madrid v Real Madrid|1–2]] (A)
+|}
+
+==Pre-match==
+===Ambassador===
+The ambassador for the final was former Wales international [[Ian Rush]], who won the European Cup with [[Liverpool F.C.|Liverpool]] in [[1984 European Cup Final|1984]], and also played for Juventus from 1987 to 1988.<ref>{{cite news |title=Ian Rush named ambassador for Cardiff final |url=http://www.uefa.com/uefachampionsleague/news/newsid=2397989.html |website=UEFA.com |publisher=Union of European Football Associations |date=23 August 2016 |accessdate=13 May 2017 }}</ref>
+
+===Logo===
+[[File:Cardiff Castle (Champions League Final 2017) 35174903946 fb876f1155 o.jpg|thumb|left|upright|The dragon logo on Cardiff Castle]]
+UEFA unveiled the brand identity of the final on 25 August 2016 in [[Monaco]] during the group stage draw.<ref>{{cite news |title=Cardiff 2017 final identity launched |url=http://www.uefa.com/insideuefa/about-uefa/administration/marketing/news/newsid=2398033.html |website=UEFA.com |publisher=Union of European Football Associations |date=25 August 2016 |accessdate=13 May 2017 }}</ref>
+
+===Ticketing===
+With a stadium capacity of 66,000 for the final, a total amount of 41,500 tickets were available to fans and the general public, with the two finalist teams receiving 18,000 tickets each and with 5,500 tickets being available for sale to fans worldwide via UEFA.com from 17 to 28 March 2017 in four price categories: £390, £275, £140, and £60. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web|url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2449749.html |title=2017 UEFA Champions League final ticket sales launched|website=UEFA.com |publisher=Union of European Football Associations |date=17 March 2017}}</ref>
+
+===Opening ceremony===
+
+[[File:UEFA Champions League Final Cardiff 2017.jpg|thumb|The opening ceremony]]
+
+American hip-hop group [[The Black Eyed Peas]] performed at the [[opening ceremony]] preceding the final. The performance, which included a pyrotechnic display, ran over time and forced the kick-off to be delayed by several minutes.<ref>{{cite news |last=Gibson |first=Sean |date=3 June 2017 |title=Fans not happy as Champions League final kick-off delayed after 'awful' Black Eyed Peas performance |url=https://www.telegraph.co.uk/football/2017/06/03/fans-not-happy-champions-league-final-kick-off-delayed-awful/ |work=[[Telegraph Media Group|The Telegraph]] |accessdate=3 June 2017}}</ref>
+
+===Related events===
+The [[2017 UEFA Women's Champions League Final]] was held two days prior, on 1 June 2017, at the [[Cardiff City Stadium]], with title holders [[Olympique Lyonnais (Women)|Lyon]] beating [[Paris Saint-Germain Féminines|Paris Saint-Germain]] 7–6 on penalties, following a 0–0 draw after extra time. The winning penalty was scored by Lyon goalkeeper [[Sarah Bouhaddi]], immediately after her opposite number, [[Katarzyna Kiedrzynek]], had missed her kick.
+
+The annual UEFA Champions Festival was held between 1–4 June 2017 at [[Cardiff Bay]].<ref>{{cite web |title=UEFA CHAMPIONS FESTIVAL |url=http://www.faw.cymru/cardiff2017/whatson/uefa-champions-festival/|website=faw.cymru |publisher=Football Association of Wales |accessdate=13 May 2017 }}</ref>
+
+==Match==
+===Officials===
+German referee [[Felix Brych]] was announced as the final referee by UEFA on 12 May 2017.<ref name="referee">{{cite web |title=Felix Brych appointed Champions League final referee |url=http://www.uefa.com/uefachampionsleague/news/newsid=2468704.html |website=UEFA.com |publisher=Union of European Football Associations |date=12 May 2017 |accessdate=13 May 2017}}</ref>
+
+===Summary===
+[[File:Cristiano Ronaldo entrenando (crop) (cropped).jpg|thumb|[[Cristiano Ronaldo]], who scored twice, was named [[Man of the Match]].]]
+Juventus dominated possession in the opening 19 minutes of the match, and had three major chances to score. [[Gonzalo Higuaín]] had two shots on goal that were easily saved by [[Keylor Navas]], while [[Miralem Pjanić]] had a more dangerous chance that Navas dived to push wide to his right. Despite the scoring chances, as well as the closing down of Real Madrid's counterattacks in the midfield, [[Cristiano Ronaldo]] scored the first goal of the match in the 20th minute; [[Dani Carvajal]] played a one-two on the right with Ronaldo before passing across for him to shoot low to the left corner of the net, which deflected in off the right foot of [[Leonardo Bonucci]].<ref name="NYTimes">{{cite news |last1=Das |first1=Andrew |last2=Smith |first2=Rory |date=3 June 2017 |title=Real Madrid Beats Juventus for 2nd Straight Champions League Title |url=https://www.nytimes.com/2017/06/03/sports/champions-league-final-score.html?_r=0 |work=[[The New York Times]] |accessdate=3 June 2017}}</ref><ref name="Guardian">{{cite news |date=3 June 2017 |title=Real Madrid and Cristiano Ronaldo see off Juventus to win Champions League |url=https://www.theguardian.com/football/2017/jun/03/juventus-real-madrid-champions-league-final-match-report |work=[[The Guardian]] |accessdate=3 June 2017}}</ref> Juventus responded with a goal seven minutes later to bring the score to 1–1. [[Mario Mandžukić]] chested down a ball from Higuaín and hooked the ball over his shoulder from {{convert|15|yd|m}},<ref name="NYTimes"/><ref>{{cite news |last=Joseph |first=Adi |date=3 June 2017 |title=Juventus' Mario Mandzukic nets one of the craziest goals in Champions League history |url=http://ftw.usatoday.com/2017/06/mario-mandzukic-bicycle-kick-goal-juventus-vs-real-madrid |work=[[USA Today]] |accessdate=3 June 2017}}</ref> which arced over Navas. The goal was heralded as one of the best goals ever scored in a Champions League final and was compared to [[Zinedine Zidane]]'s goal in the [[2002 UEFA Champions League Final|2002 final]] for Real Madrid.<ref>{{cite news |date=3 June 2017 |title=Is Mario Mandzukic's goal the best ever in a Champions League final? |url=https://www.independent.co.uk/sport/football/european/mario-mandzukic-goal-champions-league-final-juventus-real-madrid-a7771516.html |work=[[The Independent]] |accessdate=3 June 2017}}</ref> Juventus remained in control through the end of the first half, while Real Madrid conceded two yellow cards for defenders [[Sergio Ramos]] and [[Dani Carvajal]].<ref name="NYTimes"/><ref name="Guardian"/>
+
+Real Madrid began the second half strongly and in control,<ref name="Guardian"/> though play was stopped several times for fouls and injuries to both sides.<ref name="Guardian-Live">{{cite news |last=Glendenning |first=Barry |date=3 June 2017 |title=Juventus 1-4 Real Madrid: Champions League final 2017 – live! |url=https://www.theguardian.com/football/live/2017/jun/03/juventus-v-real-madrid-champions-league-final-2017-live |work=The Guardian |accessdate=3 June 2017}}</ref> Real Madrid took a 2–1 lead in the 61st minute from a long-range strike from [[Casemiro]], which deflected off [[Sami Khedira]] and past [[Gianluigi Buffon]] to the left corner of the net.<ref name="NYTimes"/><ref name="Guardian-Live"/> Three minutes later, Ronaldo scored Madrid's third goal of the night and his second, finishing in the {{convert|6|yd|m|adj=mid}} box from a cut-back from [[Luka Modrić]] on the right.<ref name="NYTimes"/> Juventus, fending off additional attacks from Madrid, picked up three additional yellow cards, including one to newly substituted [[Juan Cuadrado]].<ref name="Guardian-Live"/> Real Madrid replaced striker [[Karim Benzema]] with [[Gareth Bale]], a [[Cardiff]] native who had not been fit enough to start but was given a homecoming.<ref name="Guardian"/> Cuadrado picked up a second yellow card and was sent off in the 84th minute for a shove on [[Sergio Ramos]], who went down while holding his foot.<ref name="Guardian-Live"/> [[Marco Asensio]] scored Madrid's fourth and final goal in the 90th minute, a tap-in from {{convert|12|yd|m}} after a cut-back from [[Marcelo (footballer, born 1988)|Marcelo]] from the left.<ref name="Guardian-Live"/>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw, which was held on 21 April 2017 at UEFA headquarters in [[Nyon]], Switzerland.<ref>{{cite web |title=UEFA Champions League semi-final draw |url=http://www.uefa.com/uefachampionsleague/season=2017/draws/round=2000786/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=3 June 2017}}</ref>
+
+<onlyinclude>{{Football box
+|date={{Start date|2017|6|3|df=y}}
+|time={{CEST|20:45|displaytz=BST}}<!--20:45 CEST, 19:45 BST-->
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=1–4
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000787/match=2019641/index.html#/iv/match/2019641/lineups
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Mario Mandžukić|Mandžukić]] {{goal|27}}
+|goals2=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|20||64}}
+*[[Casemiro]] {{goal|61}}
+*[[Marco Asensio|Asensio]] {{goal|90}}
+|stadium=[[Millennium Stadium]], [[Cardiff]]
+|attendance=65,842<ref name="full_time">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2017/2019641_fr.pdf |title=Full Time Report Final – Juventus v Real Madrid |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=3 June 2017 |accessdate=3 June 2017}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = _juventus1617h
+ |pattern_b  = _juventus1617H
+ |pattern_ra = _juventus1617h
+ |pattern_sh = _adidasblack
+ |pattern_so = _juventus1617t
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Juventus<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _rmcf1617away
+ |pattern_b  = _rmcf1617away
+ |pattern_ra = _rmcf1617away
+ |pattern_sh = 
+ |pattern_so = _rmcf1617away
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 8449CE
+ |socks      = 8449CE
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluigi Buffon]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||{{flagicon|ITA}} [[Andrea Barzagli]] || || {{suboff|66}}
+|-
+|CB ||'''19'''||{{flagicon|ITA}} [[Leonardo Bonucci]]
+|-
+|CB ||'''3''' ||{{flagicon|ITA}} [[Giorgio Chiellini]]
+|-
+|RM ||'''23'''||{{flagicon|BRA}} [[Dani Alves]]
+|-
+|CM ||'''5''' ||{{flagicon|BIH}} [[Miralem Pjanić]] || {{yel|66}} || {{suboff|71}}
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Sami Khedira]]
+|-
+|LM ||'''12'''||{{flagicon|BRA}} [[Alex Sandro]] || {{yel|70}}
+|-
+|AM ||'''21'''||{{flagicon|ARG}} [[Paulo Dybala]] || {{yel|12}} || {{suboff|78}}
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Gonzalo Higuaín]]
+|-
+|CF ||'''17'''||{{flagicon|CRO}} [[Mario Mandžukić]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|BRA}} [[Neto (footballer, born 1989)|Neto]]
+|-
+|DF ||'''4''' ||{{flagicon|MAR}} [[Medhi Benatia]]
+|-
+|DF ||'''26'''||{{flagicon|SUI}} [[Stephan Lichtsteiner]]
+|-
+|MF ||'''7''' ||{{flagicon|COL}} [[Juan Cuadrado]] || {{sent off|2|72|84}} || {{subon|66}}
+|-
+|MF ||'''8''' ||{{flagicon|ITA}} [[Claudio Marchisio]] || || {{subon|71}}
+|-
+|MF ||'''18'''||{{flagicon|GAB}} [[Mario Lemina]] || || {{subon|78}}
+|-
+|MF ||'''22'''||{{flagicon|GHA}} [[Kwadwo Asamoah]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Massimiliano Allegri]]
+|}
+|valign="top"|[[File:Juventus vs Real Madrid 2017-06-03.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]] || {{yel|42}}
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]]) || {{yel|31}}
+|-
+|CB ||'''5''' ||{{flagicon|FRA}} [[Raphaël Varane]]
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|DM ||'''14'''||{{flagicon|BRA}} [[Casemiro]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]] || {{yel|53}} || {{suboff|89}}
+|-
+|CM ||'''19'''||{{flagicon|CRO}} [[Luka Modrić]]
+|-
+|RF ||'''22'''||{{flagicon|ESP}} [[Isco]] || || {{suboff|82}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Karim Benzema]] || || {{suboff|77}}
+|-
+|LF ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|DF ||'''23'''||{{flagicon|BRA}} [[Danilo (footballer, born 1991)|Danilo]]
+|-
+|MF ||'''16'''||{{flagicon|CRO}} [[Mateo Kovačić]]
+|-
+|MF ||'''20'''||{{flagicon|ESP}} [[Marco Asensio]] || {{yel|90+1}} || {{subon|82}}
+|-
+|FW ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]] || || {{subon|77}}
+|-
+|FW ||'''21'''||{{flagicon|ESP}} [[Álvaro Morata]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA}} [[Zinedine Zidane]]
+|}
+|}
+
+{|  style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Real Madrid)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />Stefan Lupp ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />[[Marco Fritz]] ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fifth official|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Rafael Foltyn ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Champions League 2016/17 Season |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/35/87/89/2358789_DOWNLOAD.pdf |website=UEFA.com |publisher=Union of European Football Associations |accessdate=29 June 2016 }}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (Association football)|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes, of which up to three may be used.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2017/2019641_ts.pdf |title=Team statistics |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=3 June 2017 |accessdate=3 June 2017}}</ref>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Juventus
+! scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|8
+|5
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|0
+|3
+|-
+!scope=row|Ball possession
+|45%
+|55%
+|-
+!scope=row|Corner kicks
+|1
+|0
+|-
+!scope=row|Fouls committed
+|10
+|13
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Juventus
+! scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|3
+|13
+|-
+!scope=row|Shots on target
+|0
+|4
+|-
+!scope=row|Saves
+|1
+|0
+|-
+!scope=row|Ball possession
+|47%
+|53%
+|-
+!scope=row|Corner kicks
+|0
+|1
+|-
+!scope=row|Fouls committed
+|13
+|5
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|4
+|2
+|-
+!scope=row|Red cards
+|1
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Juventus
+! scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|1
+|4
+|-
+!scope=row|Total shots
+|11
+|18
+|-
+!scope=row|Shots on target
+|4
+|5
+|-
+!scope=row|Saves
+|1
+|3
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|23
+|18
+|-
+!scope=row|Offsides
+|3
+|1
+|-
+!scope=row|Yellow cards
+|5
+|4
+|-
+!scope=row|Red cards
+|1
+|0
+|}
+{{col-end}}
+
+==Post-match==
+With their win, Real Madrid secured a record-extending twelfth title in the European Cup/Champions League and became the first club to win back-to-back titles in the Champions League era.<ref>{{cite news |date=3 June 2017 |title=Real Madrid become first team to win back-to-back Champions League finals |url=http://www.goal.com/en/news/1716/champions-league/2017/06/03/36078802/real-madrid-become-first-team-to-win-back-to-back-champions |work=Goal.com |accessdate=3 June 2017}}</ref> This was the club's third title win in four seasons; a feat that has only occurred thrice before – Real Madrid (1956–60), Ajax (1971–73) and Bayern Munich (1974–76). Real Madrid has not lost a final in the Champions League era, with their last defeat occurring in 1981. The victory also saw Madrid secure their first League – European Cup double since the 1957–58 season.<ref name = "Five Aside">{{cite web|title=Five Aside: The stats that define Real Madrid's UCL win over Juventus|url=http://www.espnfc.com/blog/five-aside/77/post/3138171/real-madrid-champions-league-history-over-juventus-key-stats|website=ESPNFC.com|accessdate=10 June 2017}}</ref> Madrid's first goal in the final marked their 500th all-time goal in the competition, becoming the first club to reach the milestone.<ref>{{cite news |date=3 June 2017 |title=Real Madrid reach reach 500-goal milestone |url=https://www.uefa.com/uefachampionsleague/news/newsid=2465492.html |publisher=UEFA |accessdate=3 June 2017}}</ref> [[Cristiano Ronaldo]] also became the first player to score in three Champions League finals, and ranking second with the European Cup included, only behind [[Alfredo Di Stéfano]]'s five finals scored in.<ref>{{cite news |date=3 June 2017 |title=Cristiano Ronaldo makes history by scoring in third final |url=http://www.uefa.com/uefachampionsleague/news/newsid=2254057.html |publisher=UEFA |accessdate=3 June 2017}}</ref> Twenty-one year old Asensio became the youngest Real Madrid player to score in a European Cup/Champions League final.<ref name = "Five Aside"/>
+
+With their loss, Juventus extended their record number of final losses to seven, and tied [[S.L. Benfica|Benfica]]'s record of five consecutive finals lost.
+
+===Reactions===
+At the post-match press conference, Allegri stated that Juventus had played well in the first-half but failed to make the most of their chances. He felt that his team "let go psychologically" after conceding the second goal. Allegri added, "Even if Real Madrid had a very good second half and have excellent players who can change the game at any moment, that second goal knocked the wind out of our sails. They raised the tempo, as we were the ones pushing Real Madrid back in the first half, but in the second we couldn't play our way out of defence and they kept pushing us back. At that moment, we should've taken out the extra energy to push hard and keep the game open, as we know Real Madrid leave you the chances to score at all times, but we conceded the third goal and that was really damaging."<ref>{{cite web|title=Juventus 'let go psychologically' in Champions League final - Max Allegri|url=http://www.espnfc.com/juventus/story/3138465/max-allegri-juventus-let-go-psychologically-in-champions-league-final|website=ESPNFC.com|accessdate=10 June 2017}}</ref> Juventus captain Buffon stated that losing the match was a big disappointment. He felt his side had "an excellent first half, where we caused Real Madrid huge problems" but "in the second half their class, strength and how accustomed they are to winning these games showed through. They won deservedly." If Juventus had won, Buffon would have become the oldest player to win a Champions League surpassing compatriot [[Paolo Maldini]]. FIFA President [[Gianni Infantino]], who attended the match, told reporters, "Juventus played a great first half, then in the second Real Madrid were extraordinary. They were two excellent sides and in the end the best team won."<ref>{{cite web|title=Juventus goalkeeper Gianluigi Buffon: It all went wrong for us vs. Real|url=http://www.espnfc.com/juventus/story/3138414/juventus-goalkeeper-gianluigi-buffon-it-all-went-wrong-for-us-vs-real-madrid|website=ESPNFC.com|accessdate=10 June 2017}}</ref>
+
+Zidane declared that his players deserved to win the double and become the first team to defend the title in the Champions league era. Zidane stated, "They have made history, for sure. Nobody has done it, and now we have. Today is a historic day for all Madridistas, for the players, for me, for all our family. But saying this, you know how it is. Next year will be much more difficult. We will have to work a lot to try and win again. But today we can say we are a very good team, and we deserved to win La Liga and the Champions League. It was not easy." He also felt that "a lot of hard work" was the reason behind the team's success. Zidane also revealed that he had instructed his players to "keep going, but to play a bit higher up the pitch, and to keep the ball" during the half-time team talk.<ref>{{cite web|title=Zinedine Zidane hails historic Real Madrid win, vows to stay at Bernabeu|url=http://www.espnfc.com/real-madrid/story/3138462/zinedine-zidane-hails-historic-real-madrid-win-and-vows-to-stay-at-club-for-next-season|website=ESPNFC.com|accessdate=10 June 2017}}</ref>
+
+Ramos said he was proud that Madrid had "kept their date with history" and felt it was because of the harmonious relationship among the players. Madrid's captain said, "We are tremendously proud of this team, and this institution. We had a date with history and were really looking forward to it. For 59 years we had not achieved the double, and nobody had ever won two Champions Leagues in a row. We were able to keep a dressing room without any jealousies and that was key. Success does not come by coincidence. We are a great group, headed by a great coach in Zidane. Three Champions Leagues in four years is crazy." Kroos revealed that he did not believe that Madrid would be able to successfully defend the trophy saying, "I didn't expect it would be possible to defend this title as it's so difficult to win it once. But to do it twice in a row is unbelievable. To win it three times in the last four years means a lot. It means it's not only a good team on the pitch but off the pitch. It's like that and I'm happy to be part of the team." Kroos also pointed out that Juventus had only conceded three goals in their entire Champions League campaign, and that scoring four against them in the final was a sign of Madrid's quality.<ref>{{cite web|title=Gareth Bale: Real Madrid's Champions League triumph an 'incredible scene'|url=http://www.espnfc.com/real-madrid/story/3138394/gareth-bale-real-madrids-champions-league-triumph-incredible|website=ESPNFC.com|accessdate=10 June 2017}}</ref>
+
+Modrić said that Madrid's performance in the first half was because they had "dropped back too much". He felt that the team's performance improved in the second half after Zidane instructed them to become "more aggressive" and "to not allow Juve to keep the ball easily".<ref>{{cite web|title=Luka Modric: This Real Madrid side can win more Champions Leagues|url=http://www.espnfc.com/real-madrid/story/3138673/luka-modric-this-real-madrid-side-can-win-more-champions-leagues|website=ESPNFC.com|accessdate=10 June 2017}}</ref> Cardiff native Bale stated that winning the title in his hometown was a "great feeling". He also stated that he had no regrets about not being able to start the match, and was happy to have been able to play.<ref>{{cite web|title=Champions League Final: Winning at home is a dream come true, says Gareth Bale|url=http://indianexpress.com/article/sports/football/champions-league-final-winning-at-home-is-a-dream-come-true-says-gareth-bale-4688282/|website=The Indian Express|accessdate=10 June 2017|date=4 June 2017}}</ref>
+
+==2017 Turin stampede==
+{{main|2017 Turin stampede}}
+During a viewing event for the match in [[Turin]], one woman died,<ref>{{cite web|url=http://www.lastampa.it/2017/06/15/cronaca/morta-la-donna-travolta-in-piazza-san-carlo-bkJM9nTjn3yr2mYmU1aziK/pagina.html|title=Morta la donna travolta in piazza San Carlo|editor=[[La Stampa]]|date=15 June 2017|accessdate=15 June 2017|language=it}}</ref> and at least 1,500 people were injured.<ref>{{cite news |date=3 June 2017 |title=200 injured in Juventus fan panic after bomb scare: police |url=https://sports.yahoo.com/news/30-injured-juventus-fan-panic-bomb-scare-214824769--sow.html |work=Yahoo Sports |agency=[[Agence France-Presse]] |accessdate=3 June 2017}}</ref>
+
+==See also==
+{{wikinews|Real Madrid defends Champions League title}}
+*[[2017 UEFA Europa League Final]]
+*[[2017 UEFA Super Cup]]
+*[[2017 FIFA Club World Cup]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/season=2017/index.html 2016–17 UEFA Champions League]
+*[http://www.uefa.com/uefachampionsleague/season=2017/final/index.html 2017 UEFA Champions League Final], UEFA.com
+
+{{UEFA Champions League seasons}}
+{{2016–17 in European football (UEFA)}}
+{{Sport in Cardiff}}
+{{Juventus F.C. matches}}
+{{Real Madrid C.F. matches}}
+{{Portalbar|Association football|Wales}}
+
+{{DEFAULTSORT:Uefa Champions League Final 2017}}
+[[Category:UEFA Champions League Finals|2017]]
+[[Category:2016–17 UEFA Champions League|Final]]
+[[Category:2016–17 in Welsh football|Champions League Final]]
+[[Category:Sports competitions in Cardiff]]
+[[Category:International club association football competitions hosted by Wales]]
+[[Category:Juventus F.C. matches]]
+[[Category:Real Madrid C.F. matches]]
+[[Category:2016–17 in Italian football|Champions League Final]]
+[[Category:2016–17 in Spanish football|Champions League Final]]
+[[Category:June 2017 sports events in the United Kingdom]]
+[[Category:2010s in Cardiff]]
+[[Category:2017 in association football]]

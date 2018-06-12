@@ -1,0 +1,1857 @@
+The '''2016–17 UEFA Champions League group stage''' began on 13 September and ended on 7 December 2016. A total of 32 teams competed in the group stage to decide the 16 places in the [[2016–17 UEFA Champions League knockout phase|knockout phase]] of the [[2016–17 UEFA Champions League]].<ref name="regulations">{{cite web |title=Regulations of the UEFA Champions League 2016/17 Season |url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/35/87/89/2358789_DOWNLOAD.pdf |website=UEFA.com |publisher=Union of European Football Associations |accessdate=13 June 2016 }}</ref>
+
+==Draw==
+The draw was held on 25 August 2016, 18:00 [[Central European Summer Time|CEST]], at the [[Grimaldi Forum]] in [[Monaco]].<ref>{{cite web |title=UEFA Champions League group stage draw |url=http://www.uefa.com/uefachampionsleague/season=2017/draws/round=2000783/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=13 June 2016 }}</ref> The 32 teams were drawn into eight groups of four, with the restriction that teams from the same association could not be drawn against each other. For the draw, the teams were seeded into four pots based on the following principles:<ref name="pot1">{{cite web |title=Madrid, Leicester among Champions League seeds |url=http://www.uefa.com/uefachampionsleague/news/newsid=2359976.html |website=UEFA.com |publisher=Union of European Football Associations |date=28 May 2016 |accessdate=13 June 2016 }}</ref><ref name="regulations"/>
+*Pot 1 contained the title holders and the champions of the top seven associations based on their 2015 [[UEFA coefficient#Country coefficient|UEFA country coefficients]].<ref name="country coefficients">{{cite web |title=Country coefficients 2014/15 |url=http://www.uefa.com/memberassociations/uefarankings/country/season=2015/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=13 June 2016 }}</ref><ref name="crank">{{cite web |title=UEFA Country Ranking 2015 |url=http://kassiesa.home.xs4all.nl/bert/uefa/data/method4/crank2015.html |website=kassiesa.home.xs4all.nl |publisher=Bert Kassies |accessdate=13 June 2016}}</ref>
+*Pots 2, 3 and 4 contained the remaining teams, seeded based on their 2016 [[UEFA coefficient#Club coefficient|UEFA club coefficients]].<ref name="club coefficients">{{cite web |title=Club coefficients 2015/16 |url=http://www.uefa.com/memberassociations/uefarankings/club/season=2016/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=13 June 2016 }}</ref><ref name="trank">{{cite web |title=UEFA Team Ranking 2016 |url=http://kassiesa.home.xs4all.nl/bert/uefa/data/method4/trank2016.html |website=kassiesa.home.xs4all.nl |publisher=Bert Kassies |accessdate=13 June 2016 }}</ref><ref name="seed">{{cite web |title=Seeding in the Champions League 2016/2017 |url=http://kassiesa.home.xs4all.nl/bert/uefa/seedcl2016.html |website=kassiesa.home.xs4all.nl |publisher=Bert Kassies |accessdate=13 June 2016 }}</ref>
+
+Moreover, the draw was controlled for teams from the same association in order to split the teams evenly into the two sets of groups (A–D, E–H) for maximum television coverage.
+
+The fixtures were decided after the draw. On each matchday, four groups play their matches on Tuesday, while the other four groups play their matches on Wednesday, with the two sets of groups (A–D, E–H) alternating between each matchday. There are other restrictions: for example, teams from the same city (e.g., [[Real Madrid C.F.|Real Madrid]] and [[Atlético Madrid]]) in general do not play at home on the same matchday (UEFA tries to avoid teams from the same city playing at home on the same day or on consecutive days, due to logistics and crowd control), and teams in certain countries (e.g., Belarus, Russia, Kazakhstan) do not play at home on the last matchday (due to cold weather and simultaneous kick-off times).
+
+On 17 July 2014, the UEFA emergency panel ruled that Ukrainian and Russian clubs would not be drawn against each other "until further notice" due to the [[2014 pro-Russian unrest in Ukraine|political unrest]] between the countries.<ref>{{cite web|url=http://www.uefa.org/about-uefa/news/newsid=2124836.html|title=Emergency Panel decisions|publisher=UEFA.org|date=17 July 2014}}</ref> Therefore, Ukrainian club [[FC Dynamo Kyiv|Dynamo Kyiv]] (Pot 3) and Russian clubs [[PFC CSKA Moscow|CSKA Moscow]] (Pot 1) and [[FC Rostov|Rostov]] (Pot 4) could not be drawn into the same group.
+
+==Teams==
+Below are the participating teams (with their 2016 [[UEFA coefficient#Club coefficient|UEFA club coefficients]]),<ref name="club coefficients">{{cite web |title=Club coefficients 2015/16 |url=http://www.uefa.com/memberassociations/uefarankings/club/season=2016/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=13 June 2016 }}</ref><ref name="trank">{{cite web |title=UEFA Team Ranking 2016 |url=http://kassiesa.home.xs4all.nl/bert/uefa/data/method4/trank2016.html |website=kassiesa.home.xs4all.nl |publisher=Bert Kassies |accessdate=13 June 2016 }}</ref> grouped by their seeding pot.<ref>{{cite web |title=2016/17 UEFA Champions League participants |url=http://www.uefa.com/uefachampionsleague/season=2017/accesslist/listofparticipants/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=13 June 2016 }}</ref> They include 22 teams which enter in this stage, and the 10 winners of the [[2016–17 UEFA Champions League qualifying phase and play-off round#Play-off round|play-off round]] (5 in Champions Route, 5 in League Route).
+
+{| class="wikitable"
+|-
+!Key to colours
+|-bgcolor=#BBF3BB
+|Group winners and runners-up '''advance to the [[2016–17 UEFA Champions League knockout phase|round of 16]]'''
+|-bgcolor=#BBF3FF
+|Third-placed teams '''enter the [[2016–17 UEFA Europa League knockout phase|Europa League round of 32]]'''
+|}
+
+{|
+|-valign=top
+|
+{| class="wikitable"
+|-
+|+Pot 1 (by association rank)<ref name="pot1"/>
+|-
+!Team
+!width=50|{{Tooltip|Coeff|Club Coefficient}}
+|-bgcolor=#BBF3BB
+|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]{{Cref2|TH}}
+|align=right|176.142
+|-bgcolor=#BBF3BB
+|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=right|159.142
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|align=right|15.256
+|-bgcolor=#BBF3BB
+|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|align=right|163.035
+|-bgcolor=#BBF3BB
+|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|align=right|107.087
+|-bgcolor=#BBF3BB
+|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|align=right|116.616
+|-bgcolor=#BBF3BB
+|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|align=right|112.549
+|-
+|{{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|align=right|48.716
+|}
+|
+{| class="wikitable"
+|-
+|+Pot 2
+|-
+!Team
+!width=50|{{Tooltip|Coeff|Club Coefficient}}
+|-bgcolor=#BBF3BB
+|{{flagicon|ESP}} [[Atlético Madrid]]
+|align=right|144.142
+|-bgcolor=#BBF3BB
+|{{flagicon|GER}} [[Borussia Dortmund]]
+|align=right|110.035
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|align=right|105.256
+|-bgcolor=#BBF3BB
+|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]{{Cref2|LR}}
+|align=right|99.256
+|-bgcolor=#BBF3BB
+|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|align=right|95.642
+|-bgcolor=#BBF3BB
+|{{flagicon|POR}} [[FC Porto|Porto]]{{Cref2|LR}}
+|align=right|92.616
+|-bgcolor=#BBF3BB
+|{{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|align=right|90.087
+|-bgcolor=#BBF3BB
+|{{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|align=right|89.035
+|}
+|
+{| class="wikitable"
+|-
+|+Pot 3
+|-
+!Team
+!width=50|{{Tooltip|Coeff|Club Coefficient}}
+|-
+|{{flagicon|SUI}} [[FC Basel|Basel]]
+|align=right|87.755
+|-bgcolor=#BBF3FF
+|{{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|align=right|74.256
+|-
+|{{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|align=right|65.976
+|-bgcolor=#BBF3FF
+|{{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|align=right|63.049
+|-
+|{{flagicon|NED}} [[PSV Eindhoven]]
+|align=right|57.112
+|-
+|{{flagicon|POR}} [[Sporting CP]]
+|align=right|51.616
+|-
+|{{flagicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|align=right|43.000
+|-bgcolor=#BBF3FF
+|{{flagicon|GER}} [[Borussia Mönchengladbach]]{{Cref2|LR}}
+|align=right|42.035
+|}
+|
+{| class="wikitable"
+|-
+|+Pot 4
+|-
+!Team
+!width=50|{{Tooltip|Coeff|Club Coefficient}}
+|-
+|{{flagicon|SCO}} [[Celtic F.C.|Celtic]]{{Cref2|CR}}
+|align=right|40.460
+|-bgcolor=#BBF3BB
+|{{flagicon|FRA}} [[AS Monaco FC|Monaco]]{{Cref2|LR}}
+|align=right|36.549
+|-bgcolor=#BBF3FF
+|{{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|align=right|34.920
+|-bgcolor=#BBF3FF
+|{{flagicon|POL}} [[Legia Warsaw]]{{Cref2|CR}}
+|align=right|28.000
+|-
+|{{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]{{Cref2|CR}}
+|align=right|25.775
+|-bgcolor=#BBF3FF
+|{{flagicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]{{Cref2|CR}}
+|align=right|25.625
+|-bgcolor=#BBF3FF
+|{{flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]]{{Cref2|CR}}
+|align=right|24.720
+|-bgcolor=#BBF3FF
+|{{flagicon|RUS}} [[FC Rostov|Rostov]]{{Cref2|LR}}
+|align=right|11.716
+|}
+|}
+
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|TH|n=0|<sup>TH</sup> Title holders, automatically placed at the top position of seeding list.}}
+{{Cnote2|CR|n=0|<sup>CR</sup> Winners of the [[2016–17 UEFA Champions League qualifying phase and play-off round#Play-off round|play-off round]] ([[2016–17 UEFA Champions League qualifying phase and play-off round#Champions Route|Champions Route]]).}}
+{{Cnote2|LR|n=0|<sup>LR</sup> Winners of the [[2016–17 UEFA Champions League qualifying phase and play-off round#Play-off round|play-off round]] ([[2016–17 UEFA Champions League qualifying phase and play-off round#League Route|League Route]]).}}
+{{Cnote2 End}}
+
+==Format==
+In each group, teams play against each other home-and-away in a [[round-robin tournament|round-robin format]]. The group winners and runners-up advance to the [[2016–17 UEFA Champions League knockout phase|round of 16]], while the third-placed teams enter the [[2016–17 UEFA Europa League knockout phase|Europa League round of 32]].<ref name="regulations"/>
+
+===Tiebreakers===
+The teams are ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, 0 points for a loss). If two or more teams are equal on points on completion of the group matches, the following criteria are applied in the order given to determine the rankings (regulations Article 17.01):<ref name="regulations"/>
+#higher number of points obtained in the group matches played among the teams in question;
+#superior [[goal difference]] from the group matches played among the teams in question;
+#higher number of goals scored in the group matches played among the teams in question;
+#higher number of [[away goals rule|goals scored away from home]] in the group matches played among the teams in question;
+#if, after having applied criteria 1 to 4, teams still have an equal ranking, criteria 1 to 4 are reapplied exclusively to the matches between the teams in question to determine their final rankings. If this procedure does not lead to a decision, criteria 6 to 12 apply;
+#superior goal difference in all group matches;
+#higher number of goals scored in all group matches;
+#higher number of away goals scored in all group matches;
+#higher number of wins in all group matches;
+#higher number of away wins in all group matches;
+#lower disciplinary points total based only on yellow and red cards received in all group matches (red card = 3 points, yellow card = 1 point, expulsion for two yellow cards in one match = 3 points);
+#higher [[UEFA coefficient#Club coefficient|club coefficient]].
+
+==Groups==
+The matchdays are 13–14 September, 27–28 September, 18–19 October, 1–2 November, 22–23 November, and 6–7 December 2016.<ref>{{cite web |title=2016/17 Champions League match calendar |url=http://www.uefa.com/uefachampionsleague/season=2017/competitionformat/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=13 June 2016 }}</ref> The match kickoff times are 20:45 CEST/CET, except for matchday 5 in [[Russia]] which are 18:00 CET.<ref>{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/39/91/09/2399109_DOWNLOAD.pdf|title=Full Fixture List|publisher=UEFA.com}}</ref> The match kickoff times for matchdays 4 and 5 in [[Turkey]] were changed from 20:45 CET to 18:45 CET due to the decision of the Turkish government to use the [[UTC+03:00|UTC+3]] time zone all year round starting from September 2016.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2407446.html|title=Changes to Champions League and Europa League kick-off times|publisher=UEFA.com|date=26 September 2016}}</ref>
+
+Times up to 29 October 2016 (matchdays 1–3) are [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), thereafter (matchdays 4–6) times are [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]).
+
+===Group A===
+{{2016–17 UEFA Champions League Group A table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Paris Saint-Germain v Arsenal
+|date={{Start date|2016|9|13|df=y}}
+|time=20:45
+|team1=[[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019282/index.html
+|team2={{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1=
+* [[Edinson Cavani|Cavani]] {{goal|1}}
+|goals2=
+* [[Alexis Sánchez|Sánchez]] {{goal|78}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=46,440<ref name="md01_1">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md01_1_fs.pdf |title=Full Time Summary Matchday 1 – Tuesday 13 September 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=13 September 2016 |accessdate=13 September 2016}}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}
+{{Football box
+|id=Basel v Ludogorets Razgrad
+|date={{Start date|2016|9|13|df=y}}
+|time=20:45
+|team1=[[FC Basel|Basel]] {{flagicon|SUI}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019283/index.html
+|team2={{flagicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|goals1=
+* [[Renato Steffen|Steffen]] {{goal|79}}
+|goals2=
+* [[Jonathan Cafu|Cafu]] {{goal|45}}
+|stadium=[[St. Jakob-Park]], [[Basel]]
+|attendance=30,852<ref name="md01_1" />
+|referee=[[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+}}
+----
+{{Football box
+|id=Ludogorets Razgrad v Paris Saint-Germain
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[PFC Ludogorets Razgrad|Ludogorets Razgrad]] {{flagicon|BUL}}
+|score=1–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019306/index.html
+|team2={{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1=
+* [[Natanael]] {{goal|16}}
+|goals2=
+* [[Blaise Matuidi|Matuidi]] {{goal|41}}
+* [[Edinson Cavani|Cavani]] {{goal|56||60}}
+|stadium=[[Vasil Levski National Stadium]], [[Sofia]]{{refn|group=note|name=Ludogorets Razgrad|[[PFC Ludogorets Razgrad|Ludogorets Razgrad]] played their home matches at [[Vasil Levski National Stadium]], [[Sofia]] instead of their regular stadium, [[Ludogorets Arena]], [[Razgrad]].}}
+|attendance=17,155<ref name="md02_2">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md02_2_fs.pdf |title=Full Time Summary Matchday 2 – Wednesday 28 September 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=28 September 2016 |accessdate=28 September 2016}}</ref>
+|referee=[[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+}}
+{{Football box
+|id=Arsenal v Basel
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[Arsenal F.C.|Arsenal]] {{flagicon|ENG}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019307/index.html
+|team2={{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1=
+* [[Theo Walcott|Walcott]] {{goal|7||26}}
+|goals2=
+|stadium=[[Emirates Stadium]], [[London]]
+|attendance=59,993<ref name="md02_2" />
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{Football box
+|id=Arsenal v Ludogorets Razgrad
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[Arsenal F.C.|Arsenal]] {{flagicon|ENG}}
+|score=6–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019322/index.html
+|team2={{flagicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|goals1=
+* [[Alexis Sánchez|Sánchez]] {{goal|13}}
+* [[Theo Walcott|Walcott]] {{goal|42}}
+* [[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|47}}
+* [[Mesut Özil|Özil]] {{goal|56||83||87}}
+|goals2=
+|stadium=[[Emirates Stadium]], [[London]]
+|attendance=59,944<ref name="md03_2">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md03_2_fs.pdf |title=Full Time Summary Matchday 3 – Wednesday 19 October 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=19 October 2016 |accessdate=19 October 2016}}</ref>
+|referee=[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+}}
+{{Football box
+|id=Paris Saint-Germain v Basel
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score=3–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019323/index.html
+|team2={{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1=
+* [[Ángel Di María|Di María]] {{goal|40}}
+* [[Lucas Moura|Lucas]] {{goal|62}}
+* [[Edinson Cavani|Cavani]] {{goal|90+3|pen.}}
+|goals2=
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=46,488<ref name="md03_2" />
+|referee=[[Deniz Aytekin]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Ludogorets Razgrad v Arsenal
+|date={{Start date|2016|11|1|df=y}}
+|time=20:45
+|team1=[[PFC Ludogorets Razgrad|Ludogorets Razgrad]] {{flagicon|BUL}}
+|score=2–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019330/index.html
+|team2={{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1=
+* [[Jonathan Cafu|Cafu]] {{goal|12}}
+* [[Claudiu Keșerü|Keșerü]] {{goal|15}}
+|goals2=
+* [[Granit Xhaka|Xhaka]] {{goal|20}}
+* [[Olivier Giroud|Giroud]] {{goal|42}}
+* [[Mesut Özil|Özil]] {{goal|88}}
+|stadium=[[Vasil Levski National Stadium]], [[Sofia]]{{refn|group=note|name=Ludogorets Razgrad}}
+|attendance=30,862<ref name="md04_1">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md04_1_fs.pdf |title=Full Time Summary Matchday 4 – Tuesday 1 November 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=1 November 2016 |accessdate=1 November 2016}}</ref>
+|referee=[[Bas Nijhuis]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+{{Football box
+|id=Basel v Paris Saint-Germain
+|date={{Start date|2016|11|1|df=y}}
+|time=20:45
+|team1=[[FC Basel|Basel]] {{flagicon|SUI}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019331/index.html
+|team2={{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1=
+* [[Luca Zuffi|Zuffi]] {{goal|76}}
+|goals2=
+* [[Blaise Matuidi|Matuidi]] {{goal|43}}
+* [[Thomas Meunier|Meunier]] {{goal|90}}
+|stadium=[[St. Jakob-Park]], [[Basel]]
+|attendance=34,639<ref name="md04_1" />
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+}}
+----
+{{Football box
+|id=Arsenal v Paris Saint-Germain
+|date={{Start date|2016|11|23|df=y}}
+|time=20:45
+|team1=[[Arsenal F.C.|Arsenal]] {{flagicon|ENG}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019354/index.html
+|team2={{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1=
+* [[Olivier Giroud|Giroud]] {{goal|45+1|pen.}}
+* [[Marco Verratti|Verratti]] {{goal|60|o.g.}}
+|goals2=
+* [[Edinson Cavani|Cavani]] {{goal|18}}
+* [[Alex Iwobi|Iwobi]] {{goal|77|o.g.}}
+|stadium=[[Emirates Stadium]], [[London]]
+|attendance=59,628<ref name="md05_2">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md05_2_fs.pdf |title=Full Time Summary Matchday 5 – Wednesday 23 November 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=23 November 2016 |accessdate=23 November 2016}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Ludogorets Razgrad v Basel
+|date={{Start date|2016|11|23|df=y}}
+|time=20:45
+|team1=[[PFC Ludogorets Razgrad|Ludogorets Razgrad]] {{flagicon|BUL}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019355/index.html
+|team2={{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1=
+|goals2=
+|stadium=[[Vasil Levski National Stadium]], [[Sofia]]{{refn|group=note|name=Ludogorets Razgrad}}
+|attendance=20,821<ref name="md05_2" />
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+}}
+----
+{{Football box
+|id=Paris Saint-Germain v Ludogorets Razgrad
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019362/index.html
+|team2={{flagicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|goals1=
+* [[Edinson Cavani|Cavani]] {{goal|61}}
+* [[Ángel Di María|Di María]] {{goal|90+2}}
+|goals2=
+* [[Virgil Misidjan|Misidjan]] {{goal|15}}
+* [[Wanderson Cristaldo Farias|Wanderson]] {{goal|69}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=42,650<ref name="md06_1">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md06_1_fs.pdf |title=Full Time Summary Matchday 6 – Tuesday 6 December 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=6 December 2016 |accessdate=6 December 2016}}</ref>
+|referee=[[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+}}
+{{Football box
+|id=Basel v Arsenal
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[FC Basel|Basel]] {{flagicon|SUI}}
+|score=1–4
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019363/index.html
+|team2={{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1=
+* [[Seydou Doumbia|Doumbia]] {{goal|78}}
+|goals2=
+* [[Lucas Pérez|Pérez]] {{goal|8||16||47}}
+* [[Alex Iwobi|Iwobi]] {{goal|53}}
+|stadium=[[St. Jakob-Park]], [[Basel]]
+|attendance=36,000<ref name="md06_1" />
+|referee=[[Jorge Sousa]] ([[Portuguese Football Federation|Portugal]])
+}}
+
+===Group B===
+{{2016–17 UEFA Champions League Group B table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Dynamo Kyiv v Napoli
+|date={{Start date|2016|9|13|df=y}}
+|time=20:45
+|team1=[[FC Dynamo Kyiv|Dynamo Kyiv]] {{flagicon|UKR}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019284/index.html
+|team2={{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1=[[Denys Harmash|Harmash]] {{goal|26}}
+|goals2=[[Arkadiusz Milik|Milik]] {{goal|36||45+2}}
+|stadium=[[Olimpiyskiy National Sports Complex|Olympic Stadium]], [[Kiev]]
+|attendance=35,137<ref name="md01_1" />
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=Benfica v Beşiktaş
+|date={{Start date|2016|9|13|df=y}}
+|time=20:45
+|team1=[[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019285/index.html
+|team2={{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1=
+* [[Franco Cervi|Cervi]] {{goal|12}}
+|goals2=
+* [[Talisca]] {{goal|90+3}}
+|stadium=[[Estádio da Luz]], [[Lisbon]]
+|attendance=42,126<ref name="md01_1" />
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+}}
+----
+{{Football box
+|id=Beşiktaş v Dynamo Kyiv
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[Beşiktaş J.K.|Beşiktaş]] {{flagicon|TUR}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019308/index.html
+|team2={{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1=
+* [[Ricardo Quaresma|Quaresma]] {{goal|29}}
+|goals2=
+* [[Viktor Tsyhankov|Tsyhankov]] {{goal|65}}
+|stadium=[[Vodafone Arena]], [[Istanbul]]
+|attendance=33,938<ref name="md02_2" />
+|referee=[[Felix Zwayer]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Napoli v Benfica
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score=4–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019309/index.html
+|team2={{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1=
+* [[Marek Hamšík|Hamšík]] {{goal|20}}
+* [[Dries Mertens|Mertens]] {{goal|51||58}}
+* [[Arkadiusz Milik|Milik]] {{goal|54|pen.}}
+|goals2=
+* [[Gonçalo Guedes|Guedes]] {{goal|70}}
+* [[Eduardo Salvio|Salvio]] {{goal|86}}
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=41,281<ref name="md02_2" />
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Napoli v Beşiktaş
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score=2–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019324/index.html
+|team2={{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1=
+* [[Dries Mertens|Mertens]] {{goal|30}}
+* [[Manolo Gabbiadini|Gabbiadini]] {{goal|69|pen.}}
+|goals2=
+* [[Adriano (footballer, born 1984)|Adriano]] {{goal|12}}
+* [[Vincent Aboubakar|Aboubakar]] {{goal|38||86}}
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=28,502<ref name="md03_2" />
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+}}
+{{Football box
+|id=Dynamo Kyiv v Benfica
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[FC Dynamo Kyiv|Dynamo Kyiv]] {{flagicon|UKR}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019325/index.html
+|team2={{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1=
+|goals2=
+* [[Eduardo Salvio|Salvio]] {{goal|9|pen.}}
+* [[Franco Cervi|Cervi]] {{goal|55}}
+|stadium=[[Olimpiyskiy National Sports Complex|Olympic Stadium]], [[Kiev]]
+|attendance=25,991<ref name="md03_2" />
+|referee=[[David Fernández Borbalán]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Beşiktaş v Napoli
+|date={{Start date|2016|11|1|df=y}}
+|time=18:45
+|team1=[[Beşiktaş J.K.|Beşiktaş]] {{flagicon|TUR}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019332/index.html
+|team2={{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1=
+* [[Ricardo Quaresma|Quaresma]] {{goal|79|pen.}}
+|goals2=
+* [[Marek Hamšík|Hamšík]] {{goal|82}}
+|stadium=[[Vodafone Arena]], [[Istanbul]]
+|attendance=35,552<ref name="md04_1" />
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Benfica v Dynamo Kyiv
+|date={{Start date|2016|11|1|df=y}}
+|time=20:45
+|team1=[[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019333/index.html
+|team2={{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1=
+* [[Eduardo Salvio|Salvio]] {{goal|45+2|pen.}}
+|goals2=
+|stadium=[[Estádio da Luz]], [[Lisbon]]
+|attendance=51,641<ref name="md04_1" />
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|id=Beşiktaş v Benfica
+|date={{Start date|2016|11|23|df=y}}
+|time=18:45
+|team1=[[Beşiktaş J.K.|Beşiktaş]] {{flagicon|TUR}}
+|score=3–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019357/index.html
+|team2={{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1=
+* [[Cenk Tosun|Tosun]] {{goal|58}}
+* [[Ricardo Quaresma|Quaresma]] {{goal|83|pen.}}
+* [[Vincent Aboubakar|Aboubakar]] {{goal|89}}
+|goals2=
+* [[Gonçalo Guedes|Guedes]] {{goal|10}}
+* [[Nélson Semedo|Semedo]] {{goal|25}}
+* [[Ljubomir Fejsa|Fejsa]] {{goal|31}}
+|stadium=[[Vodafone Arena]], [[Istanbul]]
+|attendance=36,063<ref name="md05_2" />
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=Napoli v Dynamo Kyiv
+|date={{Start date|2016|11|23|df=y}}
+|time=20:45
+|team1=[[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019356/index.html
+|team2={{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1=
+|goals2=
+|stadium=[[Stadio San Paolo]], [[Naples]]
+|attendance=33,736<ref name="md05_2" />
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+}}
+----
+{{Football box
+|id=Dynamo Kyiv v Beşiktaş
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[FC Dynamo Kyiv|Dynamo Kyiv]] {{flagicon|UKR}}
+|score=6–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019364/index.html
+|team2={{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1=
+* [[Artem Besyedin|Besyedin]] {{goal|9}}
+* [[Andriy Yarmolenko|Yarmolenko]] {{goal|30|pen.}}
+* [[Vitaliy Buyalskyi|Buyalskyi]] {{goal|32}}
+* [[Derlis González|González]] {{goal|45+3}}
+* [[Serhiy Sydorchuk|Sydorchuk]] {{goal|60}}
+* [[Júnior Moraes]] {{goal|77}}
+|goals2=
+|stadium=[[Olimpiyskiy National Sports Complex|Olympic Stadium]], [[Kiev]]
+|attendance=14,036<ref name="md06_1" />
+|referee=[[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=Benfica v Napoli
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019365/index.html
+|team2={{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1=
+* [[Raúl Jiménez|Jiménez]] {{goal|87}}
+|goals2=
+* [[José Callejón|Callejón]] {{goal|60}}
+* [[Dries Mertens|Mertens]] {{goal|79}}
+|stadium=[[Estádio da Luz]], [[Lisbon]]
+|attendance=55,634<ref name="md06_1" />
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+
+===Group C===
+{{2016–17 UEFA Champions League Group C table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Barcelona v Celtic
+|date={{Start date|2016|9|13|df=y}}
+|time=20:45
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score=7–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019286/index.html
+|team2={{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|goals1=
+* [[Lionel Messi|Messi]] {{goal|3||27||60}}
+* [[Neymar]] {{goal|50}}
+* [[Andrés Iniesta|Iniesta]] {{goal|59}}
+* [[Luis Suárez|L. Suárez]] {{goal|75||88}}
+|goals2=
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=73,290<ref name="md01_1" />
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+}}
+{{Football box
+|id=Manchester City v Borussia Mönchengladbach
+|date={{Start date|2016|9|14|df=y}}{{refn|group=note|name=MCvMGL abandoned|The Manchester City v Borussia Mönchengladbach match, originally scheduled on 13 September 2016, 20:45 CEST, was postponed to the following day due to adverse weather conditions.<ref>{{cite web |url=https://www.bbc.com/sport/football/37356292 |title=Man City v Borussia Monchengladbach: Champions League game postponed |website=[[BBC Sport]] |publisher=[[BBC|British Broadcasting Corporation]] |date=13 September 2016 |access-date=13 September 2016}}</ref>}}
+|time=20:45
+|team1=[[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score=4–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019287/index.html
+|team2={{flagicon|GER}} [[Borussia Mönchengladbach]]
+|goals1=
+* [[Sergio Agüero|Agüero]] {{goal|9||28|pen.|77}}
+* [[Kelechi Iheanacho|Iheanacho]] {{goal|90+1}}
+|goals2=
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=30,270<ref name="md01_2">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md01_2_fs.pdf |title=Full Time Summary Matchday 1 – Wednesday 14 September 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=14 September 2016 |accessdate=14 September 2016}}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{Football box
+|id=Borussia Mönchengladbach v Barcelona
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[Borussia Mönchengladbach]] {{flagicon|GER}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019310/index.html
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+* [[Thorgan Hazard|Hazard]] {{goal|34}}
+|goals2=
+* [[Arda Turan|Turan]] {{goal|65}}
+* [[Gerard Piqué|Piqué]] {{goal|74}}
+|stadium=[[Borussia-Park]], [[Mönchengladbach]]
+|attendance=46,283<ref name="md02_2" />
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=Celtic v Manchester City
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score=3–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019311/index.html
+|team2={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1=
+* [[Moussa Dembélé (French footballer)|Dembélé]] {{goal|3||47}}
+* [[Raheem Sterling|Sterling]] {{goal|20|o.g.}}
+|goals2=
+* [[Fernandinho (footballer)|Fernandinho]] {{goal|12}}
+* [[Raheem Sterling|Sterling]] {{goal|28}}
+* [[Nolito]] {{goal|55}}
+|stadium=[[Celtic Park]], [[Glasgow]]
+|attendance=57,592<ref name="md02_2" />
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Celtic v Borussia Mönchengladbach
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019326/index.html
+|team2={{flagicon|GER}} [[Borussia Mönchengladbach]]
+|goals1=
+|goals2=
+* [[Lars Stindl|Stindl]] {{goal|57}}
+* [[André Hahn|Hahn]] {{goal|77}}
+|stadium=[[Celtic Park]], [[Glasgow]]
+|attendance=57,814<ref name="md03_2" />
+|referee=[[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+}}
+{{Football box
+|id=Barcelona v Manchester City
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score=4–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019327/index.html
+|team2={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1=
+* [[Lionel Messi|Messi]] {{goal|17||61||69}}
+* [[Neymar]] {{goal|89}}
+|goals2=
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=96,290<ref name="md03_2" />
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+}}
+----
+{{Football box
+|id=Borussia Mönchengladbach v Celtic
+|date={{Start date|2016|11|1|df=y}}
+|time=20:45
+|team1=[[Borussia Mönchengladbach]] {{flagicon|GER}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019334/index.html
+|team2={{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|goals1=
+* [[Lars Stindl|Stindl]] {{goal|32}}
+|goals2=
+* [[Moussa Dembélé (French footballer)|Dembélé]] {{goal|76|pen.}}
+|stadium=[[Borussia-Park]], [[Mönchengladbach]]
+|attendance=46,283<ref name="md04_1" />
+|referee=[[Jorge Sousa]] ([[Portuguese Football Federation|Portugal]])
+}}
+{{Football box
+|id=Manchester City v Barcelona
+|date={{Start date|2016|11|1|df=y}}
+|time=20:45
+|team1=[[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score=3–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019335/index.html
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+* [[İlkay Gündoğan|Gündoğan]] {{goal|39||74}}
+* [[Kevin De Bruyne|De Bruyne]] {{goal|51}}
+|goals2=
+* [[Lionel Messi|Messi]] {{goal|21}}
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=53,340<ref name="md04_1" />
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}
+----
+{{Football box
+|id=Celtic v Barcelona
+|date={{Start date|2016|11|23|df=y}}
+|time=20:45
+|team1=[[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019358/index.html
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+|goals2=
+* [[Lionel Messi|Messi]] {{goal|24||56|pen.}}
+|stadium=[[Celtic Park]], [[Glasgow]]
+|attendance=57,937<ref name="md05_2" />
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Borussia Mönchengladbach v Manchester City
+|date={{Start date|2016|11|23|df=y}}
+|time=20:45
+|team1=[[Borussia Mönchengladbach]] {{flagicon|GER}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019359/index.html
+|team2={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1=
+* [[Raffael (footballer)|Raffael]] {{goal|23}}
+|goals2=
+* [[David Silva|Silva]] {{goal|45+1}}
+|stadium=[[Borussia-Park]], [[Mönchengladbach]]
+|attendance=45,921<ref name="md05_2" />
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+----
+{{Football box
+|id=Barcelona v Borussia Mönchengladbach
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score=4–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019366/index.html
+|team2={{flagicon|GER}} [[Borussia Mönchengladbach]]
+|goals1=
+* [[Lionel Messi|Messi]] {{goal|16}}
+* [[Arda Turan|Turan]] {{goal|50||53||67}}
+|goals2=
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=67,157<ref name="md06_1" />
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+}}
+{{Football box
+|id=Manchester City v Celtic
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019367/index.html
+|team2={{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|goals1=
+* [[Kelechi Iheanacho|Iheanacho]] {{goal|8}}
+|goals2=
+* [[Patrick Roberts|Roberts]] {{goal|4}}
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=51,297<ref name="md06_1" />
+|referee=[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+}}
+
+===Group D===
+{{2016–17 UEFA Champions League Group D table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Bayern Munich v Rostov
+|date={{Start date|2016|9|13|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=5–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019288/index.html
+|team2={{flagicon|RUS}} [[FC Rostov|Rostov]]
+|goals1=[[Robert Lewandowski|Lewandowski]] {{goal|28|pen.}}<br />[[Thomas Müller|Müller]] {{goal|45+2}}<br />[[Joshua Kimmich|Kimmich]] {{goal|53||60}}<br />[[Juan Bernat|Bernat]] {{goal|90}}
+|goals2=
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref name="md01_1" />
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=PSV Eindhoven v Atlético Madrid
+|date={{Start date|2016|9|13|df=y}}
+|time=20:45
+|team1=[[PSV Eindhoven]] {{flagicon|NED}}
+|score=0–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019289/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=
+|goals2=
+* [[Saúl Ñíguez|Saúl]] {{goal|43}}
+|stadium=[[Philips Stadion]], [[Eindhoven]]
+|attendance=33,989<ref name="md01_1" />
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+}}
+----
+{{Football box
+|id=Atlético Madrid v Bayern Munich
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019312/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=
+* [[Yannick Ferreira Carrasco|Carrasco]] {{goal|35}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=48,242<ref name="md02_2" />
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+{{Football box
+|id=Rostov v PSV Eindhoven
+|date={{Start date|2016|9|28|df=y}}
+|time=20:45
+|team1=[[FC Rostov|Rostov]] {{flagicon|RUS}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019313/index.html
+|team2={{flagicon|NED}} [[PSV Eindhoven]]
+|goals1=
+* [[Dmitry Poloz|Poloz]] {{goal|8||37}}
+|goals2=
+* [[Davy Pröpper|Pröpper]] {{goal|14}}
+* [[Luuk de Jong|L. de Jong]] {{goal|45+1}}
+|stadium=[[Olimp-2]], [[Rostov-on-Don]]
+|attendance=12,646<ref name="md02_2" />
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|id=Rostov v Atlético Madrid
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[FC Rostov|Rostov]] {{flagicon|RUS}}
+|score=0–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019328/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=
+|goals2=
+* [[Yannick Ferreira Carrasco|Carrasco]] {{goal|62}}
+|stadium=[[Olimp-2]], [[Rostov-on-Don]]
+|attendance=15,400<ref name="md03_2" />
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Bayern Munich v PSV Eindhoven
+|date={{Start date|2016|10|19|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=4–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019329/index.html
+|team2={{flagicon|NED}} [[PSV Eindhoven]]
+|goals1=
+* [[Thomas Müller|Müller]] {{goal|13}}
+* [[Joshua Kimmich|Kimmich]] {{goal|21}}
+* [[Robert Lewandowski|Lewandowski]] {{goal|59}}
+* [[Arjen Robben|Robben]] {{goal|84}}
+|goals2=
+* [[Luciano Narsingh|Narsingh]] {{goal|41}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref name="md03_2" />
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+}}
+----
+{{Football box
+|id=Atlético Madrid v Rostov
+|date={{Start date|2016|11|1|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019336/index.html
+|team2={{flagicon|RUS}} [[FC Rostov|Rostov]]
+|goals1=
+* [[Antoine Griezmann|Griezmann]] {{goal|28||90+3}}
+|goals2=
+* [[Sardar Azmoun|Azmoun]] {{goal|30}}
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=40,392<ref name="md04_1" />
+|referee=[[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=PSV Eindhoven v Bayern Munich
+|date={{Start date|2016|11|1|df=y}}
+|time=20:45
+|team1=[[PSV Eindhoven]] {{flagicon|NED}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019337/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=
+* [[Santiago Arias|Arias]] {{goal|14}}
+|goals2=
+* [[Robert Lewandowski|Lewandowski]] {{goal|34|pen.|74}}
+|stadium=[[Philips Stadion]], [[Eindhoven]]
+|attendance=35,000<ref name="md04_1" />
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Rostov v Bayern Munich
+|date={{Start date|2016|11|23|df=y}}
+|time=18:00
+|team1=[[FC Rostov|Rostov]] {{flagicon|RUS}}
+|score=3–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019360/index.html
+|team2={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=
+* [[Sardar Azmoun|Azmoun]] {{goal|44}}
+* [[Dmitry Poloz|Poloz]] {{goal|50|pen.}}
+* [[Christian Noboa|Noboa]] {{goal|67}}
+|goals2=
+* [[Douglas Costa]] {{goal|35}}
+* [[Juan Bernat|Bernat]] {{goal|52}}
+|stadium=[[Olimp-2]], [[Rostov-on-Don]]
+|attendance=15,211<ref name="md05_2" />
+|referee=[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+}}
+{{Football box
+|id=Atlético Madrid v PSV Eindhoven
+|date={{Start date|2016|11|23|df=y}}
+|time=20:45
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019361/index.html
+|team2={{flagicon|NED}} [[PSV Eindhoven]]
+|goals1=
+* [[Kévin Gameiro|Gameiro]] {{goal|55}}
+* [[Antoine Griezmann|Griezmann]] {{goal|66}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]]
+|attendance=37,891<ref name="md05_2" />
+|referee=[[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+}}
+----
+{{Football box
+|id=Bayern Munich v Atlético Madrid
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019368/index.html
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=
+* [[Robert Lewandowski|Lewandowski]] {{goal|28}}
+|goals2=
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=70,000<ref name="md06_1" />
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=PSV Eindhoven v Rostov
+|date={{Start date|2016|12|6|df=y}}
+|time=20:45
+|team1=[[PSV Eindhoven]] {{flagicon|NED}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019369/index.html
+|team2={{flagicon|RUS}} [[FC Rostov|Rostov]]
+|goals1=
+|goals2=
+|stadium=[[Philips Stadion]], [[Eindhoven]]
+|attendance=33,400<ref name="md06_1" />
+|referee=[[Deniz Aytekin]] ([[German Football Association|Germany]])
+}}
+
+===Group E===
+{{2016–17 UEFA Champions League Group E table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Bayer Leverkusen v CSKA Moscow
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[Bayer 04 Leverkusen|Bayer Leverkusen]] {{flagicon|GER}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019290/index.html
+|team2={{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1=
+* [[Admir Mehmedi|Mehmedi]] {{goal|9}}
+* [[Hakan Çalhanoğlu|Çalhanoğlu]] {{goal|15}}
+|goals2=
+* [[Alan Dzagoev|Dzagoev]] {{goal|36}}
+* [[Roman Eremenko|Eremenko]] {{goal|38}}
+|stadium=[[BayArena]], [[Leverkusen]]
+|attendance=23,459<ref name="md01_2" />
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Tottenham Hotspur v Monaco
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019291/index.html
+|team2={{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1=
+* [[Toby Alderweireld|Alderweireld]] {{goal|45}}
+|goals2=
+* [[Bernardo Silva|Silva]] {{goal|15}}
+* [[Thomas Lemar|Lemar]] {{goal|31}}
+|stadium=[[Wembley Stadium]], [[London]]{{refn|group=note|name=Tottenham Hotspur|[[Tottenham Hotspur F.C.|Tottenham Hotspur]] played their home matches at [[Wembley Stadium]], [[London]] instead of their regular stadium, [[White Hart Lane]], [[London]], due to renovation.<ref>{{cite web |title=Tottenham Hotspur will play next season’s Champions League matches at Wembley Stadium |url=https://www.theguardian.com/football/2016/may/28/tottenham-champions-league-fixtures-wembley-stadium |publisher=The Guardian |date=28 May 2016 |accessdate=8 September 2016}}</ref>}}
+|attendance=85,011<ref name="md01_2" />
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Monaco v Bayer Leverkusen
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019298/index.html
+|team2={{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1=
+* [[Kamil Glik|Glik]] {{goal|90+4}}
+|goals2=
+* [[Javier Hernández|Hernández]] {{goal|74}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=8,100<ref name="md02_1">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md02_1_fs.pdf |title=Full Time Summary Matchday 2 – Tuesday 27 September 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=27 September 2016 |accessdate=27 September 2016}}</ref>
+|referee=[[David Fernández Borbalán]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=CSKA Moscow v Tottenham Hotspur
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[PFC CSKA Moscow|CSKA Moscow]] {{flagicon|RUS}}
+|score=0–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019299/index.html
+|team2={{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=
+|goals2=
+* [[Son Heung-min]] {{goal|71}}
+|stadium=[[Arena CSKA]], [[Moscow]]
+|attendance=26,153<ref name="md02_1" />
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=CSKA Moscow v Monaco
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[PFC CSKA Moscow|CSKA Moscow]] {{flagicon|RUS}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019314/index.html
+|team2={{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1=
+* [[Lacina Traoré|Traoré]] {{goal|34}}
+|goals2=
+* [[Bernardo Silva|Silva]] {{goal|87}}
+|stadium=[[Arena CSKA]], [[Moscow]]
+|attendance=24,125<ref name="md03_1">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md03_1_fs.pdf |title=Full Time Summary Matchday 3 – Tuesday 18 October 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=18 October 2016 |accessdate=18 October 2016}}</ref>
+|referee=[[Martin Strömbergsson]] ([[Swedish Football Association|Sweden]])
+}}
+{{Football box
+|id=Bayer Leverkusen v Tottenham Hotspur
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[Bayer 04 Leverkusen|Bayer Leverkusen]] {{flagicon|GER}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019315/index.html
+|team2={{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=
+|goals2=
+|stadium=[[BayArena]], [[Leverkusen]]
+|attendance=28,887<ref name="md03_1" />
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+----
+{{Football box
+|id=Monaco v CSKA Moscow
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score=3–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019338/index.html
+|team2={{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1=
+* [[Valère Germain|Germain]] {{goal|13}}
+* [[Radamel Falcao|Falcao]] {{goal|29||41}}
+|goals2=
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=10,029<ref name="md04_2">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md04_2_fs.pdf |title=Full Time Summary Matchday 4 – Wednesday 2 November 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=2 November 2016 |accessdate=2 November 2016}}</ref>
+|referee=[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=Tottenham Hotspur v Bayer Leverkusen
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score=0–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019339/index.html
+|team2={{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1=
+|goals2=
+* [[Kevin Kampl|Kampl]] {{goal|65}}
+|stadium=[[Wembley Stadium]], [[London]]{{refn|group=note|name=Tottenham Hotspur}}
+|attendance=85,512<ref name="md04_2" />
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}
+----
+{{Football box
+|id=CSKA Moscow v Bayer Leverkusen
+|date={{Start date|2016|11|22|df=y}}
+|time=18:00
+|team1=[[PFC CSKA Moscow|CSKA Moscow]] {{flagicon|RUS}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019346/index.html
+|team2={{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1=
+* [[Bibras Natkho|Natkho]] {{goal|76|pen.}}
+|goals2=
+* [[Kevin Volland|Volland]] {{goal|16}}
+|stadium=[[Arena CSKA]], [[Moscow]]
+|attendance=19,164<ref name="md05_1">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md05_1_fs.pdf |title=Full Time Summary Matchday 5 – Tuesday 22 November 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=22 November 2016 |accessdate=22 November 2016}}</ref>
+|referee=[[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=Monaco v Tottenham Hotspur
+|date={{Start date|2016|11|22|df=y}}
+|time=20:45
+|team1=[[AS Monaco FC|Monaco]] {{flagicon|FRA}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019347/index.html
+|team2={{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=
+* [[Djibril Sidibé (footballer, born 1992)|Sidibé]] {{goal|48}}
+* [[Thomas Lemar|Lemar]] {{goal|53}}
+|goals2=
+* [[Harry Kane|Kane]] {{goal|52|pen.}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=13,100<ref name="md05_1" />
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{Football box
+|id=Bayer Leverkusen v Monaco
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[Bayer 04 Leverkusen|Bayer Leverkusen]] {{flagicon|GER}}
+|score=3–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019370/index.html
+|team2={{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1=
+* [[Vladlen Yurchenko|Yurchenko]] {{goal|30}}
+* [[Julian Brandt|Brandt]] {{goal|48}}
+* [[Morgan De Sanctis|De Sanctis]] {{goal|82|o.g.}}
+|goals2=
+|stadium=[[BayArena]], [[Leverkusen]]
+|attendance=21,928<ref name="md06_2">{{cite web |url=http://www.uefa.org/newsfiles/ucl/2017/md06_2_fs.pdf |title=Full Time Summary Matchday 6 – Wednesday 7 December 2016 |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=7 December 2016 |accessdate=7 December 2016}}</ref>
+|referee=[[Gediminas Mažeika]] ([[Lithuanian Football Federation|Lithuania]])
+}}
+{{Football box
+|id=Tottenham Hotspur v CSKA Moscow
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score=3–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019371/index.html
+|team2={{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1=
+* [[Dele Alli|Alli]] {{goal|38}}
+* [[Harry Kane|Kane]] {{goal|45+1}}
+* [[Igor Akinfeev|Akinfeev]] {{goal|77|o.g.}}
+|goals2=
+* [[Alan Dzagoev|Dzagoev]] {{goal|33}}
+|stadium=[[Wembley Stadium]], [[London]]{{refn|group=note|name=Tottenham Hotspur}}
+|attendance=62,034<ref name="md06_2" />
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}
+
+===Group F===
+{{2016–17 UEFA Champions League Group F table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Real Madrid v Sporting CP
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019292/index.html
+|team2={{flagicon|POR}} [[Sporting CP]]
+|goals1=
+* [[Cristiano Ronaldo|Ronaldo]] {{goal|89}}
+* [[Álvaro Morata|Morata]] {{goal|90+4}}
+|goals2=
+* [[Bruno César]] {{goal|48}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=72,179<ref name="md01_2" />
+|referee=[[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Legia Warsaw v Borussia Dortmund
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[Legia Warsaw]] {{flagicon|POL}}
+|score=0–6
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019293/index.html
+|team2={{flagicon|GER}} [[Borussia Dortmund]]
+|goals1=
+|goals2=
+* [[Mario Götze|Götze]] {{goal|7}}
+* [[Sokratis Papastathopoulos|Papastathopoulos]] {{goal|15}}
+* [[Marc Bartra|Bartra]] {{goal|17}}
+* [[Raphaël Guerreiro|Guerreiro]] {{goal|51}}
+* [[Gonzalo Castro|Castro]] {{goal|76}}
+* [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|87}}
+|stadium=[[Polish Army Stadium]], [[Warsaw]]
+|attendance=27,304<ref name="md01_2" />
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+}}
+----
+{{Football box
+|id=Borussia Dortmund v Real Madrid
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[Borussia Dortmund]] {{flagicon|GER}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019300/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=
+* [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|43}}
+* [[André Schürrle|Schürrle]] {{goal|87}}
+|goals2=
+* [[Cristiano Ronaldo|Ronaldo]] {{goal|17}}
+* [[Raphaël Varane|Varane]] {{goal|68}}
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=65,849<ref name="md02_1" />
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Sporting CP v Legia Warsaw
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[Sporting CP]] {{flagicon|POR}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019301/index.html
+|team2={{flagicon|POL}} [[Legia Warsaw]]
+|goals1=
+* [[Bryan Ruiz|B. Ruiz]] {{goal|28}}
+* [[Bas Dost|Dost]] {{goal|37}}
+|goals2=
+|stadium=[[Estádio José Alvalade]], [[Lisbon]]
+|attendance=40,094<ref name="md02_1" />
+|referee=[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+}}
+----
+{{Football box
+|id=Sporting CP v Borussia Dortmund
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[Sporting CP]] {{flagicon|POR}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019316/index.html
+|team2={{flagicon|GER}} [[Borussia Dortmund]]
+|goals1=
+* [[Bruno César]] {{goal|67}}
+|goals2=
+* [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|9}}
+* [[Julian Weigl|Weigl]] {{goal|43}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]]
+|attendance=46,609<ref name="md03_1" />
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=Real Madrid v Legia Warsaw
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=5–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019317/index.html
+|team2={{flagicon|POL}} [[Legia Warsaw]]
+|goals1=
+* [[Gareth Bale|Bale]] {{goal|16}}
+* [[Tomasz Jodłowiec|Jodłowiec]] {{goal|20|o.g.}}
+* [[Marco Asensio|Asensio]] {{goal|37}}
+* [[Lucas Vázquez|Vázquez]] {{goal|68}}
+* [[Álvaro Morata|Morata]] {{goal|84}}
+|goals2=
+* [[Miroslav Radović|Radović]] {{goal|22|pen.}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=70,251<ref name="md03_1" />
+|referee=[[Ruddy Buquet]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|id=Borussia Dortmund v Sporting CP
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[Borussia Dortmund]] {{flagicon|GER}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019340/index.html
+|team2={{flagicon|POR}} [[Sporting CP]]
+|goals1=
+* [[Adrián Ramos|Ramos]] {{goal|12}}
+|goals2=
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=65,849<ref name="md04_2" />
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+{{Football box
+|id=Legia Warsaw v Real Madrid
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[Legia Warsaw]] {{flagicon|POL}}
+|score=3–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019341/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=
+* [[Vadis Odjidja-Ofoe|Odjidja-Ofoe]] {{goal|40}}
+* [[Miroslav Radović|Radović]] {{goal|58}}
+* [[Thibault Moulin|Moulin]] {{goal|83}}
+|goals2=
+* [[Gareth Bale|Bale]] {{goal|1}}
+* [[Karim Benzema|Benzema]] {{goal|35}}
+* [[Mateo Kovačić|Kovačić]] {{goal|85}}
+|stadium=[[Polish Army Stadium]], [[Warsaw]]
+|attendance=0<ref name="md04_2" />{{refn|group=note|name=Legia Warsaw|The Legia Warsaw v Real Madrid match was played behind closed doors due to punishment by UEFA.<ref>{{cite web |title=UEFA zamknęła stadion Legii Warszawa na mecz z Realem Madryt |trans-title=UEFA close Legia Warsaw's stadium for match against Real Madrid |language=Polish |url=http://eurosport.onet.pl/pilka-nozna/liga-mistrzow/uefa-zamknela-stadion-legii-warszawa-na-mecz-z-realem-madryt/6gp5fx |publisher=Onet Sport |date=29 September 2016 |accessdate=29 September 2016 }}</ref><ref>{{cite web |title=Disciplinary updates - Wednesday 12 October 2016 16:38 CET |url=http://www.uefa.org/disciplinary/index.html#post_386284 |publisher=UEFA.org |date=12 October 2016 |accessdate=18 October 2016 }}</ref>}}
+|referee=[[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+}}
+----
+{{Football box
+|id=Sporting CP v Real Madrid
+|date={{Start date|2016|11|22|df=y}}
+|time=20:45
+|team1=[[Sporting CP]] {{flagicon|POR}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019348/index.html
+|team2={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1=
+* [[Adrien Silva|Adrien]] {{goal|80|pen.}}
+|goals2=
+* [[Raphaël Varane|Varane]] {{goal|29}}
+* [[Karim Benzema|Benzema]] {{goal|87}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]]
+|attendance=50,046<ref name="md05_1" />
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=Borussia Dortmund v Legia Warsaw
+|date={{Start date|2016|11|22|df=y}}
+|time=20:45
+|team1=[[Borussia Dortmund]] {{flagicon|GER}}
+|score=8–4
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019349/index.html
+|team2={{flagicon|POL}} [[Legia Warsaw]]
+|goals1=
+* [[Shinji Kagawa|Kagawa]] {{goal|17||18}}
+* [[Nuri Şahin|Şahin]] {{goal|20}}
+* [[Ousmane Dembélé|Dembélé]] {{goal|29}}
+* [[Marco Reus|Reus]] {{goal|32||52}}
+* [[Felix Passlack|Passlack]] {{goal|81}}
+* [[Jakub Rzeźniczak|Rzeźniczak]] {{goal|90+2|o.g.}}
+|goals2=
+* [[Aleksandar Prijović|Prijović]] {{goal|10||24}}
+* [[Michał Kucharczyk|Kucharczyk]] {{goal|57}}
+* [[Nemanja Nikolić (footballer, born 1987)|Nikolić]] {{goal|83}}
+|stadium=[[Westfalenstadion]], [[Dortmund]]
+|attendance=55,094<ref name="md05_1" />
+|referee=[[Martin Strömbergsson]] ([[Swedish Football Association|Sweden]])
+}}
+----
+{{Football box
+|id=Real Madrid v Borussia Dortmund
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=2–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019372/index.html
+|team2={{flagicon|GER}} [[Borussia Dortmund]]
+|goals1=
+* [[Karim Benzema|Benzema]] {{goal|28||53}}
+|goals2=
+* [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|60}}
+* [[Marco Reus|Reus]] {{goal|88}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=76,894<ref name="md06_2" />
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+{{Football box
+|id=Legia Warsaw v Sporting CP
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[Legia Warsaw]] {{flagicon|POL}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019373/index.html
+|team2={{flagicon|POR}} [[Sporting CP]]
+|goals1=
+* [[Guilherme Costa Marques|Guilherme]] {{goal|30}}
+|goals2=
+|stadium=[[Polish Army Stadium]], [[Warsaw]]
+|attendance=28,232<ref name="md06_2" />
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+}}
+
+===Group G===
+{{2016–17 UEFA Champions League Group G table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Club Brugge v Leicester City
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[Club Brugge KV|Club Brugge]] {{flagicon|BEL}}
+|score=0–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019294/index.html
+|team2={{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|goals1=
+|goals2=
+* [[Marc Albrighton|Albrighton]] {{goal|5}}
+* [[Riyad Mahrez|Mahrez]] {{goal|29||61|pen.}}
+|stadium=[[Jan Breydel Stadium]], [[Bruges]]
+|attendance=20,970<ref name="md01_2" />
+|referee=[[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+}}
+{{Football box
+|id=Porto v Copenhagen
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[FC Porto|Porto]] {{flagicon|POR}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019295/index.html
+|team2={{flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|goals1=
+* [[Otávio Edmilson da Silva Monteiro|Otávio]] {{goal|13}}
+|goals2=
+* [[Andreas Cornelius|Cornelius]] {{goal|52}}
+|stadium=[[Estádio do Dragão]], [[Porto]]
+|attendance=34,325<ref name="md01_2" />
+|referee=[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+}}
+----
+{{Football box
+|id=Copenhagen v Club Brugge
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[F.C. Copenhagen|Copenhagen]] {{flagicon|DEN}}
+|score=4–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019302/index.html
+|team2={{flagicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|goals1=
+* [[Stefano Denswil|Denswil]] {{goal|53|o.g.}}
+* [[Thomas Delaney|Delaney]] {{goal|64}}
+* [[Federico Santander|Santander]] {{goal|69}}
+* [[Mathias Jørgensen|Jørgensen]] {{goal|90+2}}
+|goals2=
+|stadium=[[Parken Stadium]], [[Copenhagen]]
+|attendance=25,605<ref name="md02_1" />
+|referee=[[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=Leicester City v Porto
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[Leicester City F.C.|Leicester City]] {{flagicon|ENG}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019303/index.html
+|team2={{flagicon|POR}} [[FC Porto|Porto]]
+|goals1=
+* [[Islam Slimani|Slimani]] {{goal|25}}
+|goals2=
+|stadium=[[King Power Stadium]], [[Leicester]]
+|attendance=31,805<ref name="md02_1" />
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+----
+{{Football box
+|id=Leicester City v Copenhagen
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[Leicester City F.C.|Leicester City]] {{flagicon|ENG}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019318/index.html
+|team2={{flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|goals1=
+* [[Riyad Mahrez|Mahrez]] {{goal|40}}
+|goals2=
+|stadium=[[King Power Stadium]], [[Leicester]]
+|attendance=31,037<ref name="md03_1" />
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Club Brugge v Porto
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[Club Brugge KV|Club Brugge]] {{flagicon|BEL}}
+|score=1–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019319/index.html
+|team2={{flagicon|POR}} [[FC Porto|Porto]]
+|goals1=
+* [[Jelle Vossen|Vossen]] {{goal|12}}
+|goals2=
+* [[Miguel Layún|Layún]] {{goal|68}}
+* [[André Silva (footballer, born 1995)|Silva]] {{goal|90+3|pen.}}
+|stadium=[[Jan Breydel Stadium]], [[Bruges]]
+|attendance=23,325<ref name="md03_1" />
+|referee=[[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Copenhagen v Leicester City
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[F.C. Copenhagen|Copenhagen]] {{flagicon|DEN}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019342/index.html
+|team2={{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|goals1=
+|goals2=
+|stadium=[[Parken Stadium]], [[Copenhagen]]
+|attendance=34,146<ref name="md04_2" />
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Porto v Club Brugge
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[FC Porto|Porto]] {{flagicon|POR}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019343/index.html
+|team2={{flagicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|goals1=
+* [[André Silva (footballer, born 1995)|Silva]] {{goal|37}}
+|goals2=
+|stadium=[[Estádio do Dragão]], [[Porto]]
+|attendance=32,310<ref name="md04_2" />
+|referee=[[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Leicester City v Club Brugge
+|date={{Start date|2016|11|22|df=y}}
+|time=20:45
+|team1=[[Leicester City F.C.|Leicester City]] {{flagicon|ENG}}
+|score=2–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019350/index.html
+|team2={{flagicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|goals1=
+* [[Shinji Okazaki|Okazaki]] {{goal|5}}
+* [[Riyad Mahrez|Mahrez]] {{goal|30|pen.}}
+|goals2=
+* [[José Izquierdo (footballer, born 1992)|Izquierdo]] {{goal|52}}
+|stadium=[[King Power Stadium]], [[Leicester]]
+|attendance=31,443<ref name="md05_1" />
+|referee=[[Ruddy Buquet]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=Copenhagen v Porto
+|date={{Start date|2016|11|22|df=y}}
+|time=20:45
+|team1=[[F.C. Copenhagen|Copenhagen]] {{flagicon|DEN}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019351/index.html
+|team2={{flagicon|POR}} [[FC Porto|Porto]]
+|goals1=
+|goals2=
+|stadium=[[Parken Stadium]], [[Copenhagen]]
+|attendance=32,036<ref name="md05_1" />
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+}}
+----
+{{Football box
+|id=Club Brugge v Copenhagen
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[Club Brugge KV|Club Brugge]] {{flagicon|BEL}}
+|score=0–2
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019374/index.html
+|team2={{flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|goals1=
+|goals2=
+* [[Brandon Mechele|Mechele]] {{goal|8|o.g.}}
+* [[Mathias Jørgensen|Jørgensen]] {{goal|15}}
+|stadium=[[Jan Breydel Stadium]], [[Bruges]]
+|attendance=18,981<ref name="md06_2" />
+|referee=[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Porto v Leicester City
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[FC Porto|Porto]] {{flagicon|POR}}
+|score=5–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019375/index.html
+|team2={{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|goals1=
+* [[André Silva (footballer, born 1995)|Silva]] {{goal|6||64|pen.}}
+* [[Jesús Corona (footballer, born 1993)|Corona]] {{goal|26}}
+* [[Yacine Brahimi|Brahimi]] {{goal|44}}
+* [[Diogo Jota|Jota]] {{goal|77}}
+|goals2=
+|stadium=[[Estádio do Dragão]], [[Porto]]
+|attendance=39,310<ref name="md06_2" />
+|referee=[[Felix Zwayer]] ([[German Football Association|Germany]])
+}}
+
+===Group H===
+{{2016–17 UEFA Champions League Group H table|only_pld_pts=no_hide_class_rules}}
+
+{{Football box
+|id=Lyon v Dinamo Zagreb
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[Olympique Lyonnais|Lyon]] {{flagicon|FRA}}
+|score=3–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019296/index.html
+|team2={{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|goals1=
+* [[Corentin Tolisso|Tolisso]] {{goal|13}}
+* [[Jordan Ferri|Ferri]] {{goal|49}}
+* [[Maxwel Cornet|Cornet]] {{goal|57}}
+|goals2=
+|stadium=[[Parc Olympique Lyonnais]], [[Décines-Charpieu]]
+|attendance=43,754<ref name="md01_2" />
+|referee=[[Martin Strömbergsson]] ([[Swedish Football Association|Sweden]]) 
+}}
+{{Football box
+|id=Juventus v Sevilla
+|date={{Start date|2016|9|14|df=y}}
+|time=20:45
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019297/index.html
+|team2={{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1=
+|goals2=
+|stadium=[[Juventus Stadium]], [[Turin]]
+|attendance=33,261<ref name="md01_2" />
+|referee=[[Deniz Aytekin]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Sevilla v Lyon
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score=1–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019304/index.html
+|team2={{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|goals1=
+* [[Wissam Ben Yedder|Ben Yedder]] {{goal|53}}
+|goals2=
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance=36,741<ref name="md02_1" />
+|referee=[[Bas Nijhuis]] ([[Royal Dutch Football Association|Nethelands]])
+}}
+{{Football box
+|id=Dinamo Zagreb v Juventus
+|date={{Start date|2016|9|27|df=y}}
+|time=20:45
+|team1=[[GNK Dinamo Zagreb|Dinamo Zagreb]] {{flagicon|CRO}}
+|score=0–4
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019305/index.html
+|team2={{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1=
+|goals2=
+* [[Miralem Pjanić|Pjanić]] {{goal|24}}
+* [[Gonzalo Higuaín|Higuaín]] {{goal|31}}
+* [[Paulo Dybala|Dybala]] {{goal|57}}
+* [[Dani Alves]] {{goal|85}}
+|stadium=[[Stadion Maksimir]], [[Zagreb]]
+|attendance=23,875<ref name="md02_1" />
+|referee=[[Jorge Sousa]] ([[Portuguese Football Federation|Portugal]])
+}}
+----
+{{Football box
+|id=Dinamo Zagreb v Sevilla
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[GNK Dinamo Zagreb|Dinamo Zagreb]] {{flagicon|CRO}}
+|score=0–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019320/index.html
+|team2={{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1=
+|goals2=
+* [[Samir Nasri|Nasri]] {{goal|37}}
+|stadium=[[Stadion Maksimir]], [[Zagreb]]
+|attendance=6,021<ref name="md03_1" />
+|referee=[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Lyon v Juventus
+|date={{Start date|2016|10|18|df=y}}
+|time=20:45
+|team1=[[Olympique Lyonnais|Lyon]] {{flagicon|FRA}}
+|score=0–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019321/index.html
+|team2={{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1=
+|goals2=
+* [[Juan Cuadrado|Cuadrado]] {{goal|76}}
+|stadium=[[Parc Olympique Lyonnais]], [[Décines-Charpieu]]
+|attendance=53,907<ref name="md03_1" />
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+----
+{{Football box
+|id=Sevilla v Dinamo Zagreb
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score=4–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019344/index.html
+|team2={{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|goals1=
+* [[Luciano Vietto|Vietto]] {{goal|31}}
+* [[Sergio Escudero (footballer, born 1989)|Escudero]] {{goal|66}}
+* [[Steven Nzonzi|Nzonzi]] {{goal|80}}
+* [[Wissam Ben Yedder|Ben Yedder]] {{goal|87}}
+|goals2=
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance=35,215<ref name="md04_2" />
+|referee=[[Felix Zwayer]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Juventus v Lyon
+|date={{Start date|2016|11|2|df=y}}
+|time=20:45
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=1–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019345/index.html
+|team2={{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|goals1=
+* [[Gonzalo Higuaín|Higuaín]] {{goal|13|pen.}}
+|goals2=
+* [[Corentin Tolisso|Tolisso]] {{goal|85}}
+|stadium=[[Juventus Stadium]], [[Turin]]
+|attendance=40,356<ref name="md04_2" />
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{Football box
+|id=Dinamo Zagreb v Lyon
+|date={{Start date|2016|11|22|df=y}}
+|time=20:45
+|team1=[[GNK Dinamo Zagreb|Dinamo Zagreb]] {{flagicon|CRO}}
+|score=0–1
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019352/index.html
+|team2={{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|goals1=
+|goals2=
+* [[Alexandre Lacazette|Lacazette]] {{goal|72}}
+|stadium=[[Stadion Maksimir]], [[Zagreb]]
+|attendance=7,834<ref name="md05_1" />
+|referee=[[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+}}
+{{Football box
+|id=Sevilla v Juventus
+|date={{Start date|2016|11|22|df=y}}
+|time=20:45
+|team1=[[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score=1–3
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019353/index.html
+|team2={{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1=
+* [[Nicolás Pareja|Pareja]] {{goal|9}}
+|goals2=
+* [[Claudio Marchisio|Marchisio]] {{goal|45+2|pen.}}
+* [[Leonardo Bonucci|Bonucci]] {{goal|84}}
+* [[Mario Mandžukić|Mandžukić]] {{goal|90+4}}
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance=38,942<ref name="md05_1" />
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+}}
+----
+{{Football box
+|id=Lyon v Sevilla
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[Olympique Lyonnais|Lyon]] {{flagicon|FRA}}
+|score=0–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019376/index.html
+|team2={{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1=
+|goals2=
+|stadium=[[Parc Olympique Lyonnais]], [[Décines-Charpieu]]
+|attendance=52,423<ref name="md06_2" />
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}
+{{Football box
+|id=Juventus v Dinamo Zagreb
+|date={{Start date|2016|12|7|df=y}}
+|time=20:45
+|team1=[[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score=2–0
+|report=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019377/index.html
+|team2={{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|goals1=
+* [[Gonzalo Higuaín|Higuaín]] {{goal|52}}
+* [[Daniele Rugani|Rugani]] {{goal|73}}
+|goals2=
+|stadium=[[Juventus Stadium]], [[Turin]]
+|attendance=39,380<ref name="md06_2" />
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+}}
+
+==Notes==
+{{reflist|group="note"}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/season=2017/index.html 2016–17 UEFA Champions League]
+
+{{2016–17 in European football (UEFA)}}
+
+{{DEFAULTSORT:2016-17 Uefa Champions League Group Stage}}
+[[Category:2016–17 UEFA Champions League|*2]]
+[[Category:UEFA Champions League group stages]]

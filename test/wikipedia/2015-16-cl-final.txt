@@ -1,0 +1,606 @@
+{{Infobox football match
+| title                   = 2016 UEFA Champions League Final
+| image                   = [[File:2016 UEFA Champions League Final programme.jpg|frameless]]
+| caption                 = Match programme cover
+| event                   = [[2015–16 UEFA Champions League]]
+| team1                   = [[Real Madrid C.F.|Real Madrid]]
+| team1association        = {{flagicon|ESP|size=30px}} 
+| team1score              = 1
+| team2                   = [[Atlético Madrid]]
+| team2association        = {{flagicon|ESP|size=30px}}
+| team2score              = 1
+| details                 = After [[Overtime (sports)#Association football|extra time]]<br />Real Madrid won 5–3 on [[Penalty shoot-out (association football)|penalties]]
+| date                    = 28 May 2016
+| stadium                 = [[San Siro]]
+| city                    = [[Milan]]
+| man_of_the_match1a      = [[Sergio Ramos]] {{nowrap|(Real Madrid)}}<ref name="motm">{{cite news |title=Spot-on Real Madrid defeat Atlético in final again |url=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000638/match=2015789/postmatch/report/index.html |website=UEFA.com |publisher=Union of European Football Associations |date=28 May 2016 |accessdate=29 May 2016}}</ref>
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee                 = [[Mark Clattenburg]] ([[The Football Association|England]])<ref name="Clattenburg" />
+| attendance              = 71,942<ref name="full_time"/>
+| weather                 = Cloudy<br />{{convert|27|°C|°F|abbr=on}}<br />45% [[humidity]]<ref name="lineups">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015789_lu.pdf |title=Tactical Line-ups – Final – Saturday 28 May 2016 |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=28 May 2016 |access-date=28 May 2016}}</ref>
+| previous                = [[2015 UEFA Champions League Final|2015]]
+| next                    = [[2017 UEFA Champions League Final|2017]]
+}}
+The '''2016 UEFA Champions League Final''' was the final match of the [[2015–16 UEFA Champions League]], the 61st season of Europe's premier club [[association football|football]] tournament organised by [[UEFA]], and the 24th season since it was renamed from the European Champion Clubs' Cup to the [[UEFA Champions League]]. It was played at the [[San Siro]] stadium in [[Milan]], Italy, on 28 May 2016,<ref name="2016 host">{{cite news |title=Milan to host 2016 UEFA Champions League final |url=http://www.uefa.com/uefachampionsleague/news/newsid=2149699.html |website=UEFA.com |publisher=Union of European Football Associations |date=18 September 2014 |accessdate=19 September 2014 }}</ref> between Spanish teams [[Real Madrid C.F.|Real Madrid]] and [[Atlético Madrid]], in a repeat of the [[2014 UEFA Champions League Final|2014 final]]. It was the second time in the tournament's history that both finalists were from the same city. Real Madrid won 5–3 on a penalty shoot-out after a 1–1 draw at the end of extra time, securing a record-extending 11th title in the competition.
+
+Real Madrid earned the right to play against the winners of the [[2015–16 UEFA Europa League]], [[Sevilla FC|Sevilla]], in the [[2016 UEFA Super Cup]]. They also qualified to enter the semi-finals of the [[2016 FIFA Club World Cup]] as the UEFA representative.
+
+==Venue==
+[[File:Scudo2009.jpg|thumb|The San Siro in Milan was selected to host the final in September 2014.]]
+The [[San Siro]], officially known as Stadio Giuseppe Meazza, was announced as the venue of the final at the UEFA Executive Committee meeting in [[Nyon]], Switzerland, on 18 September 2014,<ref name="2016 host"/> the fourth European Cup/Champions League final hosted at the stadium following those in [[1965 European Cup Final|1965]], [[1970 European Cup Final|1970]] and [[2001 UEFA Champions League Final|2001]].
+
+The San Siro was built in 1925, opened in 1926 as the home of [[A.C. Milan|Milan]], and was sold to the city in 1935. [[Inter Milan|Internazionale]] became tenants in 1947, and the stadium has been shared by the two clubs ever since, with Inter winning the first European Cup final played at the stadium in 1965. The stadium was used as a venue in the [[1934 FIFA World Cup]], [[UEFA Euro 1980]], and the [[1990 FIFA World Cup]]. Its current capacity is 80,018, but is reduced to just under 80,000 seats for UEFA competitions.<ref name="2016 host"/>
+
+The 2016 final marked the first time a final has been held at the San Siro when neither of its tenants were able to win the competition, as Milan and Internazionale both failed to qualify for any European competitions after their performance in the [[2014–15 Serie A]].
+
+==Background==
+[[File:Zidane_Zizu.jpg|thumb|upright|Real Madrid manager [[Zinedine Zidane]] won the Champions League while playing for the club in 2002]]
+This final was the sixth tournament final to feature two teams from the same association,<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2225377.html|title=One-nation UEFA Champions League finals|publisher=UEFA.com|date=21 May 2016}}</ref> the third all-Spanish final, and the second between teams from the same city, fielding exactly the two teams that faced each other in the [[2014 UEFA Champions League Final|2014 final]], making it the seventh repeated final pairing.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2360402.html|title=Second time round: European Cup final rematches|publisher=UEFA.com|date=9 May 2016}}</ref> The [[Madrid Derby|all-Madrid final]] also guaranteed the [[Madrid|city of Madrid]] becoming the most successful city in the European Cup with 11 wins and 17 final appearances, and also in all UEFA club competitions with 16 wins, overtaking the [[Milan|city of Milan]] with 10 wins and 16 final appearances in the European Cup and 15 wins in all UEFA club competitions.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2360806.html|title=Madrid to supplant Milan as top footballing city|publisher=UEFA.com|date=6 May 2016}}</ref>
+
+Real Madrid reached a record 14th final after a 1–0 aggregate win against [[Manchester City F.C.|Manchester City]], with a chance to win a [[European Cup and UEFA Champions League records and statistics|record 11th title]].<ref>{{cite web|url=https://www.bbc.com/sport/football/36126021|title=Real Madrid 1–0 Manchester City (agg 1–0)|date=4 May 2016|work=BBC Sport}}</ref> Previously, they won finals in [[1956 European Cup Final|1956]], [[1957 European Cup Final|1957]], [[1958 European Cup Final|1958]], [[1959 European Cup Final|1959]], [[1960 European Cup Final|1960]], [[1966 European Cup Final|1966]], [[1998 UEFA Champions League Final|1998]], [[2000 UEFA Champions League Final|2000]], [[2002 UEFA Champions League Final|2002]], and 2014, and lost in [[1962 European Cup Final|1962]], [[1964 European Cup Final|1964]] and [[1981 European Cup Final|1981]]. This was also their 18th final in all UEFA club competitions, having also played in two [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals (losing in [[1971 European Cup Winners' Cup Final|1971]] and [[1983 European Cup Winners' Cup Final|1983]]) and two [[UEFA Europa League|UEFA Cup]] finals (winning in [[1985 UEFA Cup Final|1985]] and [[1986 UEFA Cup Final|1986]]). Their manager, [[Zinedine Zidane]], who scored the winning goal for Real Madrid in the 2002 final, was aiming to become the seventh man to win the Champions League as both player and manager,<ref name = "seventhman">{{cite web | url=http://www.dailymail.co.uk/sport/football/article-3604455/Zinedine-Zidane-sixth-person-win-Champions-League-player-manager.html?ITO=1490 | title=Zinedine Zidane could become seventh person to win Champions League as player and manager | publisher=Daily Mail Online | accessdate=28 May 2016}}</ref> joining [[Miguel Muñoz]], [[Giovanni Trapattoni]], [[Johan Cruyff]], [[Carlo Ancelotti]], [[Frank Rijkaard]] and [[Pep Guardiola]].<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2249276.html|title=Will Zidane be latest winner as a player and coach?|publisher=UEFA.com|date=22 May 2016}}</ref> The team had had a disastrous first half of the season, being left out of contention to win La Liga, sacking [[Rafael Benitez]] in January and leaving the Champions League to save their season from being trophy-less.
+
+[[Atlético Madrid]] reached their third European Cup final after defeating [[FC Bayern Munich|Bayern Munich]] on away goals (2–2 on aggregate).<ref>{{cite web|url=https://www.bbc.com/sport/football/36126014|title=Bayern Munich 2–1 Atletico Madrid (agg 2–2)|date=3 May 2016|work=BBC Sport}}</ref> Their previous two European Cup finals in [[1974 European Cup Final|1974]] and 2014 both ended in defeats, to Bayern Munich and Real Madrid respectively. Atlético Madrid had also played in three Cup Winners' Cup finals (winning in [[1962 European Cup Winners' Cup Final|1962]], and losing in [[1963 European Cup Winners' Cup Final|1963]] and [[1986 European Cup Winners' Cup Final|1986]]) and two Europa League finals (winning in [[2010 UEFA Europa League Final|2010]] and [[2012 UEFA Europa League Final|2012]]), with their most recent Europa League triumph in 2012 led by current coach [[Diego Simeone]], widely attributed as having brought [[Atlético Madrid]] back to glory, but had yet to win a Champions League. He had the chance to join fellow Argentinians [[Luis Carniglia]] and [[Helenio Herrera]] as the [[List of European Cup and UEFA Champions League winning managers#By nationality|only non-European coaches]] to win the European Cup/Champions League.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2366003.html|title=Atlético coach Simeone eyes exclusive club|publisher=UEFA.com|date=23 May 2016}}</ref> More importantly, Atlético Madrid were seeking revenge for the 2014 final, which they lost 4-1 against [[Real Madrid]] after extra-time. If they would win the Champions League, they would join [[Juventus F.C.|Juventus]], [[AFC Ajax|Ajax]], Bayern Munich and [[Chelsea F.C.|Chelsea]] as clubs [[UEFA club competition records and statistics#List of teams to have won the three main European club competitions|to have won the three main European club competitions]].<ref>{{cite web|url= http://www.uefa.org/printoutfiles/competitions/uefachampionsleague/2016/E/E_2015789_PK.pdf|title=2016 UEFA Champions League Final Press Kit|date=27 May 2016|work=Uefa.com|accessdate=27 May 2016}}</ref> On the other hand, if they were to lose, they would become the first team to lose their first three European Cup finals.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2367757.html|title=Can Atlético make it third time lucky in Milan?|publisher=UEFA.com|date=27 May 2016}}</ref>
+
+Apart from the 2014 final, won by [[Real Madrid]] 4–1 after extra time, the only previous Madrid Derby matches in European competitions were in the [[1958–59 European Cup]] semi-finals, where Real Madrid won 2–1 in a replay, after a 2–2 aggregate draw, and in the [[2014–15 UEFA Champions League]] quarter-finals, where Real Madrid won 1–0 on aggregate.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2360334.html|title=Real Madrid v Atlético in European competition|publisher=UEFA.com|date=4 May 2016}}</ref>
+
+==Road to the final==
+{{details|2015–16 UEFA Champions League}}
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+!Round
+!colspan=4|{{flagicon|ESP}} [[Atlético Madrid]]
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2015–16 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Real Madrid v Shakhtar Donetsk|4–0]] (H)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{flagicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Galatasaray v Atlético Madrid|2–0]] (A)
+|-
+|align=left|{{flagicon|SWE}} [[Malmö FF]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Malmö FF v Real Madrid|2–0]] (A)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Atlético Madrid v Benfica|1–2]] (H)
+|-
+|align=left|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|colspan=3|[[2015-16 UEFA Champions League group stage#Paris Saint-Germain v Real Madrid|0–0]] (A)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{flagicon|KAZ}} [[FC Astana|Astana]]
+|colspan=3|[[2015-16 UEFA Champions League group stage#Atlético Madrid v Astana|4–0]] (H)
+|-
+|align=left|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Real Madrid v Paris Saint-Germain|1–0]] (H)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{flagicon|KAZ}} [[FC Astana|Astana]]
+|colspan=3|[[2015-16 UEFA Champions League group stage#Astana v Atlético Madrid|0–0]] (A)
+|-
+|align=left|{{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Shakhtar Donetsk v Real Madrid|4–3]] (A)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{flagicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Atlético Madrid v Galatasaray|2–0]] (H)
+|-
+|align=left|{{flagicon|SWE}} [[Malmö FF]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Real Madrid v Malmö FF|8–0]] (H)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|colspan=3|[[2015–16 UEFA Champions League group stage#Benfica v Atlético Madrid|2–1]] (A)
+|-
+|colspan=4 valign=top|'''[[2015–16 UEFA Champions League group stage#Group A|Group A]] winners'''
+{{2015–16 UEFA Champions League Group A table|only_pld_pts=yes|show_matches=no|showteam=RM}}
+|style="background:#c1e0ff"|Final standings
+|colspan=4 valign=top|'''[[2015–16 UEFA Champions League group stage#Group C|Group C]] winners'''
+{{2015–16 UEFA Champions League Group C table|only_pld_pts=yes|show_matches=no|showteam=ATL}}
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2015–16 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{flagicon|ITA}} [[A.S. Roma|Roma]]
+|4–0
+|[[2015–16 UEFA Champions League knockout phase#Roma v Real Madrid|2–0]] (A)
+|[[2015–16 UEFA Champions League knockout phase#Real Madrid v Roma|2–0]] (H)
+|style="background:#c1e0ff"|Round of 16
+|align=left|{{flagicon|NED}} [[PSV Eindhoven]]
+|0–0 (8–7 [[Penalty shoot-out (association football)|p]])
+|[[2015–16 UEFA Champions League knockout phase#PSV Eindhoven v Atlético Madrid|0–0]] (A)
+|[[2015–16 UEFA Champions League knockout phase#Atlético Madrid v PSV Eindhoven|0–0]] {{aet}} (H)
+|-
+|align=left|{{flagicon|GER}} [[VfL Wolfsburg|Wolfsburg]]
+|3–2
+|[[2015–16 UEFA Champions League knockout phase#Wolfsburg v Real Madrid|0–2]] (A)
+|[[2015–16 UEFA Champions League knockout phase#Real Madrid v Wolfsburg|3–0]] (H)
+|style="background:#c1e0ff"|Quarter-finals
+|align=left|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|3–2
+|[[2015–16 UEFA Champions League knockout phase#Barcelona v Atlético Madrid|1–2]] (A)
+|[[2015–16 UEFA Champions League knockout phase#Atlético Madrid v Barcelona|2–0]] (H)
+|-
+|align=left|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|1–0
+|[[2015–16 UEFA Champions League knockout phase#Manchester City v Real Madrid|0–0]] (A)
+|[[2015–16 UEFA Champions League knockout phase#Real Madrid v Manchester City|1–0]] (H)
+|style="background:#c1e0ff"|Semi-finals
+|align=left|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|2–2 ([[Away goals rule|a]])
+|[[2015–16 UEFA Champions League knockout phase#Atlético Madrid v Bayern Munich|1–0]] (H)
+|[[2015–16 UEFA Champions League knockout phase#Bayern Munich v Atlético Madrid|1–2]] (A)
+|}
+
+==Pre-match==
+
+===Ambassadors===
+{| class="wikitable" style="text-align:left; float:right; margin-right:9px; margin-left:2px;"
+|-
+| style="text-align:left;"| [[File:Metalist-Inter_(2).jpg|150px]] || style="text-align:left;"| [[File:Paolo Maldini 2009.jpg|180px]]
+|-
+| style="text-align:center;"|[[Javier Zanetti]]
+| style="text-align:center;"|[[Paolo Maldini]]
+|}
+The ambassadors for the final were former Argentine international [[Javier Zanetti]], who won the Champions League with Internazionale against Bayern Munich in [[2010 UEFA Champions League Final|2010]], and former Italian international [[Paolo Maldini]], who won five European Cups with Milan.<ref>{{cite news|title=Final ambassadors: Zanetti v Maldini quiz|url=http://www.uefa.com/uefachampionsleague/news/newsid=2281985.html|publisher=UEFA|date=5 May 2016}}</ref>
+
+===Logo===
+UEFA unveiled the brand identity of the final on 27 August 2015 in [[Monaco]] ahead of the group stage draw. The logo features the Milan landmark [[Galleria Vittorio Emanuele II]].<ref>{{cite news |title=2016 UEFA Champions League final identity launched |url=http://www.uefa.org/about-uefa/administration/marketing/news/newsid=2274925.html |website=UEFA.org |date=27 August 2015 }}</ref>
+
+===Ticketing===
+With a stadium capacity of 71,500, a total amount of 46,000 tickets were available to fans and the general public, with the two finalist teams receiving 20,000 tickets each and with 6,000 tickets being available for sale to fans worldwide via UEFA.com from 1 to 14 March 2016 in four price categories: €440, €320, €160 and €70. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web|url=http://www.uefa.org/mediaservices/newsid=2337164.html|title=2016 UEFA Champions League final ticket sales launch|publisher=UEFA.org|date=1 March 2016}}</ref>
+
+===Opening ceremony===
+American singer [[Alicia Keys]] performed in the opening ceremony prior to the match, the first time it has featured a live music performance.<ref>{{cite web|url=http://www.uefa.org/mediaservices/newsid=2357630.html|title=Alicia Keys to perform at UEFA Champions League final|publisher=UEFA|date=27 April 2016}}</ref> Italian tenor [[Andrea Bocelli]] performed the [[UEFA Champions League Anthem]].<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2367903.html|title=Andrea Bocelli to perform before final|publisher=UEFA.com|date=26 May 2016}}</ref>
+
+===Related events===
+The [[2016 UEFA Women's Champions League Final]] was held two days prior, on 26 May 2016, at the [[Mapei Stadium – Città del Tricolore]] in [[Reggio Emilia]].
+
+The annual UEFA Champions Festival was held between 26–29 May 2016 at Milan's [[Piazza del Duomo, Milan|Piazza del Duomo]].<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2365591.html|title=Where and when: UEFA Champions Festival in Milan|publisher=UEFA.com|date=18 May 2016}}</ref>
+
+==Match==
+
+===Officials===
+English referee [[Mark Clattenburg]] was announced as the final referee by UEFA on 10 May 2016.<ref name="Clattenburg">{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2362976.html|title=Clattenburg to referee Champions League final|publisher=UEFA.com|date=10 May 2016}}</ref>
+
+===Goal-line technology===
+The [[goal-line technology]] system [[Hawk-Eye]] was used for the match. This was the first UEFA Champions League final to employ goal-line technology, following approval by the UEFA Executive Committee in January 2016.<ref>{{cite web|url=https://www.bbc.com/sport/football/35726091|title=Goalline technology to be used in Champions League final|publisher=BBC Sport|date=4 March 2016}}</ref>
+
+===Summary===
+Real Madrid dominated possession in the early stages of the match. Six minutes into the game [[Gareth Bale]] delivered a [[Direct free kick|free-kick]] into Atlético Madrid's penalty box, which found [[Casemiro]]. His goalbound shot was cleared off the line by goalkeeper [[Jan Oblak]]. Five minutes later, [[Dani Carvajal]] received the first yellow card of the match after a late tackle on [[Antoine Griezmann]]. In the 15th minute, [[Toni Kroos]] sent a free-kick into Atlético's penalty box, which was flicked on by Bale. In the subsequent scramble, [[Sergio Ramos]] touched the ball past Oblak to score for Real.<ref>{{cite news|last1=Grez|title=Champions League final 2016: Live|url=http://edition.cnn.com/2016/05/28/football/champions-league-final-2016-live-blog/|accessdate=28 May 2016|work=[[CNN]]|date=28 May 2016}}</ref><ref>{{cite web|title=Real Madrid beat Atletico on penalties to win Champions League|url=http://www.espnfcasia.com/uefa-champions-league/match/447229/real-madrid-atletico-madrid/report|website=ESPNFC.com|accessdate=28 May 2016}}</ref> The goal stood despite video evidence subsequently showing Ramos was in an [[offside (association football)|offside]] position, meaning the goal should have been disallowed.<ref>{{cite web|title=Was Sergio Ramos offside when scoring Real Madrid’s opening Champions League final goal?|url=http://metro.co.uk/2016/05/28/was-sergio-ramos-offside-when-scoring-real-madrids-opening-champions-league-final-goal-5911032/|website=Metro.co.uk|accessdate=31 May 2016}}</ref><ref>{{cite web|title=Real Madrid win Champions League on penalties after offside goal|url=http://www.irishexaminer.com/breakingnews/sport/real-madrid-win-champions-league-on-penalties-after-offside-goal-737548.html|website=irishexaminer.com|accessdate=31 May 2016}}</ref>
+
+In the 46th minute, [[Fernando Torres]] won a [[Penalty kick (association football)|penalty kick]] for Atlético after a foul from behind from [[Pepe (footballer, born 1983)|Pepe]]. Real Madrid goalkeeper [[Keylor Navas]] was shown a yellow card for delaying the kick. Griezmann took the penalty but his shot missed the goal, with the ball ricocheting off the crossbar. Substitute [[Yannick Ferreira Carrasco|Yannick Carrasco]] latched onto a cross by [[Juanfran (footballer, born 1985)|Juanfran]] from the right to equalise from close range for Atlético in the 79th minute. The scoreline remained the same at the end of 90 minutes to send the match into [[Overtime (sports)#Association football|extra time]].<ref>{{citeweb|url= https://www.theguardian.com/football/live/2016/may/28/real-madrid-v-atletico-madrid-champions-league-final-live-san-siro|title=2016 UEFA Champions League Final: as it happened |date=28 May 2016|work=Guardian|accessdate=31 May 2016}}</ref>
+
+After a goalless 30 minutes, the game was settled by a [[Penalty shoot-out (association football)|penalty shoot-out]]. Juanfran missed Atlético's fourth penalty, hitting the post, thus allowing [[Cristiano Ronaldo]] to seal Real Madrid's 11th Champions League title.<ref name=bbcsum>{{cite news|title=Real Madrid beat Atletico Madrid on penalties|url=https://www.bbc.co.uk/sport/live/football/35947318|accessdate=28 May 2016|work=[[BBC Sport]]}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw, which was held on 15 April 2016 at UEFA headquarters in Nyon, Switzerland.<ref name="drawSF_1">{{cite web|title=Draws — Semi-finals |url=http://www.uefa.com/uefachampionsleague/season=2016/draws/round=2000637/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=15 April 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160510145703/http://www.uefa.com/uefachampionsleague/season%3D2016/draws/round%3D2000637/index.html |archivedate=10 May 2016 |df= }}</ref>
+
+<onlyinclude>{{Football box
+|date={{Start date|2016|5|28|df=y}}
+|time={{CEST|20:45}}
+|team1=[[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score=1–1
+|aet=yes
+|report=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000638/match=2015789/index.html#/iv/match/2015789/lineups
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1=[[Sergio Ramos|Ramos]] {{goal|15}}
+|goals2=[[Yannick Ferreira Carrasco|Carrasco]] {{goal|79}}
+|stadium=[[San Siro]], [[Milan]]
+|attendance=71,942<ref name="full_time">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015789_fr.pdf |title=Full Time Report Final – Real Madrid v Atlético Madrid |website=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=28 May 2016 |accessdate=28 May 2016}}</ref>
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+|penalties1=
+*[[Lucas Vázquez|Vázquez]] {{pengoal}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{pengoal}}
+*[[Gareth Bale|Bale]] {{pengoal}}
+*[[Sergio Ramos|Ramos]] {{pengoal}}
+*[[Cristiano Ronaldo|Ronaldo]] {{pengoal}}
+|penaltyscore=5–3
+|penalties2=
+*{{pengoal}} [[Antoine Griezmann|Griezmann]]
+*{{pengoal}} [[Gabi (footballer)|Gabi]]
+*{{pengoal}} [[Saúl Ñíguez|Saúl]]
+*{{penmiss}} [[Juanfran (footballer, born 1985)|Juanfran]]
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _realmadrid1516h
+| pattern_b  = _RealMadrid1516home
+| pattern_ra = _realmadrid1516h
+| pattern_sh = _realmadrid1516h
+| pattern_so = _realmadrid1516h
+| leftarm    = 
+| body       = 
+| rightarm   = 
+| shorts     = 
+| socks      = 
+| title      = {{nowrap|Real Madrid}}<ref name="lineups"/>
+}}
+|{{Football kit
+| pattern_la = _am1516h
+| pattern_b  = _atleti1516h
+| pattern_ra = _am1516h
+| pattern_sh = _am1516h
+| pattern_so = _am1516h
+| leftarm    = FF0000
+| body       = FFFFFF
+| rightarm   = FF0000
+| shorts     = 0000FF
+| socks      = FF0000
+| title      = {{nowrap|Atlético Madrid}}<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]] || {{yel|47}}
+|-
+|RB ||'''15'''||{{flagicon|ESP}} [[Dani Carvajal]] || {{yel|11}} || {{suboff|52}}
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]]) || {{yel|90+3}}
+|-
+|CB ||'''3''' ||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]] || {{yel|112}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|DM ||'''14'''||{{flagicon|BRA}} [[Casemiro]] || {{yel|79}}
+|-
+|RM ||'''19'''||{{flagicon|CRO}} [[Luka Modrić]]
+|-
+|LM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]] || || {{suboff|72}}
+|-
+|RF ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Karim Benzema]] || || {{suboff|77}}
+|-
+|LF ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|DF ||'''23'''||{{flagicon|BRA}} [[Danilo (footballer, born 1991)|Danilo]] || {{yel|93}} || {{subon|52}}
+|-
+|MF ||'''10'''||{{flagicon|COL}} [[James Rodríguez]]
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{subon|77}}
+|-
+|MF ||'''22'''||{{flagicon|ESP}} [[Isco]] || || {{subon|72}}
+|-
+|FW ||'''20'''||{{flagicon|ESP}} [[Jesé]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA}} [[Zinedine Zidane]]
+|}
+|valign="top"|[[File:Real Madrid vs Atlético Madrid 2016-05-28.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|SVN}} [[Jan Oblak]]
+|-
+|RB ||'''20'''||{{flagicon|ESP}} [[Juanfran (footballer, born 1985)|Juanfran]]
+|-
+|CB ||'''15'''||{{flagicon|MNE}} [[Stefan Savić]]
+|-
+|CB ||'''2''' ||{{flagicon|URU}} [[Diego Godín]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Filipe Luís]] || || {{suboff|109}}
+|-
+|RM ||'''17'''||{{flagicon|ESP}} [[Saúl Ñíguez|Saúl]]
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Gabi (footballer)|Gabi]] ([[Captain (association football)|c]]) || {{yel|90+3}}
+|-
+|CM ||'''12'''||{{flagicon|ARG}} [[Augusto Fernández]] || || {{suboff|46}}
+|-
+|LM ||'''6''' ||{{flagicon|ESP}} [[Koke (footballer, born 1992)|Koke]] || || {{suboff|116}}
+|-
+|SS ||'''7''' ||{{flagicon|FRA}} [[Antoine Griezmann]]
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Fernando Torres]] || {{yel|61}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Miguel Ángel Moyà]]
+|-
+|DF ||'''19'''||{{flagicon|FRA}} [[Lucas Hernández|Lucas]] || || {{subon|109}}
+|-
+|DF ||'''24'''||{{flagicon|URU}} [[José Giménez]]
+|-
+|MF ||'''5''' ||{{flagicon|POR}} [[Tiago Mendes|Tiago]]
+|-
+|MF ||'''21'''||{{flagicon|BEL}} [[Yannick Ferreira Carrasco|Yannick Carrasco]] || || {{subon|46}}
+|-
+|MF ||'''22'''||{{flagicon|GHA}} [[Thomas Partey|Thomas]] || || {{subon|116}}
+|-
+|FW ||'''16'''||{{flagicon|ARG}} [[Ángel Correa]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Diego Simeone]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Sergio Ramos]] (Real Madrid)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Clattenburg" />
+<br />Simon Beck ([[The Football Association|England]])
+<br />Jake Collin ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="Clattenburg" />
+<br />[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="Clattenburg" />
+<br />[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+<br />[[Andre Marriner]] ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fifth official|Reserve assistant referee]]:'''<ref name="Clattenburg" />
+<br />Stuart Burt ([[The Football Association|England]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/23/57/51/2235751_DOWNLOAD.pdf|title=Regulations of the UEFA Champions League 2015/16 Season|publisher=UEFA.com|date=1 May 2015}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes, of which up to three may be used.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2016/2015789_ts.pdf |title=Team statistics |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=28 May 2016 |accessdate=28 May 2016}}</ref>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"| Real Madrid
+! scope="col" style="width:70px"| Atlético Madrid
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|5
+|-
+!scope=row|Shots on target
+|2
+|3
+|-
+!scope=row|Saves
+|3
+|1
+|-
+!scope=row|Ball possession
+|48%
+|52%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|6
+|6
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"| Real Madrid
+! scope="col" style="width:70px"| Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|9
+|10
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|45%
+|55%
+|-
+!scope=row|Corner kicks
+|3
+|1
+|-
+!scope=row|Fouls committed
+|8
+|7
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"| Real Madrid
+! scope="col" style="width:70px"| Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|11
+|3
+|-
+!scope=row|Shots on target
+|2
+|0
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|44%
+|56%
+|-
+!scope=row|Corner kicks
+|3
+|4
+|-
+!scope=row|Fouls committed
+|4
+|3
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"| Real Madrid
+! scope="col" style="width:70px"| Atlético Madrid
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|25
+|18
+|-
+!scope=row|Shots on target
+|8
+|4
+|-
+!scope=row|Saves
+|3
+|7
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|7
+|6
+|-
+!scope=row|Fouls committed
+|18
+|16
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|6
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Sergio Ramos desde el balcón de la Presidencia de la Comunidad de Madrid con la Úndecima Copa de Europa.jpg|thumb|Man of the Match winner [[Sergio Ramos]] holding the [[European Champion Clubs' Cup|Champions League trophy]] during celebrations in Madrid.]]
+The match was the eleventh European Cup/Champions League final to be decided by penalty shoot-out. With their win, Real Madrid secured a record-extending eleventh European Cup/Champions League title. This was Real Madrid's 14th appearance in a European Cup/Champions League final. The club has not lost a final since 1981. On the other hand, Atlético Madrid became the only team to lose in their first three final appearances. Juventus and [[FC Barcelona|Barcelona]] had lost during their first two appearances in the final, but won on their third attempts in 1985 and 1992 respectively. Atlético's three losses in European Cup finals ranks them level with Barcelona, and behind only Juventus (six losses), Bayern Munich and [[S.L. Benfica|Benfica]] (five losses each).
+
+Ramos, who scored the opening goal of the match, became the fifth player to score in two Champions League finals. He had not scored in the competition since scoring the equaliser against Atlético Madrid in the 2014 final. Carrasco's second-half equaliser made him the first Belgian to score in a Champions League final.<ref>{{cite web|title=UEFA Champions League 2016 - Real Madrid-Atlético Report – UEFA.com|url=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000638/match=2015789/postmatch/report/index.html#spot+real+madrid+defeat+atletico+final+again|website=Uefa.com|accessdate=29 May 2016|date=28 May 2016}}</ref> Real Madrid coach Zidane became the first French coach to win the Champions League and the seventh person to win the Champions League as a player and as a coach. Muñoz, the first person to achieve the feat, had also done so by winning the title with Real Madrid as a player (in 1956 and 1957) and as a coach (in 1960 and 1966).<ref name = "seventhman"/><ref>{{cite web|title=UEFA Champions League - News – UEFA.com|url=http://www.uefa.com/uefachampionsleague/news/newsid=2249276.html|website=UEFA.com|accessdate=29 May 2016}}</ref>
+
+During the match, fans at an Iraqi Real Madrid fan club were attacked for the second time, bringing the [[Real Madrid fan club massacre|combined death toll]] to at least 29. In the aftermath of the attack, club president [[Florentino Pérez]] dedicated Real Madrid's victory to the fans that were killed and other Iraqi fans of the club, including others who have been killed by the [[Islamic State of Iraq and the Levant]]. Players had previously worn black armbands and observed moment of silence after the first attack.<ref>[http://vestnikkavkaza.net/news/Real-Madrid-s-Florentino-Perez-dedicates-Champions-League-victory-to-Iraqi-fans-killed-by-Daesh.html Real Madrid's Florentino Perez dedicates Champions League victory to Iraqi fans killed by Daesh]</ref>
+
+===Reactions===
+Zidane expressed his pride at being Real Madrid coach and winning the Champions League with the club as a player, as assistant coach and now as head coach. On the result, he said, "Both teams got to the very end – the penalties went our way but could easily have gone the other. Congratulations to Atlético and [Diego] Simeone. He's a great coach, but of course I'm happy with this victory." Simeone congratulated Real Madrid on their victory, saying, "[T]hey were better than us again, this time in the penalty shootout."<ref>{{cite web|title=UEFA Champions League 2016 - Real Madrid-Atlético Quotes – UEFA.com|url=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000638/match=2015789/postmatch/quotes/index.html#zidane+proud+after+real+madrid+penalties|website=Uefa.com|accessdate=29 May 2016}}</ref> When asked if he would continue as the coach of Atlético Madrid, Simeone replied, "My plan is to think. That's all."<ref>{{cite web|title=Atletico Madrid boss Diego Simeone: Real Madrid 'were better than us again'|url=http://www.espnfcasia.com/atletico-madrid/story/2882273/atletico-boss-diego-simeone-says-real-madrid-were-better-than-us-again|website=ESPNFC.com|accessdate=28 May 2016}}</ref>
+
+Ronaldo told the media after the match that he had requested to take the fifth penalty because he "had a vision" that he would score the winning goal. Ronaldo added, "The penalties are always a lottery, you never know what will happen but our team showed more experience and we showed it by scoring all the penalties." Bale said that he was "cramping up", but described the win as an "amazing feeling". He also stated he felt nervous after his penalty, but not while taking it. On defeating their derby rivals, Bale added, "That's the most important thing [beating their rivals]. Obviously they gave us a great game and we're obviously feeling a little bit sorry for them but a final is a final and you have to win."<ref>{{cite web|title=Cristiano Ronaldo: 'I had a vision' I'd score decisive penalty for Real Madrid|url=http://www.espnfcasia.com/uefa-champions-league/story/2882202/cristiano-ronaldo-says-i-had-a-vision-i-would-score-decisive-penalty-for-real-madrid|website=ESPNFC.com|accessdate=28 May 2016}}</ref> [[Luka Modrić]] told the media he was happy and proud of the win, and that the team had shown character until the end. He added, "We deserved to win. I feel sorry for Atlético but I feel glad for ourselves that we won the game. This is Real Madrid's competition. The ''undecima'' ["eleventh"]. This trophy belongs to Real Madrid, it's why it's the best club in the world."<ref>{{cite web|title=Luka Modric admits he "feels sorry" for Atletico Madrid after defeat|url=http://www.sport-english.com/en/news/liga-bbva/luka-modric-admits-feels-sorry-for-atletico-madrid-after-defeat-5165972|website=Mirror.co.uk|accessdate=29 May 2016|date=28 May 2016}}</ref>
+
+==See also==
+{{Portal|Association football|Milan}}
+*[[2016 UEFA Europa League Final]]
+*[[2016 UEFA Super Cup]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/season=2016/index.html 2015–16 UEFA Champions League]
+*[http://www.uefa.com/uefachampionsleague/season=2016/final/index.html 2016 final: Milan]
+
+{{UEFA Champions League seasons}}
+{{2015–16 in European football (UEFA)}}
+{{Real Madrid C.F. matches}}
+{{Atlético Madrid matches}}
+
+{{DEFAULTSORT:Uefa Champions League Final 2016}}
+[[Category:UEFA Champions League Finals|2016]]
+[[Category:2015–16 UEFA Champions League|Final]]
+[[Category:2015–16 in Italian football|Champions League Final]]
+[[Category:Football in Milan|European Cup Final 2016]]
+[[Category:International club association football competitions hosted by Italy|European Cup Final 2016]]
+[[Category:Real Madrid C.F. matches|European Cup Final 2016]]
+[[Category:Atlético Madrid matches|European Cup Final 2016]]
+[[Category:2015–16 in Spanish football|Champions League Final]]
+[[Category:May 2016 sports events in Europe]]
+[[Category:2010s in Milan]]
+[[Category:Sports competitions in Milan]]

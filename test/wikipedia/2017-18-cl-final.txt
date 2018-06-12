@@ -1,0 +1,566 @@
+{{Use dmy dates|date=June 2018}}
+{{Infobox football match
+| title              = 2018 UEFA Champions League Final
+| image              = Kyiv-final-programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = [[2017–18 UEFA Champions League]]
+| team1              = [[Real Madrid C.F.|Real Madrid]]
+| team1association   = {{flagicon|ESP|size=30px}}
+| team1score         = 3
+| team2              = [[Liverpool F.C.|Liverpool]]
+| team2association   = {{flagicon|ENG|size=30px}}
+| team2score         = 1
+| details            =
+| date               = {{Start date|2018|5|26|df=y}}
+| stadium            = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]]
+| city               = [[Kiev]]
+| man_of_the_match1a = [[Gareth Bale]] {{nowrap|(Real Madrid)}}<ref name="motm">{{cite news |url=http://www.uefa.com/uefachampionsleague/news/newsid=2560089.html |title=Bale named Champions League final man of the match |website=UEFA.com |publisher=Union of European Football Associations |date=26 May 2018 |access-date=26 May 2018}}</ref>
+| referee            = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])<ref name="officials"/>
+| attendance         = 61,561<ref name="full_time"/>
+| weather            = Sunny<br />{{convert|20|°C|°F|abbr=on}}<br />37% [[humidity]]<ref name="lineups"/>
+| previous           = [[2017 UEFA Champions League Final|2017]]
+| next               = ''[[2019 UEFA Champions League Final|2019]]''
+}}
+The '''2018 UEFA Champions League Final''' was the final match of the [[2017–18 UEFA Champions League]], the 63rd season of Europe's premier club football tournament organised by [[UEFA]], and the 26th season since it was renamed from the European Cup to the [[UEFA Champions League]]. It was played at the [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]] in [[Kiev]], Ukraine on 26 May 2018,<ref name="host">{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2397994.html |title=Kyiv to host 2018 Champions League final |website=UEFA.com |publisher=Union of European Football Associations |date=15 September 2016 |access-date=15 September 2016}}</ref> between [[Royal Spanish Football Federation|Spanish]] side and defending champions [[Real Madrid C.F.|Real Madrid]], who had won the competition in each of the last two seasons, and [[The Football Association|English]] side [[Liverpool F.C.|Liverpool]].<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2552424.html|title=All you need to know about the Champions League final|website=UEFA.com |publisher=Union of European Football Associations |date=2 May 2018}}</ref><ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2554688.html|title=Madrid v Liverpool: meet the Champions League finalists|website=UEFA.com |publisher=Union of European Football Associations |date=2 May 2018}}</ref>
+
+Real Madrid won the final 3–1 for their third consecutive and 13th overall Champions League title, becoming the first team to achieve three back-to-back titles since [[1975–76 FC Bayern Munich season|Bayern Munich]] defeated [[AS Saint-Étienne|Saint-Étienne]] in the [[1976 European Cup Final]]; it was additionally their fourth title in five seasons. They also earned the right to play the winners of the [[2017–18 UEFA Europa League]], [[Atlético Madrid]], in the [[2018 UEFA Super Cup]] and to enter the semi-finals of the [[2018 FIFA Club World Cup]]. They also qualified to enter the group stage of the [[2018–19 UEFA Champions League]],<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2398899.html|title=Evolution of UEFA club competitions from 2018|website=UEFA.com |publisher=Union of European Football Associations |date=26 August 2016}}</ref> but since they already qualified through their league performance, the berth reserved was given to the champions of the [[2017–18 Czech First League]], the 11th-ranked association according to next season's access list.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2528730.html|title=Who is in the 2018/19 Champions League group stage?|website=UEFA.com |publisher=Union of European Football Associations |date=26 May 2018}}</ref>
+
+==Teams==
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|15 ('''[[1956 European Cup Final|1956]]''', '''[[1957 European Cup Final|1957]]''', '''[[1958 European Cup Final|1958]]''', '''[[1959 European Cup Final|1959]]''', '''[[1960 European Cup Final|1960]]''', [[1962 European Cup Final|1962]], [[1964 European Cup Final|1964]], '''[[1966 European Cup Final|1966]]''', [[1981 European Cup Final|1981]], '''[[1998 UEFA Champions League Final|1998]]''', '''[[2000 UEFA Champions League Final|2000]]''', '''[[2002 UEFA Champions League Final|2002]]''', '''[[2014 UEFA Champions League Final|2014]]''', '''[[2016 UEFA Champions League Final|2016]]''', '''[[2017 UEFA Champions League Final|2017]]''')
+|-
+|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|7 ('''[[1977 European Cup Final|1977]]''', '''[[1978 European Cup Final|1978]]''', '''[[1981 European Cup Final|1981]]''', '''[[1984 European Cup Final|1984]]''', [[1985 European Cup Final|1985]], '''[[2005 UEFA Champions League Final|2005]]''', [[2007 UEFA Champions League Final|2007]])
+|}
+
+==Venue==
+[[File:Kyiv NSC Olimpiyskyi 6.jpg|thumb|275|left|The [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]] in [[Kiev]] hosted the final]]
+The [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]] was announced as the final venue on 15 September 2016, following the decision of the UEFA Executive Committee meeting in [[Athens]], Greece.<ref name="host"/> This was the sixth European Cup/Champions League final hosted at an [[Eastern Europe]]an venue following those in [[1973 European Cup Final|1973]] in [[Belgrade]],<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=1972/overview/index.html |title=1972–73 season |website=UEFA.com |publisher=Union of European Football Associations |date=2 May 2018 |access-date=2 May 2018}}</ref> [[Yugoslavia]], the [[1983 European Cup Final|1983]], [[1994 European Cup Final|1994]] and [[2007 UEFA Champions League Final|2007]] finals hosted by [[Athens]],<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=1983/overview/index.html |title=1982–83 season |website=UEFA.com |publisher=Union of European Football Associations |date=2 May 2018 |access-date=2 May 2018}}</ref><ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=1994/overview/index.html |title=1993–94 season |website=UEFA.com |publisher=Union of European Football Associations |date=2 May 2018 |access-date=2 May 2018}}</ref><ref>{{cite news |first=Michael |last=Harrold |title=Inzaghi inspires Milan to glory |url=http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2361/match=300099/postmatch/report/index.html |work=UEFA.com |publisher=Union of European Football Associations |date=24 May 2007 |access-date=2 May 2018 }}</ref> [[Greece]] as well as the [[2008 UEFA Champions League Final|2008 final]] in [[Moscow]], [[Russia]].<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/history/season=2008/?iv=true |title=2007–08 season |website=UEFA.com |publisher=Union of European Football Associations |date=2 May 2018 |access-date=2 May 2018}}</ref>
+
+The Olimpiyskiy Stadium was built in 1923 and it has been renovated three times, most recently in 2011 in preparation for the [[UEFA Euro 2012]] tournament.<ref>{{cite news|title=Kyiv opens host stadium for Euro 2012 final|url=http://www.kyivpost.com/news/city/detail/114397/|publisher=[[Kyiv Post]]|date=9 October 2011 |access-date=2 May 2018}}</ref> The stadium was used as a venue in the [[1980 Summer Olympics]] for its [[Football at the 1980 Summer Olympics|football]] event and the aforementioned European Championship,<ref>{{cite web|title=FIFA Technical Report – 1980 Olympics Football Tournament|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/05/10/oft_80_tr_167.pdf|publisher=FIFA|access-date=2 May 2018|date=1980}}</ref> including the [[UEFA Euro 2012 Final|final match]], which saw [[Spain national football team|Spain]] beat [[Italian national football team|Italy]] by the record-breaking score of 4–0 on the way to their third title.<ref>{{cite web |url=https://www.theguardian.com/football/2012/jul/01/euro-2012-spain-italy-final |title= Spain 4 Italy 0 Match Report |date= 1 July 2012 |work=Guardian UK |access-date=2 May 2018 }}</ref> Its current capacity is 70,050 and it is used by the [[Ukraine national football team]], [[FC Dynamo Kyiv|Dynamo Kyiv]], and major domestic matches like the [[Ukrainian Cup]].<ref>{{cite web |title=Facts & Figures |publisher=NSC Olimpiyskiy Stadium |url=http://nsc-olimpiyskiy.com.ua/en/stadium/facts |deadurl=yes |archiveurl=https://web.archive.org/web/20120712221406/http://nsc-olimpiyskiy.com.ua/en/stadium/facts |archivedate=12 July 2012 |accessdate=26 May 2018}}</ref><ref>{{cite web |title=2018 UEFA Champions League final: Guide to Kyiv |url=http://www.uefa.com/uefachampionsleague/season=2018/final/index.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=26 May 2018}}</ref>
+
+==Background==
+Defending champions [[Real Madrid C.F.|Real Madrid]] reached a record 16th final after a 4–3 aggregate win against [[Bundesliga|German]] side [[FC Bayern Munich|Bayern Munich]], knocking them out of the competition for the second consecutive season. This was Real Madrid's third consecutive final, and fourth final in five tournaments with an opportunity to win a [[European Cup and UEFA Champions League records and statistics|record 13th title]]. Previously they won finals in [[1956 European Cup Final|1956]], [[1957 European Cup Final|1957]], [[1958 European Cup Final|1958]], [[1959 European Cup Final|1959]], [[1960 European Cup Final|1960]], [[1966 European Cup Final|1966]], [[1998 UEFA Champions League Final|1998]], [[2000 UEFA Champions League Final|2000]], [[2002 UEFA Champions League Final|2002]], [[2014 UEFA Champions League Final|2014]], [[2016 UEFA Champions League Final|2016]] and [[2017 UEFA Champions League Final|2017]]; and lost in [[1962 European Cup Final|1962]], [[1964 European Cup Final|1964]] and [[1981 European Cup Final|1981]]. This was also their 20th final in all seasonal UEFA competitions, having also played in two [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals (losing in [[1971 European Cup Winners' Cup Final|1971]] and [[1983 European Cup Winners' Cup Final|1983]]) and two [[UEFA Europa League|UEFA Cup]] finals (winning in [[1985 UEFA Cup Final|1985]] and [[1986 UEFA Cup Final|1986]]). Real Madrid are only the third team since the competition's rebranding as the Champions League to reach three consecutive finals after [[A.C. Milan|Milan]] in [[1995 UEFA Champions League Final|1995]] and [[Juventus F.C.|Juventus]] in [[1998 UEFA Champions League Final|1998]]. They are the first team in the Champions League era, and the fourth overall, to win three straight finals, a feat only achieved by the Real Madrid side of the 1950s, as they went on to win a record five successive finals, as well as the [[AFC Ajax|Ajax]] and [[FC Bayern Munich|Bayern Munich]] squads of the 1970s in [[1973 European Cup Final|1973]] and [[1976 European Cup Final|1976]], respectively.<ref>{{cite web|last=Saffer|first=Paul|url=http://www.uefa.com/uefachampionsleague/news/newsid=2554889.html|title=Three in a row: Real Madrid making final history|website=UEFA.com |publisher=Union of European Football Associations |date=1 May 2018}}</ref>
+
+[[Liverpool F.C.|Liverpool]] reached their eighth final, their first since [[2007 UEFA Champions League Final|2007]], after a 7–6 aggregate win against [[Serie A|Italian]] side [[A.S. Roma|Roma]].<ref>{{cite news |last=Grez |first=Matias |date=2 May 2018 |title=Liverpool see off spirited Roma to reach Champions League final |url=https://www.cnn.com/2018/05/02/football/roma-liverpool-champions-league-mo-salah/index.html |publisher=[[CNN]] |accessdate=26 May 2018}}</ref> They have won the final on five occasions ([[1977 European Cup Final|1977]], [[1978 European Cup Final|1978]], [[1981 European Cup Final|1981]], [[1984 European Cup Final|1984]] and [[2005 UEFA Champions League Final|2005]]), and have lost twice ([[1985 European Cup Final|1985]] and [[2007 UEFA Champions League Final|2007]]). This was also their 13th final in UEFA seasonal competitions, having played in one [[UEFA Cup Winners' Cup|Cup Winners' Cup]] final (losing in [[1966 European Cup Winners' Cup Final|1966]]) and four [[UEFA Europa League|UEFA Cup/Europa League]] finals (winning in [[1973 UEFA Cup Final|1973]], [[1976 UEFA Cup Final|1976]] and [[2001 UEFA Cup Final|2001]]; and losing in [[2016 UEFA Europa League Final|2016]]).<ref>{{cite web |date=2 June 2017 |title=Club facts: Liverpool |url=https://www.uefa.com/uefachampionsleague/news/newsid=854367.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=26 May 2018}}</ref> Liverpool were the first team since [[FC Bayern Munich|Bayern Munich]] in [[2011–12 UEFA Champions League|2011–12]] to reach the final having qualified for the competition through the [[2017-18 UEFA Champions League qualifying phase and play-off round|play-off round]]. This was also the most recent occasion the final featured an English team ([[Chelsea F.C.|Chelsea]]).<ref>{{cite news |last=Johnston |first=Neil |date=2 May 2018 |title=Roma 4-2 Liverpool |url=https://www.bbc.com/sport/football/43900126 |publisher=[[BBC Sport]] |accessdate=26 May 2018}}</ref> Liverpool were the most recent team to defeat Real Madrid in a European Cup Final, winning 1–0 in Paris in [[1981 European Cup Final|1981]].<ref>{{cite news |last=Corrigan |first=Dermot |date=25 May 2018 |title=Champions League final repeat of 1981 shows tables have turned at Madrid, Liverpool |url=http://kwese.espn.com/football/uefa-champions-league/775/blog/post/3509045/champions-league-final-repeat-of-1981-shows-tables-have-turned-at-madrid-liverpool |publisher=[[ESPN]] |accessdate=26 May 2018}}</ref>
+
+Besides the 1981 final, the two teams have played each other four times in the Champions League era. Liverpool won both matches in the [[2008–09 UEFA Champions League]] round of 16, while Real Madrid won both matches in the [[2014–15 UEFA Champions League]] group stage.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2555198.html|title=Real Madrid v Liverpool: detailed head-to-head|website=UEFA.com |publisher=Union of European Football Associations |date=3 May 2018}}</ref>
+
+==Road to the final==
+{{Details|2017–18 UEFA Champions League}}
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+!Round
+!colspan="4"|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|-
+|colspan="4" rowspan="2"|Bye
+|style="background:#C1E0FF"|[[2017–18 UEFA Champions League qualifying phase and play-off round|Qualifying phase]]
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|-
+|style="background:#C1E0FF"|Play-off round
+|align="left"|{{flagicon|GER}} [[TSG 1899 Hoffenheim|1899 Hoffenheim]]
+|6–3
+|[[2017–18 UEFA Champions League qualifying phase and play-off round#1899 Hoffenheim v Liverpool|2–1]] (A)
+|[[2017–18 UEFA Champions League qualifying phase and play-off round#Liverpool v 1899 Hoffenheim|4–2]] (H)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2017–18 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|align="left"|{{flagicon|CYP}} [[APOEL FC|APOEL]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Real Madrid v APOEL|3–0]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|align="left"|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Liverpool v Sevilla|2–2]] (H)
+|-
+|align="left"|{{flagicon|GER}} [[Borussia Dortmund]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Borussia Dortmund v Real Madrid|3–1]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|align="left"|{{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Spartak Moscow v Liverpool|1–1]] (A)
+|-
+|align="left"|{{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Real Madrid v Tottenham Hotspur|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|align="left"|{{flagicon|SVN}} [[NK Maribor|Maribor]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Maribor v Liverpool|7–0]] (A)
+|-
+|align="left"|{{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Tottenham Hotspur v Real Madrid|1–3]] (A)
+|style="background:#C1E0FF"|Matchday 4
+|align="left"|{{flagicon|SVN}} [[NK Maribor|Maribor]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Liverpool v Maribor|3–0]] (H)
+|-
+|align="left"|{{flagicon|CYP}} [[APOEL FC|APOEL]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#APOEL v Real Madrid|6–0]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|align="left"|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Sevilla v Liverpool|3–3]] (A)
+|-
+|align="left"|{{flagicon|GER}} [[Borussia Dortmund]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Real Madrid v Borussia Dortmund|3–2]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|align="left"|{{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Liverpool v Spartak Moscow|7–0]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2017–18 UEFA Champions League group stage#Group H|Group H]] runners-up'''
+<center>{{2017–18 UEFA Champions League Group H table|only_pld_pts=yes|show_matches=no|showteam=RM}}</center>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2017–18 UEFA Champions League group stage#Group E|Group E]] winners'''
+<center>{{2017–18 UEFA Champions League Group E table|only_pld_pts=yes|show_matches=no|showteam=LIV}}</center>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2017–18 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align="left"|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|5–2
+|[[2017–18 UEFA Champions League knockout phase#Real Madrid v Paris Saint-Germain|3–1]] (H)
+|[[2017–18 UEFA Champions League knockout phase#Paris Saint-Germain v Real Madrid|2–1]] (A)
+|style="background:#C1E0FF"|Round of 16
+|align="left"|{{flagicon|POR}} [[FC Porto|Porto]]
+|5–0
+|[[2017–18 UEFA Champions League knockout phase#Porto v Liverpool|5–0]] (A)
+|[[2017–18 UEFA Champions League knockout phase#Liverpool v Porto|0–0]] (H)
+|-
+|align="left"|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|4–3
+|[[2017–18 UEFA Champions League knockout phase#Juventus v Real Madrid|3–0]] (A)
+|[[2017–18 UEFA Champions League knockout phase#Real Madrid v Juventus|1–3]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|align="left"|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|5–1
+|[[2017–18 UEFA Champions League knockout phase#Liverpool v Manchester City|3–0]] (H)
+|[[2017–18 UEFA Champions League knockout phase#Manchester City v Liverpool|2–1]] (A)
+|-
+|align="left"|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|4–3
+|[[2017–18 UEFA Champions League knockout phase#Bayern Munich v Real Madrid|2–1]] (A)
+|[[2017–18 UEFA Champions League knockout phase#Real Madrid v Bayern Munich|2–2]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|align="left"|{{flagicon|ITA}} [[A.S. Roma|Roma]]
+|7–6
+|[[2017–18 UEFA Champions League knockout phase#Liverpool v Roma|5–2]] (H)
+|[[2017–18 UEFA Champions League knockout phase#Roma v Liverpool|2–4]] (A)
+|}
+
+==Pre-match==
+===Ambassador===
+[[File:Andriy Shevchenko 2015.jpg|thumb|upright|[[Andriy Shevchenko]] was named as the ambassador for the final.]]
+The ambassador for the final was former Ukrainian international [[Andriy Shevchenko]], who won the UEFA Champions League with [[A.C. Milan|Milan]] in [[2003 UEFA Champions League Final|2003]].<ref>{{cite news|title=All you need to know about the Champions League final|url=https://www.uefa.com/uefachampionsleague/news/newsid=2552424.html|access-date=3 May 2018|website=UEFA.com |publisher=Union of European Football Associations |date=2 May 2018}}</ref>
+
+===Ticketing===
+With a stadium capacity of 63,000 for the final, a total of 40,700 tickets are available to fans and the general public, with the two finalist teams receiving 17,000 tickets each and with 6,700 tickets being available for sale to fans worldwide via UEFA.com from 15 to 22 March 2018 in four price categories: €450, €320, €160, and €70. The remaining tickets are allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2544280.html |title=UEFA Champions League final ticket application window |website=UEFA.com |publisher=Union of European Football Associations |date=12 March 2018}}</ref><ref>{{cite web|url=https://www.uefa.com/insideuefa/mediaservices/newsid=2544816.html|title=2018 UEFA Champions League final ticket sales launched|website=UEFA.com |publisher=Union of European Football Associations |date=16 March 2018}}</ref>
+
+===Opening ceremony===
+English singer [[Dua Lipa]] performed at the opening ceremony preceding the final.<ref>{{cite news|title=Dua Lipa to Perform at UEFA Champions League Opening Ceremony: 'There'll Be a Whole Lot of Girl Power'|url=https://www.billboard.com/articles/columns/pop/8455039/dua-lipa-performing-uefa-champions-league-opening-ceremony-soccer|work=Billboard|date=13 May 2018}}</ref> Jamaican rapper [[Sean Paul]] joined her as a special guest to perform their collaborative song, "[[No Lie (Sean Paul song)|No Lie]]".<ref>{{Cite web|url=http://www.loopjamaica.com/content/sean-paul-returns-stage-after-fathers-death|title=Sean Paul returns to stage after father’s death|website=www.loopjamaica.com|language=en|access-date=29 May 2018}}</ref> 
+
+{{Hidden|content=# "[[One Kiss (song)|One Kiss]]"
+# "[[No Lie (Sean Paul song)|No Lie]]" <small>(with [[Sean Paul]])</small>
+# "[[Be the One (Dua Lipa song)|Be the One]]"
+# "[[IDGAF (Dua Lipa song)|IDGAF]]"
+# "[[New Rules (song)|New Rules]]"|contentcss=text-align: left; font-size: 100%; width: 75%;|header=Dua Lipa 2018 UEFA Champions League Final Opening Ceremony Setlist|headercss=background: #ccccff; font-size: 100%; width: 65%;}}
+
+===Related events===
+The [[2018 UEFA Women's Champions League Final]] was held two days earlier, on 24 May 2018, at the [[Valeriy Lobanovskyi Dynamo Stadium]] between [[VfL Wolfsburg (women)|Wolfsburg]] and [[Olympique Lyonnais Féminin|Lyon]], Lyon emerging victorious 4–1.<ref>{{cite news|url=https://www.theguardian.com/football/2018/may/24/wolfsburg-lyon-womens-champions-league-final-match-report|title=Lyon sweep to Women's Champions League win over 10-player Wolfsburg|work=The Guardian|last=Wrack|first=Suzanne|date=24 May 2018}}</ref> This was also the last time that the host city for the men's Champions League final was also automatically assigned the Women's Champions League final.<ref>{{cite news |date=24 May 2018 |title=Lyon beats Wolfsburg 4-1 to win Women's Champions League |url=http://www.stltoday.com/sports/lyon-beats-wolfsburg---to-win-women-s-champions/article_8c91c685-4598-519e-a84b-24388ae7a1ef.html |work=[[St. Louis Post-Dispatch]] |agency=[[Associated Press]] |accessdate=26 May 2018}}</ref>
+
+The annual UEFA Champions Festival was held between 24–27 May 2018 at the Kiev city centre.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2556034.html|title=UEFA Champions Festival in Kyiv during final week|website=UEFA.com |publisher=Union of European Football Associations |date=17 May 2018}}</ref>
+
+===Incidents===
+In late May, ''[[The New York Times]]'' reported that some fans with allocated tickets had returned them after having trouble finding flights to and accommodation in Kiev. Locals in Kiev began offering free accommodation for fans affected by cancelled hotel and apartment arrangements.<ref>{{cite news |last=Smith |first=Rory |date=20 May 2018 |title=Why Was My Room Canceled? A Final Overwhelms Kiev. |page=D1 |url=https://www.nytimes.com/2018/05/21/sports/soccer/champions-league-liverpool-real-madrid.html |work=[[The New York Times]] |access-date=22 May 2018}}</ref> Several [[charter flights]] arranged for Liverpool fans were cancelled, leaving fans with tickets stranded and leading to an unsuccessful search for alternative solutions by the club and city government.<ref>{{cite news |date=26 May 2018 |title=Champions League final: Fans gather in Kiev after flight cancellations |url=http://www.bbc.com/news/uk-england-merseyside-44258337 |publisher=BBC |accessdate=26 May 2018}}</ref><ref>{{cite news |date=26 May 2018 |title=Liverpool mayor 'gutted' after Kiev flights cancelled |url=https://news.sky.com/story/liverpool-mayor-joe-anderson-speaks-to-kievs-vitali-klitschko-after-fans-flights-cancelled-11385466 |publisher=[[Sky News]] |accessdate=26 May 2018}}</ref> Other airlines offered flights to Kiev from airports in Liverpool and Manchester, using assigned slots at Kiev's airports.<ref>{{cite news |last=Calder |first=Simon |date=25 May 2018 |title=Champions League final 2018: What went wrong with cancelled flights to Kiev? |url=https://www.independent.co.uk/travel/news-and-advice/champions-league-final-2018-flights-cancelled-real-madrid-vs-liverpool-plane-kiev-uefa-a8369711.html |work=The Independent |accessdate=26 May 2018}}</ref>
+
+On 24 May, a group of Liverpool fans were attacked in a restaurant by 20 masked hooligans.<ref>{{cite web|url=https://www.mirror.co.uk/news/world-news/breaking-masked-hooligans-attack-liverpool-12592718|title=Masked hooligans attack Liverpool fans like a 'pack of dogs' in horrifying ambush ahead of Champions League final in Kiev|publisher=Mirror.co.uk|date=24 May 2018}}</ref>
+
+==Match==
+===Officials===
+On 7 May 2018, UEFA announced that Serbian [[Milorad Mažić]] would officiate the final. Mažić has been a [[FIFA International Referees List|FIFA referee]] since 2009, and gained UEFA's elite referee status in 2013. He was joined by his fellow countrymen, with Milovan Ristić and Dalibor Đurdević as assistant referees, Nenad Đokić and Danilo Grujić as additional assistant referees, and Nemanja Petrović as reserve assistant referee. The fourth official for the final was Frenchman [[Clément Turpin]].<ref name="officials">{{cite news |url=http://www.uefa.com/uefachampionsleague/news/newsid=2557978.html |title=Milorad Mažić to referee Champions League final |website=UEFA.com |publisher=Union of European Football Associations |date=7 May 2018 |access-date=7 May 2018}}</ref>
+
+===Summary===
+[[File:Gareth Bale 2015 (9).jpg|thumb|upright|right|[[Gareth Bale]] entered the match as a substitute in the 61st minute and scored two goals for Madrid]]
+
+The match began with Liverpool's kickoff and the team's successive attacks to counter Madrid's slower, possession-based buildup. In the 23rd minute, a low shot by [[Trent Alexander-Arnold]] went through a defender's legs and forced a late save by [[Keylor Navas]]. Two minutes later, Liverpool forward [[Mohamed Salah]] was injured competing for the ball with [[Sergio Ramos]], who had locked Salah's arm resulting in a fall.<ref name="Guardian">{{cite news |last=Taylor |first=Daniel |date=26 May 2018 |title=Real Madrid win Champions League as brilliant Bale sinks Liverpool |url=https://www.theguardian.com/football/2018/may/26/real-madrid-liverpool-champions-league-final-match-report |work=The Guardian |accessdate=26 May 2018 |quote=Ramos had locked Salah’s right arm and turned him, judo-style, as they lost balance going for the same ball. }}</ref><ref>{{cite news |date=26 May 2018 |title=Salah and Karius mark dark night for Reds |url=https://theworldgame.sbs.com.au/salah-and-karius-mark-dark-night-for-reds |publisher=[[Special Broadcasting Service|SBS]] |accessdate=26 May 2018 |quote=They jeered Madrid captain Ramos, who appeared to have had Salah in an armlock as they fell to the ground }}</ref> Due to a [[dislocated shoulder]], Salah was substituted four minutes later for [[Adam Lallana]].<ref name="Guardian-Live">{{cite news |last=Smyth |first=Rob |date=26 May 2018 |title=Real Madrid v Liverpool: Champions League final 2018 – live! |url=https://www.theguardian.com/football/live/2018/may/26/real-madrid-v-liverpool-champions-league-final-2018-live |work=The Guardian |accessdate=26 May 2018}}</ref> Madrid's [[Dani Carvajal]] was substituted in the 37th minute with a [[hamstring]] injury after an attempted [[backheel]].<ref>{{cite news |last=Price |first=Glenn |date=26 May 2018 |title=Liverpool's Mohamed Salah, Real Madrid's Dani Carvajal injured in Champions League final |url=http://www.espn.com/soccer/liverpool/story/3510388/liverpools-mohamed-salah-and-real-madrids-dani-carvajal-injured-in-champions-league-final |publisher=ESPN |accessdate=26 May 2018}}</ref> Minutes later, [[Karim Benzema]]'s goal was disallowed after he was determined to be offside while finishing a shot started by [[Cristiano Ronaldo]]'s header. The first half ended scoreless, with Madrid dominating possession but Liverpool having more chances to score.<ref name="Guardian"/><ref name="Guardian-Live"/>
+
+The second half began with a shot by [[Isco]], who hit the crossbar. In the 51st minute, Benzema scored the match's first goal by deflecting a throw by Liverpool goalkeeper [[Loris Karius]]. Liverpool equalised four minutes later on a tap-in by [[Sadio Mané]], who finished a header by [[Dejan Lovren]] during a corner kick.<ref name="BBC">{{cite news |last=McNulty |first=Phil |date=26 May 2018 |title=Real Madrid 3-1 Liverpool |url=https://www.bbc.com/sport/football/44258022 |publisher=BBC Sport |accessdate=26 May 2018}}</ref> [[Gareth Bale]] was substituted in for Isco in the 61st minute and scored Madrid's second goal two minutes later, using an acrobatic [[bicycle kick]] to finish a cross by [[Marcelo (footballer, born 1988)|Marcelo]].<ref name="NYT">{{cite news |last1=Smith |first1=Rory |last2=Das |first2=Andrew |date=26 May 2018 |title=Real Madrid Beats Liverpool in Champions League Final on a Wonder and Two Blunders |url=https://www.nytimes.com/2018/05/26/sports/champions-league-real-madrid-liverpool.html |work=The New York Times |accessdate=26 May 2018}}</ref> Liverpool pressed for a second equalising goal, with a shot by Mané that hit the goal post and calls for a [[penalty kick (association football)|penalty]] for an alleged [[handball]], but were also losing possession to Madrid. Ronaldo had a chance to score his first goal of the match during a counterattack in the 73rd minute, but was tackled by Liverpool defender [[Andrew Robertson (footballer)|Andrew Robertson]] in the penalty box. Bale scored his second goal of the match in the 83rd minute on a {{convert|40|yd|adj=mid}} shot that was mishandled by Karius. A second chance on goal for Ronaldo in the 93rd minute of play was interrupted by a [[pitch invasion|pitch invader]], who was captured by stadium stewards.<ref name="Guardian"/><ref name="Guardian-Live"/>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw, which was held on 13 April 2018, 13:00 [[Central European Summer Time|CEST]], at the UEFA headquarters in [[Nyon]], Switzerland.<ref name="drawSF">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2018/draws/round=2000884/index.html|title=Semi-final and final draws|website=UEFA.com |publisher=Union of European Football Associations }}</ref>
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2018|5|26|df=y}}
+|time       = {{CEST|20:45|displaytz=EEST}}<!--20:45 CEST, 21:45 EEST-->
+|team1      = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score      = 3–1
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|51}}
+*[[Gareth Bale|Bale]] {{goal|64||83}}
+|goals2     =
+*[[Sadio Mané|Mané]] {{goal|55}}
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]], [[Kiev]]
+|attendance = 61,561<ref name="full_time">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021711_fr.pdf |title=Full Time Report Final – Real Madrid v Liverpool |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=26 May 2018 |access-date=26 May 2018}}</ref>
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000885/match=2021711/index.html
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadrid1718h
+ |pattern_b  = _realmadrid1718H
+ |pattern_ra = _realmadrid1718h
+ |pattern_sh = _realmadrid1718h
+ |pattern_so = _realmadrid1718h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021711_lu.pdf |title=Tactical Line-ups – Final – Saturday 26 May 2018 |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=26 May 2018 |access-date=26 May 2018}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _LFChome1718
+ |pattern_b  = _LFChome1718
+ |pattern_ra = _LFChome1718
+ |pattern_sh = _LFChome1718
+ |pattern_so = _LFChome1718
+ |leftarm    = 971524
+ |body       = 971524
+ |rightarm   = 971524
+ |shorts     = 971524
+ |socks      = 971524
+ |title      = Liverpool<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]] || || {{suboff|37}}
+|-
+|CB ||'''5''' ||{{flagicon|FRA}} [[Raphaël Varane]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]]
+|-
+|CM ||'''14'''||{{flagicon|BRA}} [[Casemiro]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]]
+|-
+|AM ||'''22'''||{{flagicon|ESP}} [[Isco]] || || {{suboff|61}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Karim Benzema]] || || {{suboff|89}}
+|-
+|CF ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]] || || {{subon|37}}
+|-
+|DF ||'''15'''||{{flagicon|FRA}} [[Theo Hernández]]
+|-
+|MF ||'''20'''||{{flagicon|ESP}} [[Marco Asensio]] || || {{subon|89}}
+|-
+|MF ||'''23'''||{{flagicon|CRO}} [[Mateo Kovačić]]
+|-
+|FW ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]] || || {{subon|61}}
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Zinedine Zidane]]
+|}
+|valign="top"|[[File:Real Madrid vs Liverpool 2018-05-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Loris Karius]]
+|-
+|RB ||'''66'''||{{flagicon|ENG}} [[Trent Alexander-Arnold]]
+|-
+|CB ||'''6''' ||{{flagicon|CRO}} [[Dejan Lovren]]
+|-
+|CB ||'''4''' ||{{flagicon|NED}} [[Virgil van Dijk]]
+|-
+|LB ||'''26'''||{{flagicon|SCO}} [[Andrew Robertson (footballer)|Andrew Robertson]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[James Milner]] || || {{suboff|83}}
+|-
+|CM ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||{{flagicon|NED}} [[Georginio Wijnaldum]]
+|-
+|RF ||'''11'''||{{flagicon|EGY}} [[Mohamed Salah]] || || {{suboff|31}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Roberto Firmino]]
+|-
+|LF ||'''19'''||{{flagicon|SEN}} [[Sadio Mané]] || {{yel|82}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|BEL}} [[Simon Mignolet]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Nathaniel Clyne]]
+|-
+|DF ||'''17'''||{{flagicon|EST}} [[Ragnar Klavan]]
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Alberto Moreno]]
+|-
+|MF ||'''20'''||{{flagicon|ENG}} [[Adam Lallana]] || || {{subon|31}}
+|-
+|MF ||'''23'''||{{flagicon|GER}} [[Emre Can]] || || {{subon|83}}
+|-
+|FW ||'''29'''||{{flagicon|ENG}} [[Dominic Solanke]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Gareth Bale]] (Real Madrid)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="officials"/>
+<br />Nenad Đokić ([[Football Association of Serbia|Serbia]])
+<br />Danilo Grujić ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Nemanja Petrović ([[Football Association of Serbia|Serbia]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/46/71/38/2467138_DOWNLOAD.pdf|title=Regulations of the UEFA Champions League 2017/18 Season|website=UEFA.com |publisher=Union of European Football Associations |date=4 April 2017}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes, of which up to three may be used.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021711_ts.pdf |title=Team statistics |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=26 May 2018 |access-date=26 May 2018}}</ref>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Real Madrid
+! scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|5
+|9
+|-
+!scope=row|Shots on target
+|0
+|1
+|-
+!scope=row|Saves
+|1
+|0
+|-
+!scope=row|Ball possession
+|65%
+|35%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|2
+|10
+|-
+!scope=row|Offsides
+|4
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Real Madrid
+! scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|3
+|1
+|-
+!scope=row|Total shots
+|7
+|3
+|-
+!scope=row|Shots on target
+|5
+|1
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|7
+|3
+|-
+!scope=row|Fouls committed
+|3
+|8
+|-
+!scope=row|Offsides
+|3
+|2
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Real Madrid
+! scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|3
+|1
+|-
+!scope=row|Total shots
+|12
+|12
+|-
+!scope=row|Shots on target
+|5
+|2
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|9
+|5
+|-
+!scope=row|Fouls committed
+|5
+|18
+|-
+!scope=row|Offsides
+|7
+|3
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Real Madrid C.F. the Winner Of The Champions League in 2018 (1).jpg|thumb|right|Captain [[Sergio Ramos]] hoisting the [[European Champion Clubs' Cup]] as Real Madrid celebrate winning the final]]
+
+Real Madrid became the first team since [[Bayern Munich]] in 1974–76 to win three consecutive UEFA Champions Leagues or European Cups.<ref name="NYT"/> The title was Madrid's 13th, another Champions League record, and their fourth in five years.<ref name="NYT"/> Real Madrid's victory was the fifth consecutive title for a Spanish side in the Champions League, becoming the longest run for the trophy to be held by teams from the same country since English sides won six consecutive titles between 1977 and 1982.<ref>{{cite news |date=22 May 2018 |title=Has one league ever dominated European football like La Liga? |url=https://www.theguardian.com/football/2018/may/22/has-one-league-ever-dominated-european-football-like-la-liga |work=The Guardian |accessdate=4 June 2018}}</ref>
+
+Manager [[Zinedine Zidane]] became the first to win three consecutive Champions League titles and matched [[Carlo Ancelotti]]'s record of Champions League era wins.<ref>{{cite news |date=26 May 2018 |title=Zidane reaches more milestones in Kyiv |url=http://www.uefa.com/uefachampionsleague/news/newsid=2558348.html |website=UEFA.com |publisher=Union of European Football Associations |accessdate=26 May 2018}}</ref> Five days after the final, Zidane announced that he would step down as manager in favour of a "different voice".<ref>{{cite news |date=31 May 2018 |title=Zinedine Zidane: Real Madrid boss stands down five days after Champions League win |url=https://www.bbc.com/sport/football/44315700 |publisher=BBC Sport |accessdate=31 May 2018}}</ref> [[Cristiano Ronaldo]] became the first player to win the Champions League five times, surpassing the record set by [[Clarence Seedorf]] in 2007 and by [[Andrés Iniesta]] in 2015.<ref>{{cite news |date=26 May 2018 |title=Ronaldo first to win five Champions League titles |url=https://www.uefa.com/uefachampionsleague/news/newsid=2475340.html |website=UEFA.com |accessdate=27 May 2018}}</ref>
+
+[[Gareth Bale]] became the first substitute to score two goals in a Champions League final and was named [[man of the match]].<ref>{{cite news |date=26 May 2018 |title=Bale named Champions League final man of the match |url=https://www.uefa.com/uefachampionsleague/news/newsid=2560089.html |website=UEFA.com |accessdate=26 May 2018}}</ref><ref>{{cite news |date=26 May 2018 |title=Real Madrid v Liverpool – Story of the match |url=http://sport.bt.com/football/real-madrid-v-liverpool-story-of-the-match-S11364274507341 |publisher=[[BT Sport]] |agency=[[Press Association]] |accessdate=26 May 2018}}</ref> His first goal received acclaim as one of the best in Champions League history and was compared to Ronaldo's bicycle kick goal against Juventus in the quarter-final and manager [[Zinedine Zidane]]'s goal in the [[2002 UEFA Champions League Final|2002 final]].<ref name="Guardian"/><ref>{{cite news |last=Winter |first=Lewis |date=26 May 2018 |title=Gareth Bale goal: Real Madrid hero makes Zidane and Ronaldo comparison on Liverpool strike |url=https://www.express.co.uk/sport/football/965557/Gareth-Bale-goal-Real-Madrid-Liverpool-Champions-League-final-BT-Sport |work=[[Daily Express]] |accessdate=26 May 2018}}</ref>
+
+[[Sergio Ramos]]'s tackle on [[Mohammed Salah]] received mixed reactions from the press and fans on whether the injury was the result of a deliberate blow or an accident.<ref>{{cite news |last=Walsh |first=Kristian |date=26 May 2018 |title=Football world split on Mohamed Salah injury - and whether Liverpool should blame Sergio Ramos |url=https://www.liverpoolecho.co.uk/sport/football/football-news/football-world-split-mohamed-salah-14711272 |work=[[Liverpool Echo]] |accessdate=26 May 2018}}</ref> Egyptian fans responded with anger on social media, including insults that became trending topics on [[Twitter]].<ref>{{cite news |last=Ellingworth |first=James |date=26 May 2018 |title=Salah's World Cup in doubt as Egyptians turn on Ramos |url=https://www.washingtonpost.com/sports/dcunited/tearful-salahs-champions-league-final-ends-with-injury/2018/05/26/01dd281c-611e-11e8-b656-236c6214ef01_story.html?noredirect=on&utm_term=.24efca1374d3 |work=[[The Washington Post]] |accessdate=26 May 2018}}</ref> A [[Change.org]] petition calling on [[UEFA]] and [[FIFA]] to punish Ramos for the challenge received 400,000 signatures within two days.<ref>{{cite news |date=28 May 2018 |title=400,000 sign petition for Sergio Ramos to be banned for Mohamed Salah injury |url=http://www.espn.com/soccer/real-madrid/story/3511807/petition-for-sergio-ramos-to-receive-ban-for-mohamed-salah-injury-hits-400,000-signatures |publisher=ESPN |accessdate=28 May 2018}}</ref> A separate incident involving Ramos and Liverpool goalkeeper [[Loris Karius]] raised questions after a video showed him allegedly elbowing Karius in the face prior to his first goalkeeping error.<ref>{{cite news |date=27 May 2018 |title=Champions League final Extra Time: Pitch invader stops Ronaldo, Should Ramos have been sent off? |url=http://www.news.com.au/sport/football/champions-league-final-extra-time-pitch-invader-stops-ronaldo-should-ramos-have-been-sent-off/news-story/cfac78e924b0b60d644bca1fbe5112a0 |work=[[News.com.au]] |publisher=[[News Corp Australia]] |accessdate=26 May 2018}}</ref><ref>{{cite news |last=Hunter |first=Graham |date=27 May 2018 |title=Real Madrid's historic Champions League title obscured by online outrage |url=http://www.espn.com/soccer/uefa-champions-league/775/blog/post/3511406/real-madrids-historic-champions-league-title-obscured-by-online-outrage |publisher=ESPN |accessdate=28 May 2018}}</ref> UEFA declined to take action against Ramos for the incident with Karius.<ref>{{cite news |date=29 May 2018 |title=Real Madrid's Sergio Ramos to face no action for Loris Karius clash - UEFA |url=http://www.espn.com/soccer/real-madrid/story/3512665/real-madrids-sergio-ramos-to-face-no-action-for-loris-karius-clash-uefa |publisher=ESPN |agency=Associated Press |accessdate=29 May 2018}}</ref> After an examination, on 4 June 2018, doctor [[Ross Zafonte]] at [[Massachusetts General Hospital]] said in a statement that Karius suffered a [[concussion]] during the match, according to the doctor, it was possible the concussion would affect the player's performance.<ref>{{cite news |date=4 June 2018 |title=Liverpool goalkeeper Loris Karius suffered concussion in Champions League final |url=http://www.espn.com/soccer/liverpool/story/3517542/liverpools-loris-karius-suffered-concussion-in-champions-league-final |publisher=ESPN |agency= |accessdate=4 June 2018}}</ref>
+
+Liverpool manager [[Jürgen Klopp]] lost his sixth of seven major finals, including Champions League and league cups.<ref name="BBC"/> After the match, Loris Karius tearfully apologised to Liverpool supporters who remained in the stands and stated that his mistakes "lost the team the final".<ref>{{cite news |date=26 May 2018 |title=Loris Karius apologises to Liverpool for Champions League horror show: 'my mistakes lost us the final' |url=https://www.independent.co.uk/sport/football/european/loris-karius-liverpool-champions-league-mistakes-real-madrid-final-mohamed-salah-sergio-ramos-a8371136.html |work=The Independent |accessdate=26 May 2018}}</ref> After the match, Karius received online [[death threats]] and hate messages directed at him and his family.<ref>{{cite news |last=Crisp |first=Wil |date=27 May 2018 |title=Police investigating death threats issued to Liverpool goalkeeper Loris Karius |url=https://www.telegraph.co.uk/news/2018/05/27/police-investigating-death-threats-issued-liverpool-goalkeeper/ |work=[[The Daily Telegraph|The Telegraph]] |accessdate=27 May 2018}}</ref>
+
+==See also==
+{{Portal|Association football|Ukraine}}
+*[[2018 UEFA Europa League Final]]
+*[[2018 UEFA Super Cup]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/index.html UEFA Champions League] (official website)
+*[http://www.uefa.com/uefachampionsleague/season=2018/final/index.html 2018 UEFA Champions League final: Kyiv], UEFA.com
+
+{{UEFA Champions League seasons}}
+{{2017–18 in European football (UEFA)}}
+{{Real Madrid C.F. matches}}
+{{Liverpool F.C. matches}}
+
+{{DEFAULTSORT:Uefa Champions League Final 2018}}
+[[Category:UEFA Champions League Finals|2018]]
+[[Category:2017–18 UEFA Champions League|Final]]
+[[Category:2017–18 in Ukrainian football|Champions League Final]]
+[[Category:Sports competitions in Kiev|2018]]
+[[Category:International club association football competitions hosted by Ukraine]]
+[[Category:Real Madrid C.F. matches]]
+[[Category:Liverpool F.C. matches]]
+[[Category:2017–18 in Spanish football|Champions League Final]]
+[[Category:2017–18 in English football|Champions League Final]]
+[[Category:2010s in Kiev]]
+[[Category:May 2018 sports events in Europe]]
