@@ -27,6 +27,12 @@ doc/
 build
 build/
 
+#################
+# exclude output folder
+o
+o/
+
+
 
 #####################
 # exclude git/gitti logs

@@ -24,7 +24,7 @@ def format_matches( matches )
   matches.each do |match|
      date = Date.parse( match['date'] )
      if date != last_date
-       buf << "\n[#{date.strftime('%a %b/%d')}]\n"
+       buf << "\n[#{date.strftime('%a %b/%-d')}]\n"    ##%-d (use - for no zero padding e.g. 1 not 01 etc.)
      end
 
      buf << "  #{match['time']}"
