@@ -9,6 +9,7 @@ require 'date'
 
 require_relative 'wikipedia/sectioner'
 require_relative 'wikipedia/boxer'
+require_relative 'wikipedia/page'
 
 
 
@@ -18,20 +19,23 @@ def format_matches( matches )
 
   last_date = nil
 
+  buf = ""
+
   matches.each do |match|
      date = Date.parse( match['date'] )
      if date != last_date
-       puts "\n[#{date.strftime('%a %b/%d')}]\n"
+       buf << "\n[#{date.strftime('%a %b/%d')}]\n"
      end
 
-     print "  #{match['time']}"
-     print "  "
-     print "%-19s" % match['team1']
-     print "  #{match['score']}  "
-     print "%-19s" % match['team2']
-     print "  @ #{match['stadium']}"
-     print "\n"
+     buf << "  #{match['time']}"
+     buf << "  "
+     buf << "%-19s" % match['team1']
+     buf << "  #{match['score']}  "
+     buf << "%-19s" % match['team2']
+     buf << "  @ #{match['stadium']}"
+     buf << "\n"
 
      last_date = date
   end
+  buf
 end

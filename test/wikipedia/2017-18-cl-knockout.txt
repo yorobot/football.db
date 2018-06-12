@@ -1,0 +1,674 @@
+The '''2017–18 UEFA Champions League knockout phase''' began on 13 February and ended on 26 May 2018 with the [[2018 UEFA Champions League Final|final]] at the [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]] in [[Kiev]], Ukraine, to decide the champions of the [[2017–18 UEFA Champions League]].<ref name="calendar">{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2435148.html|title=2017/18 Champions League match and draw calendar|publisher=UEFA.com|date=11 January 2017}}</ref> A total of 16 teams competed in the knockout phase.<ref name="regulations">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/46/71/38/2467138_DOWNLOAD.pdf|title=Regulations of the UEFA Champions League 2017/18 Season|publisher=UEFA.com|date=4 April 2017}}</ref>
+
+Times up to 24 March 2018 (round of 16) are [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]), thereafter (quarter-finals and beyond) times are [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]).
+
+==Round and draw dates==
+The schedule of the knockout phase was as follows (all draws are held at the UEFA headquarters in [[Nyon]], Switzerland).<ref name="calendar"/>
+
+{| class="wikitable" style=text-align:center
+|-
+! Round
+! Draw
+! First leg
+! Second leg
+|-
+| Round of 16 || 11 December 2017 || 13–14 & 20–21 February 2018 || 6–7 & 13–14 March 2018
+|-
+| Quarter-finals || 16 March 2018 || 3–4 April 2018 || 10–11 April 2018
+|-
+| Semi-finals || rowspan=2|13 April 2018 || 24–25 April 2018 || 1–2 May 2018
+|-
+| Final || colspan=2|26 May 2018 at [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]], [[Kiev]]
+|}
+
+==Format==
+The knockout phase involves the 16 teams which qualify as winners and runners-up of each of the eight groups in the [[2017–18 UEFA Champions League group stage|group stage]].
+
+Each tie in the [[single-elimination tournament|knockout phase]], apart from the final, is played over [[two-legged tie|two legs]], with each team playing one leg at home. The team that scores more goals on aggregate over the two legs advance to the next round. If the aggregate score is level, the [[away goals rule]] is applied, i.e. the team that scored more goals away from home over the two legs advances. If away goals are also equal, then thirty minutes of [[extra time (association football)|extra time]] is played. The away goals rule is again applied after extra time, i.e. if there are goals scored during extra time and the aggregate score is still level, the visiting team advances by virtue of more away goals scored. If no goals are scored during extra time, the tie is decided by [[penalty shoot-out (association football)|penalty shoot-out]]. In the final, which is played as a single match, if scores are level at the end of normal time, extra time is played, followed by penalty shoot-out if scores remain tied.<ref name="regulations"/>
+
+The mechanism of the draws for each round is as follows:
+*In the draw for the round of 16, the eight group winners are seeded, and the eight group runners-up are unseeded. The seeded teams are drawn against the unseeded teams, with the seeded teams hosting the second leg. Teams from the same group or the same association cannot be drawn against each other.
+*In the draws for the quarter-finals onwards, there are no seedings, and teams from the same group or the same association can be drawn against each other.
+
+==Qualified teams==
+{| class="wikitable"
+|-
+!Group
+!width=210|Winners<br />(seeded in round of 16 draw)
+!width=210|Runners-up<br />(unseeded in round of 16 draw)
+|-
+![[2017–18 UEFA Champions League group stage#Group A|A]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|bgcolor=#BBF3FF|{{flagicon|SUI}} [[FC Basel|Basel]]
+|-
+![[2017–18 UEFA Champions League group stage#Group B|B]]
+|bgcolor=#BBF3BB|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|bgcolor=#BBF3FF|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+![[2017–18 UEFA Champions League group stage#Group C|C]]
+|bgcolor=#BBF3BB|{{flagicon|ITA}} [[A.S. Roma|Roma]]
+|bgcolor=#BBF3FF|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+![[2017–18 UEFA Champions League group stage#Group D|D]]
+|bgcolor=#BBF3BB|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|bgcolor=#BBF3FF|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|-
+![[2017–18 UEFA Champions League group stage#Group E|E]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|bgcolor=#BBF3FF|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|-
+![[2017–18 UEFA Champions League group stage#Group F|F]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|bgcolor=#BBF3FF|{{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|-
+![[2017–18 UEFA Champions League group stage#Group G|G]]
+|bgcolor=#BBF3BB|{{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|bgcolor=#BBF3FF|{{flagicon|POR}} [[FC Porto|Porto]]
+|-
+![[2017–18 UEFA Champions League group stage#Group H|H]]
+|bgcolor=#BBF3BB|{{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|bgcolor=#BBF3FF|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|}
+
+==Bracket==
+<section begin=bracket />{{16TeamBracket-2legs-except final
+|team-width = 180
+|nowrap     = yes
+|RD1        = [[#Round of 16|Round of 16]]
+|RD2        = [[#Quarter-finals|Quarter-finals]]
+|RD3        = [[#Semi-finals|Semi-finals]]
+|RD4        = [[#Final|Final]] (26 May – [[Olimpiyskiy National Sports Complex|Kiev]])
+<!--Round of 16-->
+|ESP|'''[[Sevilla FC|Sevilla]]'''|0|2|2|ENG|[[Manchester United F.C.|Manchester United]]|0|1|1
+|GER|'''[[FC Bayern Munich|Bayern Munich]]'''|5|3|8|TUR|[[Beşiktaş J.K.|Beşiktaş]]|0|1|1
+|ITA|'''[[Juventus F.C.|Juventus]]'''|2|2|4|ENG|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|2|1|3
+|ESP|'''[[Real Madrid C.F.|Real Madrid]]'''|3|2|5|FRA|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|1|1|2
+|POR|[[FC Porto|Porto]]|0|0|0|ENG|'''[[Liverpool F.C.|Liverpool]]'''|5|0|5
+|SUI|[[FC Basel|Basel]]|0|2|2|ENG|'''[[Manchester City F.C.|Manchester City]]'''|4|1|5
+|ENG|[[Chelsea F.C.|Chelsea]]|1|0|1|ESP|'''[[FC Barcelona|Barcelona]]'''|1|3|4
+|UKR|[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|2|0|2|ITA|'''[[A.S. Roma|Roma]]''' {{agr}}|1|1|2
+<!--Quarter-finals-->
+|ESP|[[Sevilla FC|Sevilla]]|1|0|1|GER|'''[[FC Bayern Munich|Bayern Munich]]'''|2|0|2
+|ITA|[[Juventus F.C.|Juventus]]|0|3|3|ESP|'''[[Real Madrid C.F.|Real Madrid]]'''|3|1|4
+|ENG|'''[[Liverpool F.C.|Liverpool]]'''|3|2|5|ENG|[[Manchester City F.C.|Manchester City]]|0|1|1
+|ESP|[[FC Barcelona|Barcelona]]|4|0|4|ITA|'''[[A.S. Roma|Roma]]''' {{agr}}|1|3|4
+<!--Semi-finals-->
+|GER|[[FC Bayern Munich|Bayern Munich]]|1|2|3|ESP|'''[[Real Madrid C.F.|Real Madrid]]'''|2|2|4
+|ENG|'''[[Liverpool F.C.|Liverpool]]'''|5|2|7|ITA|[[A.S. Roma|Roma]]|2|4|6
+<!--Final-->
+|ESP|'''[[Real Madrid C.F.|Real Madrid]]'''|3|ENG|[[Liverpool F.C.|Liverpool]]|1}}<section end=bracket />
+
+==Round of 16==
+<section begin=R16 />
+The draw for the round of 16 was held on 11 December 2017, 12:00 [[Central European Time|CET]].<ref name="drawR16">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2018/draws/round=2000882/index.html|title=Round of 16 draw|publisher=UEFA.com}}</ref><section end=R16 />
+
+With five English teams in the round of 16, this was the first time five teams from one association qualified for the Champions League knockout phase.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/newsid=2524573.html|title=Knockout stage first: five English clubs through|publisher=UEFA.com|date=6 December 2017}}</ref>
+
+===Summary===
+<section begin=R16 />
+The first legs were played on 13, 14, 20 and 21 February, and the second legs were played on 6, 7, 13 and 14 March 2018.
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Juventus F.C.|Juventus]]'''|ITA|4–3|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|ENG|[[2017–18 UEFA Champions League knockout phase#Juventus v Tottenham Hotspur|2–2]]|[[2017–18 UEFA Champions League knockout phase#Tottenham Hotspur v Juventus|2–1]]}}
+{{TwoLegResult|[[FC Basel|Basel]]|SUI|2–5|'''[[Manchester City F.C.|Manchester City]]'''|ENG|[[2017–18 UEFA Champions League knockout phase#Basel v Manchester City|0–4]]|[[2017–18 UEFA Champions League knockout phase#Manchester City v Basel|2–1]]}}
+{{TwoLegResult|[[FC Porto|Porto]]|POR|0–5|'''[[Liverpool F.C.|Liverpool]]'''|ENG|[[2017–18 UEFA Champions League knockout phase#Porto v Liverpool|0–5]]|[[2017–18 UEFA Champions League knockout phase#Liverpool v Porto|0–0]]}}
+{{TwoLegResult|'''[[Sevilla FC|Sevilla]]'''|ESP|2–1|[[Manchester United F.C.|Manchester United]]|ENG|[[2017–18 UEFA Champions League knockout phase#Sevilla v Manchester United|0–0]]|[[2017–18 UEFA Champions League knockout phase#Manchester United v Sevilla|2–1]]}}
+{{TwoLegResult|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|5–2|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|FRA|[[2017–18 UEFA Champions League knockout phase#Real Madrid v Paris Saint-Germain|3–1]]|[[2017–18 UEFA Champions League knockout phase#Paris Saint-Germain v Real Madrid|2–1]]}}
+{{TwoLegResult|[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|UKR|2–2 {{agr}}|'''[[A.S. Roma|Roma]]'''|ITA|[[2017–18 UEFA Champions League knockout phase#Shakhtar Donetsk v Roma|2–1]]|[[2017–18 UEFA Champions League knockout phase#Roma v Shakhtar Donetsk|0–1]]}}
+{{TwoLegResult|[[Chelsea F.C.|Chelsea]]|ENG|1–4|'''[[FC Barcelona|Barcelona]]'''|ESP|[[2017–18 UEFA Champions League knockout phase#Chelsea v Barcelona|1–1]]|[[2017–18 UEFA Champions League knockout phase#Barcelona v Chelsea|0–3]]}}
+{{TwoLegResult|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|8–1|[[Beşiktaş J.K.|Beşiktaş]]|TUR|[[2017–18 UEFA Champions League knockout phase#Bayern Munich v Beşiktaş|5–0]]|[[2017–18 UEFA Champions League knockout phase#Beşiktaş v Bayern Munich|3–1]]}}
+|}<section end=R16 />
+
+===Matches===
+{{Football box
+|id         = Juventus v Tottenham Hotspur
+|date       = {{Start date|2018|2|13|df=y}}
+|time       = 20:45
+|team1      = [[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score      = 2–2
+|team2      = {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     =
+*[[Gonzalo Higuaín|Higuaín]] {{goal|2||9|pen.}}
+|goals2     =
+*[[Harry Kane|Kane]] {{goal|35}}
+*[[Christian Eriksen|Eriksen]] {{goal|71}}
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 41,232<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021683_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Juventus v Tottenham Hotspur |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=13 February 2018 |accessdate=13 February 2018}}</ref>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021683/index.html
+}}
+{{Football box
+|id         = Tottenham Hotspur v Juventus
+|date       = {{Start date|2018|3|7|df=y}}
+|time       = 20:45
+|team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score      = 1–2
+|team2      = {{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1     =
+*[[Son Heung-min]] {{goal|39}}
+|goals2     =
+*[[Gonzalo Higuaín|Higuaín]] {{goal|64}}
+*[[Paulo Dybala|Dybala]] {{goal|67}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 84,010<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021693_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Tottenham Hotspur v Juventus |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=7 March 2018 |accessdate=7 March 2018}}</ref>
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021693/index.html
+}}
+''Juventus won 4–3 on aggregate.''
+----
+{{Football box
+|id         = Basel v Manchester City
+|date       = {{Start date|2018|2|13|df=y}}
+|time       = 20:45
+|team1      = [[FC Basel|Basel]] {{flagicon|SUI}}
+|score      = 0–4
+|team2      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+|goals2     =
+*[[İlkay Gündoğan|Gündoğan]] {{goal|14||53}}
+*[[Bernardo Silva|B. Silva]] {{goal|18}}
+*[[Sergio Agüero|Agüero]] {{goal|23}}
+|stadium    = [[St. Jakob-Park]], [[Basel]]
+|attendance = 36,000<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021684_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Basel v Manchester City |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=13 February 2018 |accessdate=13 February 2018}}</ref>
+|referee    = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021684/index.html
+}}
+{{Football box
+|id         = Manchester City v Basel
+|date       = {{Start date|2018|3|7|df=y}}
+|time       = 20:45
+|team1      = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score      = 1–2
+|team2      = {{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1     =
+*[[Gabriel Jesus]] {{goal|8}}
+|goals2     =
+*[[Mohamed Elyounoussi|Elyounoussi]] {{goal|17}}
+*[[Michael Lang (footballer)|Lang]] {{goal|71}}
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 49,411<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021694_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Manchester City v Basel |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=7 March 2018 |accessdate=7 March 2018}}</ref>
+|referee    = [[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021694/index.html
+}}
+''Manchester City won 5–2 on aggregate.''
+----
+{{Football box
+|id         = Porto v Liverpool
+|date       = {{Start date|2018|2|14|df=y}}
+|time       = 20:45
+|team1      = [[FC Porto|Porto]] {{flagicon|POR}}
+|score      = 0–5
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+|goals2     =
+*[[Sadio Mané|Mané]] {{goal|25||53||85}}
+*[[Mohamed Salah|Salah]] {{goal|29}}
+*[[Roberto Firmino|Firmino]] {{goal|69}}
+|stadium    = [[Estádio do Dragão]], [[Porto]]
+|attendance = 47,718<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021687_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Porto v Liverpool |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=14 February 2018 |accessdate=14 February 2018}}</ref>
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021687/index.html
+}}
+{{Football box
+|id         = Liverpool v Porto
+|date       = {{Start date|2018|3|6|df=y}}
+|time       = 20:45
+|team1      = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score      = 0–0
+|team2      = {{flagicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+|goals2     =
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 48,768<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021697_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Liverpool v Porto |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=6 March 2018 |accessdate=6 March 2018}}</ref>
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021697/index.html
+}}
+''Liverpool won 5–0 on aggregate.''
+----
+{{Football box
+|id         = Sevilla v Manchester United
+|date       = {{Start date|2018|2|21|df=y}}
+|time       = 20:45
+|team1      = [[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score      = 0–0
+|team2      = {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 39,725<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021688_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Sevilla v Manchester United |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=21 February 2018 |accessdate=21 February 2018}}</ref>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021688/index.html
+}}
+{{Football box
+|id         = Manchester United v Sevilla
+|date       = {{Start date|2018|3|13|df=y}}
+|time       = 20:45
+|team1      = [[Manchester United F.C.|Manchester United]] {{flagicon|ENG}}
+|score      = 1–2
+|team2      = {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Romelu Lukaku|Lukaku]] {{goal|84}}
+|goals2     =
+*[[Wissam Ben Yedder|Ben Yedder]] {{goal|74||78}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 74,909<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021698_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Manchester United v Sevilla |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=13 March 2018 |accessdate=13 March 2018}}</ref>
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021698/index.html
+}}
+''Sevilla won 2–1 on aggregate.''
+----
+{{Football box
+|id         = Real Madrid v Paris Saint-Germain
+|date       = {{Start date|2018|2|14|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score      = 3–1
+|team2      = {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|45|pen.|83}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|86}}
+|goals2     =
+*[[Adrien Rabiot|Rabiot]] {{goal|33}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 78,158<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021689_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Real Madrid v Paris Saint-Germain |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=14 February 2018 |accessdate=14 February 2018}}</ref>
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021689/index.html
+}}
+{{Football box
+|id         = Paris Saint-Germain v Real Madrid
+|date       = {{Start date|2018|3|6|df=y}}
+|time       = 20:45
+|team1      = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score      = 1–2
+|team2      = {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1     =
+*[[Edinson Cavani|Cavani]] {{goal|71}}
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|51}}
+*[[Casemiro]] {{goal|80}}
+|stadium    = [[Parc des Princes]], [[Paris]]
+|attendance = 46,585<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021695_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Paris Saint-Germain v Real Madrid |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=6 March 2018 |accessdate=6 March 2018}}</ref>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021695/index.html
+}}
+''Real Madrid won 5–2 on aggregate.''
+----
+{{Football box
+|id         = Shakhtar Donetsk v Roma
+|date       = {{Start date|2018|2|21|df=y}}
+|time       = 20:45
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{flagicon|UKR}}
+|score      = 2–1
+|team2      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1     =
+*[[Facundo Ferreyra|Ferreyra]] {{goal|52}}
+*[[Fred (footballer, born 1993)|Fred]] {{goal|71}}
+|goals2     =
+*[[Cengiz Ünder|Ünder]] {{goal|41}}
+|stadium    = [[Metalist Oblast Sports Complex|Metalist Stadium]], [[Kharkiv]]{{refn|group=note|name=Shakhtar Donetsk|[[FC Shakhtar Donetsk|Shakhtar Donetsk]] played their home match at [[Metalist Oblast Sports Complex|Metalist Stadium]], [[Kharkiv]], instead of their regular stadium [[Donbass Arena]], [[Donetsk]], due to the [[War in Donbass|war conditions in Eastern Ukraine]].}}
+|attendance = 35,124<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021690_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Shakhtar Donetsk v Roma |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=21 February 2018 |accessdate=21 February 2018}}</ref>
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021690/index.html
+}}
+{{Football box
+|id         = Roma v Shakhtar Donetsk
+|date       = {{Start date|2018|3|13|df=y}}
+|time       = 20:45
+|team1      = [[A.S. Roma|Roma]] {{flagicon|ITA}}
+|score      = 1–0
+|team2      = {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Edin Džeko|Džeko]] {{goal|52}}
+|goals2     =
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 47,693<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021696_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Roma v Shakhtar Donetsk |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=13 March 2018 |accessdate=13 March 2018}}</ref>
+|referee    = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021696/index.html
+}}
+''2–2 on aggregate. Roma won on away goals.''
+----
+{{Football box
+|id         = Chelsea v Barcelona
+|date       = {{Start date|2018|2|20|df=y}}
+|time       = 20:45
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 1–1
+|team2      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Willian (footballer, born 1988)|Willian]] {{goal|62}}
+|goals2     =
+*[[Lionel Messi|Messi]] {{goal|75}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 37,741<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021685_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Chelsea v Barcelona |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=20 February 2018 |accessdate=20 February 2018}}</ref>
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021685/index.html
+}}
+{{Football box
+|id         = Barcelona v Chelsea
+|date       = {{Start date|2018|3|14|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score      = 3–0
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|3||63}}
+*[[Ousmane Dembélé|Dembélé]] {{goal|20}}
+|goals2     =
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 97,183<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021691_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Barcelona v Chelsea |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=14 March 2018 |accessdate=14 March 2018}}</ref>
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021691/index.html
+}}
+''Barcelona won 4–1 on aggregate.''
+----
+{{Football box
+|id         = Bayern Munich v Beşiktaş
+|date       = {{Start date|2018|2|20|df=y}}
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score      = 5–0
+|team2      = {{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1     =
+*[[Thomas Müller|Müller]] {{goal|43||66}}
+*[[Kingsley Coman|Coman]] {{goal|53}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|79||88}}
+|goals2     =
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 70,000<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021686_fr.pdf |title=Full Time Summary Round of 16 1st Leg – Bayern Munich v Beşiktaş |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=20 February 2018 |accessdate=20 February 2018}}</ref>
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021686/index.html
+}}
+{{Football box
+|id         = Beşiktaş v Bayern Munich
+|date       = {{Start date|2018|3|14|df=y}}
+|time       = 18:00
+|team1      = [[Beşiktaş J.K.|Beşiktaş]] {{flagicon|TUR}}
+|score      = 1–3
+|team2      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Vágner Love]] {{goal|59}}
+|goals2     =
+*[[Thiago Alcântara|Thiago]] {{goal|18}}
+*[[Gökhan Gönül|Gönül]] {{goal|46|o.g.}}
+*[[Sandro Wagner|Wagner]] {{goal|84}}
+|stadium    = [[Vodafone Park]], [[Istanbul]]
+|attendance = 36,885<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021692_fr.pdf |title=Full Time Summary Round of 16 2nd Leg – Beşiktaş v Bayern Munich |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=14 March 2018 |accessdate=14 March 2018}}</ref>
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021692/index.html
+}}
+''Bayern Munich won 8–1 on aggregate.''
+
+==Quarter-finals==
+<section begin=QF />
+The draw for the quarter-finals was held on 16 March 2018, 12:00 [[Central European Time|CET]].<ref name="drawQF">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2018/draws/round=2000883/index.html|title=Quarter-final draw|publisher=UEFA.com}}</ref><ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/stories/#/iv/article/2544465|title=UEFA Champions League quarter-final draw|publisher=UEFA.com}}</ref><section end=QF />
+
+===Summary===
+<section begin=QF />
+The first legs were played on 3 and 4 April, and the second legs were played on 10 and 11 April 2018.
+
+{{TwoLegStart}}
+{{TwoLegResult|[[FC Barcelona|Barcelona]]|ESP|4–4 {{agr}}|'''[[A.S. Roma|Roma]]'''|ITA|[[2017–18 UEFA Champions League knockout phase#Barcelona v Roma|4–1]]|[[2017–18 UEFA Champions League knockout phase#Roma v Barcelona|0–3]]}}
+{{TwoLegResult|[[Sevilla FC|Sevilla]]|ESP|1–2|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|[[2017–18 UEFA Champions League knockout phase#Sevilla v Bayern Munich|1–2]]|[[2017–18 UEFA Champions League knockout phase#Bayern Munich v Sevilla|0–0]]}}
+{{TwoLegResult|[[Juventus F.C.|Juventus]]|ITA|3–4|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[2017–18 UEFA Champions League knockout phase#Juventus v Real Madrid|0–3]]|[[2017–18 UEFA Champions League knockout phase#Real Madrid v Juventus|3–1]]}}
+{{TwoLegResult|'''[[Liverpool F.C.|Liverpool]]'''|ENG|5–1|[[Manchester City F.C.|Manchester City]]|ENG|[[2017–18 UEFA Champions League knockout phase#Liverpool v Manchester City|3–0]]|[[2017–18 UEFA Champions League knockout phase#Manchester City v Liverpool|2–1]]}}
+|}<section end=QF />
+
+===Matches===
+{{Football box
+|id         = Barcelona v Roma
+|date       = {{Start date|2018|4|4|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score      = 4–1
+|team2      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1     =
+*[[Daniele De Rossi|De Rossi]] {{goal|38|o.g.}}
+*[[Kostas Manolas|Manolas]] {{goal|55|o.g.}}
+*[[Gerard Piqué|Piqué]] {{goal|59}}
+*[[Luis Suárez|L. Suárez]] {{goal|87}}
+|goals2     =
+*[[Edin Džeko|Džeko]] {{goal|80}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 90,106<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021699_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Barcelona v Roma |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=4 April 2018 |accessdate=4 April 2018}}</ref>
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021699/index.html
+}}
+{{Football box
+|id         = Roma v Barcelona
+|date       = {{Start date|2018|4|10|df=y}}
+|time       = 20:45
+|team1      = [[A.S. Roma|Roma]] {{flagicon|ITA}}
+|score      = 3–0
+|team2      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Edin Džeko|Džeko]] {{goal|6}}
+*[[Daniele De Rossi|De Rossi]] {{goal|58|pen.}}
+*[[Kostas Manolas|Manolas]] {{goal|82}}
+|goals2     =
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 56,580<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021705_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Roma v Barcelona |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=10 April 2018 |accessdate=10 April 2018}}</ref>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021705/index.html
+}}
+''4–4 on aggregate. Roma won on away goals.''
+----
+{{Football box
+|id         = Sevilla v Bayern Munich
+|date       = {{Start date|2018|4|3|df=y}}
+|time       = 20:45
+|team1      = [[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score      = 1–2
+|team2      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Pablo Sarabia|Sarabia]] {{goal|31}}
+|goals2     =
+*[[Jesús Navas|Navas]] {{goal|37|o.g.}}
+*[[Thiago Alcântara|Thiago]] {{goal|68}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 40,635<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021700_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Sevilla v Bayern Munich |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=3 April 2018 |accessdate=3 April 2018}}</ref>
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021700/index.html
+}}
+{{Football box
+|id         = Bayern Munich v Sevilla
+|date       = {{Start date|2018|4|11|df=y}}
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score      = 0–0
+|team2      = {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+|goals2     =
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 70,000<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021706_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Bayern Munich v Sevilla |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=11 April 2018 |accessdate=11 April 2018}}</ref>
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021706/index.html
+}}
+''Bayern Munich won 2–1 on aggregate.''
+----
+{{Football box
+|id         = Juventus v Real Madrid
+|date       = {{Start date|2018|4|3|df=y}}
+|time       = 20:45
+|team1      = [[Juventus F.C.|Juventus]] {{flagicon|ITA}}
+|score      = 0–3
+|team2      = {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|3||64}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|72}}
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 40,849<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021701_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Juventus v Real Madrid |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=3 April 2018 |accessdate=3 April 2018}}</ref>
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021701/index.html
+}}
+{{Football box
+|id         = Real Madrid v Juventus
+|date       = {{Start date|2018|4|11|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score      = 1–3
+|team2      = {{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|90+8|pen.}}
+|goals2     =
+*[[Mario Mandžukić|Mandžukić]] {{goal|2||37}}
+*[[Blaise Matuidi|Matuidi]] {{goal|61}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 75,796<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021703_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Real Madrid v Juventus |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=11 April 2018 |accessdate=11 April 2018}}</ref>
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021703/index.html
+}}
+''Real Madrid won 4–3 on aggregate.''
+----
+{{Football box
+|id         = Liverpool v Manchester City
+|date       = {{Start date|2018|4|4|df=y}}
+|time       = 20:45
+|team1      = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score      = 3–0
+|team2      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Mohamed Salah|Salah]] {{goal|12}}
+*[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|21}}
+*[[Sadio Mané|Mané]] {{goal|31}}
+|goals2     =
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 50,685<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021702_fr.pdf |title=Full Time Summary Quarter-finals 1st Leg – Liverpool v Manchester City |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=4 April 2018 |accessdate=4 April 2018}}</ref>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021702/index.html
+}}
+{{Football box
+|id         = Manchester City v Liverpool
+|date       = {{Start date|2018|4|10|df=y}}
+|time       = 20:45
+|team1      = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score      = 1–2
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Gabriel Jesus]] {{goal|2}}
+|goals2     =
+*[[Mohamed Salah|Salah]] {{goal|56}}
+*[[Roberto Firmino|Firmino]] {{goal|77}}
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 53,461<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021704_fr.pdf |title=Full Time Summary Quarter-finals 2nd Leg – Manchester City v Liverpool |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=10 April 2018 |accessdate=10 April 2018}}</ref>
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021704/index.html
+}}
+''Liverpool won 5–1 on aggregate.''
+
+==Semi-finals==
+<section begin=SF />
+The draw for the semi-finals was held on 13 April 2018, 13:00 [[Central European Summer Time|CEST]].<ref name="drawSF">{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2018/draws/round=2000884/index.html|title=Semi-final and final draws|publisher=UEFA.com}}</ref><section end=SF />
+
+For the first time since the [[2009–10 UEFA Champions League]], all the four teams at this stage represent different national associations.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2547031.html|title=Champions League last four: which nations dominate?|publisher=UEFA.com|date=12 April 2018}}</ref>
+
+===Summary===
+<section begin=SF />
+The first legs were played on 24 and 25 April, and the second legs were played on 1 and 2 May 2018.
+
+{{TwoLegStart}}
+{{TwoLegResult|[[FC Bayern Munich|Bayern Munich]]|GER|3–4|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[2017–18 UEFA Champions League knockout phase#Bayern Munich v Real Madrid|1–2]]|[[2017–18 UEFA Champions League knockout phase#Real Madrid v Bayern Munich|2–2]]}}
+{{TwoLegResult|'''[[Liverpool F.C.|Liverpool]]'''|ENG|7–6|[[A.S. Roma|Roma]]|ITA|[[2017–18 UEFA Champions League knockout phase#Liverpool v Roma|5–2]]|[[2017–18 UEFA Champions League knockout phase#Roma v Liverpool|2–4]]}}
+|}<section end=SF />
+
+===Matches===
+{{Football box
+|id         = Bayern Munich v Real Madrid
+|date       = {{Start date|2018|4|25|df=y}}
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score      = 1–2
+|team2      = {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|goals1     =
+*[[Joshua Kimmich|Kimmich]] {{goal|28}}
+|goals2     =
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|44}}
+*[[Marco Asensio|Asensio]] {{goal|57}}
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 70,000<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021708_fr.pdf |title=Full Time Summary Semi-finals 1st Leg – Bayern Munich v Real Madrid |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=25 April 2018 |accessdate=25 April 2018}}</ref>
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000884/match=2021708/index.html
+}}
+{{Football box
+|id         = Real Madrid v Bayern Munich
+|date       = {{Start date|2018|5|1|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score      = 2–2
+|team2      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|11||46}}
+|goals2     =
+*[[Joshua Kimmich|Kimmich]] {{goal|3}}
+*[[James Rodríguez|Rodríguez]] {{goal|63}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 77,459<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021709_fr.pdf |title=Full Time Summary Semi-finals 2nd Leg – Real Madrid v Bayern Munich |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=1 May 2018 |accessdate=1 May 2018}}</ref>
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000884/match=2021709/index.html
+}}
+''Real Madrid won 4–3 on aggregate.''
+----
+{{Football box
+|id         = Liverpool v Roma
+|date       = {{Start date|2018|4|24|df=y}}
+|time       = 20:45
+|team1      = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score      = 5–2
+|team2      = {{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1     =
+*[[Mohamed Salah|Salah]] {{goal|36||45+1}}
+*[[Sadio Mané|Mané]] {{goal|56}}
+*[[Roberto Firmino|Firmino]] {{goal|61||69}}
+|goals2     =
+*[[Edin Džeko|Džeko]] {{goal|81}}
+*[[Diego Perotti|Perotti]] {{goal|85|pen.}}
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 51,236<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021707_fr.pdf |title=Full Time Summary Semi-finals 1st Leg – Liverpool v Roma |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=24 April 2018 |accessdate=24 April 2018}}</ref>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000884/match=2021707/index.html
+}}
+{{Football box
+|id         = Roma v Liverpool
+|date       = {{Start date|2018|5|2|df=y}}
+|time       = 20:45
+|team1      = [[A.S. Roma|Roma]] {{flagicon|ITA}}
+|score      = 4–2
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[James Milner|Milner]] {{goal|15|o.g.}}
+*[[Edin Džeko|Džeko]] {{goal|52}}
+*[[Radja Nainggolan|Nainggolan]] {{goal|86||90+4|pen.}}
+|goals2     =
+*[[Sadio Mané|Mané]] {{goal|9}}
+*[[Georginio Wijnaldum|Wijnaldum]] {{goal|25}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 61,889<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2018/2021710_fr.pdf |title=Full Time Summary Semi-finals 2nd Leg – Roma v Liverpool |work=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=2 May 2018 |accessdate=2 May 2018}}</ref>
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000884/match=2021710/index.html
+}}
+''Liverpool won 7–6 on aggregate.''
+
+==Final==
+<section begin=Final />
+{{main|2018 UEFA Champions League Final}}
+
+The final was played at the [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]] in [[Kiev]] on 26 May 2018. The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw.<ref name="drawSF"/>
+{{:2018 UEFA Champions League Final}}<section end=Final />
+
+==Notes==
+{{reflist|group="note"}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.uefa.com/uefachampionsleague/index.html UEFA Champions League] (official website)
+
+{{2017–18 in European football (UEFA)}}
+
+{{DEFAULTSORT:Uefa Champions League Knockout Phase 2017-18}}
+[[Category:2017–18 UEFA Champions League|*3]]
+[[Category:February 2018 sports events in Europe]]
+[[Category:March 2018 sports events in Europe]]
+[[Category:April 2018 sports events in Europe]]
+[[Category:May 2018 sports events in Europe]]
