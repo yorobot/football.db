@@ -33,6 +33,9 @@ def format_matches( matches )
      buf << "  #{match['score']}  "
      buf << "%-19s" % match['team2']
      buf << "  @ #{match['stadium']}"
+     if match['notes']
+       buf << "  [†]"      ## use dagger for notes now (use [*] - why? why not?)
+     end
      buf << "\n"
 
      if match['goals1'].length > 0 || match['goals2'].length > 0
