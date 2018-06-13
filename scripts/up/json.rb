@@ -136,6 +136,36 @@ end
 
 
 
+def gen_json_goals( game )
+  goals1 = []
+  goals2 = []
+
+  game.goals.each do |goal|
+    if goal.team_id == game.team1_id
+      goals = goals1
+    elsif goal.team_id == game.team2_id
+      goals = goals2
+    else
+      puts "*** team id NOT matching for goal; must be team1 or team2 id"
+      exit 1   ## exit - why? why not?
+    end
+
+    g = { name:   goal.person.name,
+          minute: goal.minute,
+        }
+    g[:offset]  = goal.offset     if goal.offset != 0
+    g[:score1]  = goal.score1
+    g[:score2]  = goal.score2
+    g[:penalty] = goal.penalty    if goal.penalty
+    g[:owngoal] = goal.owngoal    if goal.owngoal
+    goals << g
+  end
+  [goals1, goals2]
+end
+
+
+
+
 def gen_json_worldcup( league_key, opts={} )
 
   out_root = opts[:out_root] || './build'
@@ -283,21 +313,9 @@ def gen_json_worldcup( league_key, opts={} )
                 end
 
                 unless game.goals.empty?
-                  goals = []
-                  game.goals.each do |goal|
-                    team = SportDb::Model::Team.find( goal.team_id )   ## fix: add activerecord assoc to model!!!!
-                    g = { name:   goal.person.name,
-                          team:   { name: team.title, code: team.code },
-                          minute: goal.minute,
-                        }
-                    g[:offset]  = goal.offset     if goal.offset != 0
-                    g[:score1]  = goal.score1
-                    g[:score2]  = goal.score2
-                    g[:penalty] = goal.penalty    if goal.penalty
-                    g[:owngoal] = goal.owngoal    if goal.owngoal
-                    goals << g
-                  end
-                  m[ :goals ] = goals
+                  goals1, goals2 = gen_json_goals( game )
+                  m[ :goals1 ] = goals1
+                  m[ :goals2 ] = goals2
                 end
 
                 if game.group
@@ -440,13 +458,18 @@ def gen_json_clubs_intl( league_key, opts={} )
                       score1: game.score1,
                       score2: game.score2  }
 
-          if game.group
-            m[ :group ]  =  game.group.title
-          end
+        unless game.goals.empty?
+          goals1, goals2 = gen_json_goals( game )
+          m[ :goals1 ] = goals1
+          m[ :goals2 ] = goals2
+        end
 
-          matches << m
+        if game.group
+          m[ :group ]  =  game.group.title
+        end
+
+        matches << m
        end
-
        rounds << { name: round.title, matches: matches }
      end
 
