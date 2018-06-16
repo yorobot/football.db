@@ -22,7 +22,8 @@ end
 
 task :recalc_worldcup => :configsport do
   ## hack: auto-add GroupStanding / fix: use "generic" version for all world cups
-  ['world.2018', 'world.2014'].each do |key|
+  ## ['world.2018', 'world.2014'].each do |key|
+  ['world.2018'].each do |key|
     event = SportDb::Model::Event.find_by!( key: key )
     event.groups.each do |group|
        standing = SportDb::Model::GroupStanding.find_or_create_by!( group_id: group.id )
