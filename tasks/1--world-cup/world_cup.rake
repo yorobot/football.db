@@ -19,6 +19,13 @@ task :worldcup => [:worldcup2018,:worldcup2014] do
 end
 
 
+## all in-one-shortcut for world cup 2018 (json) update
+task :up2018 => [:clean, :create, :importworld,
+                 :configsport, :worldcup2018,
+                 :recalc_worldcup, :json_worldcup] do
+ ## todo/fix: add pull worldcup and worldcup.json repos
+end
+
 
 task :recalc_worldcup => :configsport do
   ## hack: auto-add GroupStanding / fix: use "generic" version for all world cups
