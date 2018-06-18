@@ -18,6 +18,17 @@ task :cl18 => :cl_base do
   SportDb.read_setup( 'setups/2017-18',  EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
 end
 
+task :cl17 => :cl_base do
+  SportDb.read_setup( 'setups/2016-17',  EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
+end
+
+task :cl16 => :cl_base do
+  SportDb.read_setup( 'setups/2015-16',  EUROPE_CHAMPIONS_LEAGUE_INCLUDE_PATH )
+end
+
+task :cl => [:cl18, :cl17, :cl16] do
+end
+
 
 task :json_cl => :configsport  do       ## for in-memory depends on all for now - ok??
   out_root = debug? ? './build' : JSON_REPO_PATH
