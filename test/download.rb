@@ -22,7 +22,9 @@ pages = [
  [ '2017_UEFA_Champions_League_Final', '2016-17-cl-final' ],
  [ '2018_UEFA_Champions_League_Final', '2017-18-cl-final' ],
  ## world cup (world)
- [ '2018_FIFA_World_Cup', '2018-world' ],
+ [ '2018_FIFA_World_Cup',          '2018-world' ],
+ [ '2018_FIFA_World_Cup_Group_A',  '2018-world-a' ],
+ [ '2018_FIFA_World_Cup_Group_B',  '2018-world-b' ],
 ]
 
 

@@ -1,0 +1,513 @@
+{{current sport|sport=football}}
+{{Use dmy dates|date=November 2017}}
+'''Group A of the [[2018 FIFA World Cup]]''' takes place from 14 to 25 June 2018.<ref name="match schedule">{{cite web |url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-match-schedule-2667166.pdf?cloudid=wzuz9z88012mh7hykadr |title=FIFA World Cup Russia 2018 – Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |access-date=20 December 2017}}</ref> The group consists of [[Russia national football team|Russia]], [[Saudi Arabia national football team|Saudi Arabia]], [[Egypt national football team|Egypt]], and [[Uruguay national football team|Uruguay]]. The top two teams will advance to the round of 16.<ref name="regulations">{{cite web |url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-regulations-2843519.pdf?cloudid=ejmfg94ac7hypl9zmsys |title=Regulations – 2018 FIFA World Cup Russia |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |access-date=16 November 2017}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Pot
+!rowspan=2| Confederation
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2 data-sort-type="number"| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! October 2017{{refn|group=nb|The rankings of October 2017 were used for [[2018 FIFA World Cup seeding|seeding for the final draw]].}}
+! June 2018
+|-
+| A1 || style=white-space:nowrap | {{fb|RUS}} || 1 || [[UEFA]] || data-sort-value="*" | Hosts || 2 December 2010 || 11th{{refn|group=nb|This is the 4th appearance of Russia at the FIFA World Cup. However, FIFA considers Russia as the successor team of the [[Soviet Union national football team|Soviet Union]], who qualified on 7 occasions.}} || [[2014 FIFA World Cup|2014]] (group stage) || data-sort-value="4.1" | Fourth place ([[1966 FIFA World Cup|1966]]){{refn|group=nb|Russia's best result is group stage in [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]], and [[2014 FIFA World Cup|2014]]. However, FIFA considers Russia as the successor team of the [[Soviet Union national football team|Soviet Union]].}} || 65 || 70
+|-
+| A2 || style=white-space:nowrap | {{fb|KSA}} || 4 || [[Asian Football Confederation|AFC]] || [[2018 FIFA World Cup qualification – AFC Third Round#Group B|AFC Third Round Group B]] runners-up || 5 September 2017 || 5th || [[2006 FIFA World Cup|2006]] (group stage) || data-sort-value="3.1" | Round of 16 ([[1994 FIFA World Cup|1994]]) || 63 || 67
+|-
+| A3 || style=white-space:nowrap | {{fb|EGY}} || 3 || [[Confederation of African Football|CAF]] || [[2018 FIFA World Cup qualification – CAF Third Round#Group E|CAF Third Round Group E]] winners || 8 October 2017 || 3rd || [[1990 FIFA World Cup|1990]] (group stage) || data-sort-value="2.2" | First round ([[1934 FIFA World Cup|1934]]), Group stage ([[1990 FIFA World Cup|1990]]) || 30 || 45
+|-
+| A4 || style=white-space:nowrap | {{fb|URU}} || 2 || [[CONMEBOL]] || [[2018 FIFA World Cup qualification (CONMEBOL)|CONMEBOL Round Robin]] runners-up || 10 October 2017 || 13th || [[2014 FIFA World Cup|2014]] (round of 16) || data-sort-value="8.2" | '''Winners''' ([[1930 FIFA World Cup|1930]], [[1950 FIFA World Cup|1950]]) || 17 || 14
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+{{2018 FIFA World Cup Group A table}}
+
+In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]]:
+* The winners of Group A will advance to play the runners-up of [[2018 FIFA World Cup Group B|Group B]].
+* The runners-up of Group A will advance to play the winners of [[2018 FIFA World Cup Group B|Group B]].
+
+==Matches==
+All times listed are [[Time in Russia|local time]].<ref name="match schedule"/>
+
+===Russia vs Saudi Arabia===
+The two teams had met only once, a friendly game in 1993 won by Saudi Arabia 4–2.<ref name=Kit3>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|title=2018 FIFA World Cup – Statistical Kit|publisher=FIFA.com|page=3}}</ref>
+
+In the 12th minute, [[Yury Gazinsky]] headed the first goal for Russia from a cross from the left before substitute [[Denis Cheryshev]] evaded several challenges and smashed home at the near post close to half-time. The tempo slowed and the atmosphere flattened after the restart, giving the whole thing the feel of a friendly match. But substitute [[Artem Dzyuba]] illuminated a match of often dubious quality with a precise header from a cross from the right to extend his team's lead just minutes after replacing [[Fyodor Smolov]].<ref>{{citeweb|url=https://www.theguardian.com/football/2018/jun/14/russia-saudi-arabia-world-cup-2018-match-report|title = Russia coast past Saudi Arabia and leave them all smiling in Putin’s place|date=14 June 2018|work=Guardian|accessdate=15 June 2018}}</ref> As the match moved into injury time, Cheryshev smashed home with a crisp left-foot strike into the top right corner before [[Aleksandr Golovin (footballer)|Aleksandr Golovin]] curled a free-kick around the wall and into the right of the net.<ref name="BBC 5-0">{{cite web|last1=Fletcher |first1=Paul |title=Russia 5 Saudi Arabia 0 |url=https://www.bbc.com/sport/football/44392911 |publisher=BBC Sport |date=14 June 2018}}</ref>
+
+[[Alan Dzagoev]] limped off with a hamstring injury in the 24th minute. "Alan Dzagoev damaged the muscles in the back of the thigh," Russia said in a brief statement.<ref>{{cite web|title=Blow for Russia as Dzagoev limps off with hamstring injury in World Cup opener |url=http://www.goal.com/en-in/news/blow-for-russia-as-dzagoev-limps-off-with-hamstring-injury/1rdfvov69h8171tkwfzhxbx36b |work=Goal.com |date=14 June 2018}}</ref>
+
+For the first time in World Cup history, two players – Gazinsky and Cheryshev – scored their first international goals in the opening match.<ref>{{cite web |title=Hosts Russia kick off World Cup in style |url=https://www.fifa.com/worldcup/news/hosts-russia-kick-off-world-cup-in-style |publisher=FIFA.com |date=14 June 2018}}</ref> Russia's victory means that the host nation has never lost their opening match in any of the 21 editions of the World Cup (won 16, drew six). Russia (5–0) recorded the second biggest victory by a host nation in their opening match at a World Cup, after Italy v USA in 1934 (7–1); while it is also the second largest victory of any host nation, only behind Italy vs USA at 1934 and Brazil vs Sweden at 1950, both ended 7–1. Russia's Denis Cheryshev became the first substitute to score a goal in the opening match of a World Cup tournament. In this game, Sergei Ignashevich became the oldest player to ever appear in a World Cup match for Russia/USSR (38 years & 335 days old).<ref name="BBC 5-0"/><ref>{{cite web |last1=Staunton |first1=Peter |title=Golovin genius caps dream World Cup start for 'worst Russia' ever |url=http://www.goal.com/en-ie/news/golovin-genius-caps-dream-world-cup-start-for-worst-russia/1g7ibqj81p1r718esh12hh3j4e |publisher=Goal.com |date=14 June 2018}}</ref>
+
+For Saudi Arabia, this was their second biggest defeat in World Cup, after the [[2002 FIFA World Cup Group E#Germany vs Saudi Arabia|0–8]] defeat to Germany in [[2002 FIFA World Cup|2002]].
+
+<section begin=a1 />{{Football box
+|date={{Start date|2018|6|14|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|RUS}}
+|score={{score link|2018 FIFA World Cup Group A#Russia vs Saudi Arabia|5–0}}
+|report=https://www.fifa.com/worldcup/matches/match/300331503/
+|team2={{fb|KSA}}
+|goals1=
+*[[Yury Gazinsky|Gazinsky]] {{goal|12}}
+*[[Denis Cheryshev|Cheryshev]] {{goal|43||90+1}}
+*[[Artem Dzyuba|Dzyuba]] {{goal|71}}
+*[[Aleksandr Golovin (footballer)|Golovin]] {{goal|90+4}}
+|goals2=
+|stadium=[[Luzhniki Stadium]], [[Moscow]]
+|attendance=78,011<ref>{{cite web |url=https://resources.fifa.com/image/upload/eng-01-0614-rus-ksa-fulltime-pdf-2956344.pdf?cloudid=pu4pxs0jv3ldwtjexj9f |title=Match report – Group A – Russia-Saudi Arabia |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=14 June 2018 |access-date=14 June 2018}}</ref>
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+}}<section end=a1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _russia1819h
+ |pattern_b  = _russia1819h
+ |pattern_ra = _russia1819h
+ |pattern_sh = _adidasred
+ |pattern_so = _russia1819h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Russia<ref name="RUS-KSA line-ups">{{cite web |url=https://resources.fifa.com/image/upload/eng-01-0614-rus-ksa-tacticalstartlist-pdf-2956181.pdf?cloudid=tgny9veymr5i04uqbtht |title=Tactical Line-up – Group A – Russia-Saudi Arabia |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=14 June 2018 |access-date=14 June 2018}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _sarab18a
+ |pattern_b  = _sarab18a
+ |pattern_ra = _sarab18a
+ |pattern_sh =
+ |pattern_so = _ksa18a
+ |leftarm    = 168D40
+ |body       = 168D40
+ |rightarm   = 168D40
+ |shorts     = 168D40
+ |socks      = 168D40
+ |title      = {{nowrap|Saudi Arabia}}<ref name="RUS-KSA line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Igor Akinfeev]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||[[Mário Figueira Fernandes|Mário Fernandes]]
+|-
+|CB ||'''3''' ||[[Ilya Kutepov]]
+|-
+|CB ||'''4''' ||[[Sergei Ignashevich]]
+|-
+|LB ||'''18'''||[[Yuri Zhirkov]]
+|-
+|CM ||'''8''' ||[[Yury Gazinsky]]
+|-
+|CM ||'''11'''||[[Roman Zobnin]]
+|-
+|RW ||'''19'''||[[Aleksandr Samedov]] || || {{suboff|64}}
+|-
+|AM ||'''9''' ||[[Alan Dzagoev]] || || {{suboff|24}}
+|-
+|LW ||'''17'''||[[Aleksandr Golovin (footballer)|Aleksandr Golovin]] || {{yel|88}}
+|-
+|CF ||'''10'''||[[Fyodor Smolov]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Denis Cheryshev]] || || {{subon|24}}
+|-
+|MF ||'''7''' ||[[Daler Kuzyayev]] || || {{subon|64}}
+|-
+|FW ||'''22'''||[[Artem Dzyuba]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stanislav Cherchesov]]
+|}
+|valign="top"|[[File:RUS-KSA 2018-06-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Abdullah Al-Mayouf]]
+|-
+|RB ||'''6''' ||[[Mohammed Al-Breik]]
+|-
+|CB ||'''3''' ||[[Osama Hawsawi]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Omar Hawsawi]]
+|-
+|LB ||'''13'''||[[Yasser Al-Shahrani]]
+|-
+|DM ||'''7''' ||[[Salman Al-Faraj]]
+|-
+|CM ||'''14'''||[[Abdullah Otayf]] || || {{suboff|64}}
+|-
+|CM ||'''17'''||[[Taisir Al-Jassim]] || {{yel|90+3}}
+|-
+|RW ||'''18'''||[[Salem Al-Dawsari]]
+|-
+|LW ||'''8''' ||[[Yahya Al-Shehri]] || || {{suboff|72}}
+|-
+|CF ||'''10'''||[[Mohammad Al-Sahlawi]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Fahad Al-Muwallad]] || || {{subon|64}}
+|-
+|MF ||'''9''' ||[[Hattan Bahebri]] || || {{subon|72}}
+|-
+|FW ||'''20'''||[[Muhannad Assiri]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Juan Antonio Pizzi]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Denis Cheryshev]] (Russia)<ref>{{cite web |url=https://www.fifa.com/worldcup/matches/match/300331503/#motm |title=Russia v Saudi Arabia – Man of the Match |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 June 2018 |access-date=14 June 2018}}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="RUS-KSA line-ups"/>
+<br />Hérnan Maidana ([[Argentine Football Association|Argentina]])
+<br />Juan Pablo Bellati ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Video assistant referee]]:'''
+<br />Massimiliano Irrati ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+<br />Carlos Astroza ([[Football Federation of Chile|Chile]])
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|}
+
+===Egypt vs Uruguay===
+The two teams had met only once, a friendly game in 2006 won by Uruguay 2–0.<ref name=Kit3/>
+
+Egypt frustrated Uruguay with a deep defensive line, staying compact, dealing with danger competently and threatening on the counter-attack to maintain the scoreline goalless, nearing the end of the match.<ref>{{cite news |title=Jose Gimenez grabs late winner for Uruguay to break Egyptian hearts |url=https://www.telegraph.co.uk/world-cup/2018/06/15/world-cup-2018-egypt-vs-uruguay-live-score-latest-updates/ |work=The Telegraph |date=15 June 2018}}</ref> [[Luis Suárez]] looked increasingly at a loss but remained prominent in the few opportunities that were created. When he had just the goalkeeper to beat, he dithered too long and allowed [[Mohamed El-Shenawy]] to muffle the ball at his feet. With three minutes remaining, [[Edinson Cavani]] pulled rank over his strike partner over a free kick on the edge of the area. Having earlier exerted El-Shenawy to the maximum with a fine volley, Cavani left the post shaking with what was undoubtedly the game’s best moment to that point.<ref>{{cite web |last1=Bairner |first1=Robin |title=No Salah, no party as Suarez sinks on World Cup return |url=http://www.goal.com/en/news/no-salah-no-party-as-suarez-sinks-on-world-cup-return/1y1h3oiyni4r0152nqtepn8umn |publisher=Goal.com |date=15 June 2018}}</ref> [[José Giménez]] headed powerfully into the net in the 89th minute as he met [[Carlos Andrés Sánchez|Carlos Sánchez]]'s free-kick from the right to give the South Americans a winning start in Russia.<ref name="BBC 0-1">{{cite web |last1=Emons |first1=Michael |title=Egypt 0 Uruguay 1 |url=https://www.bbc.com/sport/football/44408321 |publisher=BBC Sport |date=15 June 2018}}</ref>
+
+Uruguay won their opening match at the World Cup tournament for the first time since [[1970 FIFA World Cup|1970]], when they beat Israel [[1970 FIFA World Cup Group 2#Uruguay vs Israel|2–0]].<ref name="BBC 0-1"/><ref>{{cite web |title=Pain for returning Egypt as Uruguay earn late win |url=https://www.fifa.com/worldcup/news/pain-for-returning-egypt-as-uruguay-earn-late-win |publisher=FIFA.com |date=15 June 2018}}</ref>
+
+<section begin=a2 />{{Football box
+|date={{Start date|2018|6|15|df=y}}
+|time=17:00 [[Yekaterinburg Time|YEKT]] ([[UTC+05:00|UTC+5]])
+|team1={{fb-rt|EGY}}
+|score={{score link|2018 FIFA World Cup Group A#Egypt vs Uruguay|0–1}}
+|report=https://www.fifa.com/worldcup/matches/match/300353632/
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+*[[José Giménez|Giménez]] {{goal|89}}
+|stadium=[[Central Stadium (Yekaterinburg)|Central Stadium]], [[Yekaterinburg]]
+|attendance=27,015<ref>{{cite web |url=https://resources.fifa.com/image/upload/eng-02-0615-egy-uru-fulltime-pdf-2957042.pdf?cloudid=knobvkvm8t3j8k07wjis |title=Match report – Group A – Egypt-Uruguay |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=15 June 2018 |access-date=15 June 2018}}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}<section end=a2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _egito1819h
+ |pattern_b  = _egito1819h
+ |pattern_ra = _egito1819h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = DD0000
+ |body       = DD0000
+ |rightarm   = DD0000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Egypt<ref name="EGY-URU line-ups">{{cite web |url=https://resources.fifa.com/image/upload/eng-02-0615-egy-uru-tacticalstartlist-pdf-2956861.pdf?cloudid=lehxd98fdvc6gtmzpsqu |title=Tactical Line-up – Group A – Egypt-Uruguay |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=15 June 2018 |access-date=15 June 2018}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _uru18a
+ |pattern_b  = _uru18a
+ |pattern_ra = _uru18a
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Uruguay<ref name="EGY-URU line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Mohamed El-Shenawy]]
+|-
+|RB ||'''7''' ||[[Ahmed Fathy]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||[[Ali Gabr]]
+|-
+|CB ||'''6''' ||[[Ahmed Hegazi (footballer)|Ahmed Hegazi]] || {{yel|90+6}}
+|-
+|LB ||'''13'''||[[Mohamed Abdel-Shafy]]
+|-
+|CM ||'''8''' ||[[Tarek Hamed]] || || {{suboff|50}}
+|-
+|CM ||'''17'''||[[Mohamed Elneny]]
+|-
+|RW ||'''22'''||[[Amr Warda]] || || {{suboff|82}}
+|-
+|AM ||'''19'''||[[Abdallah Said]]
+|-
+|LW ||'''21'''||[[Trézéguet (Egyptian footballer)|Trézéguet]]
+|-
+|CF ||'''9''' ||[[Marwan Mohsen]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Sam Morsy]] || {{yel|90+4}} || {{subon|50}}
+|-
+|FW ||'''11'''||[[Kahraba (footballer)|Kahraba]] || || {{subon|63}}
+|-
+|FW ||'''14'''||[[Ramadan Sobhi]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Héctor Cúper]]
+|}
+|valign="top"|[[File:EGY-URU 2018-06-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Fernando Muslera]]
+|-
+|RB ||'''4''' ||[[Guillermo Varela]]
+|-
+|CB ||'''2''' ||[[José Giménez]]
+|-
+|CB ||'''3''' ||[[Diego Godín]] ([[Captain (association football)|c]])
+|-
+|LB ||'''22'''||[[Martín Cáceres]]
+|-
+|RM ||'''8''' ||[[Nahitan Nández]] || || {{suboff|58}}
+|-
+|CM ||'''15'''||[[Matías Vecino]] || || {{suboff|87}}
+|-
+|CM ||'''6''' ||[[Rodrigo Bentancur]]
+|-
+|LM ||'''10'''||[[Giorgian De Arrascaeta]] || || {{suboff|59}}
+|-
+|CF ||'''9''' ||[[Luis Suárez]]
+|-
+|CF ||'''21'''||[[Edinson Cavani]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[Carlos Andrés Sánchez|Carlos Sánchez]] || || {{subon|58}}
+|-
+|MF ||'''7''' ||[[Cristian Rodríguez]] || || {{subon|59}}
+|-
+|MF ||'''14'''||[[Lucas Torreira]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Óscar Tabárez]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Mohamed El-Shenawy]] (Egypt)<ref>{{cite web |url=https://www.fifa.com/worldcup/matches/match/300353632/#motm |title=Egypt v Uruguay – Man of the Match |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 June 2018 |access-date=15 June 2018}}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="EGY-URU line-ups"/>
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />Cyril Gringore ([[French Football Federation|France]])
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+|}
+
+===Russia vs Egypt===
+The two teams have never met before.<ref name=Kit>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi |title=2018 FIFA World Cup – Statistical Kit|publisher=FIFA.com}}</ref>
+
+<section begin=a3 />{{Football box
+|date={{Start date|2018|6|19|df=y}}
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|RUS}}
+|score={{score link|2018 FIFA World Cup Group A#Russia vs Egypt|Match 17}}
+|report=https://www.fifa.com/worldcup/matches/match/300331495/
+|team2={{fb|EGY}}
+|goals1=
+|goals2=
+|stadium=[[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance=
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}<section end=a3 />
+
+{| style="width:100%; font-size:90%;"
+|{{Void|
+'''Man of the Match:'''
+<br />[[NAME]] (COUNTRY)
+}}
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Eduardo Cardozo ([[Paraguayan Football Association|Paraguay]])
+<br />Juan Zorrilla ([[Paraguayan Football Association|Paraguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+<br />'''[[Video assistant referee]]:'''
+<br />
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />
+<br />
+<br />
+|}
+
+===Uruguay vs Saudi Arabia===
+The two teams have met in two games. Their most recent meeting was a friendly in 2014, ending in a 1–1 draw.<ref name=Kit4>{{cite web|url=https://resources.fifa.com/image/upload/2018-fifa-world-cup-russiatm-statistical-kit.pdf?cloudid=fjqkfby8aur1lxnvnxdi|title=2018 FIFA World Cup – Statistical Kit|publisher=FIFA.com|page=4}}</ref>
+
+<section begin=a4 />{{Football box
+|date={{Start date|2018|6|20|df=y}}
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|URU}}
+|score={{score link|2018 FIFA World Cup Group A#Uruguay vs Saudi Arabia|Match 18}}
+|report=https://www.fifa.com/worldcup/matches/match/300331530/
+|team2={{fb|KSA}}
+|goals1=
+|goals2=
+|stadium=[[Rostov Arena]], [[Rostov-on-Don]]
+|attendance=
+|referee=
+}}<section end=a4 />
+<!--
+{| style="width:100%; font-size:90%;"
+|{{Void|
+'''Man of the Match:'''
+<br />[[NAME]] (COUNTRY)
+}}
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[NAME]] ({{subst:nfa|}})
+<br />'''[[Video assistant referee]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+|}-->
+
+===Uruguay vs Russia===
+The two teams have met in one previous game, a friendly in 2012, which ended in a 1–1 draw. Playing as the [[Soviet Union national football team]], the two teams faced each other seven times, including two matches at the World Cup, one in the [[1962 FIFA World Cup]] group stage, won by the Soviet Union [[1962 FIFA World Cup Group 1#Soviet Union vs Uruguay|2–1]], and the other one at the [[1970 FIFA World Cup]] quarter-finals, won by Uruguay [[1970 FIFA World Cup knockout stage#Soviet Union vs Uruguay|1–0]].<ref name=Kit4/>
+
+<section begin=a5 />{{Football box
+|date={{Start date|2018|6|25|df=y}}
+|time=18:00 [[Samara Time|SAMT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|URU}}
+|score={{score link|2018 FIFA World Cup Group A#Uruguay vs Russia|Match 33}}
+|report=https://www.fifa.com/worldcup/matches/match/300331516/
+|team2={{fb|RUS}}
+|goals1=
+|goals2=
+|stadium=[[Cosmos Arena]], [[Samara]]
+|attendance=
+|referee=
+}}<section end=a5 />
+<!--
+{| style="width:100%; font-size:90%;"
+|{{Void|
+'''Man of the Match:'''
+<br />[[NAME]] (COUNTRY)
+}}
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[NAME]] ({{subst:nfa|}})
+<br />'''[[Video assistant referee]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+|}-->
+
+===Saudi Arabia vs Egypt===
+The two teams have met in six previous matches, the most recent one in the [[2007 Pan Arab Games]], won by Egypt [[Football at the 2007 Pan Arab Games|2–1]].<ref name=Kit3/>
+
+<section begin=a6 />{{Football box
+|date={{Start date|2018|6|25|df=y}}
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|KSA}}
+|score={{score link|2018 FIFA World Cup Group A#Saudi Arabia vs Egypt|Match 34}}
+|report=https://www.fifa.com/worldcup/matches/match/300331509/
+|team2={{fb|EGY}}
+|goals1=
+|goals2=
+|stadium=[[Volgograd Arena]], [[Volgograd]]
+|attendance=
+|referee=
+}}<section end=a6 />
+<!--
+{| style="width:100%; font-size:90%;"
+|{{Void|
+'''Man of the Match:'''
+<br />[[NAME]] (COUNTRY)
+}}
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[NAME]] ({{subst:nfa|}})
+<br />'''[[Video assistant referee]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+<br />NAME ({{subst:nfa|}})
+|}-->
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|FIFA World Cup 2018 group A|FIFA World Cup 2018 group A}}
+* [https://www.fifa.com/worldcup/groups/group=275075/index.html 2018 FIFA World Cup Group A], FIFA.com
+
+{{2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Group A}}
+[[Category:2018 FIFA World Cup]]
+[[Category:Russia at the 2018 FIFA World Cup]]
+[[Category:Saudi Arabia at the 2018 FIFA World Cup]]
+[[Category:Egypt at the 2018 FIFA World Cup]]
+[[Category:Uruguay at the 2018 FIFA World Cup]]
