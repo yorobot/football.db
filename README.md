@@ -1,9 +1,5 @@
 # football.db Scripts
 
-> Note: The recommended and easiest way to build yourself
-> your own database copies (e.g. football.db, worlcup.db, etc.) is using Datafiles.
-> See the [`openfootball/datafile`](https://github.com/openfootball/datafile) repo for details.
-
 ## Intro
 
 Build scripts for football.db, worldcup.db, bundesliga.db, etc.
