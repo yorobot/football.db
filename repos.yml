@@ -4,33 +4,31 @@ yorobot:
 - football.db      ## incl. self
 - logs
 
-
-####################
-# world.db - open mundi
-openmundi:
-- world.db
-
 #####################
 # football.db - open football
 openfootball:
+- leagues         # ok
 ## add clubs
-- clubs
-- at-austria
-- eng-england
-- de-deutschland
-- es-espana
-- it-italy
-- ru-russia
-- fr-france
-- ch-confoederatio-helvetica
+- clubs           # ok
+- austria         # ok
+- england         # ok
+- deutschland     # ok
+- espana          # ok
+- italy           # ok
+- russia          # ok
+- france          # ok
+- mexico          # ok
+- brazil          # ok
+- world           # ok
 ## add club cups
-- europe-champions-league
+- europe-champions-league # ok
 ## add (national teams) world cup
-- national-teams
-- world-cup
+- national-teams   # ok
+- world-cup        # ok
+- euro-cup         # ok
 ## add more (stadiums, etc.)
-- stadiums
-- assocs
+# - stadiums
+# - assocs
 ## add (auto-generated) json datasets
-- football.json
-- world-cup.json
+- football.json     # ok
+- world-cup.json    # ok
