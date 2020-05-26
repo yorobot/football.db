@@ -7,28 +7,28 @@ yorobot:
 #####################
 # football.db - open football
 openfootball:
-- leagues         # ok
+- leagues
 ## add clubs
-- clubs           # ok
-- austria         # ok
-- england         # ok
-- deutschland     # ok
-- espana          # ok
-- italy           # ok
-- russia          # ok
-- france          # ok
-- mexico          # ok
-- brazil          # ok
-- world           # ok
+- clubs
+- austria
+- england
+- deutschland
+- espana
+- italy
+- russia
+- france
+- mexico
+- brazil
+- world
 ## add club cups
-- europe-champions-league # ok
+- europe-champions-league
 ## add (national teams) world cup
-- national-teams   # ok
-- world-cup        # ok
-- euro-cup         # ok
+- national-teams
+- world-cup
+- euro-cup
 ## add more (stadiums, etc.)
 # - stadiums
 # - assocs
 ## add (auto-generated) json datasets
-- football.json     # ok
-- world-cup.json    # ok
+- football.json
+- world-cup.json
