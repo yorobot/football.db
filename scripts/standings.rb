@@ -3,6 +3,7 @@
 
 ## todo/fix: move to sportdb/lib/standings !!!!!!!!!!!!!!!
 module SportDb
+module Import
 class Standings
    ## rename to setup_teams - why? why not??
   def setup( teams )   ## setup empty lines for all teams
@@ -12,62 +13,49 @@ class Standings
     end
   end
 end  # class Standings
+end  # module Import
 end  # module SportDb
 
 
 
-def recalc_standings( event_key_or_keys, opts={} )
+def recalc_standings( event_key_or_keys, out_root: )
 
   ### fix/todo:
   ##    for Standings.update
   ##   - allow no past games (include teams!! records nevertheless set to 0/0/0/0 )
   #       do NOT produce empty standings table without teams!!! fix!!!
 
-  if event_key_or_keys.is_a?( Array )
-    event_keys = event_key_or_keys
-  else  ## assume it's a single key; wrap into array
-    event_keys = [event_key_or_keys]
-  end
+  event_keys = if event_key_or_keys.is_a?( Array )
+                 event_key_or_keys
+               else  ## assume it's a single key; wrap into array
+                 [event_key_or_keys]
+               end
 
-  out_root = opts[:out_root] || './build'
 
-  buf = ''
-  ## note: for now assume all events have the same seasons - last event's season will get used
-  segment = ''   ## season path segement e.g. 2014-15 etc.
+   ## note: for now assume all events have the same seasons - last event's season will get used
+   segment = ''   ## season path segement e.g. 2014-15 etc.
+   ## todo/fix: change to season_basename or such!!!!
 
-  event_keys.each do |event_key|
-    event = SportDb::Model::Event.find_by_key!( event_key )
-    segment = event.season.title.tr('/', '-')  ## change 2014/15 to 2014-15
-
-    ### if event has groups - calc group; otherwise calc standings for all games
-    groups_count = event.groups.count
-    if groups_count > 0
-      event.groups.each do |group|
-        standings = SportDb::Standings.new
-        standings.update( group.games )
-
-        buf << build_standings( standings )
-        pp buf
-      end
-    else
-      standings = SportDb::Standings.new
-      standings.setup( event.teams )   ## setup empty (standings) lines for all teams
-      standings.update( event.games )
-
-      buf << build_standings( standings )
-      pp buf
-    end
-  end
-
+  buf_standings = ''
 
   ## todo/fix:
   ##    add flag matrix or results? to make adding matrices/results tables optional
   buf_results = ""
+
   event_keys.each do |event_key|
-    buf_results << "```\n"
-    buf_results << build_results_matrices( event_key )
-    buf_results << "```\n"
-    buf_results << "\n\n"
+
+    puts "find event: #{event_key}"
+
+    event = SportDb::Model::Event.find_by!( key: event_key )
+    segment = event.season.name.tr('/', '-')  ## change 2014/15 to 2014-15
+
+    buf_standings << build_standings( event )
+
+    buf_results   << "```\n"
+    buf_results   << build_results_matrices( event )
+    buf_results   << "```\n"
+    buf_results   << "\n\n"
+
   end
 
 
@@ -75,13 +63,13 @@ def recalc_standings( event_key_or_keys, opts={} )
   puts "out_path=>>#{out_path}<<, segment=>>#{segment}<<"
 
   ## make sure parent folders exist
-  FileUtils.mkdir_p( File.dirname(out_path) ) unless Dir.exists?( File.dirname( out_path ))
+  FileUtils.mkdir_p( File.dirname(out_path) ) unless Dir.exist?( File.dirname( out_path ))
 
-  File.open( out_path, 'w' ) do |out|
+  File.open( out_path, 'w:utf-8' ) do |out|
     out.puts "\n\n"
     out.puts "### Standings\n"
     out.puts "\n"
-    out.puts buf
+    out.puts buf_standings
     out.puts "\n"
     out.puts "\n"
     out.puts "---\n"
@@ -96,10 +84,34 @@ end
 
 
 
-def build_standings( standings )
-  buf = ""
+def build_standings( event )
+   buf = ''
 
-  ## todo/fix: move ``` to out build_standings / rename to pretty_print_standings-why? why not??
+   ### if event has groups - calc group; otherwise calc standings for all games
+   groups_count = event.groups.count
+   if groups_count > 0
+     event.groups.each do |group|
+       standings = SportDb::Import::Standings.new
+       standings.update( group.matches.to_a )
+
+       buf << build_standings( standings )
+       pp buf
+     end
+   else
+     standings = SportDb::Import::Standings.new
+     ## todo/fix/add -!!!! - : standings.setup( event.teams )   ## setup empty (standings) lines for all teams
+     standings.update( event.matches.to_a )  ## note: make sure we pass-in array and NOT ActiveRecord_Associations_CollectionProxy!!!!
+
+     buf << render_standings( standings )
+     pp buf
+   end
+
+  buf
+end
+
+
+def render_standings( standings )
+  buf = ''
 
   buf << "\n"
   buf << "```\n"
@@ -144,6 +156,5 @@ def build_standings( standings )
 
   buf << "```\n"
   buf << "\n"
-  ### buf << "(Source: `#{File.basename(in_path_csv)}`)\n"
   buf << "\n"
 end

@@ -1,10 +1,4 @@
 
-###
-#   no longer use FX and FIXTURES for datakey
-
-DATA_KEY = ENV['DATA'] || ENV['DATASET'] || ENV['FX'] || ENV['FIXTURES'] || 'worldcup'
-puts "  using DATA_KEY >#{DATA_KEY}<"
-
 
 desc 'pull (auto-update) football.db from upstream sources'
 task :pull => :env do

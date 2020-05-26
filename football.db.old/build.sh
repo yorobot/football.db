@@ -5,7 +5,7 @@
 
 
 ## echo "Pull in changes from remote repos"
-## rake pull     
+## rake pull
 
 ## note:
 ##    stats are global for database, thus, for now rebuild database for every setup/repo
@@ -19,5 +19,4 @@ rake build recalc DATA=it
 
 ## rake build recalc DATA=ru    -- not working e.g. date [] missing
 
-## rake build json     ## DATA=all
 

@@ -1,5 +1,5 @@
 
-def pretty_print_results_matrix( team_idx, matrix )  # pretty print results matrix / table
+def render_results_matrix( team_idx, matrix )  # pretty print results matrix / table
 
    puts "team_idx (lookup by id):"
    pp team_idx
@@ -51,18 +51,16 @@ def pretty_print_results_matrix( team_idx, matrix )  # pretty print results matr
      buf << line
    end
    buf
-end  # method pretty_print_results_matrix
+end  # method render_results_matrix
 
 
 
-def build_results_matrices( event_key )
-  puts "  enter build_results_matrices >#{event_key}<"
+def build_results_matrices( event )
+  puts "  enter build_results_matrices >#{event.key}<:"
+  puts event.name
 
-  event = SportDb::Model::Event.find_by_key!( event_key )
-  puts event.title
-
-  puts "teams: #{event.teams.count}"
-  puts "rounds: #{event.rounds.count}"
+  puts "  teams: #{event.teams.count}"
+  puts "  rounds: #{event.rounds.count}"
 
   teams_count  = event.teams.count
   rounds_count = event.rounds.count
@@ -98,20 +96,20 @@ def build_results_matrices( event_key )
 
     rounds.each do |round|
       puts
-      puts "** #{round.title}"
-      round.games.each do |game|
-        puts "  #{game.team1.name} - #{game.team2.name}"
+      puts "** #{round.name}"
+      round.matches.each do |match|
+        puts "  #{match.team1.name} - #{match.team2.name}"
 
-        home = team_idx[game.team1.id]
-        away = team_idx[game.team2.id]
+        home = team_idx[match.team1.id]
+        away = team_idx[match.team2.id]
 
         home_idx = home[0]  ## first array entry is the zero-based index (0-n)
         away_idx = away[0]
 
-        if game.score1.nil? && game.score2.nil?
-          score = game.over? ? nil : ''     # note: if game not yet over - return empty string (NOT nil)
+        if match.score1.nil? && match.score2.nil?
+          score = match.over? ? nil : ''     # note: if match not yet over - return empty string (NOT nil)
         else
-          score = "#{game.score1}-#{game.score2}"
+          score = "#{match.score1}-#{match.score2}"
         end
 
         puts "    adding [#{home_idx}][#{away_idx}]  #{score}"
@@ -119,7 +117,7 @@ def build_results_matrices( event_key )
         ## todo/fix: issue warning if NOT nil - do NOT overwrite!!!
 
         matrix[home_idx][away_idx] = score
-      end  # each game
+      end  # each match
     end  # each round
   end  # each slice (of rounds)
 
@@ -132,7 +130,7 @@ def build_results_matrices( event_key )
       buf << "#{i+1}/#{matrices.size}:"
       buf << "\n"
     end
-    buf << pretty_print_results_matrix( team_idx, matrix )
+    buf << render_results_matrix( team_idx, matrix )
     buf << "\n"
   end
 
