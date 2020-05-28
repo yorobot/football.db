@@ -22,9 +22,12 @@ $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-formats/l
 $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-config/lib" ))
 $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-models/lib" ))
 
+$LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-linters/lib" ))
+
 
 # 3rd party libs/gems
 require 'sportdb/readers'
+require 'sportdb/linters'
 
 
 
@@ -171,6 +174,59 @@ task :build => [:clean, :create, :"read_#{DATA_KEY}"] do
 end
 
 
+################
+# lint
+
+def print_errors( errors )
+  if errors.size > 0
+    puts "#{errors.size} error(s) / warn(s):"
+    errors.each do |error|
+      puts "!! ERROR: #{error}"
+    end
+  else
+    puts "#{errors.size} errors / warns"
+  end
+end
+
+
+task :lint => :"lint_#{DATA_KEY}" do
+end
+
+task :lint_de do
+  buf, errors = SportDb::PackageLinter.lint( DE_DIR,
+                                               lang: 'de',
+                                               exclude: /archive/ )
+
+  print_errors( errors )
+
+  out_path = if debug?
+               "#{BUILD_DIR}/deutschland/conf.txt"
+             else
+               "#{DE_DIR}/.build/conf.txt"
+             end
+
+  File.open( out_path , 'w:utf-8' ) do |f|
+    f.write( buf )
+  end
+end
+
+task :lint_en do
+  buf, errors = SportDb::PackageLinter.lint( EN_DIR,
+                                               lang: 'en',
+                                               exclude: /archive/ )
+
+  print_errors( errors )
+
+  out_path = if debug?
+               "#{BUILD_DIR}/england/conf.txt"
+             else
+               "#{EN_DIR}/.build/conf.txt"
+             end
+
+  File.open( out_path , 'w:utf-8' ) do |f|
+    f.write( buf )
+  end
+end
 
 
 ################
