@@ -174,6 +174,60 @@ task :build => [:clean, :create, :"read_#{DATA_KEY}"] do
 end
 
 
+
+################
+# stats
+
+require_relative 'scripts/stats'
+
+
+task :stats => :"stats_#{DATA_KEY}" do
+end
+
+task :stats_de => :config do
+  out_path = if debug?
+    "#{BUILD_DIR}/deutschland/stats.txt"
+  else
+    "#{DE_DIR}/.build/stats.txt"
+  end
+
+  ## make sure parent folders exist
+  FileUtils.mkdir_p( File.dirname(out_path) ) unless Dir.exists?( File.dirname( out_path ))
+
+  File.open( out_path , 'w:utf-8' ) do |f|
+    f.write "# Stats\n"
+    f.write "\n"
+    f.write build_stats
+    f.write "\n\n"
+    f.write "## Logs\n"
+    f.write "\n"
+    f.write build_logs
+  end
+end
+
+task :stats_en => :config do
+  out_path = if debug?
+    "#{BUILD_DIR}/england/stats.txt"
+  else
+    "#{EN_DIR}/.build/stats.txt"
+  end
+
+  ## make sure parent folders exist
+  FileUtils.mkdir_p( File.dirname(out_path) ) unless Dir.exists?( File.dirname( out_path ))
+
+  File.open( out_path , 'w:utf-8' ) do |f|
+    f.write "# Stats\n"
+    f.write "\n"
+    f.write build_stats
+    f.write "\n\n"
+    f.write "## Logs\n"
+    f.write "\n"
+    f.write build_logs
+  end
+end
+
+
+
 ################
 # lint
 
