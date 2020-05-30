@@ -40,7 +40,40 @@ DE_DIR  = "#{OPENFOOTBALL_DIR}/deutschland"
 EN_DIR  = "#{OPENFOOTBALL_DIR}/england"
 ES_DIR  = "#{OPENFOOTBALL_DIR}/espana"
 IT_DIR  = "#{OPENFOOTBALL_DIR}/italy"
+FR_DIR  = "#{OPENFOOTBALL_DIR}/france"
 
+##
+## todo/fix:  remove lang  (rec[2]) - always use league (country) for auto-config lang - why? why not?
+DATASETS = { at: { path: AT_DIR, lang: 'de'},
+             de: { path: DE_DIR, lang: 'de'},
+             en: { path: EN_DIR, lang: 'en'},
+             es: { path: ES_DIR, lang: 'es'},
+             it: { path: IT_DIR, lang: 'it'},
+             fr: { path: FR_DIR, lang: 'fr'}}
+
+
+## event keys for standings table in README updates
+DATASETS[:de][:events] = [
+  ['de.1.2012/13'],
+  ['de.1.2013/14', 'de.2.2013/14'],
+  ['de.1.2014/15', 'de.2.2014/15'],
+  ['de.1.2015/16', 'de.2.2015/16', 'de.3.2015/16'],
+  ['de.1.2016/17', 'de.2.2016/17', 'de.3.2016/17'],
+  ['de.1.2017/18', 'de.2.2017/18', 'de.3.2017/18'],
+  ['de.1.2018/19', 'de.2.2018/19'],
+  ['de.1.2019/20', 'de.2.2019/20', 'de.3.2019/20']
+]
+
+DATASETS[:en][:events] = [
+   'eng.1.2012/13',
+   'eng.1.2013/14',
+   'eng.1.2014/15',
+   'eng.1.2015/16',
+   'eng.1.2016/17',
+   'eng.1.2017/18',
+   'eng.1.2018/19',
+   'eng.1.2019/20',
+]
 
 
 
@@ -137,33 +170,14 @@ end
 #  $ rake build  DATA=en
 #  etc.
 
-task :read_at => :config do
-  SportDb.read( AT_DIR )
+DATASETS.each do |key,h|
+  task :"read_#{key}" => :config do
+    SportDb.read( h[:path] )
+  end
 end
-
-task :read_de => :config do
-  SportDb.read( DE_DIR )
-end
-
-task :read_en => :config do
-  SportDb.read( EN_DIR )
-end
-
-task :read_es => :config do
-  SportDb.read( ES_DIR )
-end
-
-task :read_it => :config do
-  SportDb.read( IT_DIR )
-end
-
 
 ## note: :ru not working for now (fix date e.g. [])
-task :read_all => [:read_at,
-                   :read_de,
-                   :read_en,
-                   :read_es,
-                   :read_it] do
+task :read_all => DATASETS.keys.map {|key|:"read_#{key}" } do
 end
 
 
@@ -185,14 +199,13 @@ require_relative 'scripts/stats_ii'
 task :stats => :"stats_#{DATA_KEY}" do
 end
 
-[['de', DE_DIR],
- ['en', EN_DIR]].each do |rec|
-  task :"stats_#{rec[0]}" => :config do
+DATASETS.each do |key,h|
+  task :"stats_#{key}" => :config do
 
       out_root = if debug?
-                  "#{BUILD_DIR}/#{File.basename( rec[1] )}"
+                  "#{BUILD_DIR}/#{File.basename( h[:path] )}"
                  else
-                  "#{rec[1]}/.build"
+                  "#{h[:path]}/.build"
                  end
 
       ## make sure parent folders exist
@@ -224,30 +237,6 @@ end
 
 
 
-=begin
-task :stats_en => :config do
-  out_path = if debug?
-    "#{BUILD_DIR}/england/stats.txt"
-  else
-    "#{EN_DIR}/.build/stats.txt"
-  end
-
-  ## make sure parent folders exist
-  FileUtils.mkdir_p( File.dirname(out_path) ) unless Dir.exists?( File.dirname( out_path ))
-
-  File.open( out_path , 'w:utf-8' ) do |f|
-    f.write "# Stats\n"
-    f.write "\n"
-    f.write build_stats
-    f.write "\n\n"
-    f.write "## Logs\n"
-    f.write "\n"
-    f.write build_logs
-  end
-end
-=end
-
-
 ################
 # lint
 
@@ -266,39 +255,26 @@ end
 task :lint => :"lint_#{DATA_KEY}" do
 end
 
-task :lint_de do
-  buf, errors = SportDb::PackageLinter.lint( DE_DIR,
-                                               lang: 'de',
+DATASETS.each do |key,h|
+  task :"lint_#{key}"do
+    buf, errors = SportDb::PackageLinter.lint( h[:path],
+                                               lang: h[:lang],
                                                exclude: /archive/ )
 
-  print_errors( errors )
+    print_errors( errors )
 
-  out_path = if debug?
-               "#{BUILD_DIR}/deutschland/conf.txt"
-             else
-               "#{DE_DIR}/.build/conf.txt"
-             end
+    out_root = if debug?
+                 "#{BUILD_DIR}/#{File.basename( h[:path] )}"
+               else
+                 "#{h[:path]}/.build"
+               end
 
-  File.open( out_path , 'w:utf-8' ) do |f|
-    f.write( buf )
-  end
-end
+    ## make sure parent folders exist
+    FileUtils.mkdir_p( out_root ) unless Dir.exist?( out_root )
 
-task :lint_en do
-  buf, errors = SportDb::PackageLinter.lint( EN_DIR,
-                                               lang: 'en',
-                                               exclude: /archive/ )
-
-  print_errors( errors )
-
-  out_path = if debug?
-               "#{BUILD_DIR}/england/conf.txt"
-             else
-               "#{EN_DIR}/.build/conf.txt"
-             end
-
-  File.open( out_path , 'w:utf-8' ) do |f|
-    f.write( buf )
+    File.open( "#{out_root}/conf.txt" , 'w:utf-8' ) do |f|
+      f.write( buf )
+    end
   end
 end
 
@@ -314,46 +290,48 @@ require_relative 'scripts/results'
 task :recalc => :"recalc_#{DATA_KEY}" do
 end
 
+DATASETS.each do |key,h|
+  task :"recalc_#{key}" => :config do
+    out_root = if debug?
+                 "#{BUILD_DIR}/#{File.basename( h[:path] )}"
+               else
+                 "#{h[:path]}"
+               end
 
-task :recalc_de => :config do
-  out_root = if debug?
-               "#{BUILD_DIR}/deutschland"
-             else
-               DE_DIR
-             end
-
-  [['de.1.2012/13'],
-   ['de.1.2013/14', 'de.2.2013/14'],
-   ['de.1.2014/15', 'de.2.2014/15'],
-   ['de.1.2015/16', 'de.2.2015/16', 'de.3.2015/16'],
-   ['de.1.2016/17', 'de.2.2016/17', 'de.3.2016/17'],
-   ['de.1.2017/18', 'de.2.2017/18', 'de.3.2017/18'],
-   ['de.1.2018/19', 'de.2.2018/19'],
-   ['de.1.2019/20', 'de.2.2019/20', 'de.3.2019/20']].each do |event_keys|
-  recalc_standings( event_keys, out_root: out_root )
-     ## recalc_stats( out_root: out_root )
+    (h[:events]||[]).each do |event_keys|
+      recalc_standings( event_keys, out_root: out_root )
+      ## recalc_stats( out_root: out_root )
+    end
   end
 end
 
 
 
-task :recalc_en => :config do
-  out_root = if debug?
-    "#{BUILD_DIR}/england"
-  else
-    EN_DIR
-  end
+############################
+## commit and push all dataset repos!!!!
+task :push do
+  ## todo/fix:
+  ##  check if any changes (only push if changes commits - how??)
 
-  ['eng.1.2012/13',
-   'eng.1.2013/14',
-   'eng.1.2014/15',
-   'eng.1.2015/16',
-   'eng.1.2016/17',
-   'eng.1.2017/18',
-   'eng.1.2018/19',
-   'eng.1.2019/20',
-  ].each do |event_key|
-     recalc_standings( event_key, out_root: out_root )
-     ## recalc_stats( out_root: out_root )
-  end
+  puts "Dir.getwd: #{Dir.getwd}"
+  DATASETS.each do |key,h|
+    Dir.chdir( h[:path] ) do
+      ## trying to update
+      puts ''
+      puts "###########################################"
+      puts "## trying to commit and push >#{key}< in #{h[:path]}"
+      puts "Dir.getwd: #{Dir.getwd}"
+      result = system( "git status" )
+      pp result
+      result = system( "git add ." )
+      pp result
+      result = system( %Q{git commit -m "up build"} )
+      pp result
+      result = system( "git push" )
+      pp result
+      ## todo: check return code
+    end
+ end
+ puts "Dir.getwd: #{Dir.getwd}"
 end
+
