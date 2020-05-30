@@ -15,18 +15,18 @@ end
 
 def build_stats
   buf = ''
-  buf << build_summary
+  buf << build_teams_summary
   buf << "\n\n"
-  buf << build_leagues
+  buf << build_leagues_summary
   buf << "\n\n"
-  buf << build_seasons
+  buf << build_seasons_summary
   buf << "\n\n"
   buf << build_events
   buf
 end
 
 
-def build_leagues
+def build_leagues_summary
   buf = ''
   buf << "#{SportDb::Model::League.count} leagues\n"
   SportDb::Model::League.order( 'key' ).each do |league|
@@ -35,7 +35,7 @@ def build_leagues
   buf
 end
 
-def build_seasons
+def build_seasons_summary
   buf = ''
   buf << "#{SportDb::Model::Season.count} seasons\n"
   SportDb::Model::Season.order('name desc').each do |season|
@@ -46,7 +46,7 @@ end
 
 
 
-def build_summary
+def build_teams_summary
   buf = ''
   ## todo/fix: show national, clubs count etc.
   ##  group by country ??
