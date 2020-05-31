@@ -6,20 +6,15 @@
 
 ## echo "Pull in changes from remote repos"
 ## rake pull
-ruby ./setup.rb
+## ruby ./setup.rb
 
 ## note:
 ##    stats are global for database, thus, for now rebuild database for every setup/repo
 
 echo "Build database, standings, stats, etc."
-rake build lint stats recalc DATA=at
-rake build lint stats recalc DATA=de
-rake build lint stats recalc DATA=en
-rake build lint stats recalc DATA=es
-rake build lint stats recalc DATA=it
-rake build lint stats recalc DATA=fr
+rake build lint stats DATA=cl
 
-## rake build recalc DATA=ru    -- not working e.g. date [] missing
-
+rake build lint stats DATA=euro
+rake build lint stats DATA=world
 
 ## rake push_all

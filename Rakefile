@@ -35,21 +35,32 @@ OPENFOOTBALL_DIR = "../../openfootball"
 
 ################
 # club country repos
-AT_DIR  = "#{OPENFOOTBALL_DIR}/austria"
-DE_DIR  = "#{OPENFOOTBALL_DIR}/deutschland"
-EN_DIR  = "#{OPENFOOTBALL_DIR}/england"
-ES_DIR  = "#{OPENFOOTBALL_DIR}/espana"
-IT_DIR  = "#{OPENFOOTBALL_DIR}/italy"
-FR_DIR  = "#{OPENFOOTBALL_DIR}/france"
+AT_DIR    = "#{OPENFOOTBALL_DIR}/austria"
+DE_DIR    = "#{OPENFOOTBALL_DIR}/deutschland"
+EN_DIR    = "#{OPENFOOTBALL_DIR}/england"
+ES_DIR    = "#{OPENFOOTBALL_DIR}/espana"
+IT_DIR    = "#{OPENFOOTBALL_DIR}/italy"
+FR_DIR    = "#{OPENFOOTBALL_DIR}/france"
+
+CL_DIR    = "#{OPENFOOTBALL_DIR}/europe-champions-league"
+WORLD_DIR = "#{OPENFOOTBALL_DIR}/world-cup"
+EURO_DIR  = "#{OPENFOOTBALL_DIR}/euro-cup"
+
 
 ##
 ## todo/fix:  remove lang  (rec[2]) - always use league (country) for auto-config lang - why? why not?
-DATASETS = { at: { path: AT_DIR, lang: 'de'},
-             de: { path: DE_DIR, lang: 'de'},
-             en: { path: EN_DIR, lang: 'en'},
-             es: { path: ES_DIR, lang: 'es'},
-             it: { path: IT_DIR, lang: 'it'},
-             fr: { path: FR_DIR, lang: 'fr'}}
+DATASETS = { at:    { path: AT_DIR,    lang: 'de'}, ## domestic clubs
+             de:    { path: DE_DIR,    lang: 'de'},
+             en:    { path: EN_DIR,    lang: 'en'},
+             es:    { path: ES_DIR,    lang: 'es'},
+             it:    { path: IT_DIR,    lang: 'it'},
+             fr:    { path: FR_DIR,    lang: 'fr'},
+
+             cl:    { path: CL_DIR,    lang: 'en'},  ## int'l clubs
+
+             world: { path: WORLD_DIR, lang: 'en'},  ## national teams
+             euro:  { path: EURO_DIR,  lang: 'en'},
+           }
 
 
 ## event keys for standings table in README updates
@@ -74,6 +85,15 @@ DATASETS[:en][:events] = [
    'eng.1.2018/19',
    'eng.1.2019/20',
 ]
+
+## champions league mods
+##   todo/fix: move to sportdb lib - why? why not?
+DATASETS[:cl][:mods] = {
+  'Arsenal   | Arsenal FC'    => 'Arsenal, ENG',
+  'Liverpool | Liverpool FC'  => 'Liverpool, ENG',
+  'Barcelona'                 => 'Barcelona, ESP',
+  'Valencia'                  => 'Valencia, ESP'
+}
 
 
 
@@ -259,7 +279,8 @@ DATASETS.each do |key,h|
   task :"lint_#{key}"do
     buf, errors = SportDb::PackageLinter.lint( h[:path],
                                                lang: h[:lang],
-                                               exclude: /archive/ )
+                                               exclude: /archive/,
+                                               mods: h[:mods] )
 
     print_errors( errors )
 
@@ -309,12 +330,16 @@ end
 
 ############################
 ## commit and push all dataset repos!!!!
-task :push do
-  ## todo/fix:
-  ##  check if any changes (only push if changes commits - how??)
 
-  puts "Dir.getwd: #{Dir.getwd}"
-  DATASETS.each do |key,h|
+task :push => :"push_#{DATA_KEY}" do
+end
+
+DATASETS.each do |key,h|
+  task :"push_#{key}" do
+    ## todo/fix:
+    ##  check if any changes (only push if changes commits - how??)
+
+    puts "Dir.getwd: #{Dir.getwd}"
     Dir.chdir( h[:path] ) do
       ## trying to update
       puts ''
@@ -331,7 +356,9 @@ task :push do
       pp result
       ## todo: check return code
     end
- end
- puts "Dir.getwd: #{Dir.getwd}"
+    puts "Dir.getwd: #{Dir.getwd}"
+  end
 end
 
+task :push_all => DATASETS.keys.map {|key|:"push_#{key}" } do
+end
