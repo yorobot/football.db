@@ -21,6 +21,8 @@ $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-formats/l
 
 $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-config/lib" ))
 $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-models/lib" ))
+$LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-readers/lib" ))
+$LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-sync/lib" ))
 
 $LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-linters/lib" ))
 
@@ -64,6 +66,12 @@ DATASETS = { at:    { path: AT_DIR,    lang: 'de'}, ## domestic clubs
 
 
 ## event keys for standings table in README updates
+DATASETS[:at][:events] = [
+  ['at.1.2017/18', 'at.2.2017/18'],
+  ['at.1.2018/19', 'at.2.2018/19'],
+  ['at.1.2019/20', 'at.2.2019/20'],
+]
+
 DATASETS[:de][:events] = [
   ['de.1.2012/13'],
   ['de.1.2013/14', 'de.2.2013/14'],

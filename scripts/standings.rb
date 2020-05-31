@@ -51,11 +51,18 @@ def recalc_standings( event_key_or_keys, out_root: )
 
     buf_standings << build_standings( event )
 
+
+    # note: for now only add results table if "regular" league (no groups/no stages) - why? why not?
+    groups_count = event.groups.count
+    stages_count = event.stages.count
+
+    next if groups_count > 0 ||
+            stages_count > 0
+
     buf_results   << "```\n"
     buf_results   << build_results_matrices( event )
     buf_results   << "```\n"
     buf_results   << "\n\n"
-
   end
 
 
@@ -76,9 +83,11 @@ def recalc_standings( event_key_or_keys, out_root: )
     out.puts "Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points\n"
     out.puts "\n"
 
-    out.puts "### Results Tables\n"
-    out.puts "\n"
-    out.puts buf_results
+    if buf_results.size > 0
+      out.puts "### Results Tables\n"
+      out.puts "\n"
+      out.puts buf_results
+    end
   end
 end
 
@@ -89,12 +98,24 @@ def build_standings( event )
 
    ### if event has groups - calc group; otherwise calc standings for all games
    groups_count = event.groups.count
+   stages_count = event.stages.count
+
    if groups_count > 0
      event.groups.each do |group|
        standings = SportDb::Import::Standings.new
        standings.update( group.matches.to_a )
 
-       buf << build_standings( standings )
+       buf << "#### #{event.league.name}, #{group.name}\n\n"
+       buf << render_standings( standings )
+       pp buf
+     end
+   elsif stages_count > 0
+     event.stages.each do |stage|
+       standings = SportDb::Import::Standings.new
+       standings.update( stage.matches.to_a )
+
+       buf << "#### #{event.league.name}, #{stage.name}\n\n"
+       buf << render_standings( standings )
        pp buf
      end
    else
@@ -102,6 +123,7 @@ def build_standings( event )
      ## todo/fix/add -!!!! - : standings.setup( event.teams )   ## setup empty (standings) lines for all teams
      standings.update( event.matches.to_a )  ## note: make sure we pass-in array and NOT ActiveRecord_Associations_CollectionProxy!!!!
 
+     buf << "#### #{event.league.name}\n\n"   ## add season - why? why not?
      buf << render_standings( standings )
      pp buf
    end
