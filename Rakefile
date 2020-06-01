@@ -29,11 +29,20 @@ $LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-linters/lib" ))
 
 # 3rd party libs/gems
 require 'sportdb/readers'
-require 'sportdb/linters'
 
 
 
 OPENFOOTBALL_DIR = "../../openfootball"
+
+## use (switch to) "external" datasets
+SportDb::Import.config.leagues_dir = "#{OPENFOOTBALL_DIR}/leagues"
+SportDb::Import.config.clubs_dir   = "#{OPENFOOTBALL_DIR}/clubs"
+
+
+## note: MUST require linters AFTER changing leagues_dir/clubs_dir etc.
+require 'sportdb/linters'
+
+
 
 ################
 # club country repos
