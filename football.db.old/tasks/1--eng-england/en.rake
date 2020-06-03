@@ -1,23 +1,4 @@
 
-task :en => :importbuiltin do
-  SportDb.read_setup( 'setups/all', ENG_INCLUDE_PATH )
-end
-
-
-## for testing (new) 2017/18 season
-##  use:
-##   rake clean create importworld en18
-task :en18 => :importbuiltin do
-  SportDb.read_setup( 'setups/2017-18', ENG_INCLUDE_PATH )
-
-  out_root = debug? ? './build/eng-england' : ENG_INCLUDE_PATH
-
-  ['en.2017/18'].each do |event_key|
-     recalc_standings( event_key, out_root: out_root  )
-     ## recalc_stats( out_root: out_root )
-  end
-end
-
 
 
 ## create a summary (README.md) page for all clubs
@@ -63,31 +44,3 @@ task :en_events => :configsport do
   read_events( ENG_INCLUDE_PATH, fixtures )
 end
 
-task :en_stats => :configsport do
-  dump_league( 'en' )
-  dump_league( 'en.2' )
-  dump_league( 'en.3' )
-  dump_league( 'en.4' )
-end
-
-task :en_clubs => :configsport do
-  dump_teams( ['en','en.2','en.3','en.4'] )
-end
-
-
-
-
-task :recalc_en => :configsport do
-  out_root = debug? ? './build/eng-england' : ENG_INCLUDE_PATH
-
-  ['en.2012/13',
-   'en.2013/14',
-   'en.2014/15',
-   'en.2015/16',
-   'en.2016/17',
-   'en.2017/18',
-  ].each do |event_key|
-     recalc_standings( event_key, out_root: out_root )
-     ## recalc_stats( out_root: out_root )
-  end
-end

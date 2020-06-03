@@ -1,23 +1,4 @@
 
-task :de => :importbuiltin do
-  SportDb.read_setup( 'setups/all', DE_INCLUDE_PATH )
-end
-
-
-## for testing (new) 2017/18 season
-##  use:
-##   rake clean create importworld de18
-task :de18 => :importbuiltin do
-  SportDb.read_setup( 'setups/2017-18', DE_INCLUDE_PATH )
-
-  out_root = debug? ? './build/de-deutschland' : DE_INCLUDE_PATH
-
-  [['de.2017/18', 'de.2.2017/18', 'de.3.2017/18']].each do |event_key|
-     recalc_standings( event_key, out_root: out_root  )
-     ## recalc_stats( out_root: out_root )
-  end
-end
-
 
 
 ## create a summary (README.md) page for all clubs
@@ -65,28 +46,3 @@ task :de_events => :configsport do
   read_events( DE_INCLUDE_PATH, fixtures )
 end
 
-task :de_stats => :configsport do
-  dump_league( 'de' )
-  dump_league( 'de.2' )
-  dump_league( 'de.3' )
-  dump_league( 'de.cup' )
-end
-
-task :de_clubs => :configsport do
-  dump_teams( ['de', 'de.2', 'de.3', 'de.cup' ] )
-end
-
-
-task :recalc_de => :configsport do
-  out_root = debug? ? './build/de-deutschland' : DE_INCLUDE_PATH
-
-  [['de.2012/13'],
-   ['de.2013/14', 'de.2.2013/14'],
-   ['de.2014/15', 'de.2.2014/15'],
-   ['de.2015/16', 'de.2.2015/16', 'de.3.2015/16'],
-   ['de.2016/17', 'de.2.2016/17', 'de.3.2016/17'],
-   ['de.2017/18', 'de.2.2017/18', 'de.3.2017/18']].each do |event_key|
-     recalc_standings( event_key, out_root: out_root )
-     ## recalc_stats( out_root: out_root )
-  end
-end

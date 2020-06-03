@@ -76,6 +76,11 @@ DATASETS = { at:    { path: AT_DIR,    lang: 'de'}, ## domestic clubs
 
 ## event keys for standings table in README updates
 DATASETS[:at][:events] = [
+  ['at.1.2012/13'],
+  ['at.1.2013/14'],
+  ['at.1.2014/15', 'at.2.2014/15'],
+  ['at.1.2015/16', 'at.2.2015/16'],
+  ['at.1.2016/17', 'at.2.2016/17'],
   ['at.1.2017/18', 'at.2.2017/18'],
   ['at.1.2018/19', 'at.2.2018/19'],
   ['at.1.2019/20', 'at.2.2019/20'],
@@ -102,6 +107,33 @@ DATASETS[:en][:events] = [
    'eng.1.2018/19',
    'eng.1.2019/20',
 ]
+
+DATASETS[:es][:events] = [
+  'es.1.2012/13',
+  'es.1.2013/14',
+  'es.1.2014/15',
+  'es.1.2015/16',
+  'es.1.2016/17',
+  'es.1.2017/18',
+  'es.1.2018/19',
+  'es.1.2019/20',
+]
+
+DATASETS[:it][:events] = [
+  'it.1.2013/14',
+  'it.1.2014/15',
+  'it.1.2015/16',
+  'it.1.2016/17',
+  'it.1.2017/18',
+  'it.1.2018/19',
+  'it.1.2019/20',
+]
+
+DATASETS[:fr][:events] = [
+  ['fr.1.2014/15', 'fr.2.2014/15'],
+]
+
+
 
 ## champions league mods
 ##   todo/fix: move to sportdb lib - why? why not?

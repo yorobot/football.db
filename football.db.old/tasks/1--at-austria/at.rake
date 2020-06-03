@@ -1,22 +1,4 @@
 
-task :at => :importbuiltin do
-  SportDb.read_setup( 'setups/all', AT_INCLUDE_PATH )
-end
-
-## for testing (new) 2017/18 season
-##  use:
-##   rake clean create importworld at18
-task :at18 => :importbuiltin do
-  SportDb.read_setup( 'setups/2017-18', AT_INCLUDE_PATH )
-
-  out_root = debug? ? './build/at-austria' : AT_INCLUDE_PATH
-
-  [['at.2017/18', 'at.2.2017/18']].each do |event_key|
-     recalc_standings( event_key, out_root: out_root  )
-     ## recalc_stats( out_root: out_root )
-  end
-end
-
 
 ## create a summary (README.md) page for all clubs
 task :at_index do    ### rename to at_index or at_clubs_index  or something ???
@@ -55,29 +37,3 @@ task :at_events => :configsport do
   read_events( AT_INCLUDE_PATH, fixtures )
 end
 
-
-task :at_stats => :configsport do
-  dump_league( 'at' )
-  dump_league( 'at.2' )
-  dump_league( 'at.cup' )
-end
-
-task :at_clubs => :configsport do
-  dump_teams( ['at', 'at.2', 'at.cup' ] )
-end
-
-
-
-task :recalc_at => :configsport do
-  out_root = debug? ? './build/at-austria' : AT_INCLUDE_PATH
-
-  [['at.2012/13'],
-   ['at.2013/14'],
-   ['at.2014/15', 'at.2.2014/15'],
-   ['at.2015/16', 'at.2.2015/16'],
-   ['at.2016/17', 'at.2.2016/17'],
-   ['at.2017/18', 'at.2.2017/18']].each do |event_key|
-     recalc_standings( event_key, out_root: out_root  )
-     ## recalc_stats( out_root: out_root )
-  end
-end

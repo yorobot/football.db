@@ -52,6 +52,8 @@ def recalc_standings( event_key_or_keys, out_root: )
     buf_standings << build_standings( event )
 
 
+# note: skip results matrix for now
+=begin
     # note: for now only add results table if "regular" league (no groups/no stages) - why? why not?
     groups_count = event.groups.count
     stages_count = event.stages.count
@@ -63,6 +65,7 @@ def recalc_standings( event_key_or_keys, out_root: )
     buf_results   << build_results_matrices( event )
     buf_results   << "```\n"
     buf_results   << "\n\n"
+=end
   end
 
 
