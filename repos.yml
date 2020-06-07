@@ -2,14 +2,22 @@
 #  checkout skripts (auto-update machinery)
 yorobot:
 - football.db      ## incl. self
+- football.csv
 - logs
+
+###############
+#  use latest sportdb machinery (from source)
+sportdb:
+- sport.db
+- football.db
 
 #####################
 # football.db - open football
 openfootball:
+## add basics
 - leagues
-## add clubs
 - clubs
+## add clubs
 - austria
 - england
 - deutschland
@@ -32,3 +40,9 @@ openfootball:
 ## add (auto-generated) json datasets
 - football.json
 - world-cup.json
+
+
+#####################
+# football.csv
+footballcsv:
+- france

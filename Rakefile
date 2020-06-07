@@ -8,70 +8,35 @@
 #   $ rake -T        - show all tasks
 
 
-$RUBYLIBS_DEBUG = true
+require_relative 'boot'
 
+###
+# csv repos
+FOOTBALLCSV_DIR = '../../footballcsv'
 
-SPORTDB_DIR      = '../../sportdb'     # path to libs
-
-## note: use the local version of sportdb gems
-$LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-formats/lib" ))
-
-# $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/football.db/footballdb-leagues/lib" ))
-# $LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/football.db/footballdb-clubs/lib" ))
-
-$LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-config/lib" ))
-$LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-models/lib" ))
-$LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-readers/lib" ))
-$LOAD_PATH.unshift( File.expand_path( "#{SPORTDB_DIR}/sport.db/sportdb-sync/lib" ))
-
-$LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-linters/lib" ))
-
-
-# 3rd party libs/gems
-require 'sportdb/readers'
-
-
-
-OPENFOOTBALL_DIR = "../../openfootball"
-
-## use (switch to) "external" datasets
-SportDb::Import.config.leagues_dir = "#{OPENFOOTBALL_DIR}/leagues"
-SportDb::Import.config.clubs_dir   = "#{OPENFOOTBALL_DIR}/clubs"
-
-
-## note: MUST require linters AFTER changing leagues_dir/clubs_dir etc.
-require 'sportdb/linters'
-
+CSV_DATASETS = {
+  fr: { path: "#{FOOTBALLCSV_DIR}/france" },
+}
 
 
 ################
 # club country repos
-AT_DIR    = "#{OPENFOOTBALL_DIR}/austria"
-DE_DIR    = "#{OPENFOOTBALL_DIR}/deutschland"
-EN_DIR    = "#{OPENFOOTBALL_DIR}/england"
-ES_DIR    = "#{OPENFOOTBALL_DIR}/espana"
-IT_DIR    = "#{OPENFOOTBALL_DIR}/italy"
-FR_DIR    = "#{OPENFOOTBALL_DIR}/france"
-
-CL_DIR    = "#{OPENFOOTBALL_DIR}/europe-champions-league"
-WORLD_DIR = "#{OPENFOOTBALL_DIR}/world-cup"
-EURO_DIR  = "#{OPENFOOTBALL_DIR}/euro-cup"
-
 
 ##
 ## todo/fix:  remove lang  (rec[2]) - always use league (country) for auto-config lang - why? why not?
-DATASETS = { at:    { path: AT_DIR,    lang: 'de'}, ## domestic clubs
-             de:    { path: DE_DIR,    lang: 'de'},
-             en:    { path: EN_DIR,    lang: 'en'},
-             es:    { path: ES_DIR,    lang: 'es'},
-             it:    { path: IT_DIR,    lang: 'it'},
-             fr:    { path: FR_DIR,    lang: 'fr'},
+DATASETS = {
+  at:    { path: "#{OPENFOOTBALL_DIR}/austria",        lang: 'de'}, ## domestic clubs
+  de:    { path: "#{OPENFOOTBALL_DIR}/deutschland",    lang: 'de'},
+  en:    { path: "#{OPENFOOTBALL_DIR}/england",        lang: 'en'},
+  es:    { path: "#{OPENFOOTBALL_DIR}/espana",         lang: 'es'},
+  it:    { path: "#{OPENFOOTBALL_DIR}/italy",          lang: 'it'},
+  fr:    { path: "#{OPENFOOTBALL_DIR}/france",         lang: 'fr'},
 
-             cl:    { path: CL_DIR,    lang: 'en'},  ## int'l clubs
+  cl:    { path: "#{OPENFOOTBALL_DIR}/europe-champions-league",    lang: 'en'},  ## int'l clubs
 
-             world: { path: WORLD_DIR, lang: 'en'},  ## national teams
-             euro:  { path: EURO_DIR,  lang: 'en'},
-           }
+  world: { path: "#{OPENFOOTBALL_DIR}/world-cup", lang: 'en'},  ## national teams
+  euro:  { path: "#{OPENFOOTBALL_DIR}/euro-cup",  lang: 'en'},
+}
 
 
 ## event keys for standings table in README updates
@@ -176,16 +141,6 @@ DB_CONFIG = {
 # DB_CONFIG = DB_HASH[ 'default' ].symbolize_keys    ## for now just always use default section/entry
 
 
-def debug?
-  value = ENV['DEBUG']
-  if value && ['true', 't', 'yes', 'y'].include?( value.downcase )
-    true
-  else
-    false
-  end
-end
-
-
 task :default => :build
 
 
@@ -247,6 +202,12 @@ end
 
 ## note: :ru not working for now (fix date e.g. [])
 task :read_all => DATASETS.keys.map {|key|:"read_#{key}" } do
+end
+
+CSV_DATASETS.each do |key,h|
+  task :"read_#{key}_csv" => :config do
+    SportDb.read_csv( h[:path] )
+  end
 end
 
 
@@ -372,6 +333,19 @@ DATASETS.each do |key,h|
       recalc_standings( event_keys, out_root: out_root )
       ## recalc_stats( out_root: out_root )
     end
+  end
+end
+
+
+
+###
+# logs
+
+desc 'print logs (stored in db)'
+task :logs => :env do
+  puts "db logs (#{LogDb::Models::Log.count})"
+  LogDb::Models::Log.order(:id).each do |log|
+     puts "  [#{log.level}] #{log.ts}  - #{log.msg}"
   end
 end
 
