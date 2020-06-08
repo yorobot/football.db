@@ -41,7 +41,8 @@ SportDb::Import.config.clubs_dir   = "#{OPENFOOTBALL_DIR}/clubs"
 
 
 $LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-linters/lib" ))
+$LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-auto/lib" ))
 
 ## note: MUST require linters AFTER changing leagues_dir/clubs_dir etc.
 require 'sportdb/linters'
-
+require 'sportdb/auto'      # incl. auto filler for score updates

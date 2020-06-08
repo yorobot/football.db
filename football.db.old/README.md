@@ -121,7 +121,7 @@ Note:
 For an all-in-one "single" line command use the build_all shell script e.g.:
 
 ```
-$ sh ./build.sh       
+$ sh ./build.sh
 ```
 
 Note:
@@ -182,7 +182,7 @@ $ rake logs                 # save to ../logs/football.db/build.log
 Use
 
 ```
-$ rake build recalc json logs     
+$ rake build recalc json logs
 ```
 
 same as
@@ -191,7 +191,7 @@ same as
 $ rake build
 $ rake recalc
 $ rake json
-$ rake logs     
+$ rake logs
 ```
 
 
@@ -226,18 +226,3 @@ $ bundle exec json            ## and so on
 ```
 
 
-
-## License
-
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
-
-The build scripts are dedicated to the public domain.
-Use it as you please with no restrictions whatsoever.
-
-
-## Questions? Comments?
-
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
