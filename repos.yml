@@ -3,6 +3,7 @@
 yorobot:
 - football.db      ## incl. self
 - football.csv
+- tipp3
 - logs
 
 ###############
