@@ -4,12 +4,14 @@ yorobot:
 - football.db      ## incl. self
 - football.csv
 - tipp3
+- footballdata
 - logs
 
 ###############
 #  use latest sportdb machinery (from source)
 sportdb:
 - sport.db
+- sport.db.sources
 - football.db
 
 #####################
@@ -47,3 +49,5 @@ openfootball:
 # football.csv
 footballcsv:
 - france
+- cache.updates
+- mirror.footballdata
