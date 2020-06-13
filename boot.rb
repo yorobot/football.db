@@ -38,6 +38,11 @@ OPENFOOTBALL_DIR = "../../openfootball"
 SportDb::Import.config.leagues_dir = "#{OPENFOOTBALL_DIR}/leagues"
 SportDb::Import.config.clubs_dir   = "#{OPENFOOTBALL_DIR}/clubs"
 
+COUNTRIES = SportDb::Import.catalog.countries
+LEAGUES   = SportDb::Import.catalog.leagues
+## add CLUBS - why? why not?
+TEAMS     = SportDb::Import.catalog.teams
+
 
 
 $LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-linters/lib" ))
