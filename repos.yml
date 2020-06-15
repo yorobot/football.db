@@ -4,7 +4,9 @@ yorobot:
 - football.db      ## incl. self
 - football.csv
 - tipp3
-- footballdata
+- cache.footballdata
+- cache.soccerdata
+- cache.leagues
 - logs
 
 ###############
@@ -50,4 +52,6 @@ openfootball:
 footballcsv:
 - france
 - cache.updates
-- mirror.footballdata
+- cache.footballdata
+- cache.soccerdata
+- cache.leagues
