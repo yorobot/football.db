@@ -45,8 +45,8 @@ TEAMS     = SportDb::Import.catalog.teams
 
 
 
-$LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-linters/lib" ))
-$LOAD_PATH.unshift( File.expand_path( "../football.csv/sportdb-auto/lib" ))
+$LOAD_PATH.unshift( File.expand_path( "../sport.db.more/sportdb-linters/lib" ))
+$LOAD_PATH.unshift( File.expand_path( "../sport.db.more/sportdb-auto/lib" ))
 
 ## note: MUST require linters AFTER changing leagues_dir/clubs_dir etc.
 require 'sportdb/linters'
