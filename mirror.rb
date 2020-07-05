@@ -32,26 +32,35 @@ end # module Cache
 
 
 
+def mirror( dbname:   'en',
+            reponame: 'england'
+          )
 
 SportDb.connect( adapter:  'sqlite3',
-                 database: './build/en.db' )
+                 database: "./build/#{dbname}.db" )
 SportDb.tables
 
 
 SportDb::Model::Event.order( :id ).each do |event|
-  ## note: skip playoffs for now e.g. eng.playoffs.2, eng.playoffs.3 etc.
+  ## note: in eng - skip playoffs for now e.g. eng.playoffs.2, eng.playoffs.3 etc.
+  ## note: in de  - skip DFB Pokal (de.cup) and Relegation (de.rel) for now
   next if event.league.key.start_with?( 'eng.playoffs' )
+  next if event.league.key.start_with?( 'de.rel' )
+  next if event.league.key.start_with?( 'de.cup' )
 
 
   puts "write #{event.league.key} - #{event.season.key}"
 
   recs = []
   event.rounds.each do |round|
-     matchday = if round.name =~ /(?:Round|Matchday) ([0-9]+)/
+     matchday = if round.name =~ /(?:Round|Matchday|Spieltag) ([0-9]+)/
                   $1
                 else
-                 ## todo/fix: report errror!!
-                 '?'
+                 puts "!! ERROR - invalid matchday format >#{round.name}<:"
+                 pp round
+                 exit 1
+
+                 ## todo/check: just report errror (and continue) and set to '?' - why? why not?
                 end
      round.matches.each do |match|
          ## todo/fix: add support for cancelled/canceled, awarded (awd.), etc.
@@ -71,11 +80,13 @@ SportDb::Model::Event.order( :id ).each do |event|
      'FT',
      'Team 2'
   ]
+
   basename = event.league.key
-  season = SportDb::Import::Season.new( event.season.key )
-  decade = "%3d0s" % [season.start_year/10]
-  ## path = "./o/#{decade}/#{season.path}/#{basename}.csv"
-  path = "../../footballcsv/england/#{decade}/#{season.path}/#{basename}.csv"
+  season = Season.new( event.season.key )
+  season_path = season.to_path( :archive )  ## e.g. 2010s/2010-11
+
+  ## path = "./o/#{season_path}/#{basename}.csv"
+  path = "../../footballcsv/#{reponame}/#{season_path}/#{basename}.csv"
   puts "  path=>#{path}<"
 
   ## sort by date
@@ -85,5 +96,11 @@ SportDb::Model::Event.order( :id ).each do |event|
 
   Mirror::CsvMatchWriter.write( path, recs, headers: headers )
 end
+end # method mirror
+
+
+## mirror( dbname: 'en', reponame: 'england' )
+mirror( dbname: 'de', reponame: 'deutschland' )
+
 
 puts "bye"
