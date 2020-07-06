@@ -67,7 +67,7 @@ SportDb::Model::Event.order( :id ).each do |event|
 
      ## try to find / use matchday for "simple" rounds
      ##   otherwise use round name as is
-     matchday = if match.round.name =~ /(?:Round|Matchday|Spieltag|Runde) ([0-9]+)/ ||
+     matchday = if match.round.name =~ /(?:Round|Matchday|Spieltag|Runde|Jornada) ([0-9]+)/ ||
                    match.round.name =~ /([0-9]+)\. (?:Runde|Spieltag)/
                   $1
                 else
@@ -136,9 +136,10 @@ end
 end # method mirror
 
 
-mirror( dbname: 'en', reponame: 'england' )
+## mirror( dbname: 'en', reponame: 'england' )
 ## mirror( dbname: 'de', reponame: 'deutschland' )
 ## mirror( dbname: 'at', reponame: 'austria' )
+mirror( dbname: 'es', reponame: 'espana' )
 
 
 puts "bye"
