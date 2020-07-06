@@ -136,9 +136,9 @@ end
 end # method mirror
 
 
-## mirror( dbname: 'en', reponame: 'england' )
+mirror( dbname: 'en', reponame: 'england' )
 ## mirror( dbname: 'de', reponame: 'deutschland' )
-mirror( dbname: 'at', reponame: 'austria' )
+## mirror( dbname: 'at', reponame: 'austria' )
 
 
 puts "bye"
