@@ -36,6 +36,9 @@ DATASETS = {
 
   world: { path: "#{OPENFOOTBALL_DIR}/world-cup", lang: 'en'},  ## national teams
   euro:  { path: "#{OPENFOOTBALL_DIR}/euro-cup",  lang: 'en'},
+
+  ## note: use more for now for world club repo - why? why not? change worldcup !!!
+  more:  { path: "#{OPENFOOTBALL_DIR}/world" },
 }
 
 
