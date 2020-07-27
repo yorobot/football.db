@@ -22,23 +22,20 @@ CSV_DATASETS = {
 ################
 # club country repos
 
-##
-## todo/fix:  remove lang  (rec[2]) - always use league (country) for auto-config lang - why? why not?
 DATASETS = {
-  at:    { path: "#{OPENFOOTBALL_DIR}/austria",        lang: 'de'}, ## domestic clubs
-  de:    { path: "#{OPENFOOTBALL_DIR}/deutschland",    lang: 'de'},
-  en:    { path: "#{OPENFOOTBALL_DIR}/england",        lang: 'en'},
-  es:    { path: "#{OPENFOOTBALL_DIR}/espana",         lang: 'es'},
-  it:    { path: "#{OPENFOOTBALL_DIR}/italy",          lang: 'it'},
-  fr:    { path: "#{OPENFOOTBALL_DIR}/france",         lang: 'fr'},
+  at:       { path: "#{OPENFOOTBALL_DIR}/austria" }, ## domestic clubs
+  de:       { path: "#{OPENFOOTBALL_DIR}/deutschland" },
+  en:       { path: "#{OPENFOOTBALL_DIR}/england" },
+  es:       { path: "#{OPENFOOTBALL_DIR}/espana" },
+  it:       { path: "#{OPENFOOTBALL_DIR}/italy" },
+  fr:       { path: "#{OPENFOOTBALL_DIR}/france" },
 
-  cl:    { path: "#{OPENFOOTBALL_DIR}/europe-champions-league",    lang: 'en'},  ## int'l clubs
+  cl:       { path: "#{OPENFOOTBALL_DIR}/europe-champions-league" },  ## int'l clubs
 
-  world: { path: "#{OPENFOOTBALL_DIR}/world-cup", lang: 'en'},  ## national teams
-  euro:  { path: "#{OPENFOOTBALL_DIR}/euro-cup",  lang: 'en'},
+  worldcup: { path: "#{OPENFOOTBALL_DIR}/world-cup" },  ## national teams
+  euro:     { path: "#{OPENFOOTBALL_DIR}/euro-cup" },
 
-  ## note: use more for now for world club repo - why? why not? change worldcup !!!
-  more:  { path: "#{OPENFOOTBALL_DIR}/world" },
+  world:    { path: "#{OPENFOOTBALL_DIR}/world" },
 }
 
 
@@ -170,7 +167,7 @@ task :config  => :env  do
 
   ## log all warns, errors, fatals to db
   LogDb.setup
-  logger.warn "Rakefile - #{Time.now}"  # say hello; log to db (warn level min)
+  logger.warn "hello build - #{Time.now}"  # say hello; log to db (warn level min)
 
   ## use DEBUG=t or DEBUG=f
   logger.level = if debug?
@@ -290,12 +287,20 @@ end
 
 DATASETS.each do |key,h|
   task :"lint_#{key}"do
+    start_time = Time.now   ## todo: use Timer? t = Timer.start / stop / diff etc. - why? why not?
     buf, errors = SportDb::PackageLinter.lint( h[:path],
-                                               lang: h[:lang],
-                                               exclude: /archive/,
                                                mods: h[:mods] )
+## was:  SportDb::PackageLinter.lint( h[:path],
+#            lang: h[:lang],
+#            exclude: /archive/,
+#            mods: h[:mods] )
 
     print_errors( errors )
+
+    end_time = Time.now
+    diff_time = end_time - start_time
+    puts "lint_#{key}: done in #{diff_time} sec(s)"
+
 
     out_root = if debug?
                  "#{BUILD_DIR}/#{File.basename( h[:path] )}"
@@ -306,7 +311,7 @@ DATASETS.each do |key,h|
     ## make sure parent folders exist
     FileUtils.mkdir_p( out_root ) unless Dir.exist?( out_root )
 
-    File.open( "#{out_root}/conf.txt" , 'w:utf-8' ) do |f|
+    File.open( "#{out_root}/lint.txt" , 'w:utf-8' ) do |f|
       f.write( buf )
     end
   end
