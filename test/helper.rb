@@ -1,7 +1,7 @@
 require_relative '../boot'
 
 
-def setup_db( dbname='test' )
+def setup( dbname='test' )
   dbfile = "./tmp/#{dbname}.db"
   File.delete( dbfile )  if File.exist?( dbfile )
 

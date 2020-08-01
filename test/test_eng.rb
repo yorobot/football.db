@@ -18,7 +18,7 @@ end
 buf = String.new('')
 
 ## let's get started
-setup_db( 'eng' )
+setup( 'eng' )
 
 ### use a Timer helper object - why? why not?
 end_time = Time.now

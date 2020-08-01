@@ -16,7 +16,7 @@ end
 
 
 ## let's get started
-setup_db( 'au' )
+setup( 'au' )
 
 
 read_au( '2018-19/1-aleague.txt' )

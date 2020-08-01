@@ -36,8 +36,14 @@ require 'sportdb/importers'
 OPENFOOTBALL_DIR = "../../openfootball"
 
 ## use (switch to) "external" datasets
-SportDb::Import.config.leagues_dir = "#{OPENFOOTBALL_DIR}/leagues"
-SportDb::Import.config.clubs_dir   = "#{OPENFOOTBALL_DIR}/clubs"
+# SportDb::Import.config.leagues_dir = "#{OPENFOOTBALL_DIR}/leagues"
+# SportDb::Import.config.clubs_dir   = "#{OPENFOOTBALL_DIR}/clubs"
+
+## try from local datasets in zip archive
+SportDb::Import.config.leagues_dir = './tmp/leagues-master.zip'
+SportDb::Import.config.clubs_dir   = './tmp/clubs-master.zip'
+
+
 
 COUNTRIES = SportDb::Import.catalog.countries
 LEAGUES   = SportDb::Import.catalog.leagues
