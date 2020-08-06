@@ -1,5 +1,5 @@
 ##########
-#  Check Conf(igurations) in Datasets
+#  Check (Auto-)Conf(igurations) in Datasets
 #
 #  to run use:
 #    ruby ./check_conf.rb
@@ -29,39 +29,43 @@ mods = {
 }
 
 
-eng = "#{OPENFOOTBALL_DIR}/england"   ## en
-de  = "#{OPENFOOTBALL_DIR}/deutschland"   ## de
-at  = "#{OPENFOOTBALL_DIR}/austria"   ## de
-es  = "#{OPENFOOTBALL_DIR}/espana"    ## es
-fr  = "#{OPENFOOTBALL_DIR}/france"    ## fr
-it  = "#{OPENFOOTBALL_DIR}/italy"     ## it
+eng = "#{OPENFOOTBALL_DIR}/england"
+de  = "#{OPENFOOTBALL_DIR}/deutschland"
+at  = "#{OPENFOOTBALL_DIR}/austria"
+es  = "#{OPENFOOTBALL_DIR}/espana"
+fr  = "#{OPENFOOTBALL_DIR}/france"
+it  = "#{OPENFOOTBALL_DIR}/italy"
 ru  = "#{OPENFOOTBALL_DIR}/russia"
 
 br  = "#{OPENFOOTBALL_DIR}/brazil"
 mx  = "#{OPENFOOTBALL_DIR}/mexico"
 
+world = "#{OPENFOOTBALL_DIR}/world"
+
 cl  = "#{OPENFOOTBALL_DIR}/europe-champions-league"
 
-euro  = "#{OPENFOOTBALL_DIR}/euro-cup"
-world = "#{OPENFOOTBALL_DIR}/world-cup"
+euro     = "#{OPENFOOTBALL_DIR}/euro-cup"
+worldcup = "#{OPENFOOTBALL_DIR}/world-cup"
 
 
 datasets = {
-  'eng' => [eng, { lang: 'en' }],
-  'de'  => [de,  { lang: 'de' }],
-  'at'  => [at,  { lang: 'de' }],
-  'es'  => [es,  { lang: 'es' }],
-  'fr'  => [fr,  { lang: 'fr' }],
-  'it'  => [it,  { lang: 'it' }],
-  'ru'  => [ru,  { lang: 'en' }],   ## note: use english fallback / default lang for now
+  'eng' => [eng],
+  'de'  => [de],
+  'at'  => [at],
+  'es'  => [es],
+  'fr'  => [fr],
+  'it'  => [it],
+  'ru'  => [ru],   ## note: use english fallback / default lang for now
 
-  'br'  => [br,  { lang: 'pt' }],
-  'mx'  => [mx,  { lang: 'es' }],
+  'br'  => [br],
+  'mx'  => [mx],
 
-  'cl'  => [cl,  { lang: 'en', mods: mods }],
+  'world' => [world],
 
-  'euro'  => [euro,  { lang: 'en' }],
-  'world' => [world, { lang: 'en' }],
+  'cl'  => [cl, { mods: mods }],
+
+  'euro'  => [euro],
+  'worldcup' => [worldcup],
 }
 
 
@@ -82,17 +86,16 @@ if ARGV.size > 0
   dataset = datasets[ ARGV[0] ]
 
   path   = dataset[0]
-  kwargs = dataset[1]
+  kwargs = dataset[1] || {}
 
-  buf, errors = SportDb::PackageLinter.lint( path, exclude: /archive/,
-                                      **kwargs )
+  buf, errors = SportDb::PackageLinter.lint( path, **kwargs )
   puts buf
   puts
   print_errors( errors )
 
 ## save
 # out_path = "#{path}/.build/conf.txt"
-out_path = "./tmp/conf.txt"
+out_path = "./tmp/#{ARGV[0]}.conf.txt"
 File.open( out_path , 'w:utf-8' ) do |f|
  f.write( buf )
 end
@@ -102,10 +105,9 @@ errors_by_dataset = []
 
 datasets.values.each do |dataset|
   path   = dataset[0]
-  kwargs = dataset[1]
+  kwargs = dataset[1] || {}
 
-  buf, errors = SportDb::PackageLinter.lint( path, exclude: /archive/,
-                                      **kwargs )
+  buf, errors = SportDb::PackageLinter.lint( path, **kwargs )
   puts buf
 
   errors_by_dataset << [File.basename(path), errors]
