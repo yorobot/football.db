@@ -2,11 +2,10 @@
 #  checkout skripts (auto-update machinery)
 yorobot:
 - football.db      ## incl. self
+- sport.db.more
+- cache.csv
 - football.csv
 - tipp3
-- cache.footballdata
-- cache.soccerdata
-- cache.leagues
 - logs
 
 ###############
