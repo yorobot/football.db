@@ -15,6 +15,10 @@ sportdb:
 - sport.db.sources
 - football.db
 
+rubycoco:
+- monos
+- gitti
+
 #####################
 # football.db - open football
 openfootball:
@@ -27,7 +31,6 @@ openfootball:
 - deutschland
 - espana
 - italy
-- russia
 - france
 - mexico
 - brazil
